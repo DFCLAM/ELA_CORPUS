@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Relatio</title>
+                    <author ref="https://viaf.org/viaf/90635332">Iohannes de Marignollis O.F.M.<date>1290-1358</date></author>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>
+                        <ref target="www.alim.unisi.it">ALIM</ref>
+                    </publisher>
+                    <date when="2015-04-27">27/04/2015</date>
+                    <availability>
+                        <licence target="www.alim.unisi.it">© ALIM</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title ref="https://www.worldcat.org/title/itinera-et-relationes-fratrum-minorum-saeculi-xiii-et-xiv/oclc/7503970" key ="print-editor">in: Sinica Franciscana, I: Itinera et relationes fratrum Minorum saeculi XIII et XIV, a cura di A. Van Den Wyngaert, Firenze, Quaracchi, 1929, 524-560</title> 
+                        <idno type="SINICA"></idno>
+                        <idno type="CCT">http://heron-net.be/pa_cct/index.php/Detail/objects/151</idno>
+                        <idno type="URI">http://it.alim.unisi.it/dl/resource/298</idno>
+                    
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p></p>
+                </projectDesc>
+                <editorialDecl>
+                    <ab>Chiara Casali: Van den Wyngaert pubblica in Sinica i brani del "Chronicon Bohemorum" di Giovanni de' Marignolli riferiti all'Oriente. Tra parentesi tonde si trovano i riferimenti alle pagine dell'edizione integrale dell'opera. Edizione di riferimento del "Chronicon Bohemorum": J. Emler, "Kronika Marignolova", in "Fontes rerum Bohemicarum", III, Pragae 1882, pp. 492-604. [ ] indica integrazione; .... indica omissione di parte del testo del "Chronicon Bohemorum"
+                    </ab>
+                </editorialDecl>
+            </encodingDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="lat">Latin</language>
+                </langUsage>
+                <textClass>
+                    <keywords>
+                        <term type="form">Prosa</term>
+                        <term type="source">Sinica Franciscana</term>
+                        <term type="genre">Itinera et Relationes</term>
+                        <term type="place">China</term>
+                    </keywords>
+                </textClass>
+                <creation>
+                    <date when-iso="1301/1400">1355-1359</date>
+                </creation>
+            </profileDesc>
+            <revisionDesc>
+                <change when="2018-02-27" who="0000-0000-0000-0000">C. Casali: encoded in TEI for the ALIM Project</change>
+                <change when="2019-12-15" who="0000-0003-4347-011X">E. Carbé: TEI for ELA (level 1)</change>
+            </revisionDesc>
+        </teiHeader>
+  
+<text>
+<body>
+<ab>
+<pb n="524"/>
+<lb/>Incipit processus in cronicam Boemorum.  (492-3)
+<lb/> 
+<lb/>[Carolus IV Romanorum <persName key="Yesün Temür Khan">Imperator</persName> epistolam introductoriam
+<lb/>Fr. Iohanni de Marignolli scribit qua boemicorum chronicorum
+<lb/>Nova redaction ei rogatur. Cui Fr. <persName key="Iohannes">Iohannes</persName> respondet]:
+<lb/> 
+<lb/>Ut igitur serenissime imperator et semper Auguste tui conceptus 
+<lb/>propositum non ociose nec in vanum tantis insudet affectibus, 
+<lb/>sed divini cooperante Minerva spiritus, quem tue Maiestatis 
+<lb/>exposcit serenitas, effectum sorciatur, ego frater <persName key="Iohannes">Iohannes</persName>
+<lb/>dictus de Marignolis de Florencia Ordinis Minorum, Bysinianensis 
+<lb/>ecclesie episcopus, tue imperalis aule capellanus, tuis 
+<lb/>semper parere volens nutibus, ad huius operis fastigium stilum 
+<lb/>dirigere presumens, cronicarum boemicalium ystorias obscure 
+<lb/>quidem pristine conscriptas in unum magis lucide compendium 
+<lb/>iuxta mei facultatem ingenii sub trina distinccione modo, qui 
+<lb/>sequitur, duxi regulandas, ut, que prius obscura clausit umbrositas, 
+<lb/>concepti operis sentencia reddat manifesta. 
+<lb/> 
+<lb/>I. 
+<lb/>Capitulum de distinccione libri. (493-4).
+<lb/> 
+<lb/>Primus namque liber sen distinccio quasi divinum seu nature 
+<lb/>continet principatum, a primo namque Deo, creatore omnium, 
+<lb/>per Adam descendendo usque ad Noe et post diluvium usque 
+<lb/>ad turrim Babel et divisiones terrarum ystorias continebit, ideo 
+<lb/>ipsum thearcos, a theos, quod est deus, quasi divinum seu theologum 
+<lb/>decrevimus nominandum. Secundus vocabitur <hi rend="italic">monarchos</hi>; 
+<pb n="525"/>
+<lb/>continebit enim a primo Nemprot usque ad felicia tempora 
+<lb/>nostra Francorum et Gallicorum, maxime Boemorum, unde tua 
+<lb/>serenitas traxit originem, ystorias, eciam Romanorum et omnium 
+<lb/>gencium principalium monarchias. Tercius <hi rend="italic">ierarcos</hi> seu 
+<lb/>ierarticus vel ecclesiasticus merito nominatur, nam a primo 
+<lb/>sacerdote summo Melchisedech post Abel per Moysen et Aaron 
+<lb/>usque ad verissimum pontificem Christum per successiones Pontificum 
+<lb/>Romanorum et per episcopos Boemie usque ad presentem 
+<lb/>Boemorum primatem, venerabilem Arnestum, primum 
+<lb/>Pragensem Archiepiscopum, nec non sanctorum patronorum 
+<lb/>Boemie gesta et miracula nostra diligencia duximus compilanda.
+<lb/> 
+<lb/><hi rend="italic">De creatione</hi> (494-7)
+<lb/> 
+<lb/>1. <hi rend="italic">In principio ergo creavit deus celum… Plantaverat autem</hi>
+<lb/><hi rend="italic">Dominus paradisum voluptatis a principio</hi>, id est in parte orientali, 
+<lb/>qui locus dicitur Eden ultra Indiam.
+<lb/>2. Nam, ut ex visis aliqua breviter inseramus, nos frater 
+<lb/><persName key="Iohannes">Iohannes</persName> de Florentia ordinis Minorum, indignus Episcopus 
+<lb/>Bisynianensis, anno Domini millesimo trecentesimo tricesimo 
+<lb/>octavo, a sancto papa Benedicto duodecimo cum aliis missus 
+<pb n="526"/>
+<lb/>fui cum apostolicis litteris et donis nunccius et Legatus ad 
+<lb/>Kaam, summum omnium <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Thartarorum</placeName> imperatorem, qui tenet 
+<lb/>quasi dominium medietatis orbis orientalis, cuius potestas et copia 
+<lb/>civitatum, terrarum, linguarum, diviciarum et regiminis infinitorum 
+<lb/>quodammodo populorum excedit omnem narracionem.
+<lb/>3. Recessimus de Avinione mense decembris, pervenimus 
+<lb/>Neapolim in principio quadragesime et ibi usque ad pascha 
+<lb/>quod fuit in fine marcii, expectavimus navigium <placeName key="Genua" ref="https://pleiades.stoa.org/places/383664/">Ianuensium</placeName> 
+<lb/>venturum cum nuntiis <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Thartarorum</placeName>, quos misit Kaam de <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName>, 
+<lb/>maxima civitate, ad Papam pro mittendis legatis et ad 
+<lb/>aperiendam viam et fedus componendum cum christianis, eo 
+<lb/>quod multum honorat et diligit fidem nostram. Summi etiam 
+<lb/>principes sui imperii totius plus quam triginta milia, qui vocantur 
+<lb/>Alani et totum gubernant imperium orientis, sunt christiani, re 
+<lb/>vel nomine, et dicunt se sclavos Pape, parati mori pro Franquis; 
+<lb/>sic enim vocant nos, non a Francia sed a Franquia. Horum 
+<lb/>primus apostolus fuit frater <persName key="Iohannes">Iohannes</persName> dictus de Monte Corvino, 
+<lb/>qui primo miles, iudex et doctor Friderici Imperatoris, post 72 
+<lb/>annos factus frater Minor doctissimus et scientissimus.
+<lb/>4. Pervenimus autem in <placeName key="Constantinopolis" ref="http://pleiades.stoa.org/places/520998">Constantinopolim</placeName> per mare in kalendis 
+<lb/>maii et fuimus in Peyra usque ad festum sancti Iohannis Baptiste
+<pb n="527"/>
+<lb/>non ociose, quia summam disputacionem habuimus cum 
+<lb/>Patriarcha Grecorum et toto concilio eorum in pallacio 
+<lb/>sancte Sophie, ubi Deus fecit in nobis novum miraculum, dans nobis 
+<lb/>os et sapienciam cui non potuerunt resistere, et se necessario 
+<lb/>esse scismaticos confiteri conpulsi sunt, nichil in sue dampnacionis 
+<lb/>pallium pretendentes nisi superbiam intolerabilem presulum 
+<lb/>Romanorum.
+<lb/>5. Inde navigavimus mare Maurum et in octo diebus pervenimus 
+<lb/>in Caffa, ubi multarum sectarum sunt christiani. Inde 
+<lb/>ad primum <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Thartarorum</placeName> Imperatorem Usbec pervenimus et 
+<lb/>obtulimus litteras, pannos, dextrarium, cytiacam et dona Pape, 
+<lb/>et post hiemem bene pasti, vestiti et remunerati magnifice et 
+<lb/>cum eius equis et expensis pervenimus in Armalec imperii medii, 
+<lb/>ubi fecimus ecclesiam, emimus aream, fecimus fontes, cantavimus 
+<lb/>missas et baptisavimus plures, libere et publice predicantes, non 
+<lb/>obstante quod anno precedenti solempne martyrium passi sunt 
+<lb/>ibidem pro Christo Episcopus et sex alii fratres Minores, miraculis 
+<lb/>coruscantes, quorum nomina: frater Rychardus Episcopus, 
+<lb/>natione Burgundus; frater <persName key="Franciscus de Alexandria O.F.M.">Franciscus de Alexandria</persName>; frater 
+<lb/><persName key="Paschalis de Victoria vel de Hispania O.F.M.">Paschalis</persName> Hyspanus, qui fuit propheta et <hi rend="italic">vidit celum apertum</hi>
+<lb/>et predixit sibi et sociis suis martyrium et Thartaros de <placeName key="Sarai">Saray</placeName> 
+<pb n="528"/>
+<lb/>destruendos diluvio, Armalec perituram propter ipsorum martirium, 
+<lb/>Imperatorem illum tertio die occidendum post ipsorum 
+<lb/>martirium et multa alia gloriosa; frater Laurentius de Ancona; 
+<lb/>frater <persName key="Petrus">Petrus</persName>; frater Indus interpres illorum et Gillottus mercator.
+<lb/>6. Anno tercio post nostrum recessum de curia, circa fines 
+<lb/>de Armalec recedentes, pervenimus ad Cyolloskagan, id est 
+<lb/>ad montes arene quos faciunt venti, ultra quos ante Thartaros 
+<lb/>nullus putavit terram habitabilem, nec putabatur ultra aliquam terram 
+<lb/>esse. Thartari autem voluntate Dei, mirabili industria 
+<lb/>transierunt et fuerunt in campo maximo, ubi dicitur torrida 
+<lb/>zona et impertransibilis a philosophis, quam tamen Thartari 
+<lb/>transierunt, et ego eciam bis; de qua in psalmis David: <hi rend="italic">Posuit</hi>
+<lb/><hi rend="italic">desertum</hi>etc. Qua pertransita pervenimus in <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName>, 
+<lb/>ubi est summa sedis imperii orientis, de cuius magnitudine incredibili 
+<lb/>et populo et ordine militum sileatur. Maximus autem 
+<lb/>Kaam, visis dextrariis et donis pape et litteris bullatis et Regis 
+<lb/>etiam Roberti cum auro et nobis, gavisus est <hi rend="italic">gaudio magno valde</hi>, 
+<lb/>reputans bonum, ymo optimum omne, et summe nos 
+<lb/>honoravit.
+<pb n="529"/>
+<lb/>7. Ego autem solempniter indutus, cum cruce pulcherrima, 
+<lb/>que me precedebat cum luminaribus et incenso, cantando <hi rend="italic">Credo</hi>
+<lb/><hi rend="italic">in unum Deum</hi>intravimus coram illo Kaam in glorioso palacio 
+<lb/>residente; et cantu finito, largam dedi recipienti humiliter 
+<lb/>benediccionem. Et sic missi fuimus ad imperialem aulam nobis 
+<lb/>honorabiliter preparatam, assignatis duobus principibus qui nobis 
+<lb/>in omnibus necessitatibus habundantissime ministrabant, in cibis 
+<lb/>et potibus et usque ad papirum pro laternis, deputatis servitoribus 
+<lb/>et ministris de curia; et sic per annos quasi quatuor 
+<lb/>servierunt infinitis semper honoribus, vestes pretiosas pro nobis 
+<lb/>et familiis extollendo. Et si bene omnia computarem, ultra 
+<lb/>valorem expendit quatuor milium marcarum pro nobis; eramus 
+<lb/>persone triginta due.
+<lb/>8. Fuerunt autem disputationes facte contra iudeos et alias 
+<lb/>sectas multe et gloriose, sed et multus animarum fructus in illo 
+<lb/>imperio factus est. Habent enim fratres Minores in <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> 
+<lb/>ecclesiam cathedralem inmediate iuxta palacium et solempnem 
+<lb/>archiepiscopatum et alias ecclesias plures in civitate et campanas 
+<lb/>et omnes vivunt de mensa Imperatoris honorifice valde.
+<lb/>9. Videns autem <persName key="Yesün Temür Khan">Imperator</persName> ille quod nullo modo volui remanere, 
+<lb/>concessit quod cum suis annorum trium expensis et donis 
+<lb/>redirem ad Papam, et cito ego vel alius mitteretur Cardinalis 
+<lb/>solempnis cum plenitudine potestatis et esset Episcopus, quia 
+<lb/>illum gradum summe venerantur omnes orientales, sive sint 
+<lb/>christiani sive non, et esset de Ordine Minorum, quia illos solos 
+<pb n="530"/>
+<lb/>cognoscunt sacerdotes et putant Papam semper talem, sicut fuit 
+<lb/>ille Ieronimus <persName key="Papa">Papa</persName> qui misit eis Legatum, quem sanctum 
+<lb/>venerantur Thartari et Alani, fratrem Iohannem de Monte Corvino 
+<lb/>ordinis Minorum, de quo supra.
+<lb/>10. Fuimus autem in <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> annis quasi tribus. Inde per 
+<lb/>Manzi iter nostrum direximus, cum expensis Imperatoris magnificis 
+<lb/>et equis quasi ducentis, et vidimus <hi rend="italic">gloriam mundi</hi> in tot civitatibus, 
+<lb/>terris, villis et rebus, que nulla lingua posset exprimere 
+<lb/>sufficienter.
+<lb/>11. A festo autem sancti Stephani usque ad dominicam 
+<lb/>olivarum per mare Indicum pervenimus ad nobilissimam civitatem 
+<lb/><placeName key="India" ref="https://pleiades.stoa.org/places/50004">Indie</placeName> nomine Columbum, ubi nascitur piper tocius orbis. 
+<lb/>Nascitur autem in vitibus, que plantantur ad modum vinearum 
+<lb/>omnino, et facit vitis primo racemos quasi labruscas viridis 
+<lb/>coloris, post facit quasi racemos et est intus vinum rubeum, 
+<lb/>quod manu mea pro salsa expressi in scutellam. Post maturantur 
+<lb/>et exsiccantur in arbore et arescit pre nimio calore et siccum 
+<lb/>excutitur parvo baculo, cadens super linteamina et recolligitur. 
+<lb/>Ista oculis vidi et manibus contrectavi mensibus XIV, nec comburitur, 
+<lb/>ut menciuntur scriptores, nec nascitur in desertis sed in 
+<lb/>ortis. Nec saraceni sunt domini sed christiani Sancti Thome, 
+<lb/>qui habent stateram ponderis tocius mundi, de qua pro meo officio 
+<lb/>tamquam Legatus Pape habebam omni mense fanones 
+<pb n="531"/>
+<lb/>de auro talis monete centum, in fine mille. Ibi est ecclesia sancti 
+<lb/>Georgii Latinorum ubi mansi, et picturis egregiis decoravi, 
+<lb/>et docui sacram legem.
+<lb/>12. Tandem, transiens gloriam maximi Alexandri qui erexit 
+<lb/>columpnam, ego in cono mundi, contra paradisum, erexi <hi rend="italic">lapidem</hi>
+<lb/><hi rend="italic">in titulum, fundens oleum desuper</hi> scilicet columpnam marmoream, 
+<lb/>desuper crucem lapideam usque ad finem mundi duraturam, 
+<lb/>quam presentibus quasi infinitis populis erexi, consecravi 
+<lb/>et benedixi, sculptis armis Pape et nostris et litteris tam 
+<lb/>indicis quam latinis, principibus illis super humeros portantibus 
+<lb/>me in lectulo seu ferculo Salomonis.
+<lb/>13. Inde valefaciens fratribus, post annum et quatuor menses, 
+<lb/>multis patratis gloriosis operibus, perrexi ad famosissimam Reginam 
+<lb/>Saba, a qua honorati [sumus] post fructum ibidem animarum; 
+<lb/>sunt enim ibi pauci christiani. Deinde perreximus per 
+<lb/>mare ad Seyllanum montem gloriosum ex opposito paradisi. 
+<lb/>Et de Seyllano usque ad paradisum, ut dicunt incole ex traditione 
+<lb/>patrum, sunt miliaria ytalica quadraginta, ita quod, ut 
+<lb/>dicitur, auditur sonitus aquarum fontis cadentium de paradiso.
+<lb/> 
+<lb/><hi rend="italic">Capitulum de paradiso</hi> (497-8).
+<lb/> 
+<lb/>1. Est autem paradisus locus in terra circumvallatus mari 
+<lb/>oceano in parte orientali ultra Indiam Columbinam contra 
+<lb/>montem Seyllanum, locus altissimus super omnem terram, attingens,
+<pb n="532"/>
+<lb/>ut probat <persName key="Iohannes">Iohannes</persName> Scotus globum lunarem, ab omni 
+<lb/>altercacione remotus, locus omni suavitate ac claritate amenus, 
+<lb/>in cuius medio oritur fons de terra scaturiens et irrigat pro tempore 
+<lb/>paradisum et omnia ligna eius. Sunt autem ibi plantata 
+<lb/>omnia ligna producencia fructus optimos mire pulcritudinis, 
+<lb/>suavitatis et odoris in cibum hominis. Fons autem ille derivatur 
+<lb/>de monte et cadit in lacum, qui dicitur a philosophis enphitrites, 
+<lb/>et intrat sub alia aqua spissa et post egreditur ex alia 
+<lb/>parte et <hi rend="italic">dividitur in quatuor</hi> flumina, que transeunt per Seyllanum; 
+<lb/>et hec nomina eorum: Gyon, qui circuit terram Ethiopie, 
+<lb/>ubi sunt modo homines nigri, que dicitur terra Presbiteri Iohannis, 
+<lb/>et iste putatur esse Nylus, qui descendit in Egiptum per 
+<lb/>interrupcionem factam in loco, qui dicitur Abasty, ubi sunt 
+<lb/>christiani sancti Mathei Apostoli, quibus Soldanus est tributarius 
+<lb/>propter istum fluvium, quia possunt claudere viam aque 
+<lb/>et periret Egyptus. 
+<lb/>2. Secundus fluvius vocatur Phison <hi rend="italic">qui circuit omnem</hi>
+<lb/><hi rend="italic">terram Evilach</hi>per Indiam et descendere dicitur per <placeName key="Cathay">Cathay</placeName>, 
+<pb n="533"/>
+<lb/>et ibi mutato nomine dicitur Caramora, id est nigra aqua, quia 
+<lb/>ibi nascitur <hi rend="italic">bedellium et lapis onichinus</hi>, et puto, quod sit maior 
+<lb/>fluvius de mundo aque dulcis, quem ego transivi, et habet in ripa 
+<lb/>sua civitates maximas et optimas et maxime ditissimas in auro. 
+<lb/>Et in illo flumine in domibus ligneis vivunt et morantur artifices 
+<lb/>optimi et maxime serici et pannorum aureorum in tanta 
+<lb/>multitudine, ut vidimus oculis nostris, quod iudicio meo excedunt 
+<lb/>totam Ytaliam; et habent in ripis habundanciam serici plus 
+<lb/>quam totus alius mundus; et navigant cum tota domo nichil 
+<lb/>mutando cum familiis suis; hec vidi. Et tandem ultra Caffa 
+<lb/>absorbetur arenis et post erumpit et facit mare, quod dicitur 
+<lb/>Bacuc ultra Chanam. 
+<lb/>3. Tercius fluvius vocatur <hi rend="italic">Tygris. Ipse vadit contra Assyrios</hi>
+<lb/>et descendit prope Nyneven maximam <hi rend="italic">itinere dierum trium,</hi> 
+<lb/>ubi missus fuit Ionas ad predicandum, cuius sepulcrum ibi est. 
+<lb/>Et ego fui et steti ibi XIV diebus in oppidis circumstantibus 
+<lb/>factis de civitate destructa. Ibi sunt optimi fructus et maxime 
+<lb/>malogranata mire dulcedinis et magnitudinis, et fructus omnes 
+<lb/>sicut in Ytalia. Et ibi ex opposito est civitas facta ex ruinis 
+<pb n="534"/>
+<lb/>Nyneve, que vocatur Monsol. Ab isto fluvio usque ad quartum 
+<lb/>est longitudo terrarum, quarum ista sunt nomina: Mesopotamia, 
+<lb/>id est terra in medio aquarum; Assyria, terra Abrahe et Iob, 
+<lb/>et est ibi civitas Abagari Regis, que fuit pulcherrima et christiana 
+<lb/>olim, cui scripsit Christus manu sua et misit epistolam 
+<lb/>suam, et nunc saracenorum est. Ibi fui quatuor diebus in magno 
+<lb/>timore. 
+<lb/>4. Ultimo pervenimus ad quartum fluvium, nomine Eufrates, 
+<lb/>qui dividit Syriam, Assyriam, Mesopotamiam a Terra sancta. 
+<lb/>Quo transito fuimus in Terra sancta, ubi maxime sunt civitates, 
+<lb/>maxime Alep, ubi sunt multi christiani induti more latino et locuntur 
+<lb/>linguam quasi gallicam, scilicet quasi de Cipro. Inde 
+<lb/>venitur Damascum, ad montem Libani, in Galileam, in Samariam, 
+<lb/>Nazareth, Iherusalem, ad sepulchrum domini Ihesu Christi. 
+<lb/> 
+<lb/><hi rend="italic">De arboribus paradisi</hi> (498).
+<lb/> 
+<lb/><hi rend="italic">De transgressione primorum parentum induccione serpentis</hi> (498-9).
+<lb/> 
+<lb/>1. <hi rend="italic">Sed et serpens erat callidior cunctis animantibus terre</hi>, id 
+<lb/>est creatus magis propter exercicium prudencie ad hominis utilitatem 
+<lb/>quam propter aliam necessitatem. Unde dicitur in Ewangelio: 
+<lb/>Estote prudentes sicut serpentes etc., non quod haberet 
+<lb/>loquelam naturalem vel usum racionis, tamen fuit permissum 
+<lb/>dyabolo, uti tamquam instrumento, et non aliud animal nobilius, 
+<lb/>ut ex sui vilitate vanius movere posset animam Eve. Qui dixit 
+<lb/>Eve, quam invenit solam vagabundam: <hi rend="italic">Cur precepit vobis Deus</hi>, 
+<pb n="535"/>
+<lb/>quod <hi rend="italic">non</hi> manducaretis <hi rend="italic">de omni ligno</hi>? Eva <hi rend="italic">respondit</hi>: Nos comedimus 
+<lb/>de omnibus fructibus paradisi, sed de illo sciencie boni 
+<lb/>et mali <hi rend="italic">precepit ne comederemus</hi> neque <hi rend="italic">tangeremus ne forte</hi>
+<lb/><hi rend="italic">moriamur….</hi>
+<lb/>2. <hi rend="italic">Fecit</hi> autem eis <hi rend="italic">tunicas pelliceas</hi>. Nos communiter dicimus 
+<lb/>pelliceas, melius tamen dicitur filiceas, quia de quadam materia 
+<lb/>que filorum est, que nascitur inter surculos nargillorum ad modum 
+<lb/>rethis, sicut portavi et dimisi Florentie. 
+<lb/>3. Et prohibuit Deus esum ligni vite. Videte, inquit, angeli 
+<lb/>ne sumant de ligno vite et vivant in eternum. Et statim angelus 
+<lb/>cepit Adam per brachium et posuit eum ultra lacum in 
+<lb/>montem Seyllanum, ubi fui quatuor mensibus, et in casu posuit 
+<lb/>Adam pedem dextrum super lapidem, qui adhuc est, et statim 
+<lb/>miraculo divino forma plante pedis eius infixa est in marmore 
+<lb/>et usque hodie perseverat. Et est magnitudo seu longitudo duorum 
+<lb/>nostrorum palmorum et dimidii plus, scilicet quam media ulna 
+<lb/>de Praga, quam non ego solus mensuravi, sed alius peregrinus 
+<lb/>saracenus Hispanus, quia vadunt multi ad peregrinacionem Ade. 
+<lb/>In alio autem monte, ad quatuor quasi parvas dietas, exposita 
+<lb/>etiam per angelum fuit Eva. Et ut hystorie illarum gentium 
+<lb/>narrant, nec Sacre Scripture contradicunt, fuerunt ab invicem 
+<lb/>separati diebus quadraginta in luctu; post quos angelus duxit 
+<lb/>Evam ad Adam quodammodo desperantem et consolatus est eos. 
+<lb/> 
+<lb/><hi rend="italic">De monte Seyllano hystoria</hi> (499-501) .
+<lb/> 
+<lb/>1. Verum quia materia requirit, et credo delectabile et aliquibus 
+<lb/>proficuum, ystoriam de Seyllano duximus presentibus 
+<lb/>inserendam, dummodo placeat Cesaree Maiestati, si vero non
+<pb n="536"/>
+<lb/>placeat, obelus cicius emendabit. Et primo videndum est quomodo 
+<lb/>pervenimus ad eum et qualiter, secundo de eius condicionibus. 
+<lb/>2. Primo namque cum nos dimissi a Kaam summo Imperatore 
+<lb/>cum donis maximis et expensis transire per Indiam temptaremus, 
+<lb/>alia via per terram clausa propter guerras et nullomodo 
+<lb/>pateret transitus, preceptum fuit Kaam, quod veniremus per 
+<lb/>Manzi, que olim maxima <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> vocabatur. Habet autem Manzi 
+<lb/>civitates et populos sine numero et nobis incredibilia sunt nisi 
+<lb/>vidissem copiam omnium rerum, fructuum quos nunquam gignit 
+<lb/>terra latina, et civitates maximas triginta milia, exceptis villis 
+<lb/>et oppidis infinitis. Et inter illas est civitas famosissima nomine 
+<lb/>Campsay mirabilior, pulchrior, dicior et maior, cum maiori populo 
+<lb/>et pluribus diviciis et deliciis, edificiis et maxime ydolorum templis,
+<lb/>ubi sunt mille et duo milia religiosi simul habitantes, quam 
+<lb/>aliqua civitas que sit in mundo vel forte fuerit unquam. Ubi 
+<lb/>scribunt scribentes esse decem milia poncium nobilium de lapide 
+<lb/>cum sculpturis et ymaginibus principum armatorum. Incredibile 
+<lb/>est non videnti et tamen forte non menciuntur. 
+<lb/>3. Est etiam <placeName key="Cayton" ref="https://www.geonames.org/1797353/">Zayton</placeName>, portus maris mirabilis civitas, nobis 
+<lb/>incredibilis, ubi fratres Minores habent tres ecclesias pulcherrimas, 
+<lb/>optimas et ditissimas, balneum, fundatum, omnium mercatorum 
+<lb/>depositorium, habent etiam campanas optimas et pulcherrimas, 
+<lb/>quarum duas ego feci fieri cum magna solempnitate, quarum 
+<lb/>unam videlicet maiorem Iohanninam, aliam Antoninam decrevimus 
+<lb/>nominandas et in medio sarracenorum sitas. 
+<pb n="537"/>
+<lb/>4. Recessimus autem de <placeName key="Cayton" ref="https://www.geonames.org/1797353/">Zayton</placeName> in festo sancti Stephani et 
+<lb/>in quarta feria maioris ebdomadis pervenimus in Columbum. 
+<lb/>Deinde volentes navigare ad Sanctum Thomam Apostolum et 
+<lb/>inde ad Terram Sanctam ascendentes iunkos de inferiori <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName>, 
+<lb/>que Minubar vocatur, in vigilia sancti Georgii tot procellis 
+<lb/>ferebamur, quod sexaginta vicibus vel amplius fuimus quasi 
+<lb/>demersi sub aqua usque ad profundum maris, et solo divino 
+<lb/>miraculo evadentes tot mirabilia vidimus, scilicet ardere mare, 
+<lb/>dracones ignivomos volantes et occidentes aliorum iunkorum 
+<lb/>personas in suo transitu, nostro divina ope manente illeso virtute 
+<lb/>Corporis Christi, quod portabam, et meritis Virginis gloriose et 
+<lb/>sancte Clare. Et quia omnes christianos induxeram ad lamentum 
+<lb/>et penitenciam, ipsaque procella durante dedimus vela ventis, 
+<lb/>nos divino regimini committentes, de solis animabus curantes. 
+<lb/>5. Divina autem clementia nos ducente, die invencionis sancte 
+<lb/>Crucis invenimus nos perductos ad portum Seyllani nomine 
+<lb/>Pervily ex opposito paradisi, in quo dominabatur contra verum 
+<lb/>Regem tyrannus quidam, nomine Coya Iaan, castratus, pessimus 
+<pb n="538"/>
+<lb/>sarracenus, qui pro magna parte occupaverat regnum propter 
+<lb/>infinitos thesauros quos habebat. Qui tamen prima facie nos 
+<lb/>honoravit ficte, postmodum curialiter nomine mutui accepit 
+<lb/>nobis LX millia marcarum in auro, in argento, serico, pannis 
+<lb/>aureis, lapidibus preciosis, perlis, camphora, musto, mirra et 
+<lb/>aromatibus ex dono maximi Kaam et aliorum principum et 
+<lb/>xenia missa Pape, et fuimus curialiter capti quatuor mensibus. 
+<lb/>6. In isto altissimo monte, forte post paradisum alciore qui 
+<lb/>sit in terra, putant quidam esse paradisum et male, quia nomen 
+<lb/>contradicit; vocatur enim ab incolis Zindanbaba, Baba, id est 
+<lb/>pater, et mama, id est mater in omni ydiomate mundi, et Zindan, 
+<lb/>idem est quod infernus; ideo Zindanbaba idem est quod infernus 
+<lb/>patris, quia ibi de paradiso expulsus, positus fuit pater quasi in 
+<lb/>inferno. 
+<lb/>7. In isto eciam altissimo monte est cacumen supereminens, 
+<lb/>quod raro videri potest propter nebulam. Deus autem misertus 
+<lb/>lacrimis nostris, quodam mane in aurora fecit ipsum luminosum 
+<lb/>et vidimus flammam clarissimam illustrantem ipsum. In descensu 
+<lb/>collis eiusdem montis est planicies altissima pulcra, in qua 
+<lb/>sunt per ordinem: primo forma pedis Ade, secundo statua 
+<lb/>quedam sedens, sinistra manu super genu quiescente, dextra 
+<lb/>levata, extensa contra occidentem. Item domus eius, quam fecit 
+<lb/>manibus suis quasi per modum sepulcri quadrangula oblonga, 
+<lb/>hostio in medio de maximis lapidibus, marmoreis tabulis, non 
+<lb/>muratis sed suppositis. 
+<lb/>8. Dicunt incole maxime religiosi, qui stant ad pedes montis 
+<lb/>sine fide sanctissime vite, quod illuc nunquam ascendit diluvium, 
+<lb/>ideo est permanens domus illa, sompniantes contra sacram 
+<lb/>scripturam et dicta sanctorum. Ipsi tamen habent pro se argumenta 
+<lb/>apparencia valde, et dicunt se non descendisse de Caym 
+<pb n="539"/>
+<lb/>nec de Seth sed de aliis filiis Ade, qui genuit filios alios et filias. 
+<lb/>Quia tamen est contra sacram Scripturam, pertranseo. 
+<lb/>9. Nunquam tamen comedunt carnes, quia Adam nec alii 
+<lb/>comederunt carnes usque post diluvium. Nudi vadunt a lumbis 
+<lb/>et sursum, et pro certo sunt boni moris. Habent domus de foliis 
+<lb/>palmarum, que cum digito frangerentur, et dispersas per silvas 
+<lb/>plenas diviciis; et tamen securissime habitant a furibus, nisi 
+<lb/>sint aliunde et inopes vagabundi. 
+<lb/>10. In eodem monte versus paradisum est fons maximus, 
+<lb/>bene decem miliarium ytalicorum, aquis optimis perspicuis, quem 
+<lb/>dicunt derivari de fonte paradisi et ibi erumpere; quod probant, 
+<lb/>quia aliquando erumpunt de fundo quedam folia ignota et in 
+<lb/>magna copia et lignum aloes et lapides preciosi sicut carbunculus 
+<lb/>et saphirus et poma quedam ad sanitatem. Dicunt eciam lapillos 
+<lb/>illos cavatos de lacrimis Ade, quod falsum omnino videtur. De 
+<lb/>multis aliis pertranseundum puto ad presens. 
+<lb/> 
+<lb/><hi rend="italic">De orto Ade et fructibus ipsius</hi> (501-2).
+<lb/> 
+<lb/><hi rend="italic">De amictu parentum</hi> (502).
+<lb/> 
+<lb/>1. Fecit autem Dominus Ade et uxori eius tunicas pelliceas 
+<lb/>et induit eos. Sed queritur, de quibus pellibus, vel de novo creavit 
+<lb/>quod non sapit, vel aliam occidit quod non placet, quia nondum 
+<lb/>erant multiplicata per generacionem, et <hi rend="italic">duo et duo</hi>tantum in 
+<lb/>principio creata fuisse creduntur; ideo videtur sine assercione 
+<lb/>dicendum quod non pelliceas tunicas est legendum sed filiceas. 
+<lb/>Nam inter folia nargillorum, de quibus supra dictum est, nascuntur 
+<lb/>fila ad modum tele staminis quasi grossi et rari sacci, de 
+<lb/>quibus etiam hodie sunt apud illos et apud Indos vestes pro 
+<pb n="540"/>
+<lb/>pluvia rusticorum, qui vocantur camalli, portantes scilicet onera, 
+<lb/>et eciam homines et mulieres portant super scapulas in lecticis, de 
+<lb/>quibus in Canticis: <hi rend="italic">ferculum fecit sibi Salomon de lignis Lybani</hi>, id 
+<lb/>est lectulum portatilem, sicut portabar ego in <placeName key="Cayton" ref="https://www.geonames.org/1797353/">Zayton</placeName> et in <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>. 
+<lb/>2. Unam talem vestem de filis illis camallorum, non camelorum, 
+<lb/>portavi ego usque Florenciam et dimisi in sacristia Minorum 
+<lb/>similem vesti Iohannis Baptiste. Nam pili camelorum sunt 
+<lb/>delicacior lana que sit in mundo post sericum. Fui enim aliquando 
+<lb/>cum infinitis camelis et pullis camelorum in deserto vastissimo, 
+<lb/>descendendo de Babilone confusionis versus Egiptum per viam 
+<lb/>Damasci cum Arabibus infinitis. Nec in Seyllano sunt cameli 
+<lb/>sed elephantes innumeri, qui licet sint ferocissimi, raro tamen 
+<lb/>nocent homini peregrino. Ego equitavi super unum Regine Saba, 
+<lb/>qui videbatur habere usum racionis, si non esset contra fidem. 
+<lb/> 
+<lb/><hi rend="italic">De victu parentum</hi> (502-3).
+<lb/> 
+<lb/>1. Vixerunt autem in Seyllano primi parentes de fructibus 
+<lb/>istis et bibebant lac animalium, non carnes ante diluvium, sicut 
+<lb/>nec adhuc comedunt homines qui se dicunt filios Ade, comederunt. 
+<lb/>Fuit autem positus Adam in monte Seyllano et incepit 
+<lb/>ibi edificare domum, ut dictum est supra, de tabulis maximis 
+<lb/>marmoreis etc. Ibi habitant homines religiosi et mundissimi, 
+<lb/>ymo tante mundicie quod nullus habitaret in domo ubi spuisset 
+<lb/>aliquis, ymo quamvis raro spuant, tamen vadunt longe tam pro 
+<lb/>sputo quam pro alia materia. Comedunt tantum semel in die, 
+<lb/>nunquam bis; nullum potum preter lac et aquam bibunt, orant 
+<lb/>mundissime, scribunt primo in arena digito et sic docent formare 
+<lb/>literas pueros, postmodum stilo ferreo in foliis papiri, scilicet 
+<lb/>arboris cuiusdam. 
+<lb/>2. In claustro sunt due arbores dissimiles in foliis ab omni 
+<lb/>alia; sunt circumdate coronis aureis et gemmis et luminaria 
+<pb n="541"/>
+<lb/>sunt ante eas, et illas colunt et adorant, ut dicunt et fingunt 
+<lb/>se ex tradicione Ade ritum talem suscepisse, quia ex ligno dicunt 
+<lb/>Adam futuram sperasse salutem, et consonat illi versui Dauid: 
+<lb/><hi rend="italic">Dicite in gentibus, quia dominus regnabit</hi>in ligno, quamvis 
+<lb/>secundum hebraicam veritatem melius dicatur  «curabit a ligno». 
+<lb/>Isti eciam nunquam in crastinum servant aliquid in domo sua, 
+<lb/>in arena iacent, nudipedes incedunt, baculos in manu gestant; 
+<lb/>tunica quasi fratrum Minorum sine capucio et mantello ad
+<lb/>modum Apostolorum plicato super humerum sunt contenti. Vadunt 
+<lb/>omni mane processionaliter pro prandio mendicando risum, 
+<lb/>occurunt eis principes cum maxima devocione vel alii et dant 
+<lb/>ad mensuram et numerum personarum. Lixum in aqua comedunt 
+<lb/>cum lacte nargillorum et musis. 
+<lb/>3. Hec vidi oculis meis, et fecerunt michi festum quasi essem 
+<lb/>de ordine eorum. 
+<lb/> 
+<lb/><hi rend="italic">De generacione et multiplicacione generis</hi> (503).
+<lb/><hi rend="italic">De oblacionibus Abel et Caym</hi> (503-4). 
+<lb/><hi rend="italic">De filio Ade Seth sancto</hi> (504). 
+<lb/><hi rend="italic">De generacione et multiplicacione bonorum</hi> (504-5). 
+<lb/><hi rend="italic">De gigantibus</hi> (505-6). 
+<lb/><hi rend="italic">De diluvio et composicione arche Noe, capitulum</hi> (506). 
+<lb/> 
+<lb/>II.
+<lb/><hi rend="italic">Secunda etas, et incipit secundus liber, qui Monarchos nominatur</hi> (506-7). 
+<lb/> 
+<lb/>1. Noe egresso de archa cum uxore et tribus filiis et totidem 
+<lb/>uxoribus residentibus in monte altissimo Ararat vel <placeName key="Armenia" ref="https://pleiades.stoa.org/places/981507">Armenie</placeName>, 
+<pb n="542"/>
+<lb/>ubi adhuc arche illius vestigia esse dicuntur, etas secunda incipit 
+<lb/>secundum scriptores; et ex tunc incipiunt omnium gencium 
+<lb/>mundi regna describi, pro eo quod ante diluvium erat quasi 
+<lb/>divinus seu thearticus principatus. Nam idem erat princeps primogenitus 
+<lb/>et sacerdos; post diluvium autem cepit tyrannides 
+<lb/>dominari, et ideo secunda nostri operis distinccio sive liber monarchos 
+<lb/>nominatur. In quo describemus principalium omnium 
+<lb/>gencium monarchias, donec ad propositum veniamus, tamen breviter 
+<lb/>et succincte decurrendo per concordiam sacre Scripture 
+<lb/>cum decursu gentilium, sequendo B. Augustinum ut prosequitur 
+<lb/>hystoriam Lib. De civitate dei.
+<lb/>2. Dedit ergo Noe mandatum filiis, Deo iubente, de latria 
+<lb/>veneranda, id est de cultu unius Dei per sacrificia, de multiplicanda
+<lb/>prole et de divisione terrarum, ut implerent eas et pacifice 
+<lb/>viverent. Post decessum illius ipse quasi quietam vitam eligere 
+<lb/>cupiens, sibi Cethym insulam, que nunc Cyprus dicitur, 
+<lb/>reservavit. Sem ergo primogenitus quia Rex et sacerdos, post 
+<lb/>patrem obtinuit medietatem orbis, scilicet totam <placeName key="Asia">Asiam</placeName> maiorem 
+<lb/>que est a mari Albo ultra <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName>, ubi nunc sunt Olachi, 
+<lb/>per rectam lineam totum illud imperium Usbec, Katay, Yndias, 
+<lb/>Ethiopiam usque ad finem mundi. 
+<lb/>3. Aliam autem medietatem, alii duo fratres inter se diviserunt. 
+<lb/>Cham Africam, ubi est Terra Sancta, Cartago, Turusium 
+<lb/>usque finem mundi; Iaphet minor Europam ubi sumus 
+<lb/>nos, scilicet ab Ungaria citra et <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Roma</placeName>, videlicet Germaniam, 
+<lb/>Franciam, Boemiam, <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName> et <placeName key="Anglia" ref="https://www.geonames.org/6269131">Angliam</placeName> et usque ad finem 
+<lb/>mundi….
+<pb n="543"/>
+<lb/><hi rend="italic">De cultu post diluvium</hi> (507-9). 
+<lb/> 
+<lb/>1. <hi rend="italic">Sem</hi>studuit colere verum Deum…. Hic secundo anno <hi rend="italic">post</hi>
+<lb/><hi rend="italic">diluvium genuit Arfaxat</hi>qui eciam genuit Elam, a quo nobilis 
+<lb/>generacio Alanorum in oriente dicitur exorta; et est hodie 
+<lb/>maior et nobilior nacio mundi et homines pulcriores et forciores. 
+<lb/>Quorum auxilio Tartari optinuerunt imperium orientis et sine 
+<lb/>quibus nunquam habuerunt victoriam gloriosam; conduxit enim 
+<lb/>Cingwis Caam, primus <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Thartarorum</placeName> Rex, de eis LXXII principes, 
+<lb/>quando voluit precepto dei castigare mundum. 
+<lb/>2. Genuit autem Sem XXIV principes familiarum, Caam 
+<lb/>XXXIII, Iaphet pater noster XV, et tot postmodum divise sunt 
+<lb/>lingwe, minus tantummodo una etc. Arfaxat filius Sem anno 
+<lb/>etatis XXXV genuit Sela vel Sale, a quo <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName> populata est 
+<lb/>et divisa in tria regna. Quorum primum vocatur Manzi, maior 
+<lb/>et nobilior provincia mundi pulcrior amenior et lacior, in qua 
+<lb/>est illa nobilis civitas Campsay, <placeName key="Cayton" ref="https://www.geonames.org/1797353/">Zayton</placeName>, Cynkalan, Ianu et 
+<lb/>alie multe civitates Manzi olim Cyn, ubi usque hodie est portus 
+<lb/>et civitas nobilis, que dicitur Cynkalan, id est magna <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>, 
+<lb/>nam Kalan est magnum ad differenciam secunde <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> que 
+<lb/>dicitur Mymbar, ubi est Cynkali, id est parvum, parva <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>. 
+<pb n="544"/>
+<lb/>3. Secundum <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> regnum vocatur Mynibar, de quo loquitur 
+<lb/>beatus Augustinus de philosophis caninis, qui ideo canini dicti 
+<lb/>sunt, quia naturam canum imitari docebant, ne videlicet de naturalibus 
+<lb/>homo verecundari deberet; nec tamen potuerunt persuadere 
+<lb/>populis, quod eciam filii non verecundarentur coram patribus 
+<lb/>balneari vel pudenda ostendere. Ibi est civitas Columbi, ubi 
+<lb/>nascitur piper, de quo supra. 
+<lb/>4. Tercia provincia <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> vocatur Maabar, ubi est ecclesia 
+<lb/>sancti Thome, quam manu propria edificavit, et alia, quam edificavit 
+<lb/>cum operariis, quibus solvebat de lapillis marinis quos 
+<lb/>vidimus et de uno ligno inciso in monte Ade in Seyllano, quod 
+<lb/>fecit secari et de pulvere secature seminate sunt arbores. Fuit 
+<lb/>autem lignum illud ita maximum incisum per duos sclavos suos 
+<lb/>et ipsius cingulo tractum in mare et precepit ligno dicens:  «Vade, 
+<lb/>expecta nos in portu civitatis Mirapolis». Quo cum pervenisset, 
+<lb/>Rex cum toto exercitu suo conabatur trahere in terram, nec 
+<lb/>movere potuerunt homines decem milia. Tunc supervenit sanctus 
+<lb/>Thomas Apostolus indutus camisia, stola et mantello de pennis 
+<lb/>pavonum, super asinum, sociatus duobus illis sclavis et duobus 
+<lb/>magnis leonibus sicut pingitur, et clamavit:  «Nolite, inquit, 
+<lb/>tangere lignum, quia meum est».  «Unde», inquit Rex  «probas 
+<lb/>tuum»? Qui solvens funiculum quo erat precinctus precepit 
+<lb/>sclavis:  «Ligate lignum et trahite in terram». Quo facillime in 
+<lb/>terram tracto, Rex convertitur et donat sibi de terra quantum 
+<lb/>voluit cum asino circuire. Ecclesias edificat in civitate in die, 
+<lb/>sed nocte ad tria miliaria ytalica ferebatur ubi sunt pavones 
+<lb/>innumeri, unde sagitta, quam fricciam vocant, in latere, sicut 
+<lb/>misit manum in latus Christi, percussus, hora completorii ante 
+<lb/>suum oratorium iacens et sangwinem sacrum totum per latus 
+<lb/>effundens tota nocte predicans, mane reddit animam Deo. Sacerdotes 
+<lb/>tunc terram illam sangwine mixtam collegerunt et secum 
+<pb n="545"/>
+<lb/>sepelierunt, de qua vidi expressum miraculum in persona mea 
+<lb/>duplicatum, alibi recitandum. 
+<lb/>5. Mirum autem continuum ibidem apparet, tam de apercione 
+<lb/>maris quam de pavonibus, et quia quanto plus trahitur 
+<lb/>terra de illa fovea una die, tantum scaturit alia, de qua bibita 
+<lb/>curantur languores, tam per christianos quam per Thartaros et 
+<lb/>paganos fiunt aperta miracula. Dedit eciam Rex ille stateram 
+<lb/>ponderis piperis beato Thome et omnium specierum aromatum 
+<lb/>in eternum, quam nullus potest eis auferre sine periculo mortis. 
+<lb/>Fuimus ibi diebus quatuor; ibi est summa perlarum piscacio….
+<lb/>6. De monstris que hystorie vel fabule fingunt vel pingunt
+<lb/>et dicuntur esse in <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>, de quibus eciam beatus Augustinus, 
+<lb/>Lib. De civitate Dei XVI facit memoriam, puta, quod sunt 
+<lb/>qui tantum in fronte unum habent oculum, quidam plantas 
+<lb/>versas post crura; quibusdam utriusque sexus naturam, et dextram 
+<lb/>mammam virilem, sinistram muliebrem esse fingunt; alii sine capite 
+<lb/>et sine ore in pectore tantum habere foramen; alii per 
+<lb/>nares tantum alitu vivere; alii statura cubitali cum gruibus 
+<lb/>dimicare; alii octavum annum non excedere, quinquies concipere 
+<lb/>et parere; alii sine iunctura; alii supini iacentes planta 
+<lb/>pedis umbram sibi faciendo; quidam habentes capita canina; 
+<lb/>ypotamos et alia multa monstra poete finxerunt. De istis 
+<lb/>omnibus sic concludit beatus Augustinus: Aut nullomodo sunt, 
+<lb/>aut si sunt et racione utuntur vel uti possunt, ex Adam omnes 
+<lb/>homines sunt, aut monstra in natura sunt, tamen ex Adam, 
+<lb/>sicut inter nos aliquando nata sunt pauca in illis partibus et in 
+<lb/>toto genere humano sunt multa, sicut ponit exemplum de variis 
+<lb/>gibbosis, de homine habente sex digitos et de aliis multis. 
+<lb/>7. Sicut imperator nobilissimus Karolus quartus portavit de 
+<lb/>Tuscia puellam in facie omnino pilosam et in toto corpore maximis 
+<pb n="546"/>
+<lb/>pilis, sicut esset filia wulpis, non tamen per se in Tuscia est 
+<lb/>talis populus, nec mater sua fuit talis, nec alii filii, sed nobis 
+<lb/>similes. Sicut illud monstrum, quod vidimus eciam diebus nostris 
+<lb/>in Tuscia, in districtu Florencie, nasci de pulcra matre, habens 
+<lb/>duo capita, perfecte formata, quatuor brachia, duo pectora usque 
+<lb/>ad umbilicum perfecta forma ibi coniungebantur et unus quasi 
+<lb/>pes ex latere procedebat, et post duos tantum pedes habebant, 
+<lb/>et tamquam due persone baptizati fuerunt et supervixerunt 
+<lb/>diebus septem. 
+<lb/>8. Vidi eciam Bononie, quando ibi legebam, ovem que peperit 
+<lb/>simile monstrum, scilicet agnum habentem duo capita septem 
+<lb/>pedes; non tamen putandum est, esse aliquam speciem bestiarum, 
+<lb/>sed monstra nature sunt…. 
+<lb/>9. Ego tamen omnium provinciarum Yndorum curiosissimus 
+<lb/>peragrator, sicut sepe plus habui animum curiosum quam virtuosum, 
+<lb/>volens omnia nosse si possem, et qui plus dedi operam, ut 
+<lb/>puto, quam alius, qui legatur vel sciatur, ad investigandum mirabilia 
+<lb/>mundi et transivi per principaliores mundi provincias 
+<lb/>maxime, ubi tocius orbis mercatores conveniunt, scilicet in insula 
+<lb/>dicta Ormes, nunquam potui investigare pro vero tales gentes 
+<lb/>esse in mundo, ymo ipsi a me petebant, utrum essent. Nec est 
+<lb/>aliqua nacio talis, nisi ut dixi monstrum, nec illi, qui finguntur 
+<lb/>uno pede sibi umbram facere sunt nacio una, sed quia omnes 
+<lb/>Yndi communiter nudi vadunt, portant in arundine parvum 
+<lb/>papilionem semper in manu, quem vocant cyatyr, sicut ego 
+<lb/>habeo Florencie, et extendunt contra solem et pluviam quando 
+<lb/>volunt; istud poete finxerunt pedem. 
+<lb/> 
+<lb/><hi rend="italic">Incidens de quodam Yndo baptizato</hi> (509-10).
+<lb/> 
+<lb/>1. Cum eciam essem in Columbo cum principibus illis christianis, 
+<lb/>qui Modilial vocantur domini piperis, ante ecclesiam 
+<pb n="547"/>
+<lb/>quodam mane venit homo nudus a lumbis supra venerande stature, 
+<lb/>alba barba, solo pallio coopertus, cordula nodosa ad modum 
+<lb/>stole dyaconi, et toto corpore in arena prostratus adoravit, caput 
+<lb/>ter ad solum percuciens; tandem surgens cepit pedes meos nudos 
+<lb/>osculari desiderans, prohibitus autem surrexi. Postmodum residens 
+<lb/>in arena, per interpretem filium, qui captus aliquando a 
+<lb/>piratis venditus fuit cuidam Ianuensi mercatori et baptizatus et 
+<lb/>casu tunc erat nobiscum et patrem ex circumstanciis recognovit. 
+<lb/>Dixit nobis totam vitam suam: nunquam carnes comederat, 
+<lb/>nunquam potum biberat inebriantem, nunquam nisi unam cognoverat 
+<lb/>causa prolis procreande, quatuor mensibus in anno 
+<lb/>purissime ieiunabat, granum rysii parum in aqua bulitum et 
+<lb/>fructus et herbas de sero manducabat, in oracione pernoctabat, 
+<lb/>et antequam intraret oratorium suum, corpus totum aqua lavabat 
+<lb/>et induebat mundissimam lineam vestem ad hoc solummodo 
+<lb/>preparatam; tunc intrabat et colebat dyabolum in ydolo suo 
+<lb/>purissima devocione; et erat sacerdos tocius insule sue que 
+<lb/>sita est in ultimis finibus Yndorum. 
+<lb/>2. Deus videns eius puritatem, illuminavit eum primo per 
+<lb/>sapienciam, tandem demon coactus per os ydoli dixit sibi:  «Non 
+<lb/>es in via salutis, ideo precipit tibi Deus ut vadas in Columbum 
+<lb/>itinere per mare annorum duorum, ibi invenies nunccium Dei 
+<lb/>qui docebit te viam salutis».  «Ideo», inquit,  «veni ad pedes tuos
+<lb/>paratus in omnibus obedire, et quod plus est, in sompnis vidi 
+<lb/>faciem tuam, sicut modo agnosco». Tunc cum lacrimis facta oracione, 
+<lb/>confortantes eum dedimus sibi filium suum baptizatum 
+<lb/>interpretem et doctorem. Tunc post tres menses instructum 
+<lb/>baptisavimus Michaelem vocantes et percepta benediccione, remisimus 
+<lb/>ipsum promittentem, quod fidem, quam didicerat aliis 
+<lb/>predicaret. 
+<lb/>3. Hec hystoria utilis est ad ostendendum, sicut dicit beatus 
+<lb/><persName key="Petrus">Petrus</persName> de Cornelio centurione, quod <hi rend="italic">non est personarum accepcio</hi>
+<lb/><hi rend="italic">apud Deum</hi>, sed quicunque legem scriptam in corde a Deo servat, 
+<pb n="548"/>
+<lb/><hi rend="italic">quia signatum est super nos lumen vultus tui Domine acceptus</hi>
+<lb/><hi rend="italic">est illi</hi>et docet eum viam salutis. 
+<lb/>4. Utrum autem iste, quia per duos annos navigans per 
+<lb/>mare et per Yndorum insulas olim ignotas aliquid vidisset de 
+<lb/>monstris istis vel saltim audisset, inquisivimus; qui omnino 
+<lb/>nichil scivit. Nec eciam apud Reginam Saba, ubi tamen oritur 
+<lb/>sol modo opposito nobis, et in meridie transit umbra viri ad 
+<lb/>dextrum, sicut hic ad sinistrum et occultatur ibi polus articus 
+<lb/>nobis gradibus sex et antarticus totidem elevatur, sicut dominus 
+<lb/>Lemon de Ianua nobilis astrologus nobis ostendit et multa 
+<lb/>in astris mira. 
+<lb/>5. Sunt tamen bene quidam gygantes, quorum unum vidi, 
+<lb/>cui non potui cum capite attingere ultra cingulum, turpissime 
+<lb/>figure et fetide valde. Sunt homines silvestres in silvis cum 
+<lb/>filiis et uxoribus nudi et pilosi habitantes; inter homines non 
+<lb/>apparent et raro potui videre aliquem, quia abscondunt se in 
+<lb/>silvis quando senciunt homines transeuntes. Faciunt multa 
+<lb/>opera, seminant et colligunt blada et multa alia, et quando 
+<lb/>mercatores ad eos vadunt, ut vidi, illi exponunt venalia in medio 
+<lb/>vie et fugiunt et stant absconsi; tunc ementes vadunt et ponunt 
+<lb/>precium et mercator accipit res relictas. 
+<lb/>6. Sunt eciam monstruosi serpentes et fere, sicut habet in 
+<lb/>clausura sua Pragensi dominus imperator Karolus. Sunt eciam 
+<lb/>animalia quedam, quasi ad figuram hominis, maxime apud Reginam 
+<lb/>Saba et in claustro de Campsay, in illo famosissimo 
+<lb/>monasterio, ubi sunt tot monstruosa animalia que credunt esse animas 
+<lb/>defunctorum. Sed ex certa sciencia didici esse animalia 
+<lb/>irracionabilia, nisi quod dyabolus utitur eis sicut olim lingua 
+<lb/>serpentis, demerentibus illis infidelibus propter incredulitatem 
+<lb/>eorum, alias vita illorum in religiosis moribus et oracionibus 
+<pb n="549"/>
+<lb/>contenta et ieiuniis, si essent in vera fide, excederet omnem observanciam 
+<lb/>et continenciam nostram. Veniunt enim illa animalia 
+<lb/>ordinarie ad comedendum dato signo; verum tamen nunquam 
+<lb/>venerunt cruce presente, post venerunt cruce recedente. 
+<lb/>Ideo concludo, quod ista monstra homines non sunt, licet videantur 
+<lb/>habere aliquos actus, sed sunt sicut symie quas, si nunquam 
+<lb/>vidissemus, putaremus homines esse, nisi tantum illa monstra, 
+<lb/>ut dixi, que nota sunt preter consvetudinem de Adam. 
+<lb/>7. Nec putandum est, ut dicit beatus Augustinus, antipedes 
+<lb/>esse, quasi homines plantas contra nos tenentes, quod nullomodo 
+<lb/>putandum est, quia terra firmata est <hi rend="italic">super aquas</hi>, et ut experiencia 
+<lb/>certa didicimus, dividendo occeanum in modum crucis due 
+<lb/>quadre sunt navigabiles et due alie nullo modo. Noluit enim Deus 
+<lb/>quod homo posset circuire per mare totum mundum. Ermofroditam 
+<lb/>vidimus, non tamen generantem sicut est, neque eciam 
+<lb/>mulus generat etc. Nunc ad materiam revertamur. 
+<lb/> 
+<lb/><hi rend="italic">De multiplicatione generis humani et divisione terrarum</hi>
+<lb/><hi rend="italic">et turri Babel</hi> (510).
+<lb/><hi rend="italic">De divisione linguarum</hi> (511-2).
+<lb/><hi rend="italic">De Nyno</hi> (512).
+<lb/><hi rend="italic">De uxore Nyni</hi> (512).
+<lb/><hi rend="italic">Tertia etas, de nativitate Abrahe</hi> (512-3).
+<lb/> 
+<lb/><hi rend="italic">De regno Argivorum</hi> (513-5).
+<lb/> 
+<lb/>1. …. Statuto Ecclesie a christianis, qui debent esse perfecciores 
+<lb/>iudeis, decime sunt solvende. Hec sine preiudicio melioris sentencie 
+<lb/>sentit doctor <persName key="Iohannes">Iohannes</persName> Scotus. Utrum autem noviter conversis 
+<lb/>vel convertendis, si nollent se ad hanc legem obligare sponte, 
+<lb/>sed tantum ad illud Apostoli, <hi rend="italic">unusquisque, prout destinavit in</hi>
+<pb n="550"/>
+<lb/><hi rend="italic">corde suo, non ex tristicia neque ex necessitate, ylarem enim datorem</hi>
+<lb/><hi rend="italic">diligit Deus</hi>. Dum autem per alium modum providetur 
+<lb/>Ecclesie et ministris eius, posset lex talis imponi, quod non 
+<lb/>fecerant Apostoli nec patres sequentes longo tempore. Maxime 
+<lb/>cum multi Tartari et alie naciones, ut experti sumus in civitate 
+<lb/>que dicitur Kamul, ubi primo conversi nolebant baptizari donec 
+<lb/>iuravimus nichil temporale post baptismum extorquere ab eis, 
+<lb/>ymo de nostro indigentibus providere, quod et fecimus; sic 
+<lb/>multitudo civitatis utriusque sexus baptismum libentissime receperunt.
+<lb/>Dubium est tamen, salvo meliori ecclesie judicio non 
+<lb/>cogerem eos. 
+<lb/> 
+<lb/><hi rend="italic">De ystoria gentilium et nativitate Moysis</hi> (515).
+<lb/><hi rend="italic">De ystoria gencium</hi> (515-6).
+<lb/><hi rend="italic">Capitulum de filum Saturni</hi> (516).
+<lb/><hi rend="italic">De ystoria originis Ytalia</hi> (516-7).
+<lb/><hi rend="italic">De origine Romane Urbis</hi> (517-8).
+<lb/><hi rend="italic">De promo edificio <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Rome</placeName> facto</hi> (518-9).
+<lb/> 
+<lb/><hi rend="italic">Incipit Prologus seu Prefacio fratris Iohannis de Florencia</hi>
+<lb/><hi rend="italic">Episcopi Bysynianensis</hi> (519-21).
+<lb/> 
+<lb/>1. Precepisti serenissime <persName key="Yesün Temür Khan">Imperator</persName> et semper Auguste Karole 
+<lb/>quarte, ut silvam cronicarum boemicalium introirem et inter 
+<lb/>spinarum vepriumque inextricabiles intricaturas semitam aliqualem 
+<lb/>dirigerem in ordine dicendorum, squaloribus confuse 
+<lb/>ystorie resecatis. Verum quia amor omnia, etiam que videntur 
+<lb/>impossibilia, ut amato placeat redigit ad possibilem facultatem 
+<lb/>iuxta Platonis sentenciam in Thymeo. Tue igitur iussioni parere 
+<lb/>cupiens, non attendens quod incognitam omnino linguam 
+<lb/>et patriam iussus eram discurrere, etsi minus prudenter magis 
+<lb/>tamen libenter, minus eciam cautus ingressus sum solitudinem 
+<pb n="551"/>
+<lb/>memoratam. Et dum incognita nemora tam personarum quam 
+<lb/>nominum, que mea lingua Florentina eciam non valet exprimere, 
+<lb/>introissem, dum me exire putarem in domum Dedali, me reperi 
+<lb/>vagabundum, nulloque additu michi patefacto, dum oneri quod 
+<lb/>assumpseram, succumbere me putarem, per quasdam rimulas 
+<lb/>cepi lumen parvum percipere veritatis….
+<lb/>2. Accipe ergo clementissime <persName key="Yesün Temür Khan">Imperator</persName> et Cesar semper auguste, 
+<lb/>manipulum virorum illustrium, quem de silva tante densitatis 
+<lb/>excerpere valui manu quodammodo tremulenta, <hi rend="italic"> ut</hi>sit gloria 
+<lb/><hi rend="italic">capiti tuo et torques collo tuo….</hi>
+<lb/> 
+<lb/><hi rend="italic">Ingressus in Cronicam Boemie</hi> (521).
+<lb/><hi rend="italic">Miraculum de incisione digiti S. Nicolai</hi> (521-2).
+<lb/><hi rend="italic">Incipit descripcio Boemorum et unde originem traxerunt</hi> (522).
+<lb/><hi rend="italic">De descripcione terre Boemorum et proprietatibus rerum ipsius</hi> (523).
+<lb/><hi rend="italic">De imposicione nominis terre Boemie</hi> (ibid.).
+<lb/><hi rend="italic">De moribus primorum gentilium Boemorum</hi> (523-4).
+<lb/><hi rend="italic">De prumo duce Boemorum et causa sue eleccionis</hi> (524).
+<lb/><hi rend="italic">De Premysl electo ex aratro et eius magna prudencia</hi> (524-5).
+<lb/><hi rend="italic">De fundacione urbi Pragensis</hi> (525-6).
+<lb/><hi rend="italic">De mirabili insolencia Boemorum et maxime puellarum</hi> (526).
+<lb/><hi rend="italic">De successione ducum Boemie</hi> (ibid.).
+<lb/><hi rend="italic">De duce Wratislaw et exercitu eius contra Bohemos</hi> (526-7).
+<lb/><hi rend="italic">De notabili victoria Boemorum</hi> (527-8).
+<lb/><hi rend="italic">Incidens de impietate et scelere cuiusdam pessimi proditoris</hi> (528).
+<lb/><hi rend="italic">De Borziwoy, primo duce Boemorum christiano</hi> (528-9).
+<lb/><hi rend="italic">De fundacione prime ecclesie temptacione ducis Borziwoy</hi> (529).
+<lb/><hi rend="italic">De Spitigneo duce, filius Borziwoy et S. Ludmille</hi> (530).
+<lb/><hi rend="italic">De Wratislao, fratre Spitignei, patre S. Wnceslai</hi> (ibid.).
+<lb/><hi rend="italic">De morte S. Ludmille et miracuilis</hi> etc. (ibid.).
+<lb/><hi rend="italic">De S. Wenceslao duce</hi> (531).
+<lb/><hi rend="italic">De duce Bolesao fratricida</hi> (ibid.).
+<pb n="552"/>
+<lb/><hi rend="italic">De Boleslao secundo piissimo, filio fratricide, capitulum</hi> (532). 
+<lb/><hi rend="italic">De S Adalberto digressio</hi> (532-3). 
+<lb/><hi rend="italic">De eleccione S. Adalberti</hi> (533-4). 
+<lb/><hi rend="italic">Item de piissimo Boleslao</hi> (534). 
+<lb/><hi rend="italic">De pia et finali exortacione patris ad filium et morte patris</hi>
+<lb/><hi rend="italic">capitulum</hi> (ibid.). 
+<lb/><hi rend="italic">De institucione tercii Boleslai et filiis eiusdem</hi> (534-5). 
+<lb/><hi rend="italic">Quomodo capta fuit Praga a duce Polonie proditorie et quomodo</hi>
+<lb/><hi rend="italic">Odabricus dux eam tunc recuperavit</hi> (535-6). 
+<lb/><hi rend="italic">De morte Odabrici ducis et lamento germani eius Iaromir ceci.</hi>
+<lb/>(536) 
+<lb/><hi rend="italic">De ammonicione facta Wratislao et crudeli morte Iaromir, patrui</hi>
+<lb/><hi rend="italic">ipsius</hi> (ibid.). 
+<lb/><hi rend="italic">De mira audacia ducis Wratislai et raptu Iudithe, Virginis</hi>
+<lb/><hi rend="italic">pulcherrime</hi> (537). 
+<lb/><hi rend="italic">Incidencia eiusdem temporibus</hi> (537). 
+<lb/><hi rend="italic">De morte quinque fratrum sanctorum heremitarum</hi> (537-8). 
+<lb/><hi rend="italic">Continuacio ystorie de probitate ducis Wratislai et heroycis operibus</hi>
+<lb/><hi rend="italic">eiusdem</hi> (538-9). 
+<lb/><hi rend="italic">De accusacione Boemorum apud Romanum Pontificem</hi> (539).
+<lb/><hi rend="italic">De turbacione Boemorum contra Henricum secundum imperatorem</hi>
+<lb/><hi rend="italic">et bello</hi> (539-40). 
+<lb/><hi rend="italic">De victoria Imperatoris et pace facta</hi> (540). 
+<lb/><hi rend="italic">De Wratislai temporibus et incidentibus</hi> (ibid.). 
+<lb/><hi rend="italic">De morte Wratislai, gloriosi ducis</hi> (540-1). 
+<lb/><hi rend="italic">De sublimacione Spitignei ducis</hi> (541). 
+<lb/><hi rend="italic">De gestis Spitignei et fratrum eius et disposicione regni Morauie</hi>
+<lb/>(ibid.). 
+<lb/><hi rend="italic">De Spitigneii prudencia et sancta conversacione eius et pia morte</hi>
+<lb/><hi rend="italic">ipsius</hi> (541-2). 
+<lb/><hi rend="italic">De Wratislao germano substituto et Iaromir clerico, eciam eorum</hi>
+<lb/><hi rend="italic">germano</hi> (542-3). 
+<lb/><hi rend="italic">De unione sedis seu episcopatus Olomucensis cum Pragensi</hi> (543). 
+<lb/><hi rend="italic">Incidens quoddam de Iaromir predicto</hi> (ibid.). 
+<lb/><hi rend="italic">Miraculum quoddam</hi> (543-4). 
+<lb/><hi rend="italic">De obitu Iuditte, coniugis Wratislai</hi> (544). 
+<lb/><hi rend="italic">Quod sub Henrico tercio Imperatore in concilio et synodo Maguntina</hi>
+<lb/><hi rend="italic">Boemorum ducum solium fit regale etc.</hi> (ibid.).
+<pb n="553"/>
+<lb/><hi rend="italic">Quomodo Saxones invaserunt Boemos, filio regis in aqua natante</hi>
+<lb/>(ibid.). 
+<lb/><hi rend="italic">De probitate cuiusdam militis</hi> (545). 
+<lb/><hi rend="italic">De improperio facto filio regis et eius vindicta</hi> etc. (545-6). 
+<lb/><hi rend="italic">De pace facta inter patrem et filium, meritis beatorum patronorum</hi>
+<lb/><hi rend="italic">Wenceslai et Adalberti</hi> (546). 
+<lb/><hi rend="italic">De eleccione Episcoporum Cosme et Andree Pragensis et Olomucensis</hi>
+<lb/><hi rend="italic">ecclesiarum</hi> (ibid.). 
+<lb/><hi rend="italic">De institucione Wratislai et gestis eius capitulum</hi> (546-7). 
+<lb/><hi rend="italic">Quod dux Wratislaus duxit uxorem de Bauaria nomine</hi>
+<lb/><hi rend="italic">Lucardam</hi> (547). 
+<lb/><hi rend="italic">Quomodo honorifice est receptus ab Imperatore dux Boemie et</hi>
+<lb/><hi rend="italic">honoratus</hi> (547-8). 
+<lb/><hi rend="italic">Quod Borziwoy, frater Wratislai, duxit [uxorem] nomine Helbir</hi>
+<lb/>(548). 
+<lb/><hi rend="italic">Quomodo Wratislaus predixit inevitabile fatum sue terribilis mortis</hi>
+<lb/>(ibid.). 
+<lb/><hi rend="italic">De institucione iunioris fratris in ducatu capitulum</hi> (548-9). 
+<lb/><hi rend="italic">De discordia orta inter duces Borziwoy et Swatopluc</hi> (549). 
+<lb/><hi rend="italic">Incidens quoddam notabile</hi> (549-50). 
+<lb/><hi rend="italic">De rebellione Henrici, Imperatoris filii, contra patrem augustum</hi>
+<lb/>(550). 
+<lb/><hi rend="italic">De versucia cuiusdam nomine Budwoy et simplicitate ducis Burzwoy</hi>
+<lb/>(ibid.). 
+<lb/><hi rend="italic">Quomodo Borziwoy fuit in gracia Regis et fecit capi fratrem suum</hi>
+<lb/><hi rend="italic">Swatopluc et post ea perdidit graciam</hi> (550-1). 
+<lb/><hi rend="italic">Quomodo Swatopluc rediit a rege dimissus et ecclesias et monasteria</hi>
+<lb/><hi rend="italic">spoliavit</hi> (551). 
+<lb/><hi rend="italic">De prodicione Mutine et crudeli vindicta capitulum</hi> (ibid.). 
+<lb/><hi rend="italic">Quomodo Swatopluc triumphat contra Ungaros et quomodo oculum</hi>
+<lb/><hi rend="italic">perdidit</hi> (552). 
+<lb/><hi rend="italic">Quomodo Swatopluc sanato oculo iterum invasit <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName></hi> (552-3). 
+<lb/><hi rend="italic">De institucione Wlatislai ducis post mortem Swatopluc et invasione</hi>
+<lb/><hi rend="italic">Borziwoy</hi> (553). 
+<lb/><hi rend="italic">De victoria Wlatislai contra filium Wigberti</hi> (ibid.). 
+<lb/><hi rend="italic">Quomodo adiutorio Imperatoris Wlatislaus triumphat</hi> (553-4). 
+<pb n="554"/>
+<lb/><hi rend="italic">De strage Boemorum facta a duce Polonie capitulum</hi> (554). 
+<lb/><hi rend="italic">Qualiter Wlatislaus, dux Boemie, revocat de <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName> fratrem suum</hi>
+<lb/><hi rend="italic">Sobieslaum</hi> (ibid.). 
+<lb/><hi rend="italic">De falsa relacione quorumdam facta Sobieslao super comitem</hi>
+<lb/><hi rend="italic">Wnatek</hi> (554-5). 
+<lb/><hi rend="italic">Quomodo dux Sobieslaus revocatur in graciam</hi> (555). 
+<lb/><hi rend="italic">De pugna inter Ungaros et Boemos frivola occasione commissa</hi> (555-6). 
+<lb/><hi rend="italic">Qualiter Wratislaus revocat fratrem suum Borziwoy de exilio capitulum</hi>(556). 
+<lb/><hi rend="italic">Incidencia eiusdem Borziwoy temporibus</hi> (ibid.). 
+<lb/><hi rend="italic">Qualiter Wlatislaus expulit fratrem suum Sobieslaum de Moravia</hi>
+<lb/>(556-7). 
+<lb/><hi rend="italic">De mira prudencia et pietate materna et clemencia nobilis ducis</hi>
+<lb/><hi rend="italic">Wratislai</hi> (557-8). 
+<lb/><hi rend="italic">De institutione Sobieslai; germani minoris</hi> (558). 
+<lb/><hi rend="italic">Qualiter Sobieslaus dux restituit Wratislaum, filium Odabrici</hi>
+<lb/><hi rend="italic">in sedem suam pristinam</hi> (ibid.). 
+<lb/><hi rend="italic">Qualiter Sobieslaus misit Wratislaum in carcerem</hi> (558-9). 
+<lb/><hi rend="italic">De prodicione contra ducem, quomodo fuit cognita et postmodum</hi>
+<lb/><hi rend="italic">punita etc.</hi> (559-60) .
+<lb/><hi rend="italic">De concilio Maguntino, in quo interfuit Innocencius <persName key="Papa">Papa</persName></hi>
+<lb/><hi rend="italic">profugus</hi> (560). 
+<lb/><hi rend="italic">Qualiter dux Ratisponiensis noluit obedire statuto principum</hi> (ibid.).
+<lb/><hi rend="italic">De piis operibus Sobieslai et morte eius etc.</hi> (561). 
+<lb/><hi rend="italic">De duce Wlatislao et morte Alleyde capitulum</hi> (ibid.). 
+<lb/><hi rend="italic">De dissensione orta inter Wlatislaum Boemie et Conradum Morauie</hi>
+<lb/><hi rend="italic">duces etc.</hi> (561-2). 
+<lb/><hi rend="italic">De introduccione Ordinis Premonstratensium capitulum</hi> (562). 
+<lb/><hi rend="italic">Quod Fridericus Rex ivit <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Romam</placeName> pro coronacione ad imperium</hi>
+<lb/>(562-3). 
+<lb/><hi rend="italic">De prelio Romanorum contra Fridericum Imperatorem coronatum</hi>
+<lb/><hi rend="italic">capitulum</hi> (563). 
+<lb/><hi rend="italic">De coronacione regis Boemie</hi>etc. (ibid.). 
+<lb/><hi rend="italic">De coronacione regis Wenceslai</hi>etc. (564). 
+<lb/><hi rend="italic">Quod rex Wenceslaus filium invitat ad convivium</hi> (564-5). 
+<lb/><hi rend="italic">Incidencia plura subscripta</hi> (565-6). 
+<lb/><hi rend="italic">De actis tempore Primsil, filii Regis Boemorum Wenceslai</hi>etc.
+<lb/>(566-8).
+<pb n="555"/>
+<lb/><hi rend="italic">Qualiter Primsil, filius Wenceslai, movit exercitum contra Reges</hi>
+<lb/><hi rend="italic">Ungarie, qui pacem infregerant</hi> (568). 
+<lb/><hi rend="italic">De precipiti audacia Boemorum contra insidias Ungarorum et</hi>
+<lb/><hi rend="italic">strage dolorosa</hi> (ibid.). 
+<lb/><hi rend="italic">Quomodo per insidias sunt decepti et confusi populi cristiani, capitulum</hi>
+<lb/>(568-9). 
+<lb/><hi rend="italic">Quomodo deus convertit ruinam christianorum in gloriam et</hi>
+<lb/><hi rend="italic">honorem</hi> (569). 
+<lb/><hi rend="italic">Epistola missa domino Pape Alexandro quarto</hi> (569-70). 
+<lb/>Capitulum, in quo septem miracula er ordinem describuntur divinitus 
+<lb/><hi rend="italic">ostensa a Deo</hi> (570-1). 
+<lb/><hi rend="italic">De desponsacione Cunegundis cum duce predicto et coronacione</hi>
+<lb/><hi rend="italic">eiusdem</hi> (571). 
+<lb/><hi rend="italic">De solempni desponsacione facta per Regem Boemie inter Belam,</hi>
+<lb/>iuniorem Regem Ungarie, et neptem Regis Boemie ex sorore 
+<lb/><hi rend="italic">filiam marchionis Brandenburgensis</hi> (571-72). 
+<lb/><hi rend="italic">Quomodo Rex Otakarus prudenter abrenuncciavit eleccionem imperii</hi>
+<lb/><hi rend="italic">prehabito consilio</hi>etc. (572). 
+<lb/><hi rend="italic">Qualiter Rudolphus, Romanorum electus, repetivit ab Otakaro,</hi>
+<lb/><hi rend="italic">Rege Boemie, iura imperii</hi>etc. (ibid.). 
+<lb/><hi rend="italic">Quomodo Otakarus resignavit quinque vexilla et frustratus est intencione</hi>
+<lb/><hi rend="italic">sua</hi>(573). 
+<lb/><hi rend="italic">Qualiter Otakarus animo superbo despexit Romanorum electum et</hi>
+<lb/><hi rend="italic">fregit omnia pacta prius ordinata</hi> (ibid.). 
+<lb/><hi rend="italic">De infinitis calamitatibus et miseriis Boemorum</hi> (573-4). 
+<lb/><hi rend="italic">Qualiter marchio Brandenburgensis aliam Boemis intulit persecucionem</hi>
+<lb/><hi rend="italic"/> (574-5). 
+<lb/><hi rend="italic">Qualiter Deus post angustias pacatus est populo Boemorum</hi> etc. (575). 
+<lb/><hi rend="italic">De ritu novi ducis Wenceslai et fine tutele Brandenburgensis</hi> (ibid.). 
+<lb/><hi rend="italic">Capitulum ultimum</hi> (575-6).
+<lb/> 
+<lb/>III.
+<lb/> 
+<lb/><hi rend="italic">Incipit tercius liber cronice Boemorum,</hi>
+<lb/><hi rend="italic">qui ierarticus sive ecclesiasticus nominatur</hi> (576-7).
+<lb/> 
+<lb/>1. Ecce descripsi eam tibi tripliciter. Sapientissimi Salomonis 
+<lb/>in Proverbiis verba prescripta mea create trinitati indicant et 
+<lb/>ostendunt nullam rem omnino consistere nisi in numero Trinitatis. 
+<pb n="556"/>
+<lb/><hi rend="italic">Omnia enim numero, pondere et mensura</hi> creasti Domine, 
+<lb/>ait ipse, quod theoloice dicitur modus, species et ordo. Hoc 
+<lb/>eciam indicat Scriptura in principio Genesis, quia in principio 
+<lb/>creavit Pater Verbum, quia dixit <hi rend="italic">Spiritum</hi> qui <hi rend="italic">ferebatur super</hi>
+<lb/><hi rend="italic">aquas</hi>. Hanc Trinitatem vidit Abraham, quia tres vidit et unum 
+<lb/>adoravit, et idem Salomon de Deo loquens in Proverbiis: <hi rend="italic"> Quod</hi>, 
+<lb/>inquit, <hi rend="italic">nomen eius</hi> vel <hi rend="italic">filii eius si nosti</hi>, illius scilicet qui <hi rend="italic">appendit</hi>
+<lb/><hi rend="italic">tribus digitis molem terre</hi>…. Ecce descripsi eam tripliciter, scilicet 
+<lb/>sapienciam eterni luminis derictivam, nam vapor est omnipotentis 
+<lb/>Dei et ymago claritatis illius et idcirco ut in anima quasi 
+<lb/>a Patre reluceat potestas, a Filio veritas, a Spiritu S. caritas 
+<lb/>attendantur. 
+<lb/>2. Et sic in memoria sit stimulus consciencie, in intelligencia 
+<lb/>splendor noticie vel radius noticie, in amore igniculus benivolencie 
+<lb/>ad nostram creatam ymaginem reformandam per potenciam 
+<lb/>paternalem, illustrandam vel conformandam per noticiam filialem, 
+<lb/>transformandam in amorem celestium per benivolenciam 
+<lb/>spiritualem. Ille igitur ignis tripliciter exurens montes et mentes 
+<lb/>contemplancium a montibus eternis per lucem sapiencie illuminans 
+<lb/>et exsufflans radios igneos, trinam partem nostre create 
+<lb/>ymaginis trino radio reaccendat. 
+<lb/>3. In hac tercia parte nostri opusculi in amorem celestium, 
+<lb/>ut cum Paulo raptus <hi rend="italic">usque ad tercium celum</hi>contemplari valeas 
+<lb/>Seraph illum cum Ysaya, intendentem labia tua ignito calculo 
+<lb/>S. Scripture <hi rend="italic">quem forcipe tulerat de altari</hi>, ita quod cum viro 
+<lb/>induto lineis, summo sacerdote Cristo, implere valeas primus 
+<lb/>altaris perfecte intelligencie manus sacras, ut effundere valeas 
+<lb/>super Domini civitatem ecclesie militantis, ut tamquam <hi rend="italic">vir desideriorum</hi>
+<lb/>cum Daniele Gabrielem volantem cognoscas <hi rend="italic">tempore</hi>
+<pb n="557"/>
+<lb/><hi rend="italic">sacrificii vespertini</hi>. Ut indicet tibi virtutem ignei fluvii totaliter 
+<lb/>incendentis, virtute sedentis in trono, per omnia secula 
+<lb/>seculorum. Amen. 
+<lb/> 
+<lb/><hi rend="italic">De sacerdocio naturali</hi> (577). 
+<lb/> 
+<lb/>In hac igitur tercia distinccione ecclesiastica, ut premissum 
+<lb/>est, describitur ierarchia, que a primo sacerdote vero post Adam, 
+<lb/>Abel iusto, usque ad tempora nostra decurrit….
+<lb/> 
+<lb/><hi rend="italic">De primo sacerdote post Adam Abel iusto capitulum</hi> (577-8).
+<lb/><hi rend="italic">De Sem sacerdote, primogenito Nohe</hi> (578).
+<lb/><hi rend="italic">De Abraham sacerdote</hi>etc. (ibid.).
+<lb/><hi rend="italic">De Ysaac sacerdote post Abraham</hi> (578-9).
+<lb/><hi rend="italic">De sacerdocio legali</hi> etc. (579-80).
+<lb/><hi rend="italic">Primus Liber Regum</hi> (580-1).
+<lb/> 
+<lb/><hi rend="italic">De Samuele</hi> etc. (581-2) 
+<lb/> 
+<lb/>1. …. Ibi dicitur (in libro Iosue) quod cultris lapideis facta est a Iosue 
+<lb/>circumcisio. Prudenciores tamen iudeorum, cum quibus de ista 
+<lb/>materia contuli, qui sunt amici mei, sicut iudeus christiano 
+<lb/>potest esse amicus, dixerunt michi asserendo, quod nunquam 
+<lb/>de communi lege potuit fieri, nisi cum acutissimo rasorio et de 
+<lb/>ferro vel de alio nobiliori metallo sicut est es vel aurum, et concordant 
+<lb/>cum dicto Aristotelis in libro Probleumatum, qui expresse 
+<lb/>probat, quod incisiones facte cum ere vel aureo cultello cicius 
+<lb/>sanantur, quam ille, que fiunt cum ferreo instrumento. Et ita 
+<lb/>utuntur medici de <placeName key="Cathay">Cathay</placeName>, ut ego vidi. 
+<pb n="558"/>
+<lb/><hi rend="italic">De Yoyada pontifice</hi> (583-4). 
+<lb/> 
+<lb/>1. …. Quo tempore Deus misertus populo suo fecit apparere 
+<lb/>Heliam, qui ubi fuerit conservatus a Deo, nescitur. Si verum 
+<lb/>est quod fingunt hebrei, quod iste idem fuerit Finees, filius Eleazari, 
+<lb/>ut recitat Ieronimus super primum Paralipominon, XXI 
+<lb/>capitulo; dicunt tamen hebrei et sabei, id est homines de regno 
+<lb/>Regine Saba, quod manserat in altissimo monte illius terre, 
+<lb/>qui mons Gybeit dicitur, quod sonat mons beatus, in quo monte 
+<lb/>orabant Magi, sicut dicunt, in nativitate Christi nocte, quando 
+<lb/>viderunt stellam, et est inaccessibilis quodam modo. Nam a medio 
+<lb/>monte et supra aer dicitur ita subtilis et purus quod nisi cum 
+<lb/>spongia plena aqua super os vix aliquis ascendere possit 
+<lb/>vel pauci. Helias tamen, ut dicunt, ibi mansit voluntate Dei absconsus 
+<lb/>usque ad tempora illa. Dicunt eciam illi de Saba quod 
+<lb/>ibi nunc eciam aliquando apparet; et est ibi fons, unde dicunt 
+<lb/>eum bibisse in pede montis. Et ego bibi de fonte illo, non tamen 
+<lb/>potui ascendere montem illum beatum, gravatus infirmitate 
+<lb/>propter fortissimum venenum, quod biberam in Columbo, michi 
+<lb/>propinatum ab hii, qui volebant rapere que habebam, quamvis 
+<lb/>proicerem frustratim spolia, carnes omnium intestinorum cum 
+<lb/>infinito sanguine, et passus fuerim tercie speciei incurabilem 
+<lb/>dissenteriam mensibus quasi undecim, de qua forte nullus dicitur 
+<lb/>alius evasisse. Deus tamen misertus est mei, ut referrem que 
+<lb/>videram, et auxilio cuiusdam medice illius Regine evasi, que 
+<lb/>cum sucis herbarum tantum et abstinencia me curavit. 
+<lb/>2. Reginam eciam illam frequenter vidi et solempniter benedixi 
+<lb/>et super eius elefantem equitavi et in eius convivio glorioso 
+<lb/>fui. Et ipsa me in conspectu tocius civitatis in solio residentem 
+<lb/>honoravit donis magnificis, nam cingulum aureum sicut ipsa
+<pb n="559"/>
+<lb/>donabat principibus institutis, michi donavit; quem latrones 
+<lb/>michi acceperunt in Seyllano. Donavit eciam michi vestes, 
+<lb/>pecias integras preciosas subtiles centum quinquaginta, de quibus 
+<lb/>novem recepi pro domino <persName key="Papa">Papa</persName>, quinque pro me, sociis principalibus 
+<lb/>dedi tres pro quolibet, minoribus duas, et omnes alias 
+<lb/>in eius conspectu distribui inmediate astantibus servitoribus 
+<lb/>eius ne essem avarus; quod fuit summe commendatum et magnificum 
+<lb/>reportatum. Hoc incidens non displiceat….
+<lb/> 
+<lb/><hi rend="italic">De templo secund reedificato sun Hesdra</hi> (584-5).
+<lb/> 
+<lb/><hi rend="italic">Incipit ystoria novi testamenti, de sacerdocio spirituali</hi>
+<lb/><hi rend="italic">et primo pontifice christianorum Ihesu Christo</hi> (585-8). 
+<lb/> 
+<lb/>1. …. Omnes enim philosophi et astrologi Babilonii et Egipcii 
+<lb/>et Caldei pronuncciarunt in coniunccione Mercurii et Saturni 
+<lb/>puellam nascituram virginem, filium absque viri coytu parituram 
+<lb/>in terra Israel, cuius ymago in templo de Kampsay solempnissime 
+<lb/>custoditur, et prima luna mensis primi, scilicet februarii 
+<lb/>qui primus est apud Kathayos, festum istud cum candelis per 
+<lb/>totam noctem solempnissime celebratur anni novi. 
+<lb/> 
+<lb/><hi rend="italic">Quomodo autem inventa est [Maria] et a quo; sed posset obmitti</hi>
+<lb/><hi rend="italic">si placere</hi>  (588). 
+<lb/><hi rend="italic">De descripcione orbis et nativitate Ihesu Christi</hi>  (588-9). 
+<lb/><hi rend="italic">Qualiter Ihesus fuit inter summos Pontifices ordinatus</hi> (589-90). 
+<lb/><hi rend="italic">De baptismo Christi</hi>  (590). 
+<lb/><hi rend="italic">De missione Spiritus Sancti</hi>  (590-2). 
+<lb/><hi rend="italic">De Apostolis aliis</hi>  (592). 
+<lb/><hi rend="italic">De aliis discipulis Christi</hi> (593-4). 
+<lb/><hi rend="italic">De Lino et Cleto episcopis ordinatis a Sancto Petro</hi> (594). 
+<lb/><hi rend="italic">De S. Clemente, Romanorum <persName key="Papa">Papa</persName> post Sanctum Petrum</hi>  (594-5).
+<lb/><hi rend="italic">De eleccione primi Episcopi Boemorum Diothemari</hi>  (595). 
+<lb/><hi rend="italic">De sancto Adalberto episcopo</hi>  (ibid.). 
+<lb/><hi rend="italic">De Tegdago, episcopo Boemie</hi>  (ibid.).
+<pb n="560"/>
+<lb/><hi rend="italic">De Eckehardo Episcopo</hi>  (ibid.). 
+<lb/><hi rend="italic">De Yzzo Episcopo Boemie</hi> (ibid.). 
+<lb/><hi rend="italic">De Severo</hi>  (596). 
+<lb/><hi rend="italic">De Severo Episcopo</hi> (596-7). 
+<lb/><hi rend="italic">De levitate novi Episcopi Iaromir qui dictus est Bebehardus</hi> (597-8). 
+<lb/><hi rend="italic">Capitulum de temeritate Bebehardi contra Iohannem Episcopum</hi>
+<lb/><hi rend="italic">Moravie</hi> (598). 
+<lb/><hi rend="italic">De adventu cardinalis Romani</hi> (ibid.). 
+<lb/><hi rend="italic">Capitulum de Cosma Episcopo</hi> (598-9). 
+<lb/><hi rend="italic">De generali synodo celebrata capitulum</hi> (599). 
+<lb/><hi rend="italic">De Hermanno Episcopo</hi>  (599-601). 
+<lb/><hi rend="italic">De Meynardo Episcopo</hi> (601-2). 
+<lb/><hi rend="italic">De Iohanne preposito Wyssegradensi electo in Episcopum</hi> (602). 
+<lb/><hi rend="italic">Incidens de quadam muliere contracta capitulum</hi>  (ibid.). 
+<lb/><hi rend="italic">De Wratislao Episcopo</hi>  (603-4).
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Relatio</title>
+                    <author ref="https://viaf.org/viaf/106967420/">Odoricus de Portu Naonis O.F.M.<date>1265?-1231</date></author>        
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>
+                        <ref target="www.alim.unisi.it">ALIM</ref>
+                    </publisher>
+                    <date when="2015-04-21">21/04/2015</date>
+                    <availability>
+                        <licence target="www.alim.unisi.it">© ALIM</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title ref="https://www.worldcat.org/title/itinera-et-relationes-fratrum-minorum-saeculi-xiii-et-xiv/oclc/7503970" key ="print-editor">in: Sinica franciscana, I: Itinera et relationes fratrum Minorum saeculi XIII et XIV, a cura di A. Van Den Wyngaert, Firenze, Quaracchi, 1929, 413-495</title>
+                        <idno type="SINICA"></idno>
+                        <idno type="CCT">http://heron-net.be/pa_cct/index.php/Detail/objects/151</idno>
+                        <idno type="URI">http://it.alim.unisi.it/dl/resource/250</idno>
+                   </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p></p>
+                </projectDesc>
+                <editorialDecl>
+                    <ab>
+                    </ab>
+                </editorialDecl>
+            </encodingDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="lat">Latin</language>
+                </langUsage>
+                <textClass>
+                    <keywords>
+                        <term type="form">Prosa</term>
+                        <term type="source">Sinica Franciscana</term>
+                        <term type="genre">Itinera et Relationes</term>
+                        <term type="place">China</term>
+                    </keywords>
+                </textClass>
+                <creation>
+                    <date when-iso="1301/1400">1330</date>
+                </creation>
+            </profileDesc>
+            <revisionDesc> 
+                <change when="2015-04-01" who="0000-0000-0000-0000">Encoded in TEI for the ALIM Project</change>
+                <change when="2019-12-15" who="0000-0003-4347-011X">E. Carbé: TEI for ELA (level 1)</change>     
+            </revisionDesc>
+        </teiHeader>
+<text>
+<body>
+<ab>
+<pb n="413"/>
+<lb/>Incipiunt hic multe et diverse hystorie beati Odorici 
+<lb/>fratris Minoris de ritibus et condicionibus huius mundi et de 
+<lb/>martirio IIII fratrum Minorum. 
+<lb/> 
+<lb/>De perdicibus que per aerem ducebantur. CAP. I. 
+<lb/> 
+<lb/>1. Licet multa et varia de ritibus et condicionibus huius 
+<lb/>mundi a multis enarentur, tamen est sciendum quod ego frater 
+<lb/>Hodoricus de Foro Iulii volens transfretare et ad partes 
+<lb/>infidelium volens ire ut fructus aliquos lucrifacerem animarum, 
+<lb/>multa magna et mirabilia audivi atque vidi que 
+<lb/>possum veraciter enarrare.
+<lb/>2. Nam primo transiens mare Maius, me transtuli Trapesondam 
+<lb/>que Pontus antiquitus vocabatur. Hec terra valde
+<pb n="414"/>
+<lb/>est bene situata, ipsa est enim scala quedam, videlicet <placeName key="Persae" ref="https://www.geonames.org/130758">Persarum</placeName>, 
+<lb/><placeName key="Medorum Imperium">Medorum</placeName> et omnium eorum que sunt ultra mare. 
+<lb/>In hac enim terra vidi quoddam quod placuit mihi valde, 
+<lb/>nam vidi hominem quemdam secum ducentem plures quam 
+<lb/>quatuor millia perdicum. Et iste homo per terram veniebat, 
+<lb/>perdices vero per aerem volabant. Has autem perdices 
+<lb/>ipse ducebat ad quoddam castrum quod vocabatur Canega, 
+<lb/>distans a Trapesonda tribus dietis; nam hee perdices huius 
+<lb/>erant condicionis et proprietatis, nam cum ille homo vellet 
+<lb/>quiescere vel dormire, omnes se aptabant circa eum more 
+<lb/>pullorum gallinarum, et sic isto modo eas ducebat Trapesondam 
+<lb/>usque ad palacium Imperatoris. Que cum sic essent 
+<lb/>ante eum, de eis tot accipiebat quot ipse volebat; alias autem 
+<lb/>perdices homo ad locum quo prius illas acceperat 
+<lb/>perducebat. 
+<pb n="415"/>
+<lb/>3. In hac civitate positum est corpus Atanasii super ipsius 
+<lb/>portam civitatis. Et iste Atanasius fecit symbolum quod 
+<lb/>incipit: <hi rend="italic">Quicumque vult.</hi>
+<lb/>Hinc recedens ivi in Armeniam maiorem ad quamdam 
+<lb/>civitatem que vocabatur Arceron. Hec civitas multum erat 
+<lb/>bona et oppulenta multo tempore iam transacto, et adhuc esset 
+<lb/>nisi fuissent Tartari et saraceni qui eam multum destruxerunt, 
+<lb/>nam ipsa multum habundat pane, carnibus et aliis victualibus 
+<lb/>multis preterquam vino, fructibus, quia ista civitas multum 
+<lb/>est frigida. De ipsa enim dicunt gentes quod est altior 
+<lb/>terra que hodie habitetur in mundo. Hec autem habet 
+<pb n="416"/>
+<lb/>bonas aquas, cuius ratio esse videtur: nam vene harum aquarum 
+<lb/>oriri videntur et scaturire a flumine Euphrate quod 
+<lb/>per unam dietam distat ab ista civitate et labitur inde. Hec 
+<lb/>autem civitas est via media eundi Tauris. 
+<lb/> 
+<lb/>De monte san[c]to super quo est archa Noe, ad quem ut dicitur 
+<lb/>nemo potest ascendere. Cap. II.
+<lb/> 
+<lb/>1. De hac recedens ivi ad quemdam montem qui vocatur 
+<lb/>Solissaculo. In hac contrata est mons ille in quo est archa 
+<lb/>Noe. In quem libenter ascendissem si mea societas me prestolari 
+<lb/>voluisset; et quamquam ascendere voluerim, tamen gens 
+<lb/>illius contrate dicebat quod nullus unquam poterat ascendere 
+<lb/>illum montem. Nam hoc videtur, ut dicitur, Deo altissimo 
+<lb/>non placere. 
+<pb n="417"/>
+<lb/>De Tauris nobilissima civitate, ubi est unus mons salis 
+<lb/>de quo quisque accipere potest. Cap. III.
+<lb/> 
+<lb/>1. De ista contrata recedens a me transtuli Tauris, civitatem 
+<lb/>magnam et regalem que Susis antiquitus dicebatur. Hec Susis 
+<lb/>terra Regis Assueri fuit. In ista, ut dicitur, est arbor sicca 
+<lb/>in una mosceta, id est in una ecclesia saracenorum. Hec civitas 
+<lb/>melior est pro mercimoniis quam alia civitas de mundo. 
+<lb/>Nam non reperitur hodie aliquid in mundo quod sit comestibile 
+<lb/>vel alicuius mercimonii cuius illic magna copia non habeatur. 
+<lb/>Hec enim multum bene est posita atque sita. In tantum 
+<lb/>est enim nobilis civitas illa, quod est quasi incredibile de hiis 
+<lb/>que ibi habentur. Nam quasi totus mundus pro mercimoniis 
+<lb/>illi correspondet civitati.
+<lb/>2. De hac enim volunt dicere christiani, quod ex ista civitate 
+<lb/>plura recipit <persName key="Yesün Temür Khan">Imperator</persName> ille quam Rex Francie habeat 
+<lb/>de toto suo regno. 
+<pb n="418"/>
+<lb/>3. Penes hanc civitatem est unus mons salinus, magnam copiam 
+<lb/>a salis toti exibens civitati. De hoc sale unusquisque 
+<lb/>accipit quantum vult et petit, nichil solvendo.
+<lb/>4. In hac civitate multi christiani cuiuslibet generis commorantur, 
+<lb/>quibus ipsi saraceni in omnibus dominantur. Multa 
+<lb/>alia sunt in ista civitate que nimis foret longum enarare.
+<lb/>5. Ab hac civitate Tauris ivi per X dietas ad quamdam civitatem, 
+<lb/>que vocabatur Soldania. In hac civitate tempore estivo 
+<lb/>moratur <persName key="Yesün Temür Khan">Imperator</persName> <placeName key="Persae" ref="https://www.geonames.org/130758">Persarum</placeName>. In yeme vadit ad 
+<lb/>quamdam contratam que est supra unum mare Bacud. Hec 
+<lb/>civitas magna terra est et frigida, in se habens bonas aquas; 
+<lb/>ad quam civitatem portantur multa et magna mercimonia que 
+<lb/>illic venduntur. 
+<lb/> 
+<lb/>De civitate Casan, a qua Magi iverunt <placeName key="Ierusalem" ref="https://pleiades.stoa.org/places/687928">Ierusalem</placeName> virtute divina. 
+<lb/>Cap. IV.
+<lb/> 
+<lb/>1. De ista civitate recedens cum caravanis, id est cum 
+<lb/>quadam societate, ivi versus Indiam superiorem, ad quam 
+<lb/>dum sic irem per multas dietas, applicui ad unam civitatem
+<pb n="419"/>
+<lb/>Regum Magorum que vocatur Cassam, civitatem regalem 
+<lb/>et magni honoris. Verumtamen Tartari eam multum destruxerunt. 
+<lb/>Hec civitas multum habundat pane, vino et multis aliis 
+<lb/>bonis. Ab hac civitate usque <placeName key="Ierusalem" ref="https://pleiades.stoa.org/places/687928">Ierusalem</placeName>, quo Magi iverunt non 
+<lb/>virtute humana sed miraculosa cum sic cito venerint, sunt 
+<lb/>bene quinquaginta diete. Multa autem alia sunt in ista civitate 
+<lb/>que modo non expedit enarare. 
+<lb/> 
+<lb/>De civitate Gest, in qua nullus christianus ultra annum, 
+<lb/>ut dicitur, vivere potest. Cap. V.
+<lb/> 
+<lb/>1. Inde recedens ivi ad quamdam civitatem nomine Gest, a
+<lb/>a qua distat mare Arenosum per unam dietam. Quod mare est 
+<lb/>valde mirabile et periculosum. Et in hac civitate Gest est 
+<lb/>magna copia victualium et omnium aliorum bonorum que iam 
+<lb/>dici possent; potissime autem ficuum illic maxima copia reperitur. 
+<lb/>Uve autem sicce et virides ut herba et multum minute 
+<lb/>illic inveniuntur, uberius et habundancius quam in aliqua 
+<lb/>parte mundi. Hec est tercia melior civitas quam <placeName key="Persae" ref="https://www.geonames.org/130758">Persarum</placeName> 
+<lb/><persName key="Yesün Temür Khan">Imperator</persName> possideat in toto suo regno. De hac dicunt saraceni 
+<lb/>quod in ea nullus christianus ultra annum vivere valet. Multa 
+<lb/>alia illic habentur. 
+<pb n="420"/>
+<lb/>2. Ab hac recedens et transiens per multas civitates et terras, 
+<lb/>vi ad quamdam terram nomine Comum, que antiquitus 
+<lb/>civitas magna fuit. Hec maximum damnum intulit <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Rome</placeName> tempore 
+<lb/>iam transacto; eius muri bene sunt quinquaginta milliarium 
+<lb/>capaces. In ista sunt palacia integra adhuc inhabitabilia; 
+<lb/>tamen multis etiam victualibus habundat. 
+<lb/> 
+<lb/>De civitate Iob ubi homines nent, mulieres vero non. 
+<lb/>Cap. VI.
+<lb/> 
+<lb/>1. Ex hac recedens et veniens per terras multas, perexi 
+<lb/>ad terram Iob nomine Us, que est cunctorum victualium 
+<lb/>multum pulcer situs. Penes hanc terram sunt montes in quibus 
+<lb/>sunt pulcerima pascua pro animalibus habundanter. Illic 
+<lb/>etiam melior manna et in maiori copiam reperitur quam 
+<lb/>in terra aliqua, que hodie sit in mundo. In ipsa etiam habentur 
+<lb/>IIIIor bone perdices pro minori precio quam uno grosso. 
+<lb/>In ea sunt pulcerimi senes, ubi homines nent, id est filant, 
+<lb/>mulieres vero non. Hec terra correspondet a capite Caldee versus 
+<lb/>tramontanam. 
+<pb n="421"/>
+<lb/>De regno Caldee, ubi mulieres portant solum interulam cum serabulis 
+<lb/>et hominum virilia descendunt usque ad dimidium 
+<lb/>tibiarum propter magnum calorem. Quorum navigium sutum 
+<lb/>est solo spago absque ullo ferro. Cap. VII.
+<lb/> 
+<lb/>1. Exinde exiens ivi in Caldeam que est regnum magnum; 
+<lb/>ad quam dum sic irem, ivi iuxta turrim Babel, que per IIIIor dietas 
+<lb/>distat ab illa. In hac Caldea est sua lingua propria, in qua 
+<lb/>pulcri homines sunt, mulieres vero turpes. Illic homines coperti 
+<lb/>vadunt et ornati, ut hic nostre mulieres vadunt. Qui homines sunt 
+<lb/>portantes aurea fasciola supra capita et de perlis, mulieres 
+<lb/>sunt ferrentes solum unam interulam attingentem usque ad 
+<lb/>genua, habentemque manicas ita largas et longas que usque 
+<lb/>ad terram ipse attingant. Hee mulieres ambulant discalciate 
+<lb/>portantes serabulas usque ad terram. Hee tritas, id est detas 
+<lb/>non portant, sed earum capilli undique disparguntur. Hic autem 
+<lb/>sicut homines post ipsas vadunt mulieres, ita ille post homines 
+<lb/>incedunt. Alia autem multa in hac civitate vidi, que non 
+<lb/>multum expedit enarare. 
+<pb n="422"/>
+<lb/>2. Hinc ergo recedens veni in Indiam, que est infra terram, 
+<lb/>quam isti Tartari multum destruxerunt. In ea sunt homines 
+<lb/>ut plurimum dactilos comedentes tantum quorum quadraginta 
+<lb/>libre pro minori precio uno grosso illic habentur. Sic 
+<lb/>autem de aliis multis. 
+<lb/>3. Ex hac <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> recedens et transiens per multas contratas, 
+<lb/>ad mare occeanum ego veni. Prima autem terra quam inveni 
+<lb/>vocatur Ornes, que est terra multum bene murata et terra 
+<lb/>multorum et magnorum mercimoniorum. In ea tantus et 
+<lb/>ita immensus est calor, quod virilia, id est testiculi hominum, 
+<lb/>exeunt ex corpore et descendunt usque ad dimidium tibiarum. 
+<lb/>Ideoque gens illius contrate si vivere volunt, sibi faciunt unam 
+<lb/>unctionem qua illa ungunt. Nam aliter omnes penitus morerentur, 
+<lb/>et sicut sunt uncta, in quibusdam saculis illa portant 
+<lb/>circumcirca se cingentes. 
+<lb/>4. In hac contrata homines utuntur navigio, quod vocatur 
+<lb/>iasse, suto solo spago. In unum istorum navigiorum ego ascendi, 
+<lb/>in quo nullum ferrum in aliquo loco potui reperire; 
+<lb/>in quod dum sic ascendissem, in viginti octo dietis me transtuli 
+<lb/>usque ad Tanam, in qua a pro fide Christi gloriosum martirium 
+<pb n="423"/>
+<lb/>passi fuerunt IIIIor nostri fratres Minores. Hec terra multum 
+<lb/>bene est situata. In ea magna copia panis, vini et arborum 
+<lb/>reperitur. Hec terra antiquitus fuit valde magna, nam ipsa 
+<lb/>fuit terra Regis Pori, qui cum Alexandro Rege prelium 
+<lb/>magnum iam commisit.	
+<lb/>5. Huius terre populus ydolatrat, nam adorant ignem, serpentem 
+<lb/>et arbores. Hanc terram regunt saraceni qui eam ceperunt 
+<lb/>violenter, nunc subiacentes imperio Doldali. 
+<lb/>6. In hac terra reperiuntur diversa genera bestiarum, in 
+<lb/>qua potissime sunt leones nigri in maxima quantitate; sunt 
+<lb/>etiam simie gatimaymones et noctue, ita magne sicut sunt 
+<lb/>hic columbe. Ibi etiam sunt mures ita magni sicut hic scerpi 
+<lb/>sive canes. Ideoque illic canes capiunt mures; murelege, id est 
+<lb/>gatte, ad hoc nichil valent.
+<lb/>7. In hac contrata quilibet homo ante domum suam habet 
+<lb/>unum pedem faxiolorum, ita magnum sicut hic esset una columpna. 
+<lb/>Hic pes faxiolorum, minime desiccatur donec sibi 
+<lb/>exibeatur aqua. Multe alie novitates sunt illic, quas multum 
+<lb/>pulcrum esset audire.
+<pb n="424"/>
+<lb/>8. In hac contrata que Tana nuncupatur, ut iam dictum est, 
+<lb/>passi fuerunt IIIIor fratres Minores gloriosum martirium pro 
+<lb/>fide Christi, quod per hunc modum habetur.
+<lb/> 
+<lb/>De martirio fratrum, et de eorum miraculis. Cap. VIII.
+<lb/> 
+<lb/>1. Dum predicti fratres Minores essent in Ormes, parati 
+<lb/>fuerunt cum una navi ut irent Polumbum, in qua dum essent, 
+<lb/>fuerunt portati malo suo velle usque ad Tanam. In hac civitate 
+<lb/>invenerunt XV domus nestorinorum scilicet christianorum 
+<lb/>qui sunt scismatici et heretici; et dum sic essent illic, sibi invenerunt 
+<lb/>hospitium, et hospitati fuerunt in domo cuiusdam illorum. 
+<lb/>Dum sic autem illic manerent, orta fuit quedam lis inter 
+<lb/>virum illius domus et eius uxorem, quam illo sero ipse fortiter 
+<lb/>verberavit. Dum autem sic esset verberata, conquesta fuit 
+<lb/>coram lo Cadi, id est Episcopo in lingua sua. Quam mulierem 
+<lb/>ipse Cadi interogavit, si posset probare quod dicebat. 
+<lb/>Tunc autem illa respondit dicens se bene posse probare, nam 
+<lb/>IIIIor rabani franchi, id est viri religiosi in lingua nostra, 
+<pb n="425"/>
+<lb/>illic erant in domo cum michi hoc fecit, hos interrogate quia 
+<lb/>vobis dicent veritatem. Ipsa autem muliere sic loquente, unus 
+<lb/>de Alexandria erat presens et rogavit Cadi ut mitteret pro eis 
+<lb/>quos dicebat esse homines magne scientie et scripturas bene 
+<lb/>scire. Ideoque, ut dicebat, bonum esset de fide disputare cum 
+<lb/>eis. Quod audiens ipse Cadi misit pro eis.
+<lb/>2. Qui dum sic ante eum ducti fuissent isti IIIIor fratres 
+<lb/>Minores, scilicet <persName key="Thomas S.J.">Fr. Thomas</persName> de Tolentino de Marchia, Fr. Iacobus 
+<lb/>de Padua, Fr. Demetrius qui erat frater laicus sciens 
+<lb/>linguas et Fr. <persName key="Petrus">Petrus</persName> de Senis: dimisso autem Fr. Petro de 
+<pb n="426"/>
+<lb/>Senis domi ut res custodiret, dicti fratres pervenerant ad 
+<lb/>ipsum Cadi. Et dum sic essent coram Cadi, ipse cum eis disputare 
+<lb/>cepit de fide nostra. Cum autem illi infideles sic disputarent 
+<lb/>cum fratribus, dicebant Christum solum purum hominem esse 
+<lb/>et non Deum. Cum autem sic dixissent, ille <persName key="Thomas S.J.">Fr. Thomas</persName> 
+<lb/>Christum esse verum Deum et hominem probavit rationibus et 
+<lb/>exemplis, et in tantum eos confudit saracenos, quod penitus 
+<lb/>ipsi contradicere non valebant.
+<lb/>3. Tunc videns ille Cadi se sic esse confusum ab eis coram 
+<lb/>populo toto, voce magna clamare cepit:«Et tu quid dicis de 
+<lb/>Macometo ». Nunc autem istam consuetudinem habent saraceni, 
+<lb/>quod si se verbis defendere non possunt se ensibus tuentur et 
+<lb/>pungnis. Dum autem eum sic interogasset Cadi, responderunt 
+<lb/>fratres dicentes: « Si tibi probamus rationibus et exemplis 
+<lb/>Christum Deum verum et hominem esse qui legem dedit in terra, 
+<lb/>et Macometus econtra venit qui legem contrariam illi dedit, 
+<lb/>si sapiens es, quid sit de eo tu scire potes optime ». Tunc ille 
+<lb/>Cadi et alii saraceni alta voce dicentes, clamabant: « Tu quid 
+<lb/>iterum dicis de Macometo, quid dicis de Macometo »? 
+<lb/>4. Tunc <persName key="Thomas S.J.">Fr. Thomas</persName> respondit: « Vos tantum dicere potestis 
+<lb/>quod dico de eo quod tacere nimium verecondabor, unde 
+<lb/>ex quo me vultis respondere, respondeo vobis et dico quod 
+<lb/>Macometus filius perditionis est et cum dyabolo patre eius positus 
+<pb n="427"/>
+<lb/>est in inferno; non solum ipse, sed omnes qui tenent 
+<lb/>legem hanc et observant, cum ipsa sit pestifera et falsa, tamquam 
+<lb/>contra Deum et animarum salutem ».
+<lb/>5. Hoc audientes saraceni omnes alta voce unanimiter 
+<lb/>clamare ceperunt, dicentes: « Moriantur ! moriantur ! quia 
+<lb/>ipsi malum dicunt de propheta ». Ipsi autem dum sic dixissent, 
+<lb/>ceperunt fratres et eos in sole duxerunt ut virtute caloris intensi 
+<lb/>diram paterentur mortem, cum illic sit tantus calor 
+<lb/>ut si quis per spacium misse perseveraret in sole ipse penitus 
+<lb/>moreretur.
+<lb/>6. Attamen illic in sole fuerunt <hi rend="italic">laudantes et glorificantes</hi>
+<lb/><hi rend="italic">Deum</hi>a tercia usque ad nonam, semper illares et sani. Sic hoc 
+<lb/>videntes saraceni inter se consilium habuerunt et ad fratres venerunt 
+<lb/>dicentes: « Volumus ignem magnum et copiosum facere 
+<lb/>in quem vos prohiciemus, et si sicut dicitis fides vestra ita 
+<lb/>sit vera, ignis vos non comburet, si autem mala et falsa sit, 
+<lb/>penitus comburemini vos ab igne ».
+<lb/>7. Tunc fratres responderunt ei dicentes: « Parati sumus 
+<lb/>intrare ignem et carcerem, et quicquid vos Cadi poteris exibere, 
+<lb/>pro fide nostra semper invenies nos paratos; verumtamen 
+<lb/>scire debes, si ignis nos comburet non hoc credas ex fide nostra 
+<lb/>procedere sed solum ex peccatis nostris, cum propter peccata 
+<lb/>nostra nos bene comburi permitteret ipse Deus, hoc semper 
+<lb/>salvo quod fides nostra ita perfecta sit et bona sicut in mundo 
+<pb n="428"/>
+<lb/>esse potest. Nam ab hac non est in mundo fides aliqua que 
+<lb/>salvum faciat nisi ista ».
+<lb/>8. Dum sic ordinatum esset quod isti fratres comburi deberent, 
+<lb/>vox volavit et fama sonavit per totam terram, ita quod 
+<lb/>tunc omnes de dicta terra tam parvi quam magni, tam homines 
+<lb/>quam mulieres ad hoc finaliter intuendum penitus occurerunt. 
+<lb/>Ipsi dicti fratres ducti fuerunt super medanum, id est 
+<lb/>super plateam civitatis, ubi accensus erat ignis valde copiosus. 
+<lb/>Qui dum sic accensus esset, <persName key="Thomas S.J.">Fr. Thomas</persName> ibat ad proiciendum se 
+<lb/>in ignem, et dum vellet se proicere in ignem, quidam saracenus 
+<lb/>cepit eum dicens: « Non vadas tu illuc cum sis senex, 
+<lb/>nam super te aliquod experimentum habere posses, propter 
+<lb/>quod ignis te comburere non valeret, sed alium ire permittas ». 
+<lb/>Tunc statim IIIIor saraceni Fr. Iacobum de Padua violenter 
+<lb/>ceperunt, eum in ignem proicere satagentes. Quibus ipse 
+<lb/>dicebat: « Me permittatis quia libenter in hunc ignem prohiciam 
+<lb/>memetipsum ». Ipsi autem ad sua verba non attendentes 
+<lb/>statim in ignem eum proiecerunt. Dum autem sic eum in ignem 
+<lb/>proiecissent et ipse in igne permaneret, ignis tam magnus 
+<lb/>et altus erat, quod nullus unquam eum poterat intueri, eius tamen 
+<lb/>vocem invocantem semper nomen Virginis gloriose audiebant. 
+<lb/>Tunc igne totaliter consumpto, ipse Fr. Iacobus stabat 
+<lb/>super prunas letus et gaudens, cum manibus in modum crucis 
+<lb/>levatis in celis, Deum semper colaudando, dicebatque saracenis: 
+<pb n="429"/>
+<lb/>« Venite huc per legem vestram sicut ego sum hic pro fide 
+<lb/>mea ». 
+<lb/>9. Quamquam ignis fuerit ita magnus et copiosus, nichil 
+<lb/>tamen de eo lesum vel combustum fuit inventum. Hoc videns 
+<lb/>populus tam magnum miraculum, cepit unanimiter exclamare 
+<lb/>dicens: «Isti sunt sancti, isti sunt sancti: nefas est offendere 
+<lb/>eis, nam modo vidimus quod fides sua sancta est et bona ». 
+<lb/>Hoc dicto Fr. Iacobus vocatus fuit de igne, et sic sanus et 
+<lb/>illesus exivit.
+<lb/>10. Tunc hoc videns Cadi voce magna clamare cepit dicens: 
+<lb/>« Sanctus non est, sanctus non est, sed ideo non comburitur quia 
+<lb/>tunica quam habet in dorso est de lana terre Abrahe, ideoque 
+<lb/>nudus expolietur et in ignem sic mittatur ». Ut autem hoc finaliter 
+<lb/>compleretur, venerunt pessimi saraceni et in duplo plus 
+<lb/>ignem accenderunt et tunc fratrem Iacobum exuerunt cuius 
+<lb/>corpus insuper abluerunt et ipsum optime oleo perunxerunt 
+<lb/>ut ignis maior et fortis esset et forcius ageret et arderet ad hoc 
+<lb/>quod ipse frater cicius comburi posset; oleum in struem lignorum 
+<lb/>in copiam magnam deiecerunt et ipsum Fr. Iacobum 
+<lb/>in ignem cum impetu inpullerunt. Fr. autem Thomas et Fr. Demetrius 
+<lb/>de foris stabant genibus flexis in orationibus et devotionibus 
+<lb/>persistentes. Fr. Iacobus iterum de igne exivit illesus 
+<lb/>sicut primo fecit. 
+<pb n="430"/>
+<lb/>11. Hoc videns populus unanimiter clamabat dicens: « Peccatum 
+<lb/>est offendere eos quoniam sancti sunt; et sic in populo 
+<lb/>rumor maximus habebatur. Hoc secundum miraculum videns lo 
+<lb/>Melic, id est Potestas, ad se Fr. Iacobum vocavit et eum 
+<lb/>suis vestimentis fecit indui et dixit:«Videte fratres, ite cum gratia 
+<lb/>Dei, quia nullum malum paciemini vos a nobis, nam videmus 
+<lb/>vos esse bonos homines et sanctos et fidem vestram esse 
+<lb/>veram sanctam et bonam, sed ut vobis securius consulamus, 
+<lb/>hanc terram exeatis quam cicius potestis quia ipse Cadik laborat 
+<lb/>vobis auferre vitam ». Dum hoc sic diceret, complectorium 
+<lb/>quasi erat; et tunc totus populus ydolatra omnesque alii stupefacti 
+<lb/>exteritique dicebant: « Tot et tanta mirabilia videmus 
+<lb/>nos ab istis, quod nescimus quid tenere debeamus et 
+<lb/>observare ».
+<lb/>12. Dum sic dixissent, lo Melic accipi fecit illos tres fratres 
+<lb/>quos ipse fecit portare ultra quoddam brachium maris, per 
+<lb/>aliquantulum spacium ab illa terra distans, ubi burgum unum 
+<lb/>erat et ad quod ille in cuius domo iam fuerant hospitati illos 
+<lb/>asociavit, et sic in domo unius ydolatre sibi hospicium invenerunt
+<lb/>13. Dum autem sic illic manerent, perexit Cadi ad lo Melic 
+<lb/>dicens ei: « Quid facimus! Lex Macometi destructa est nisi 
+<lb/>aliud fiat, nam isti rabani franchi nunc ibunt predicando per 
+<lb/>totam contratam istam et cum tot et tanta fecerunt ipsi in hac 
+<lb/>contrata que totus populus iam vidit, omnes convertentur ad 
+<pb n="431"/>
+<lb/>eos et sic lex Macometi ulterius non valebit. Verumtamen 
+<lb/>ut non totaliter sit destructa, tu unum scire debes, quod Macometus 
+<lb/>precepit in Alcoram, id est in lege sua, quod si aliquis 
+<lb/>unum interfecerit Christianum qui diceret malum de Macometo 
+<lb/>et de lege nostra, tantum meritum ipse haberet ac si iret 
+<lb/>ad Mecam, id est ad locum ubi manet Macometus ». Ad quam 
+<lb/>Mecam sic vadunt saraceni sicut christiani pergunt ad sepulcrum. 
+<lb/>Tunc lo Melic respondit Cadi dicens: « Vade et fac 
+<lb/>sicut tu vis ».
+<lb/>14. Hoc dicto, statim ille Cadi accepit IIIIor homines armatos 
+<lb/>ad interficiendum istos fratres, qui dum sic transissent 
+<lb/>quamdam aquam facta est nox, et sic facta illo sero non potuerunt 
+<lb/>eos invenire. Statimque lo Melic fecit capi omnes 
+<lb/>christianos qui erant in terra et eos carceri mancipavit. Cum 
+<lb/>autem esset perventum ad dimidium noctis, tunc fratres ut 
+<lb/>dicerent matutinum, surexerunt; et tunc homines qui mis[s]i 
+<lb/>fuerunt ad eos, illos invenerunt et eos extra terram sub arbore 
+<lb/>quadam adduxerunt.
+<lb/>15. Dum sic illos adduxissent eis dicebant: «Vos scire debetis 
+<lb/>quod mandatum habemus ab ipso Cadi et lo Melic ut interficere 
+<lb/>vos debeamus, quod tamen adimplemus nos invite, cum 
+<lb/>sitis boni homines et sancti, sed tamen aliter facere non 
+<lb/>valemus. Nam si sue non obediremus iussioni, nos cum liberis
+<pb n="432"/>
+<lb/>nostris et mulieribus moriremur penitus ». Hiis isti fratres responderunt 
+<lb/>sic, dicentes: «Vos qui huc venistis ut per mortem 
+<lb/>temporalem vitam eternam valeamus adipisci, quod vobis est 
+<lb/>preceptum, facite diligenter. Nam pro fide nostra et amore 
+<lb/>domini nostri Iesu Christi, que nobis adhibetis nos tormenta 
+<lb/>parati sumus viriliter substinere ».
+<lb/>16. Unde sic illis audacter respondentibus, christianus ille 
+<lb/>qui eos associaverat et illi IIIIor homines mali multum ad invicem 
+<lb/>altercabant. Nam eis respondebat christianus et dicebat: 
+<lb/>« Si gladium aliquem ego haberem, aut quod vultis non 
+<lb/>fieret aut cum ipsis necem mihi finaliter vos daretis ». Tunc 
+<lb/>illi fecerunt fratres statim spoliari, fraterque Thomas iunctis 
+<lb/>simul manibus in modum crucis capitis abscissionem suscepit. 
+<lb/>Sed Fr. Iacobum unus percussit in capite et eum usque ad 
+<lb/>oculos scidit, statim que sibi capud abscidit, Fr. Demetrius 
+<lb/>autem uno gladio in mamilla fortissime fuit percussus et exinde 
+<lb/>sibi capud fuit abscis[s]um.
+<lb/>17. Dum autem sic ex martirio suo animas Deo dedissent, 
+<lb/>statim aer clarus et lucidus est effectus, quod cuncti fortissime 
+<lb/>mirabantur; et similiter luna maximam ostendit claritatem 
+<lb/>et splendorem. Statim autem post hoc, tot et tanta tonitrua 
+<lb/>et fulmina atque coruscationes evenerunt quod pene omnes 
+<lb/>mori finaliter se credebant. Navis etiam que debebat portare 
+<lb/>eos Polumbum et portavit eos usque ad Tanam contra 
+<pb n="433"/>
+<lb/>velle suum taliter fuit submersa quod de ea et de gentibus
+<lb/>que erant in ea nichil breviter scitum fuit. 
+<lb/>18. Mane autem facto misit Cadi nuntios accipere res illorum 
+<lb/>fratrum, et tunc inventus fuit Fr. <persName key="Petrus">Petrus</persName> de Senis, trium 
+<lb/>aliorum fratrum socius. Quem sic cum reperissent eum ceperunt
+<lb/>et ipsum duxerunt ad Cadi. Quem ipse Cadi et alii saraceni 
+<lb/>alloquentes sibi maxima promittebant, si fidem suam vellet 
+<lb/>abnegare et illam Macometi integraliter confiteri. Dum ipsi 
+<lb/>autem sic loquerentur ipse de eis truffabatur. Et quia non sciebat 
+<lb/>linguam, faciebat sibi crucem cum digitis et obsculabatur eam 
+<lb/>et levabat oculos suos ad celum. Eo autem sic faciente dixerunt 
+<lb/>saraceni: « Ecce ostendit per signa quod non vult relinquere fidem 
+<lb/>suam ». Et ideo ipsum tormentare ceperunt a mane usque 
+<lb/>ad meridiem, diversis generibus tormentorum. Et postea eum 
+<lb/>super quamdam arborem suspenderunt in qua a nona usque 
+<lb/>ad vesperam ipse permansit. Cum autem ad vesperum fuisset 
+<lb/>perventum, de arbore ipsum acceperunt sine aliqua lesione de 
+<lb/>mundo. Hoc illi videntes ipsum per medium diviserunt; et 
+<lb/>sero facto de eo nichil breviter fuit inventum. Verumtamen 
+<lb/>uni persone fide digne fuit revelatum quod Deus occultaverat 
+<lb/>eius corpus usque ad certum tempus, in quo cum sibi placuerit 
+<lb/>ipse illud manifestabit.
+<pb n="434"/>
+<lb/>19. Ut autem omnipotens Deus ostenderet quod eorum anime 
+<lb/>iam regna celestia optinebant, illo die quo isti beatissimi 
+<lb/>fratres gloriosi martires sunt effecti, lo Melic se dormitioni 
+<lb/>dedit; qui dum sic in lecto dormiret, ecce sibi apparuerunt 
+<lb/>martires isti gloriosi lucidi ut sol et splendidi, singuli enses 
+<lb/>in suis manibus tenentes et super lo Melic taliter eas vibrantes 
+<lb/>ac si dividere voluerunt ipsum totum. Quod videns lo 
+<lb/>Melic voce sic alta cepit exclamare, quod ad eius clamorem 
+<lb/>tota eius familia occurrit festinanter, petens ab eo quid 
+<lb/>ipse haberet atque vellet. Cum ipsum sic interrogassent ipse 
+<lb/>respondit dicens: «Illi raban franchi quos interfeci, huc ad me 
+<lb/>venerunt, suis ensibus quas habebant occidere volentes me ». 
+<lb/>Ideoque lo Melic misit pro Cadi cui totum quod acciderat 
+<lb/>enaravit, consulens ipsum quid de hoc finaliter esset peragendum, 
+<lb/>cum se crederet ab eis penitus interimi. Tunc Cadi 
+<lb/>sibi consuluit ut pro eis magnam ellemosinam faceret, si vellet 
+<lb/>evadere de istorum manibus interfectorum. Tunc statim 
+<lb/>misit pro illis christianis quos ipse in carcere detinebat. Qui 
+<lb/>cum venissent ad eum, ipse indulgenciam ab eis de eo quod eis 
+<lb/>fieri fecerat humiliter postulavit, faciens se socium eorum et 
+<lb/>fratrem. Hoc facto, tunc precepit ut si quis unquam offenderet 
+<lb/>aliquem christianum, ipse penitus moreretur; et sic omnes 
+<lb/>illesos permisit abire. Post hoc autem lo Melic IIIIor moschetas, 
+<pb n="435"/>
+<lb/>id est IIIIor ecclesias, fecit hedificari, in quarum qualibet 
+<lb/>quosdam sacerdotes fecit comorari.
+<lb/>20. Audiens autem ipse <persName key="Yesün Temür Khan">Imperator</persName> Dehli istos fratres 
+<lb/>talem subiisse penam, misit et ordinavit ut ipse lo Melic penitus 
+<lb/>caperetur et vinctis manibus ad eum duceretur. Qui cum ante 
+<lb/>eum sic fuisset adductus, eum interrogabat quare mori fecerat 
+<lb/>tam crudeliter illos fratres. Cum autem sic interogatus 
+<lb/>fuisset, respondit ei: « Istos fratres sic mori permisi, quia ipsi 
+<lb/>subvertere volebant legem nostram et malum etiam dixerunt de 
+<lb/>propheta ». Tunc sic dixit <persName key="Yesün Temür Khan">Imperator</persName>: « Tu crudelissime canis, 
+<lb/>cum vidisti quod Deus bis liberaverat eos ab igne, quomodo 
+<lb/>fuisti sic ausus ut eis talem inferres mortem »? Hec dum sic 
+<lb/>dixisset eum cum tota sua familia per medium scindi fecit, et quia 
+<lb/>ipse talem mortem istos fratres in suum martirium fecit sustinere, 
+<lb/>hoc ipse passus fuit in suum tantummodo detrimentum. 
+<lb/>21. In hac autem contrata consuetudo quedam observatur; 
+<lb/>nam nunquam corpus aliquod sepellitur, sed ipsa corpora solum 
+<lb/>in campaneis dimittuntur et ex nimio calore cito consumuntur 
+<lb/>et destruuntur. Unde corpora eorum fratrum bene quatuordecim 
+<lb/>diebus illic fuerunt in sole, et ita recensia et integra 
+<lb/>sunt inventa sicut erant illa die qua passi fuerunt suum martirium 
+<lb/>gloriosum. Sic autem videntes qui in civitate erant christiani, 
+<lb/>sua corpora receperunt et postea sepulture tradiderunt. 
+<pb n="436"/>
+<lb/>22. Tunc ego Fr. Hodoricus de suo sciens martirio glorioso, 
+<lb/>illuc ivi, et sua corpora ego accepi que iam tradita fuerunt 
+<lb/>sepulture, quia per sanctos suos Deus multa et magna miracula 
+<lb/>operatur, per istos voluit potissime operari. Nam ego Fr. Hodoricus 
+<lb/>cum ossa istorum fratrum sic accepissem, copertis tovaleis 
+<lb/>alligassem, ipsa in Indiam superiorem ad unum locum 
+<lb/>Minorum fratrum cum socio et famulo deferrebam. Dum 
+<lb/>autem sic ea portarem, in domo cuiusdam habui hospitari, 
+<lb/>et ipsa ossa, ymo sancte reliquie dici debent, supposui capiti 
+<lb/>meo et deinde dormitioni me apposui. Et dum sic dormirem, 
+<lb/>ipsa domus a saracenis subito fuit accensa ut me facerent mori 
+<lb/>alta voce populi universi. Nam hoc est Imperatoris preceptum 
+<lb/>ut cuius domus accenditur, ipse penitus moriatur. Ipsa sic 
+<lb/>accesa, socius meus cum famulo exivit domum, me in ea cum 
+<lb/>ossibus remanente. Qui dum sic essem in domo, ea ardente, 
+<lb/>ossa eorum fratrum accepi et in uno angulo ipsius me aptavi. 
+<lb/>Sic autem igne domum comburente, tres anguli ipsius domus 
+<lb/>fuerunt combusti, illo solo in quo eram remanente. Me autem 
+<lb/>sic in illo angulo residente, ignis desuper me aderat, non me 
+<pb n="437"/>
+<lb/>ledens neque ipsius domus angulum comburens. Quamdiu autem 
+<lb/>in domo cum istis ossibus permanebam, ignis nunquam descendebat 
+<lb/>sed ad modum crucis ipse desuper residebat. Cum 
+<lb/>domum egressus fuissem, tunc autem ipsa totaliter fuit combusta, 
+<lb/>et non solum ipsa sed multe alie que illi contigue videbantur; 
+<lb/>et sic inde illesus exivi.
+<lb/>23. Aliud quoqueh insuper evenit quod michi accidit in 
+<lb/>eundo. Nam dum sic per mare cum istis ossibus irem ad unam 
+<lb/>civitatem que vocatur Polumbum, ubi piper nascitur habundanter, 
+<lb/>nobis defecit totaliter ventus; quapropter venerunt 
+<lb/>ydolatre suos deos clamare et adorare ut eis prosperum 
+<lb/>ventum exhiberent, quem tamen illis dare non potuerunt. 
+<lb/>Deinde venerunt saraceni, et ut etiam ventum haberent multum 
+<lb/>laboraverunt, et tamen illum habere minime potuerunt. 
+<lb/>Inde michi et socio meo preceptum fuit ut orationes Deo fundere 
+<lb/>deberemus quatinus nobis finaliter exiberet. Qui si haberi 
+<lb/>posset, nobis honorem maximum exiberent. Et ut alii intelligere 
+<lb/>non possent, ille rector navis armenice fuit locutus 
+<lb/>dicens: « Si ventus haberi non possit, hec ossa prohicimus 
+<lb/>in mare ». Tunc ego hec et socius audientes, orationes facimus 
+<lb/>ipsi Deo. Qui videntes ventum haberi non posse, ad honorem 
+<lb/>Virginis gloriose multas missas promisimus cellebrare, si ventum 
+<lb/>possemus in aliquo nos habere. Cum autem ventum minime 
+<lb/>habere nos poteramus, tunc accipiens ex ossibus istis unum, 
+<lb/>ipsum dedi famulo nostro ut iens ad caput navis ipsum in 
+<pb n="438"/>
+<lb/>mari prohiceret festinanter. Tunc, ipso osse sic in mari proiecto, 
+<lb/>statim nobis ventus ita bonus et prosper effectus est, quod 
+<lb/>nunquam nobis defecit, donec nos fuimus ad portum ad quem 
+<lb/>meritis istorum fratrum devenimus cum salute.
+<lb/>24. Cum autem illic in Polumbum fuerimus nos ad portum, 
+<lb/>aliam navim nomine Çocum nos ascendimus, ut iam dictum 
+<lb/>est, ut in Indiam superiorem nos irremus ad quamdam civitatem 
+<lb/>Çaitum, in qua sunt duo loca nostrorum fratrum, ut 
+<lb/>ibi istas sanctas reliquias poneremus. Nunc autem in ista 
+<lb/>navi erant bene septingenti inter alios homines et mercatores. 
+<lb/>Nunc ydolatre hanc consuetudinem in se habent: nam antequam 
+<lb/>ipsi applicent ad portum per totam navem inquirunt ut 
+<lb/>videant quid in ea est, si ibi ossa mortuorum essent. Que si 
+<lb/>ipsi reperirent illa, in mari proicerent statim; et habentibus 
+<lb/>illa, mortis periculum magnumt immineret. Cum autem sic 
+<lb/>inquirerent, licet in magna fuerint quantitate, nunquam in 
+<lb/>aliquo tamen invenire potuerunt.
+<lb/>25. Sic autem dante Deo illa ad loca nostrorum fratrum 
+<lb/>tullimus diligenter, ubi cum honore et maxima reverencia 
+<lb/>fuerunt posita condecenter. Et sic multa alia operatur omnipotens 
+<pb n="439"/>
+<lb/>Deus per istos sanctos fratres; cum adhuc habeantur 
+<lb/>apud, ydolatras et saracenos. Nam cum ipsi morbo aliquo detinentur 
+<lb/>vadunt ad accipiendum de terra illa, in qua fuerunt interfecti, 
+<lb/>illam abluentes. Que cum sit lota, ipsam bibunt 
+<lb/>et statim ab infirmitatibus suis totaliter liberantur firmissime.
+<lb/> 
+<lb/>De nemore Minibar, ubi nascitur piper et quomodo. Cap. IX.
+<lb/> 
+<lb/>1. Ut autem sciatis quomodo habeatur piper, sciendum est 
+<lb/>quod in imperio quodam, ad quod applicui nomine Minibar, 
+<lb/>nascitur ipsum piper, et non est in aliqua parte mundi nisi ibi. 
+<lb/>Nemus enim in quo nascitur ipsum piper continet in se bene
+<lb/>18 dietas, et in ipso nemore sunt due civitates, una nomine Flandrina, 
+<lb/>altera vero inglin. In ista Flandrina habitancium 
+<lb/>aliqui sunt iudei, aliqui vero christiani. Inter has duas civitates 
+<lb/>bellum semper habetur, ita tamen quod christiani semper superant 
+<lb/>et vincunt iudeos.
+<lb/>2. In hac autem contrata habetur piper per istum modum: 
+<lb/>nam primo nascitur in folia de elere, que folia iuxta magnos 
+<lb/>arbores plantantur, sicut hic nostre ponuntur vites. Hec folia 
+<lb/>producunt fructum ut uvarum racemi producuntur; in tanta 
+<pb n="440"/>
+<lb/>autem producuntur quantitate quod quasi videntur frangi. 
+<lb/>Cum ipsum autem maturum est, viridis est coloris, et sic vindemiatur 
+<lb/>sicut hic vindemiantur uve, ponendo illud in sole ut 
+<lb/>desiccetur. Quod cum desiccatum est, ipsum in vasis colocatur. 
+<lb/>In hoc etiam nemore sunt flumina, in quibus sunt multe male 
+<lb/>cocodrie, id est serpentes. 
+<lb/> 
+<lb/>De civitate Polumbo ubi bos pro deo adoratur de cuius urina Rex 
+<lb/>et Regina illius terre omni mane, cum exit de stabulo, lavant 
+<lb/>facies suas, et de eius stercore sibi pectus ungentes. Cap. X.
+<lb/> 
+<lb/>1. A capite nemoris huius versus meridiem civitas quedam 
+<lb/>habetur nomine Polumbum, in qua nascitur çinçiber, melius 
+<lb/>quod in mundo nascatur. Et tot et tanta mercimonia in ista 
+<lb/>civitate sunt quod multis incredibile videretur.
+<lb/>2. Omnes in hac contrata adorant bovem pro deo suo, dicentes 
+<lb/>ipsum esse quid sanctum, quem faciunt sex annis laborare; 
+<lb/>in septimum est in comuni. Hunc autem ritum in se continent 
+<lb/>et observant. Nam quolibet mane accipiunt duo bacilia 
+<lb/>de auro vel argento, que quando dimittunt bovem ipsum 
+<lb/>de stabulo ponunt sub illo. In uno quorum accipiunt urinam, 
+<lb/>in altero quoque immundiciam aliam. De urina lavant facies 
+<lb/>suas, de altera vero immundicia ponunt primo in medio visus 
+<lb/>in uno loco, deinde in ambabus sumitatibus gennarum et postea 
+<lb/>in medio pectore. Ita in quatuor locis ipsi ponunt. Quod cum 
+<lb/>sic fecerunt dicunt se fore sanctificatos. Et sicut facit populus 
+<lb/>sic et Rex et Regina. 
+<pb n="441"/>
+<lb/>3. Hii similiter aliud ydolum adorant quod est per medium 
+<lb/>homo et medium bos. Hoc ydolum per os respondet quod 
+<lb/>multociens sanguinem quadraginta virginum petit et requirit; 
+<lb/>huic ydolo ita homines et mulieres vovent suos filios et filias 
+<lb/>dare, sicut homines et mulieres vovent hic suos filios et filias 
+<lb/>alicui religioni. Et sic per istum modum homines interficiunt 
+<lb/>filios suos et filias ante istud ydolum, ut sibi eorum sanguis 
+<lb/>ymoletur. Unde multi moriuntur isto modo. Sic autem multa 
+<lb/>facit populus iste que scribere et audire abhominatio quedam 
+<lb/>esset. In hac insula multa alia habentur et nascuntur que 
+<lb/>scribere non multum expedit.
+<lb/>4. Aliam consuetudinem pessimam habent etiam ydolatre 
+<lb/>huius regni: nam quando homo aliquis moritur, ipsum comburunt 
+<lb/>mortuum, et si uxorem habet ipsam comburunt vivam, 
+<lb/>cum dicunt eam ire ad manendum cum viro suo in alio mundo. 
+<lb/>Si autem mulier filios habet ex marito suo, cum eis manere potest 
+<lb/>si vult, quod sibi ad verecundiam non reputatur. Si autem 
+<lb/>mulier moreretur ante virum, lex aliqua non imponitur viro, 
+<lb/>cum possit aliam si vult in uxorem accipere.
+<lb/>5. Alia etiam consuetudo illic habetur: nam mulieres vinum 
+<lb/>bibunt, homines vero non. Mulieres sibi faciunt radi visum et 
+<lb/>barbam, homines vero non. Et sic de multis aliis mirabilibus 
+<lb/>et bestialibus que illic fiunt, que scribere non expedit 
+<lb/>multum. 
+<pb n="441"/>
+<lb/>3. Hii similiter aliud ydolum adorant quod est per medium 
+<lb/>homo et medium bos. Hoc ydolum per os respondet quod 
+<lb/>multociens sanguinem quadraginta virginum petit et requirit; 
+<lb/>huic ydolo ita homines et mulieres vovent suos filios et filias 
+<lb/>dare, sicut homines et mulieres vovent hic suos filios et filias 
+<lb/>alicui religioni. Et sic per istum modum homines interficiunt 
+<lb/>filios suos et filias ante istud ydolum, ut sibi eorum sanguis 
+<lb/>ymoletur. Unde multi moriuntur isto modo. Sic autem multa 
+<lb/>facit populus iste que scribere et audire abhominatio quedam 
+<lb/>esset. In hac insula multa alia habentur et nascuntur que 
+<lb/>scribere non multum expedit.
+<lb/>4. Aliam consuetudinem pessimam habent etiam ydolatre 
+<lb/>huius regni: nam quando homo aliquis moritur, ipsum comburunt 
+<lb/>mortuum, et si uxorem habet ipsam comburunt vivam, 
+<lb/>cum dicunt eam ire ad manendum cum viro suo in alio mundo. 
+<lb/>Si autem mulier filios habet ex marito suo, cum eis manere potest 
+<lb/>si vult, quod sibi ad verecundiam non reputatur. Si autem 
+<lb/>mulier moreretur ante virum, lex aliqua non imponitur viro, 
+<lb/>cum possit aliam si vult in uxorem accipere.
+<lb/>5. Alia etiam consuetudo illic habetur: nam mulieres vinum 
+<lb/>bibunt, homines vero non. Mulieres sibi faciunt radi visum et 
+<lb/>barbam, homines vero non. Et sic de multis aliis mirabilibus 
+<lb/>et bestialibus que illic fiunt, que scribere non expedit 
+<lb/>multum. 
+<pb n="442"/>
+<lb/>6. Ab hoc regno sunt X diete usque ad unum aliud regnum 
+<lb/>nomine Mobar quod est multum magnum regnum, habens 
+<lb/>sub se multas civitates et terras. In hoc autem regno positum est 
+<lb/>corpus B. Thome Apostoli; ecclesia cuius est plena ydolis multis; 
+<lb/>penes etiam quam sunt forte etiam XV domus nestorinorum 
+<lb/>christianorum, qui nequissimi sunt heretici. 
+<lb/> 
+<lb/>De idolo mirabili quod in predictis partibus adoratur, 
+<lb/>quod in maxima reverentia habetur apud illos. Cap. XI.
+<lb/> 
+<lb/>1. Similiter in regno isto est unum ydolum mirabile valde 
+<lb/>quod omnes contrate <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Indie</placeName> multum reverentur. Nam ipsum est
+<lb/>magnum quantus S. Christoforus comuniter depingitur a pictoribus, 
+<lb/>et est totum de auro puro, positum super unam magnam 
+<lb/>cathedram que etiam est de auro, et habet ad collum unam cordam 
+<lb/>de lapidibus preciosis. Que autem corda precium maximum 
+<lb/>valet. Ad hoc ydolum adorandum vadunt gentes 
+<lb/>de longinquo, sicut christiani occurrunt ad sanctum Petrum.
+<lb/>2. Ipsorum autem ad ydolum venientium alii cum corda 
+<lb/>pergunt, alii cum manibus super unam tabulam ad collum ligatam; 
+<lb/>alii cum cultello in brachio fixo et non movent usque 
+<lb/>quod perveniunt ad ydolum, ita quod postea totum brachium 
+<pb n="443"/>
+<lb/>habent marcidum; alii autem etiam aliter facientes. 
+<lb/>Nam exeuntes domum suam faciunt tres passus, in quarto autem
+<lb/>faciunt unam veniam ita longam super terram sicut unus 
+<lb/>illorum esset. Accipiunt insuper thuribulum cum incenso et igne, 
+<lb/>adolentes desuper illam longitudinem venie ipsius; sic etiam 
+<lb/>faciendo usque ad ydolum vadunt ipsi. Unde bene tempore 
+<lb/>magno aliquando differunt ire ad ydolum ipsum, et sicut dictum 
+<lb/>est semper faciendo vadunt. Cum autem sic vadunt volentes 
+<lb/>aliquid facere, signum unum faciunt illic ubi faciunt hoc, ut 
+<lb/>sciant quantum processerunt. Hoc autem ipsi sic continuant, 
+<lb/>donec ad ipsum ydolum devenerunt. 
+<lb/>3. Apud autem ecclesiam ydoli huius est unus lacus manu
+<lb/>factus, ad quem accedentes peregrini prohiciunt in ipsum aurum 
+<lb/>vel argentum aut aliquos lapides preciosos, et hoc faciunt 
+<lb/>in honorem ydoli huius et ecclesie edificationem. Unde multum 
+<lb/>aurum et argentum lapidesque preciosi habentur in illo 
+<lb/>lacu. Ideo que cum in ecclesia eius aliquid facere fieri volunt, 
+<lb/>inquirunt per lacum istum et inveniunt omnia hec que in 
+<lb/>ipso sunt proiecta. Die autem illo quo ydolum factum fuit, 
+<lb/>accedunt illi de contrata accipientes ipsum de ecclesia et illud 
+<lb/>ponentes super uno pulcro curru. Deinde Rex et Regina omnesque 
+<lb/>peregrini adhuc cum populo toto, hii omnes congregati simul, 
+<lb/>educunt ipsum de ecclesia cum cantibus magnis et omni 
+<lb/>genere musicorum. Hoc autem ydolum cum sic educitur de 
+<lb/>ecclesia eius, multe virgines bine et bine ipsum antecedunt 
+<lb/>euntes canendo mirabiliter ante ipsum; deinde etiam accedunt 
+<lb/>peregrini qui venerunt ad hoc festum et ponunt se sub isto curru, 
+<pb n="444"/>
+<lb/>facientes eum per super se transire, cum dicant se velle mori 
+<lb/>pro Deo suo. Et sic currus transiens per supra illos qui sunt 
+<lb/>sub eo, cunctos illos frangit per medium et perscindit, unde statim 
+<lb/>moriuntur.
+<lb/>4. Facientes autem sic, hoc ydolum ipsi ducunt usque 
+<lb/>ad unum locum deputatum. Ad quem locum cum ipsi duxerunt, 
+<lb/>illum ad locum pristinum reducunt cum magnis cantibus 
+<lb/>et instrumentis, sicut prius. Et sic non est annus in mundo 
+<lb/>in quo plures quingenti homines non moriantur isto modo. 
+<lb/>Horum autem corpora ipsi accipiunt et comburrunt dicentes 
+<lb/>ea esse sancta cum se mori promiserint pro Deo suo.
+<lb/>5. Aliud quoque fit ab istis. Nam venit aliquis dicens: « Volo 
+<lb/>me interficere pro Deo meo ». Unde amici, parentes et omnes 
+<lb/>ystriones de contrata, ad faciendum isti festum qui vult pro Deo 
+<lb/>suo mori, congregantur et appendunt ad collum istius quinque 
+<lb/>cultellos accutissimos, et ipsum ante ydolum ducunt cum cantibus 
+<lb/>magnis; et cum ipse est ante ydolum, tunc ille accipit
+<lb/>unum ex cultellis illis accutissimis et alta voce clamat dicens: 
+<lb/>« Pro Deo meo michi incido de carne mea ». Cum sic incidits de 
+<lb/>carne sua de loco quo vult, eam prohicit in faciem ydoli dicens: 
+<lb/>« Me mori promitto pro Deo meo ». Et sic ibi se tandem interficit 
+<lb/>pro Deo suo. Statimque ipso mortuo, corpus eius comburitur, 
+<lb/>cum illud credatur ab illis sanctum, quia pro Deo suo perimit 
+<lb/>se ipsum. Sic autem multa et magna mirabilia fiunt ab istis 
+<lb/>que minime sunt scribenda. Rex autem insulevel provincie 
+<lb/>huius multum est dives videlicet auri argenti lapidum preciosorum. 
+<pb n="445"/>
+<lb/>In hac autem insula tot bone perle inveniuntur sicut 
+<lb/>in aliqua parte mundi. Et sic de aliis que in ista insula reperiuntur, 
+<lb/>que etiam nimis longum esset scribere. 
+<lb/> 
+<lb/>De contrata que vocatur Lamori, ubi homines et mulieres vadunt 
+<lb/>nudi propter calorem. In qua contrata omnes mulieres 
+<lb/>sunt comunes, cum nemo sit ibi qui dicere possit: Hec est 
+<lb/>uxor mea et hic est maritus meus. Terrena etiam sunt comunia, 
+<lb/>domus autem speciales. Cap. XII.
+<lb/> 
+<lb/>1. De hac contrata re[ce]dens et iens versus meridiem, 
+<lb/>veni per mare occeanum quinquaginta dietis ad unam contratam 
+<lb/>que vocatur Lamori, in qua incepi amittere tramontanam,
+<lb/>cum terra michi acceperat eam. Et in ea autem est sic 
+<lb/>intensus calor quod omnes illi tam homines quam mulieres 
+<lb/>vadunt nudi, nullo se cohoperientes. Hii de me multum truffabant, 
+<lb/>quia dicebant Deum Adam fecisse hominem nudum, 
+<lb/>et ego me malo suo velle vestire volebam.
+<lb/>2. In ista contrata omnes mulieres posite sunt in comuni, 
+<lb/>ita quod nemo est qui dicere possit: «Hec est uxor mea, hic est 
+<lb/>maritus meus ». Cum mulier filium vel filiam parit, ipsum vel 
+<lb/>ipsam dat uni illorum cui vult, cum quibus ipsam iacuit, eumque 
+<lb/>vocat patrem suum. Tota terra posita est in comuni, ita quod 
+<lb/>nullus cum veritate dicere potest:« Hec vel illa pars terre 
+<lb/>mea est ». Domus autem habentur in speciali. 
+<pb n="446"/>
+<lb/>Ista gens pestifera est et nequam, nam carnem humanam 
+<lb/>ita comedunt illic, sicut carnes mancine comeduntur hic. 
+<lb/>Tamen de se bona terra est, nam magnam copiam habent 
+<lb/>carnium, blad[i] et rixi; magnaque copia habetur illic de auro, 
+<lb/>de lignis, aloe, ganfora et multis aliis que ibi nascuntur. Ad 
+<lb/>hanc insulam accedunt mercatores de longinquo portantes secum 
+<lb/>infantes, vendentes illos infidelibus illis; quos cum 
+<lb/>emerint eos, interficiunt et comedunt. Et sic de multis aliis 
+<lb/>bonis et malis que non scribuntur.
+<lb/>4. In hac eadem insula versus meridiem habetur aliud regnum 
+<lb/>nomine Sumoltra, in quo est una generatio gentis singularis 
+<lb/>signantis se ferro calido parvo bene in duodecim locis 
+<lb/>in fatie. Et hoc faciunt tam homines quam mulieres. Hii semper 
+<lb/>gerunt bellum cum hiis qui vadunt nudi. In hac contrata 
+<lb/>est magna copia rerum.
+<lb/>5. Penes quam est unum regnum nomine Boterrigo 
+<lb/>versus meridiem. Multa que non scribo nascuntur in isto regno. 
+<lb/> 
+<lb/>De insula Iaveet de mirabili palatio Regis eius. Cap. XIII.
+<lb/> 
+<lb/>1. Penes hoc regnum est una magna insula nomine Iava, 
+<lb/>que bene tribus millibus milliarium circumdat. Rex huius 
+<lb/>Iave habet sub se bene septem Reges corone. Hec insula 
+<pb n="447"/>
+<lb/>multum bene habitatur. Et est melior insula que habitatur. 
+<lb/>In ipsa enim nascitur ganfora, nascuntur cubebe, mellegete, 
+<lb/>nuces muscate et multe alie species preciose. In ea est magna 
+<lb/>copia victualium preterquam vini. Rex insule istius unum habet 
+<lb/>palacium valde mirabile, nam ipsum valde est magnum, cuius 
+<lb/>scale multum sunt magne, alte lateque. Horum graduum unus 
+<lb/>est aureus, alter vero argenteus; pavimentum autem eius unum 
+<lb/>latus habet de auro, alterum vero de argento; murus vero 
+<lb/>istius palacii totus est limatus interius laminis aureis, in quibus 
+<lb/>laminis sculpti sunt equites solum de auro, habentes circa capud 
+<lb/>magnum circulum aureum, sicut habent nostri sancti, hic autem 
+<lb/>circulus totus est de lapidibus preciosis; insuper et tectum 
+<lb/>eius totum est de auro puro. Ut autem breviter et finaliter nos loquamur, 
+<lb/>hoc palacium dicius est et pulcrius aliquo quod hodie 
+<lb/>sit in mundo. Canis tamen Catay multociens fuit in bello in 
+<lb/>campo cum isto, quem iste semper vicit et superavit. Et sic 
+<lb/>etiam multa alia sunt que non scribo. 
+<lb/> 
+<lb/>De contrata Paten in cuius arboribus nascuntur farina, mei et 
+<lb/>venenum et ita pessimum est quod non potest extingui nisi 
+<lb/>cum stercore hominis. Hic etiam nascuntur canne in quibus 
+<lb/>lapides inveniuntur de quibus circa se habentibus nullum 
+<lb/>ferrum nocere potest. Cap. XIV.
+<lb/> 
+<lb/>1. Penes hanc contratam est una alia contrata que vocatur 
+<lb/>Paten, quam alii vocant Malamasini. Rex huius contrate multas
+<pb n="448"/>
+<lb/>insulas habet sub se. In hac contrata sunt arbores producentes 
+<lb/>farinam; alique etiam que mei producunt, finaliter et 
+<lb/>vinum faciunt; ultimo etiam arbores inveniuntur que venenum 
+<lb/>producunt, quod est periculosius venenum quod sit in 
+<lb/>mundo; nam circa ipsum non invenitur aliquod remedium 
+<lb/>nisi unum. Nam si aliquis de illo veneno sumpsisset, accipiat 
+<lb/>de stercore hominis et ipsum distemperet aqua et bibat, propter 
+<lb/>quod ab illo veneno totaliter liberatur. 
+<lb/>2. Arbores isto modo farinam producunt: Nam ipse sunt 
+<lb/>magne, non tamen multum alte, et eas una securi incidunt circa 
+<lb/>pedem, per quod quidam liquor exauritur ab ipsis ad modum 
+<lb/>colle; quem liquorem ipsi ponunt in sacci sex foliis, quos dimittunt 
+<lb/>per XV dies in sole, et in fine XV dierum ex ipso liquore 
+<lb/>est facta farina quam postea ponunt per duos dies in aqua maris, 
+<lb/>deinde lavant eam aqua dulci et sic faciunt pastam bonam de 
+<lb/>mundo, et tunc faciunt de ipsa quicquid volunt, sive cibum, 
+<lb/>sive panem multum bonum, de quo ego Fr. Hodoricus iam comedi. 
+<lb/>Hec autem propriis oculis ego vidi. Huiusmodi autem panis 
+<lb/>exterius pulcer est, interius autem aliquantulum niger est.
+<pb n="449"/>
+<lb/>3. In ripa istius contrate versus meridiem est mare Mortuum, 
+<lb/>aqua cuius semper versus meridiem currit. Et si aliquis iuxta 
+<lb/>ipsius ripam vadit et cadit in aquam, nunquam talis ille invenitur. 
+<lb/>In hac contrata sunt canneverie bene longe pluribus 
+<lb/>quinquaginta passibus, magne ut arbores. Alie etiam canne 
+<lb/>inveniuntur que vocantur Casan. Hec per terram semper diriguntur 
+<lb/>ut gramengna, et in quolibet nodo ipsarum radices producunt, 
+<lb/>que bene uno milliari efficiuntur longe.
+<lb/>4. In hiis cannis autem inveniuntur lapides de quibus aliqui 
+<lb/>supra se portantes, nunquam possuntincidi a ferro aliquo 
+<lb/>nec offendi. Et ut plurimum homines illius contrate supra 
+<lb/>se sunt portantes de istis lapidibus. Ideoque propter virtutem 
+<lb/>horum lapidum veniunt homines et accipiunt puerulos suos, 
+<lb/>quos in brachio per aliquod modicum ipsi incidunt, ubi unum 
+<lb/>de istis lapidibus ipsi ponunt ne ipso ferro cadant. Et ut illud 
+<lb/>parvum vulnus factum in brachio alicuius pueri cito consolidetur, 
+<lb/>de quodam pulvere unius piscis ipsi ponunt, propter 
+<lb/>quod vulnus illud parvum consolidatur.
+<lb/>5. Et quia huiusmodi lapides magne sunt virtutes et de 
+<lb/>istis illi homines sunt portantes, ex hoc in bello efficiuntur fortes 
+<lb/>et magni cursores in mari. Verum quia navigantes per mare 
+<pb n="450"/>
+<lb/>ab istis talibus offenduntur, unum remedium invenerunt, nam 
+<lb/>ipsi portant propugnacula sive palos accutissimos de uno fortissimo 
+<lb/>ligno, portant sagittas sine ferro. Quia homines illi male 
+<lb/>sunt armati, navigantes per mare eos vulnerant et penetrant 
+<lb/>istis palis accutissimis et sagittis, et sic isti tales ab illis 
+<lb/>se viriliter defendunt isto modo. De cannis istius casan faciunt 
+<lb/>vela suis navibus, sextoria, domunculas, multaque alia que sunt 
+<lb/>utilitatis magne. Multa etiam sunt in ista contrata que 
+<lb/>scribere et audire quasi stupor esset. Quapropter multum 
+<lb/>non curavi ea scribere. 
+<lb/> 
+<lb/>De regno Zampa cuius Rex habet CC filios et XIV milia elefantum; 
+<lb/>ubi pisces veniunt super ripam maris tribus diebus 
+<lb/>ibi commorando. Cap. XV.
+<lb/> 
+<lb/>1. Ab isto regno est aliud regnum nomine Zampa, distans 
+<lb/>per multas dietas, cuius contrata multum pulcra est, nam in 
+<lb/>ipsa magna copia est omnium victualium et bonorum. Rex contrate 
+<lb/>istius, ut dicebatur quando ibi fui, inter filios et filias ducentos 
+<lb/>bene habebat, cum multas haberet uxores aliasque mulieres 
+<lb/>quas ipse tenet.
+<lb/>2. Hic Rex XIIII millia elefantum domesticorum habebat, 
+<lb/>quos ipse teneri faciebats et observari ab illis hominibus de 
+<lb/>villis suis qui sibi sunt subiecti, sicut hic castrones; et alia 
+<pb n="451"/>
+<lb/>animalia tenentur ad socedam. In ista eadem contrata unum 
+<lb/>quid mirabile reperitur: unaquequeb generatio piscium que 
+<lb/>sunt in mari, ad hanc contratam in tanta veniunt quantitate, 
+<lb/>quod dum sic veniunt nichil videtur in mari nisi pisces. 
+<lb/>Hii autem cum prope ripam sunt se prohiciunt super illam; 
+<lb/>cum autem ipsi sunt super ripam, veniunt homines et de eis 
+<lb/>accipiunt tot quot ipsi volunt. Hii autem pisces duobus vel 
+<lb/>tribus diebus manent super ripam. Deinde venit alia generatio 
+<lb/>piscium faciens hoc idem sicut prima; sic etiam de aliis generationibus 
+<lb/>piscium. Que usque ad ultimam ordinate procedunt, 
+<lb/>quod tantum semel faciunt in anno. Cum de isto queritur 
+<lb/>ab illis de illa contrata quare hoc sic fiat, respondent et dicunt 
+<lb/>quod hoc faciunt isti pisces quia isto modo suum Imperatorem 
+<lb/>veniunt revereri.
+<lb/>3. In eadem contrata vidi testudinem maiorem quam esset 
+<lb/>revolutio tholi ecclesie S. Anthonii de Padua. Sic etiam de multis 
+<pb n="452"/>
+<lb/>aliis que forte aliquibus incredibilia viderentur nisi illa viderent 
+<lb/>Quare scribere non curo. 
+<lb/>4. Cum etiam in ista contrata aliquis moritur habens 
+<lb/>uxorem, ipse mortuus comburitur et uxor eius viva. Nam dicunt 
+<lb/>quod ipsa cum suo marito vadit ad alium mundum, ut illic 
+<lb/>moretur cum eo. 
+<lb/> 
+<lb/>De insula Nicuveram ubi sunt homines caninas facies habentes, 
+<lb/>bovem pro Deo adorantes, nudi euntes sed solam unam tobaleam 
+<lb/>portant que suam verecundiam coperit; cum inimicis 
+<lb/>preliant, qui si se pecunia non redimunt ipsos solempniter 
+<lb/>manducant. Rex huius insule habet unum lapidem quem dum 
+<lb/>tenet in manu flamma ingnis videtur. Cap. XVI.
+<lb/> 
+<lb/>1. De ista contrata recedens, et navigans per mare occeanum 
+<lb/>versus meridiem reperii multas insulas et contratas, quarum 
+<lb/>una est que vocatur Nicuneram. Hec insula magna est, eircuens 
+<lb/>bene per duo millia milliaria, in qua homines et mulieres 
+<lb/>facies caninas habent. Hii unum bovem adorant pro Deo 
+<pb n="453"/>
+<lb/>suo. Propter quod unusquisque unum bovem in fronte de auro 
+<lb/>vel de argento semper portat, in signum quod ille bos est Deus 
+<lb/>eorum.
+<lb/>2. Omnes istius contrate tam homines quam mulieres nudi 
+<lb/>vadunt, nichil de mundo portantes nisi unam tovaleam in qua 
+<lb/>suam verecundiam ipsi tegunt.
+<lb/>3. Hii sunt magni corpore et valde fortes in bello, ad quod 
+<lb/>dum ipsi nudi pergunt, solum unum clipeum portant qui ipsos 
+<lb/>cohoperit a capite usque ad pedes. Dum autem sic vadunt ad 
+<lb/>bellum et eos contingit capere aliquem qui pecunia exigi 
+<lb/>non possit, statim comedunt ipsum; si vero pecunia exigi possit, 
+<lb/>ipsi eum abire permittunt.
+<lb/>4. Rex istius contrate bene trecentas perlas ad collum portat 
+<lb/>multum magnas; propter quod pro diis suis cotidie trecentas 
+<lb/>orationes ipse facit. Hic eciam unum lapidem preciosum 
+<lb/>rubim, bene longum et magnum una spana, in manu sua portat; 
+<lb/>quem lapidem cum sic portat videtur esse quedam 
+<lb/>flamma ignis. Et ut dicitur, iste est nobilior et preciosior lapis 
+<lb/>quam sit in mundo. Verumtamen magnus <persName key="Yesün Temür Khan">Imperator</persName> Tartarorum 
+<lb/>Catay illum lapidem preciosum nec vi nec pecunia nec 
+<lb/>etiam ingenio unquam habere potuit. In hac etiam contrata 
+<lb/>ipse Rex bene iustitiam tenet et observat. Unde per totum suum 
+<lb/>regnum quilibet potest ire securus. Multa etiam in hac contrata 
+<lb/>sunt que ego non curavi scribere. 
+<pb n="454"/>
+<lb/>De insula nomine Syllam, in qua est unus mons super quo unus 
+<lb/>est lacus plenus lapidibus pretiosis, de quibus Rex huius insulae 
+<lb/>neminem tollit sed omnes pauperibus elargitur. Sunt et ibi 
+<lb/>serpentes nemini forensi nocentes, sed solummodo hominibus 
+<lb/>illius contrate offendentes. Cap. XVII.
+<lb/> 
+<lb/>1. Alia est insula nomine Silam, circuens bene per plura 
+<lb/>quam duo millia milliariorum, in qua sunt serpentes infiniti, 
+<lb/>multaque alia animalia silvestria in maxima quantitate, utc 
+<lb/>elefantes.
+<lb/>2. In hac contrata est unus maximus mons, de quo dicunt 
+<lb/>quod Adam super illo planxit filium suum centum annis. 
+<lb/>In medio montis huius habetur quedam pulcerima planicies, 
+<lb/>in qua est unus lacus non multum magnus, sed tamen in eo 
+<lb/>bene est aqua magna, quam dicunt gentes esse lacrimas quas 
+<lb/>Adam et Eva effuderunt. Quod tamen non creditur esse verum, 
+<lb/>cum ibi intus nascatur aqua illa. Profunditas huius aque plena 
+<lb/>est lapidibus preciosis. Que aqua multum est yrundinibus, id 
+<lb/>est sanguissugis, plena. Hos lapides non accipit ipse Rex, sed 
+<lb/>pro anima sua semel vel bis in anno ipsos pauperes abire sub 
+<lb/>aqua permittit, et quotquot de istis lapidibus capere possunt, 
+<lb/>omnes eis dimittit. Et ut ipsi pauperes ire sub aqua possint, 
+<lb/>accipiunt bavoirem, id est quemdam fructum quem bene pistant, 
+<lb/>et illo bene se ungunt et tunc in aqua se mergunt. Et 
+<pb n="455"/>
+<lb/>cum sic sint uncti, yrundines id est sanguissuge, illos offendere 
+<lb/>non valent. Sic isto modo paujjeres subintrant aquam et exeunt, 
+<lb/>accipientes si possunt accipere de istis lapidibus preciosis.
+<lb/>3. Aqua que descendit per montem exit ab isto lacu, et 
+<lb/>ibi fodiuntur boni rubini et boni dyamantes reperiuntur sic 
+<lb/>et multi boni lapides. Ibi etiam reperiuntur bone perle quas 
+<lb/>aqua ista descendit ad mare. Unde dicitur quod Rex iste plures 
+<lb/>habet lapides preciosos quam aliquis alius Rex de mundo.
+<lb/>4. In hac insula sunt diversa genera animalium que morantur 
+<lb/>ibi. Unde dicunt illi de contrata quod hec animalia nullum 
+<lb/>forensem ledunt, sed nisi illos qui ibi sunt nati. In hac etiam 
+<lb/>insula sunt aves multum magne, sicut sunt anseres que duo 
+<lb/>capita habent in se. Hec etiam insula maximam copiam habet 
+<lb/>victualium et multorum aliorum bonorum que non scribo. 
+<lb/> 
+<lb/>De insula Dondin, ubi sunt homines turpem inter se consuetudinem habentes, 
+<lb/>nam pater commedit filium et filius patrem, 
+<lb/>dicentes melius esse eorum corpora commedere quam tradere 
+<lb/>ea vermibus ad manducandum. Cap. XVIII.
+<lb/> 
+<lb/>1. De ista insula recedens et pergens versus meridiem, ad 
+<lb/>quamdam magnam insulam applicui, que vocatur Dandin, 
+<lb/>quod idem est quod est immundum. In insula illa mali homines 
+<lb/>morantur, nam ipsi carnes crudas comedunt, omnem que aliam 
+<lb/>immunditiam que dici posset. 
+<pb n="456"/>
+<lb/>2. Turpem inter se consuetudinem habent, nam pater 
+<lb/>comedit filium, filius patrem, uxor maritum, maritus uxorem. 
+<lb/>Et hoc per istum modum: ponatur enim quod pater alicuius
+<lb/>illorum infirmetur, filius ipse tunc ibit ad astrologum, id est 
+<lb/>ad sacerdotem, et tunc ipse dicet sic: «Domine ite vos ad sciendum 
+<lb/>a Deo nostro si pater meus potest ab illa infirmitate liberari 
+<lb/>vel mori». Tunc sacerdos et ille cuius pater infirmatur 
+<lb/>accedunt ad ipsum ydolum, quod est de auro vel de argento,
+<lb/>eique faciunt orationes et dicunt: «Domine tu es Deus noster 
+<lb/>quem pro Deo nos adoramus, nobis respondeas ad ea que tibi 
+<lb/>dicemus; talis homo multum infirmatur, ideo a te petimus si 
+<lb/>mori debet ex hoc langore vel liberari». Tunc demon per os 
+<lb/>ydoli respondet et dicit: «Pater tuus non morietur, sed de ista 
+<lb/>liberabitur infirmitate; unde tale quidn facere debes et liberabitur 
+<lb/>ipse ». Ita quod demon docet ipsum illum modum quem 
+<lb/>circa patrem tenere debet.
+<lb/>3. Deinde filius ad patrem accedit et sibi diligenter servit, 
+<lb/>donec totaliter ipse liberatus sit. Si autem demon ille dicat ipsum 
+<lb/>debere mori, sacerdos ad eum accedit et unum pannum super 
+<lb/>os suum imponet, sic eum statim suffocabit et morietur. Cum 
+<lb/>autem sic eum interfecerint, ipsum incidunt statim et ad ipsum 
+<lb/>comedendum invitabuntur amici, parentes omnesque istriones 
+<lb/>de contrata, et ipsum comedent cum cantibus et gaudio magno; 
+<lb/>eius tamen ossa accipient, illa ponentes sub terra cum magna 
+<lb/>solempnitate. Parentes autem illius qui ad has nupcias non 
+<lb/>fuerint, sibi ad verecundiam maximam reputabunt.
+<lb/>4. Hos tales multum reprehendebam dicens: «Quare sic facitis 
+<lb/>vos, cum hoc quod facitis sit contra omnem rationem. Nam 
+<pb n="457"/>
+<lb/>si canis aliquis occideretur et ipse ante alium canem poneretur, 
+<lb/>ipse de illo nullatenus manducaret; nedum vos qui homines 
+<lb/>videmini rationabiles ». Ad hoc michi respondebant dicentes: 
+<lb/>« Hoc facimus ne vermes comedent eius carnem. Ideo que carnem 
+<lb/>eius comedimus ut anima eius aliqua non paciatur pena, nam 
+<lb/>si eius carnem vermes comederent ipsius animam magnas 
+<lb/>pateretur penas ». Et sic tantum dicere poteram quantum ego 
+<lb/>volebam quod nunquam aliud credere volebant, nec ab isto 
+<lb/>ritu discedere quem tenebant.
+<lb/>5. Multe alie novitates illic habentur quas non scribo, nam 
+<lb/>si homo eas non videret, credere non posset, quia in toto 
+<lb/>mundo non sunt tot et tanta mirabilia quot sunt in isto regno. 
+<lb/>Hec autem scribi feci, quia certus sum et in nullo dubito quod 
+<lb/>sicut refero ita est.
+<lb/>6. De hac insula requisivi multos qui hoc sciunt, et omnes 
+<lb/>uno ore iocuntur et dicunt, quod hec <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> bene viginti quatuor 
+<lb/>millia insularum continet sub se, in qua etiam bene sunt LXLIIor 
+<lb/>Reges corone. Maior pars insule huius bene ab hominibus 
+<lb/>habitatur.
+<lb/>7. Hic ipsi <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Indie</placeName> facio finem et nichil de ea aliud dicere 
+<lb/>volo, sed solum intendo dicere de <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> superiore. 
+<lb/> 
+<lb/>De provincia Manci que habet sub se duo milia 
+<lb/>magnarum civitatum, que est pars imperii <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName>. Cap. XIX.
+<lb/> 
+<lb/>1. Ubi sciendum est quod dum navigarem per mare occeanum 
+<lb/>versus orientem per multas dietas, ad illam nobilem provinciam 
+<lb/>Mançi ego veni. Quam provinciamr vocamus Indiam superiorem. 
+<pb n="458"/>
+<lb/>De ista <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> ego quesivi christianos, saracenos, omnesque 
+<lb/>officiales <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName>, qui omnes uno ore locuntur et dicunt, 
+<lb/>quod hec provincia Mançi habet bene duo millia magnarum civitatum, 
+<lb/>que in tantum sint magne ille civitates, quod neque Trevisium 
+<lb/>neque Vincencia in ipsarum numerum ponerentur. Unde 
+<lb/>tanta multitudo est in illa contrata, quod apud nos esset quasi 
+<lb/>incredibile quoddam. In ipsa est maxima copia panis, vini, carnium, 
+<lb/>piscium, rixi, omniumque victualium quibus homines utuntur 
+<lb/>in mundo. Omnes homines huius provincie sunt artifices 
+<lb/>et mercatores, qui paupertatem quam habent, dummodo suis 
+<lb/>manibus valeant se adiuvare, nunquam aliquam paterentur 
+<lb/>indigenciam. Hii homines satis sunt corpore pulcri, pallidi 
+<lb/>tamen, habentes barbam ita raram et longam sicut murilege, 
+<lb/>id est gate. Mulieres vero pulcerrime sunt de mundo. 
+<lb/> 
+<lb/>De civitate Cescala ubi anseres inveniuntur habentes unum os 
+<lb/>supra capud sanguinei coloris, et habent sub gula unam pellem 
+<lb/>pendentem. Ibi etiam serpentes delectabiliter comeduntur.
+<lb/>Cap. XX. 
+<lb/> 
+<lb/>1. Prima civitas huius provincie quam inveni vocatur Censcala. 
+<lb/>Hec civitas benem magna est pro tribus Veneciis, 
+<lb/>distans a mari per unam dietam, posita supran unum flumen 
+<lb/>cuius aqua propeipsum mare nascitur ultra terram per duodecim 
+<pb n="459"/>
+<lb/>dietas. Totus populus huius civitatis et totius provincie 
+<lb/>Mançi, Indieque superioris ydolatrat. Hec civitas tantum navigium 
+<lb/>habet et ita magnum quod quasi aliquibus incredibile videretur, 
+<lb/>unde tota Ytalia non tantum navigium habet etc ita 
+<lb/>magnum sicut hec sola civitas habet. 
+<lb/>2. In hac civitate haberi possunt bene trecente libre zinziberis 
+<lb/>recentis minori precio uno grosso.
+<lb/>3. In hac etiam sunt maiores et pulcriores anseres ac melius 
+<lb/>forum eorum quam hodie sit in mundo. Unde unus eorum 
+<lb/>anserum est bene maior quam duo de nostris, totus albus ut 
+<lb/>lac, habens unum os super capud, unius ovi quantitate, quod 
+<lb/>talis est coloris qualis sanguis est. Et hii anseres habent sub 
+<lb/>gula unam pellem per unum semissem pendentem. Hii etiam 
+<lb/>sunt pinguissimi; unus quorum bene coctus et bene conditus 
+<lb/>minori precio uno grosso habetur. Et sicut est de anseribus, 
+<lb/>sic est de anatibus et gallinis que illic sunt ita magne quod 
+<lb/>magnum mirum est.
+<lb/>4. Hic etiam maiores sunt serpentes qui sunt in mundo. 
+<lb/>Hii multum capiuntur ab istis a quibus postea dulciter comeduntur. 
+<lb/>Unde in tam solempne ferculum habentur hii serpentes, 
+<pb n="460"/>
+<lb/>quod nisi faciens fieri convivium unum de istis haberet 
+<lb/>serpentibus, nichil facere diceretur. Hec civitas habet magnam 
+<lb/>habundanciam victualium omnium que sunt in mundo. 
+<lb/> 
+<lb/>De civitate çaiton, ubi sunt monasteria idolatrorum qui pascunt 
+<lb/>idola sua de fumo ciborum calidorum, cibos autem pro se 
+<lb/>reservant et comedunt. Cap. XXI.
+<lb/> 
+<lb/>De ista contrata recedens et inde transiens per multas 
+<lb/>terras et civitates, veni ad quamdam nobilem terram nomine 
+<lb/><placeName key="Cayton" ref="https://www.geonames.org/1797353/">Zayton</placeName>, in qua nos fratres Minores habemus duo loca, ad 
+<lb/>que portavi ossa nostrorum fratrum Minorum, qui passi fuerunt 
+<lb/>martirium pro fide Christi. In civitate ista magna est copia 
+<lb/>omnium illorumque sunt necessaria humane nature, nam tres 
+<lb/>libre et VIII uncie çucari minori precio uno grosso ibi habentur. 
+<lb/>Hec civitas ita magna est sicut bis esset Bononia.
+<lb/>2. In hac multa sunt monasteria religiosorum, qui ydola universaliter 
+<lb/>adorant. In uno autem istorum monasteriorum ego fui, 
+<lb/>in quo erant bene tria millia religiosorum, habencium undecim 
+<lb/>millia ydola, et unum illorum ydolorum, qui minus aliis esse 
+<lb/>videbatur, erat bene ita magnum sicut esset S. Christoforus.
+<pb n="461"/>
+<lb/>Illa autem hora qua illis diis dant ad comedendum, ivi ad videndum. 
+<lb/>Et isto modo comedere sibi dant: omnia que illis offerunt 
+<lb/>comedenda eis calidissima porriguntur, ita quod fumus illorum 
+<lb/>ascendat ad ydola, que ipsi pro comestione istorum ydolorum 
+<lb/>esse dicunt; aliud autem totum pro se habent et manducant.
+<lb/>Et sic isto modo dicunt se bene pascere deos suos.
+<lb/>3. Verumtamen hec terra de melioribus est que hodie sint 
+<lb/>in mundo, et hoc in hiisque habere posset corpus humanum. 
+<lb/>Multa alia de ista terra dici possent, que non ulterius ego scribo.
+<lb/> 
+<lb/>De civitate Fuco, ubi sunt galline albe non habentes pennas sed 
+<lb/>solum lanam ut pecudes, ubi etiam mulieres nupte unum....
+<lb/>Cap. XXII.
+<lb/> 
+<lb/>1. De hac contrata, veni versus orientem ad unam civitatem 
+<lb/>nomine Fuco, que bene circuit per XXX milliaria, in qua sunt 
+<lb/>maiores galli qui sint in mundo. Galline vero sunt albe ut nix 
+<lb/>non habentes pennas, sed solum lanam sunt portantes ut pecus.
+<lb/>Hec civitas multum pulcra est sita supra mare.
+<lb/>2. De qua recedens, ivi per xvmdietas transiens per multas 
+<lb/>terras et civitates aliaque diversa multa. Dum autem sic irem, 
+<pb n="462"/>
+<lb/>veni ad unum magnum montem, in uno cuius latere montis 
+<lb/>omnia animalia illic habitancia nigra sunt, et homines et 
+<lb/>mulieres valde extraneum modum habent vivendi. Ab alio 
+<lb/>latere montis omnia animalia alba sunt et homines et mulieres 
+<lb/>valde extraneum modum vivendi habent ab aliis. Omnes mulieres 
+<lb/>ibi nupte unum magnum barile de cornu in capite portant, 
+<lb/>ut agnoscantur quod, nupte sunt.
+<lb/>3. Hinc transiens per xviit alias dietas et per terras et 
+<lb/>civitates multas et veniens ad unum magnum flumen, aplicui 
+<lb/>ad unam civitatem, et per transversum istud flumen habet 
+<lb/>unum pontem. In capite eius in domo cuiusdam hospitis hospitatus 
+<lb/>fui. Qui volens complacere michi, dixit: « Si tu vis 
+<lb/>bene piscari videre, veni mecum ». Et sic me duxit super istum 
+<lb/>pontem, in quo dum sic essem, aspexi et vidi in illis suis barchis 
+<lb/>mergos super perticas alligatos, quos postea ille homo uno filo 
+<lb/>ligavit ad gulam, ne illi se in aquam submergentes et pisces capientes 
+<lb/>illos comederes possent. Unde in una barcha posuit 
+<lb/>tres magnas cistas, unam ab uno capite navis, secundam ab 
+<lb/>alio, terciam vero posuit in medio. Dum autem hoc sic fecisset, 
+<lb/>illos mergos disolvit, qui se postea in aquam submergebant, et 
+<lb/>sic pisces quam plurimos capiebant, quos ipsemet postea in illis 
+<lb/>cistis ponebat. Dum autem sic plene essent, a collo eorum filum 
+<lb/>illud accipiebat et eos in aquam submergere permittebat, ut 
+<lb/>inde piscibus pascerentur. Cum autem pasti sunt, ad sua loca
+<pb n="463"/>
+<lb/>revertuntur, et eos ibi ligat sicut prius erant. Ego autem 
+<lb/>de illis piscibus manducavi.
+<lb/>4. Transiens inde per multas dietas, alium modum piscandi 
+<lb/>vidi: nam sunt homines, habentes unam tinam calida aqua 
+<lb/>plenam in una barcha, qui nudi erant, habentes singuli post collum 
+<lb/>unum saccum, et se submergentes in aquam pisces manibus 
+<lb/>capiebant, ponentes eos in saccis suis, et cum ascendebant eos in 
+<lb/>barcha sua ponebant, postea in illam aquam calidam se ponentes. 
+<lb/>Tunc alius ibat faciens sicut primus et sic isto modo multos 
+<lb/>pisces capiebant. 
+<lb/> 
+<lb/>De civitate Casaie cuius muri circuunt C milliaribus, ubi sunt 
+<lb/>XII milia pontium; ubi etiam quidam pascebat quedam animalia 
+<lb/>pusilla, dicens ea esse animas. Cap. XXIII.
+<lb/> 
+<lb/>1. Hinc ergo recedens, veni ad unam civitatem nomine 
+<lb/>Camsay, quod idem est quod civitas celi. Hec civitas maior 
+<lb/>est aliqua que sit in mundo, et bene circuit centum milliaria. 
+<lb/>In ipsa enim non est spana terre que non habitetur bene, 
+<lb/>et multociens erit domus aliqua que bene X vel XII supellectiles 
+<lb/>habebit. Hec civitas etiam habet burga magna habencia maiorem 
+<lb/>gentem quam ipsa civitas tenet. Hec XII portas habet principales, 
+<pb n="464"/>
+<lb/>et prope quamlibet illarum portarum forte ad octo 
+<lb/>milliaria sunt civitates maiores quam esset civitas Veneciarum 
+<lb/>et Padua. Unde ibitur sex vel octo dietis per unum 
+<lb/>illorum burgorum, et tamen videtur modicum permeasse. Hec 
+<lb/>civitas posita est in aquis lagunarum, que manet et stat ut 
+<lb/>civitas Veneciarum. Ipsa etiam habet plures quam XII millia 
+<lb/>pontium, in quolibet quorum morantur custodie, custodientes 
+<lb/>ipsam civitatem pro magno Cane.
+<lb/>2. A latere huius civitatis labitur unum flumen iuxta quod 
+<lb/>sita est civitas ista, sicut Ferraria ipsa manet. Unde longior 
+<lb/>est quam lata. De ipsa autem diligenter scivi et inquisivi a 
+<lb/>christianis, saracenis, ydolatris, cunctisque aliis qui omnes 
+<lb/>locuntur uno ore, quod bene centum milliaria circuit. Per dominum 
+<lb/>etiam unum mandatum habetur: nam quilibet ignis 
+<lb/>solvit unum balis, id est quinque cartas bombicis, que unum 
+<lb/>cum dimidio florenum valent. Hunc etiam habent modum: 
+<lb/>nam bene X vel XII supellectiles faciunt unum ignem et sic 
+<lb/>solum pro uno igne solvent. Hii autem ignes sunt LXXXX
+<pb n="464"/>
+<lb/>et prope quamlibet illarum portarum forte ad octo 
+<lb/>milliaria sunt civitates maiores quam esset civitas Veneciarum 
+<lb/>et Padua. Unde ibitur sex vel octo dietis per unum 
+<lb/>illorum burgorum, et tamen videtur modicum permeasse. Hec 
+<lb/>civitas posita est in aquis lagunarum, que manet et stat ut 
+<lb/>civitas Veneciarum. Ipsa etiam habet plures quam XII millia 
+<lb/>pontium, in quolibet quorum morantur custodie, custodientes 
+<lb/>ipsam civitatem pro magno Cane.
+<lb/>2. A latere huius civitatis labitur unum flumen iuxta quod 
+<lb/>sita est civitas ista, sicut Ferraria ipsa manet. Unde longior 
+<lb/>est quam lata. De ipsa autem diligenter scivi et inquisivi a 
+<lb/>christianis, saracenis, ydolatris, cunctisque aliis qui omnes 
+<lb/>locuntur uno ore, quod bene centum milliaria circuit. Per dominum 
+<lb/>etiam unum mandatum habetur: nam quilibet ignis 
+<lb/>solvit unum balis, id est quinque cartas bombicis, que unum 
+<lb/>cum dimidio florenum valent. Hunc etiam habent modum: 
+<lb/>nam bene X vel XII supellectiles faciunt unum ignem et sic 
+<lb/>solum pro uno igne solvent. Hii autem ignes sunt LXXXX
+<pb n="465"/>
+<lb/>tuman; unum autem tuman bene decem millia ignium facit. 
+<lb/>3. Reliquorum vero alii sunt christiani, alii mercatores, 
+<lb/>aliique transeuntes per contratam. Unded fui miratus quomodo 
+<lb/>tot corpora humana poterant simul habitare.
+<lb/>4. In ea etiam est copia magna panis, carnium de porco, 
+<lb/>vini et rixi. Quod vinum bigin aliter nominatur, quod 
+<lb/>etiam pocio nobilis reputatur; omnium etiam aliorum victualium 
+<lb/>illic magna copia reperitur.
+<lb/>5. Et in ea IIIIor fratres nostri Minores ad fidem nostram 
+<lb/>unum potentem hominem converterunt, in domo cuius hospitabar.
+<lb/>Unde mihi aliquando dicebat: « Atha, id est pater, vis 
+<lb/>tu venire videre terram »? Et sibir dicebam me velle ire. Unde 
+<pb n="466"/>
+<lb/>ascendimus unam barcham, et ivimus ad unum illorum monasteriorum 
+<lb/>magnum que ibi erant. Ad quod cum ivissemus, unum 
+<lb/>illorum religiosorum vocavit dicens: «Vides tu hunc raban franchi, 
+<lb/>id est virum istum religiosum? Ipse venit inde ubi occidit 
+<lb/>sol, et nunc vadit <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> ut roget vitam pro magno Cane. 
+<lb/>Ideo sibi ostendas aliquid quod ipse videre possit si hic est mirabile, 
+<lb/>ut si reverteretur ad suas contratas etiam dicere possit: 
+<lb/>tale quid novum vidi in Camsay ». Tunc ipse dixit se libenter 
+<lb/>velle ostendere sibi aliquid novum. 
+<lb/>6. Et tunc iste duos magnos mastelos accepit, plenos 
+<lb/>hiisque superfuerunt ad mensam, et tunc aperuit cuiusdam 
+<lb/>viridarii portam per quam intravimus in viridarium illud. Nunc 
+<lb/>autem in eo est quidam monticulus plenus arboribus amenis, 
+<lb/>et dum in eo sic essemus, ipse cimbalum unum accepit et illud 
+<lb/>incepit pulsare. Ad cuius sonitum multa animalia varia et 
+<lb/>diversa de illo monticulo descenderunt, sicut nunc essent gati 
+<lb/>maymones similiter et multa alia que faciem hominis habebant. 
+<lb/>Et dum sic videremus, animalia ista bene tria millia circa ipsum 
+<lb/>se aptaverunt ad se invicem ordinata. Et cum circa ipsum sic 
+<lb/>essent ordinata et posita, ipse paraxides posuit ante illa, et sicut 
+<lb/>competebat comedere sibi dabat. Hec autem cum sic comedissent, 
+<lb/>cimbalum pulsare cepit et ad sua loca revertebantur cuncta.
+<lb/>7. Dum autem sic viderem ista, multum cepi ridere dicens: 
+<lb/>« Tu michi dicas quid hoc indicare vellit ». Tunc ipse respondit 
+<pb n="467"/>
+<lb/>dicens: « Hec animalia sunt anime nobilium virorum, que nos 
+<lb/>pascimus amore Dei». Ei autem respondi dicens: «Hec animalia 
+<lb/>non sunt anime sed solum bestie et animalia ipsa sunt ». Michi
+<lb/>autem respondit dicens: «Verum non est quod hec animalia sint, 
+<lb/>sed solum nobilium virorum iste sunt anime. Unde sicut, unus 
+<lb/>illorum fuit nobilis homo, sic eius anima in aliquod ipsorum 
+<lb/>animalium ipsa intrat nobilium; anime vero rusticorum hominum 
+<lb/>animalia vilia intrant et habitant ». Sic autem isto modo 
+<lb/>dicere poteram sibi multa, quod nunquam aliud credere 
+<lb/>volebat. 
+<lb/>8. Si quis autem dicere et narrare huius magnitudinem 
+<lb/>civitatis vellet, illius que magnaet mirabilia que sunt in ea, 
+<lb/>unus bonus quaternus stationis hec talia tenere non posset. 
+<lb/>Unde ista est melior et maior terra ac nobilior pro mercimoniis 
+<lb/>quam habeat totus mundus. 
+<lb/> 
+<lb/>De civitate Cileton cuius muri circuunt per XL miliaria, iuxta 
+<lb/>quam biduini, id est homines longi tribus spannis habitant, 
+<lb/>per quorum terram transit flumen Talay, quod est amplius 
+<lb/>VII milliaria ubi minus est. Cap. XXIV.
+<lb/> 
+<lb/>1. De ista recedens civitate veni ad unam magnam civitatem 
+<lb/>per sex dietas que vocatur <placeName key="Nanking" ref="https://www.geonames.org/1799962/">Chilenfo</placeName>. Huius muri civitatis 
+<pb n="468"/>
+<lb/>bene XL milliaria circuunt ipsi. ln ista etiam civitate 
+<lb/>sunt bene trecenti et sexaginta pontes lapidis pulcriores quam 
+<lb/>totus mundus habeat. In hac civitate fuit prima sedes Regis 
+<lb/>Mançi in qua ipse morari solebat. Hec bene habitatur a gente, 
+<lb/>et in ea est ita magnum navigium, quod mirabile valde est. 
+<lb/>Ipsa bene sita est, omniumque bonorum copiam habet 
+<lb/>magnam.
+<lb/>2. Ab hac civitate recedens, veni ad quoddam flumen magnum 
+<lb/>quod vocatur Dotalay. Et est maius flumen quod sit 
+<lb/>in mundo. Nam ubi strictius est, bene est latum milliaribus 
+<lb/>septem. Hoc flumen per mediam terram pigmeorum, id est 
+<lb/>biduinorum transit, quorum civitas vocatur Tachara, que 
+<lb/>de maioribus et pulcrioribus civitatibus est que sint in mundo. 
+<lb/>Hii piginei sunt magni tribus spannis, qui faciunt maiora opera 
+<lb/>gotomim, id est bombicis quam aliqui homines qui sint in 
+<lb/>mundo. Homines autem magni qui ibi sunt, filios generant qui 
+<lb/>plus quam pro dimidietate similes illis pigmeis sunt, qui 
+<lb/>sunt ita parvi. Ideoque tot istorum parvorum ibi generantur 
+<lb/>et nascuntur, quod sine numero quasi sunt. Hii pigmei famosi 
+<pb n="469"/>
+<lb/>sunt tam mares quam femine secundum magnitudinem suam, 
+<lb/>et nubunt masculi in quinto anno. Et hii pigmei habent animam 
+<lb/>rationalem sicut nos. 
+<lb/> 
+<lb/>De civitate Cançay, ubi sunt hospitia deputata 
+<lb/>ad faciendum convivia. Cap. XXV.
+<lb/> 
+<lb/>1. Dum per istud flumen Dotaly transirem sic inveni 
+<lb/>multas civitates, et veni ad unam que vocatur Jamçai, in qua 
+<lb/>est unus locus nostrorum fratrum Minorum. In hac etiam sunt 
+<lb/>tres ecclesie nestorinorum. Hec civitas nobilis est et magna, 
+<lb/>habens LVIII tuman ignium quorum unumquodque tuman 
+<lb/>bene est decem millia. In hac civitate bene sunt omnia quibus 
+<lb/>vivunt christiani et sunt in magna copia. Unde dominus istius 
+<lb/>civitatis solum de salebene habet de reditu L tuman balissi. 
+<lb/>Balissus autem valet unum florenum cum dimidio, et ita bene
+<lb/>unum tuman constituit XV millia florenorum. Verumtamen 
+<lb/>unam gratiam huic populo fecit iste dominus, nam sibi dimittebat 
+<lb/>CC tuman ut caritudinemnon haberent. 
+<pb n="470"/>
+<lb/>2. Hanc autem consuetudinem habet civitas ista, nam quando 
+<lb/>homo vult facere unum magnum pastum aut convivium suis 
+<lb/>amicis, ad hoc sunt hospicia deputata. Nam illis hominibus 
+<lb/>qui hospicia tenent, hec dicet ille homo: « Tu hospes michi facias 
+<lb/>convivium istud pro quibusdam amicis meis, et pro illo expendere 
+<lb/>volo tantum ». Sic autem michi convivium fiet bene et 
+<lb/>ordinate et michi melius servitur quam in propria domo.
+<lb/>3. Hec civitas etiam maximum navigium habet. 
+<lb/>4. Per X milliaria ab ista civitate, in capite istius magni 
+<lb/>fluminis una alia civitas est que vocatur Mençu. Hec civitas 
+<lb/>maius navigium habet quam aliqua que hodie sit in mundo. 
+<lb/>Omnes ille naves albe sunt ut nix, zesso depicte; hospicia, 
+<lb/>salem multaque alia habent ita ornata et pulcra sicut in mundo 
+<lb/>possent esse. Unde est quasi quoddam incredibile audire et videre 
+<lb/>huius navigii magnitudinem. 
+<lb/>5. Ab ista civitate recedens et transiens per octo dietas 
+<lb/>per multas terras et civitates, per aquam dulcem veni ad quamdam 
+<lb/>civitatem que vocatur Lençin. Hec civitas super unum 
+<lb/>flumen est posita, quod vocatur Caramoram. Hoc flumen 
+<pb n="471"/>
+<lb/>per medium Catay transit, cui magnum dampnum infert quando 
+<lb/>rumpit, sicut est Padus transiens per Ferariam.
+<lb/>6. Dum sic irem per flumen istud versus orientem multis 
+<lb/>dietis et transiens per terras multas et civitates, veni ad civitatem 
+<lb/>unam que vocatur Suçumato. Hec civitas habet maiorem 
+<lb/>habundanciam sirici quam aliqua terra de mundo. Nam 
+<lb/>quando maior caritudo sirici possit esse, bene tamen XL libre 
+<lb/>minori precio VIII solidorum grossorum habentur. In ea 
+<lb/>etiam magna copia omnium mercimoniorum est; similiter et 
+<lb/>panis omniumque aliorum bonorum.
+<lb/>7. Tunc de ista civitate recedens et transiens per multas civitates 
+<lb/>et terras, veni ad unam nobilem civitatem que vocatur 
+<lb/>Cambelec. Hec civitas multum est vetus et antiqua, que est 
+<lb/>in provincia Catay; hanc civitatem ceperunt Tartari. 
+<lb/> 
+<lb/>De civitate Taido et eius mirabili palatio ac de magnificentia sua. 
+<lb/>Cap. XXVI.
+<lb/> 
+<lb/>1. Iuxta quam ad dimidium milliare fecerunt unam aliam 
+<lb/>civitatem nomine Taydo. Hec XII portas habet; inter quamlibet 
+<lb/>quarum sunt duo milliaria magna, unde inter utramque
+<pb n="472"/>
+<lb/>civitatem bene habitatur, et iruitus istarum duarum civitatum
+<lb/>plura ambit quam quadraginta milliaria.
+<lb/>2. In hac civitate Canis ille magnus suam sedemd habet, 
+<lb/>ubi etiam unum suum magnum palacium habet, cuius muri 
+<lb/>bene IIII milliaria circuunt. Intra quod spatium multa alia 
+<lb/>palacia sunt. In curtivo huius palacii mons unus est manu 
+<lb/>factus, in quo hedificatum est unum palacium aliud quod est 
+<lb/>pulcerimum de mundo. Hic etiam mons arboribus est plantatus 
+<lb/>propter quod mons viridis nominatur. A latere montis huius factus 
+<lb/>est unus magnus lacus; per transversum pons unus pulcerimus 
+<lb/>factus est. In isto lacu sunt tot anseres silvestres, anates 
+<lb/>et cisane quod valde mirabile est. Unde quando dominus 
+<lb/>vult venari potest absque exire domum, hoc est civitatem. In 
+<lb/>hoc etiam palatio sunt viridaria plena diversis generibus bestiarum, 
+<lb/>quas quantumque vult ipse venari, potest absque hoc quod 
+<lb/>extra domum vadat. 
+<lb/>3. Palacium autem suum in quo sedes sua est, multum magnum 
+<lb/>et pulcrum est, cuius terra duobus passibus ellevata est. 
+<lb/>Ipsum interius habet XXIIII columpnas de auro. Omnes muri 
+<lb/>eius cohoperti sunt pellibus rubeis, de quibus dicitur quod nobiliores 
+<lb/>pelles sunt que hodie sint in mundo. In medio autem 
+<lb/>palacii est una magna pigna alta passibus plus quam duobus, 
+<pb n="473"/>
+<lb/>que tota est de uno lapide precioso nomine merdicas. Ipsa 
+<lb/>etiam tota est de auro ligata, et in quolibet angulo ipsius est 
+<lb/>unus serpens de auro qui verberat os fortissime. Hec etiam 
+<lb/>pigna recia habet de perlis magnis que pendent ab ea; que recia 
+<lb/>forte sunt magna una spana. Per hanc pignam defertur potus 
+<lb/>per conductus qui in curia Regis habetur. Iuxta hanc pignam manent 
+<lb/>multa vasa aurea cum quibus omnes volentes bibere bibunt. 
+<lb/>In ipso etiam palatio sunt multi pavones de auro. Cum aliquis 
+<lb/>tartarus festum aliquod vult facere domino, tunc sic illic sunt 
+<lb/>percucientes ad invicem manus suas, tunc hii pavones alas 
+<lb/>suas emittunt, et ipsi tripudia revidentur. Hoc autem fit vel 
+<lb/>arte diabolica vel ingenio quod sub terra sit.
+<lb/>4. Cum ipse dominus super suam sedem sedet imperialem, 
+<lb/>a sinistro latere sedet Regina et uno gradu inferius duer morantur 
+<lb/>mulieres quas ipse tenet. In infimo autem manents cuncte 
+<lb/>alie parentele domine. Omnes ille que nupte sunt unum pedem 
+<lb/>hominis super capud habent, longum bene brachium cum dimidio. 
+<lb/>Subter illo pede sunt penne gruis in sumitate, et totus ille pes 
+<lb/>est ornatus perlis magnis, unde si in mundo magne et pulcre 
+<lb/>sunt perle, hec ita sunt ornamentum istarum dominarum.
+<lb/>A latere autem dextro ipsius Regis moratur eius filius primogenitus, 
+<lb/>qui post ipsum regnare debet. Inferius autem ab istis 
+<lb/>morantur omnes illi qui sunt de sanguine regio. Illic etiam 
+<pb n="474"/>
+<lb/>IIIIor sunt scriptores scribentes omnia verba que dicit ipse 
+<lb/>Rex. Ante cuius conspectum stant barones sui, multique alii 
+<lb/>innumerabiles, nullus quorum loqui auderet ullo modo nisi a magno 
+<lb/>domino peteretur, illis etiam istrionibus exceptis qui suum 
+<lb/>dominum vellent letificare. Hii tamen istriones nichil aliud facere 
+<lb/>audent nisi secundum quod ipse Rex eis imposuit.
+<lb/>5. Ante portam ipsius palacii stant barones custodientes 
+<lb/>et videntes ne aliquis limen tangat, quod si aliquis facere 
+<lb/>reperiretur, ipsi eum acriter verberarent.
+<lb/>6. Cum autem dominus ipse magnus aliquod convivium facere 
+<lb/>vult fieri, secum habet IIIIor millia barones, cum coronis 
+<lb/>in capite sibi in convivio servientes, et quilibet talem vestem
+<lb/>in dorso habet quod solum perle que sunt super quamlibet 
+<lb/>vestem plus valent quam XV millia florenorum.
+<lb/>7. Curia ipsius optime ordinata est, videlicet per decennarium, 
+<lb/>centenarium et millenarium. Unde omnes inter se taliter 
+<lb/>sunt ordinati et sibi invicem respondentes, quod de suis officiis 
+<lb/>nec de aliquo alio nunquam defectus invenitur.
+<lb/>8. Ego Fr. Odoricus ibi fui bene tribus annis in hac sua civitate, 
+<lb/>et multociens in istis suis festis presens fui. Nam nos fratres 
+<lb/>Minores in hac curia sua habemus locum deputatum, et nos 
+<lb/>sic semper opportet ire et dare sibi benedictionem nostram. 
+<lb/>Unde diligenter pecii et inquisivi a christianis, saracenis, cunctisque 
+<lb/>aliis ydolatris, a nostris etiam conversis ad fidem, quia 
+<lb/>in illa curia sunt magni barones aspicientes solum ad personam 
+<lb/>Regis, et hii omnes uno ore locuntur dicentes, quod ystriones 
+<pb n="475"/>
+<lb/>sui sunt bene tresdecima tuman, quorum quodlibet bene
+<lb/>X millia constituunt ystrionum; alii autem custodientes canes, 
+<lb/>bestias silvestres et aves bene XV sunt tuman. Medici 
+<lb/>vero qui custodiunt personam Regis sunt ydolatrie quadringenti, 
+<lb/>christiani autem octo et unus saracenus. Hii omnes totum illud 
+<lb/>habent quod est necessarium a curia Regis, cuius autem familia 
+<lb/>sua reliqua ibi sine numero possidetur.
+<lb/>9. Dominus vero ille in estate moratur in quadam terra 
+<lb/>que vocatur Sandu, posita sub tramontana, et est frigidior 
+<lb/>habitatio que hodie sit in mundo. In yeme vero in <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> 
+<lb/>ipse manet, et cum vult ab una terra ad aliam equitare, hunc 
+<lb/>modum ipse tenet: nam IIIIor exercitus equitum ipse habet. 
+<lb/>Exercitus unus dieta unam ipsum antecedit, secundus alia 
+<lb/>Dieta ipsum sequitur, tercius similiter et quartus, ita quod 
+<lb/>semper in medio vadit, in modum crucis. Cum autem sic vadunt 
+<lb/>omnes habent suas dietas ordinatas. Unde omnia ibi 
+<lb/>inveniunt que sibi sunt necessaria ad comedendum.
+<lb/>10. Gens vero que vadit cum eo ambulat isto modo: nam 
+<lb/>Rex ille super uno curru a duabus rotis vadit, in quo facta 
+<lb/>est una pulcerima sala, tota de lignis aloe et auro ornata insuper 
+<lb/>perlis magnis et pulcris et multis lapidibus preciosis, quatuorque 
+<lb/>elefantes parati et ornati ducunt istum currum, quem 
+<lb/>etiam quattuor equi pulcerimi bene cooperti insuper sunt ducentes. 
+<lb/>Et iuxta quem quatuor barones, qui vocantur çuche,
+<pb n="476"/>
+<lb/>vadunt custodientes et tenentes currum ne aliquid offenderet 
+<lb/>ipsum Regem. Insuper et secum super currum portat XII girifalcos, 
+<lb/>quos dum sic sedet in curru super cathedra sua vel 
+<lb/>sede et videt aliquas volantes aves post eas volare permittit.
+<lb/>Et ad unius lapidis iactum nullus ad currum audet appropinquare, 
+<lb/>nisi illi qui specialiter sunt deputati. Unde sicut Rex 
+<lb/>magnus vadit, sic et in gradu suo sue vadunt mulieres isto modo, 
+<lb/>quod et suus primogenitus tenet et observat.
+<lb/>11. Unde quasi incredibile esset illam gentem ymaginari 
+<lb/>quam ille dominus habet. Exercitus autem illi qui ipsum dominum 
+<lb/>antecedunt, forte vult dicere quingenta tuman, habentes 
+<lb/>illa a domino que sunt necessaria integraliter et complete. Et si 
+<lb/>aliquem istorum mori contigeret qui de numero computatur, 
+<lb/>alius statim ponitur loco suo, unde numerus integer semper 
+<lb/>manet.
+<lb/>12. Hoc imperium in XII partes ipse dominus divisit, 
+<lb/>quelibet quarum signo duodecim nominatur. Una autem istarum 
+<lb/>partium est illud Mançi, que sub se habet duo millia magnarum 
+<lb/>civitatum. Unde tam magnum est illud suum imperium, 
+<lb/>quantum unusper quamcumque partem vellet ire in sex 
+<lb/>mensibus haberet satis, sine tamen insulis, que etiam sunt 
+<lb/>bene quinque millia, que etiam in numero non ponuntur. Et ut 
+<pb n="477"/>
+<lb/>transeuntes possint suis necessitatibus subvenire, per totum suum 
+<lb/>regnum facit hospicia preparari sicut domus de curtina que 
+<lb/>domus iam vocatur. In istis autem domibus sic paratis, sunt 
+<lb/>omnia illa que necessaria sunt humane nature. 
+<lb/> 
+<lb/>De modo quem dictus magnus Canis tenet ut sciat novitates 
+<lb/>que fiunt in suo regno. Cap. XXVII.
+<lb/> 
+<lb/>1. Cum autem novitas aliqua in suo habetur imperio, statim 
+<lb/>ambasiatores sui ad ipsum super equos velociter currunt. Si 
+<lb/>negocium arduum esset et periculosum, super dromedarios 
+<lb/>ipsi ascendunt. Et cum ad ista hospicia sive domus incipiunt 
+<lb/>appropinquare, unum cornu pulsant, ad cuius sonitum hospes 
+<lb/>huius hospicii unum hominem facit velociter preparari. Cui 
+<lb/>ille quin venit ad domum illam litteram representat quam aportavit; 
+<lb/>et iste qui nuper venit ut reficiatur in illa domo manet; 
+<lb/>tunc ille qui iam litteram recepit usque ad aliud iam, id est 
+<lb/>usque ad aliam domum, properat festinanter. Et iste secundus 
+<lb/>eodem modo facit quo fecit et ille primus; et sic per illum 
+<lb/>modum in una naturali die unum novum trium dierum ille 
+<lb/>recipit <persName key="Yesün Temür Khan">Imperator</persName>. 
+<pb n="478"/>
+<lb/>Etiam alium modum mittendi pedites observat. Nam 
+<lb/>aliqui ordinati cursores in domibus que Chidebeo nominantur 
+<lb/>assidue commorantur, habentes cingulum unum circumcirca 
+<lb/>nolarum vel sonagliorum. Harum domorum una distat ab alia 
+<lb/>milliaribus forte tribus. Cum autem domum appropinquat 
+<lb/>istas suas nolas vel sonaglia incipit pulsarefortiter ac 
+<lb/>valenter; tunc autem ille alius qui est in domo vadit et se 
+<lb/>preparat velociter et ad aliam domum vadit quam cicius 
+<lb/>ipse potest. Et sic isto modo hoc idem et alii cursores tenent 
+<lb/>et observant, donec deventum est ad ipsum magnum Canem. 
+<lb/>Unde in imperio suo nichiln breviter fieri potest quin statim 
+<lb/>vel multum cito penitus ipse sciat. 
+<lb/> 
+<lb/>De modo quem tenet quando vadit in insulam ad venandum. 
+<lb/>Cap. XXVIII.
+<lb/> 
+<lb/>1. Cum ille Canis magnus ad venandum vadit, hunc modum 
+<lb/>ipse habet. Istam extra <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> ad XX dietas est unum 
+<lb/>pulcerimum nemus, octo dietarum per circuitum, in quo tot 
+<lb/>animalium genera sunt diversa quod valde mirabile est. Circa 
+<lb/>ipsum nemus positi sunt aliqui per magnum Canem qui ipsum 
+<lb/>custodiunt diligenter.
+<lb/>2. In fine autem trium vel quatuor annorum ad hoc nemus 
+<lb/>cum gente sua vadit. Cum autem illuc pervenit, ipsum circumdat 
+<lb/>totum sua gens. Et permittunt canes intrare, et aves assuetas 
+<lb/>post illos emittunt, et ipsi ad invicem vadunt reducendo 
+<pb n="479"/>
+<lb/>illa silvestria ad unam pulcerimam planiciem que in medio 
+<lb/>nemoris habetur, et sic in ea congregatur bestiarum silvestrium 
+<lb/>maxima multitudo, sicut sunt leones, cervi, multaque alia animalia, 
+<lb/>tam varia quam diversa, quod ibi videtur maximus 
+<lb/>stupor. Unde tantus rumor atque clamor est avium atque canum 
+<lb/>quos in illud nemus emiserunt, quod unus non intelligit alterum. 
+<lb/>Et cuncta animalia silvestria tremunt illo clamore magno.
+<lb/>3. Dum autem illa silvestria sunt in illa planicie congregata, 
+<lb/>tunc ascendit super tres elefantes ille <persName key="Yesün Temür Khan">Imperator</persName>, et in illa 
+<lb/>silvestria quinque iacet sagitas. Quas cum eiecerit, tota sua societas 
+<lb/>hoc idem facit similiter; et cum omnes iecerunt sagittas, 
+<lb/>quarum quelibet suum signum habet per quod una ab alia 
+<lb/>cognoscitur, tunc ille <persName key="Yesün Temür Khan">Imperator</persName> magnus vocari facit soy, id 
+<lb/>est misericordiam, bestiis illis quas de nemore propulerunt, 
+<lb/>et statim illa silvestria Q que ibi sunt dimissa intrant ipsum 
+<lb/>nemus. Ad animaliau interfecta cuncti barones accedunt, accipientes 
+<lb/>suas sagittas quas post illa emiserunt. Nam eas bene 
+<lb/>cognoscunt cum illi imposuerint eis signum. Unde unusquisque 
+<lb/>illud animal silvestre habet, quod sua percussit sagitta. Et 
+<lb/>sic isto modo fit venatio sua. 
+<lb/> 
+<lb/>De festis que facit et de signis et novitatibus que ibi fiunt. 
+<lb/>Cap. XXIX.
+<lb/> 
+<lb/>1. Quatuor magna festa in anno iste <persName key="Yesün Temür Khan">Imperator</persName> facit, scilicet 
+<lb/>festum circumcisionis, eiusque nativitatis diem, et sic de 
+<pb n="480"/>
+<lb/>aliis reliquis. Ad hec festa convocat omnes barones suos et 
+<lb/>ystriones omnes que de sua parentela, qui omnes ordinate 
+<lb/>in festo ponuntur. Maxime convocat istos ad duo festa 
+<lb/>de istis, scilicet ad festum circumcisionis et ad festum diei nativitatis 
+<lb/>sue. Cum ad aliquod istorum festorum sunt isti convocati, 
+<lb/>tunc accedunt barones cum coronis in capite, ipso Imperatore 
+<lb/>in sua sede resident, sicut superius dictum est. Et omnes 
+<lb/>barones in locis deputatis ordinate morantur.
+<lb/>2. Diversimode autem isti barones sunt vestiti, de viridi 
+<lb/>sirico primi, secundi de sanguineo sunt induti, tertii vero de 
+<lb/>glauco sive cano. Omnes sunt in capite coronati, habentes 
+<lb/>in manibus unam tabulam de dentibus elefantium albam, 
+<lb/>et cingulos aureos bene uno semisse altos, stantesque in pedibus 
+<lb/>et silencium observantes.
+<lb/>3. Circa istos morantur ystriones cum suis insignis et banderiis. 
+<lb/>In uno autem angulo cuiusdam palacii magni morantur 
+<lb/>phylosophi et sapientes, attendentes ad cunctas horas et 
+<lb/>puncta. Et cum occurrit punctum vel hora quam ipsi phylosophi 
+<lb/>petunt, unus clamat valenter et dicit: «Debetis inclinare 
+<lb/>nostro Imperatori domino magno ». Tunc omnes barones ter de 
+<lb/>capite dant in terra. Deinde ille exclamat dicens: «Vos surgite 
+<pb n="481"/>
+<lb/>cuncti». Et statim ipsi surgunt. Ad alia etiam puncta iterum 
+<lb/>ipsi attendunt, et cum venit punctum ille clamat dicens: 
+<lb/>«Ponite vobis in auriculam digitum ». Et faciunt. Et tunc statim 
+<lb/>dicit: «Extrahite ipsum ». Et obediunt. Sicque modicum stabunt 
+<lb/>et dicet: «Buratate farinam ». Sicque multa alia signa 
+<lb/>faciunt isti, que magnam dicunt significationem importare.
+<lb/>4. Deinde sunt officiales multi videntes cunctos istriones et 
+<lb/>barones ne aliquis illorum deficiat. Nam si aliqui ibi deficerent, 
+<lb/>magnam incurrerent penam. Cum autem incurret punctum 
+<lb/>et hora istorum ystrionum tunc phylosophi dicunt: « Faciatis 
+<lb/>festum domino ». Tunc omnes incipiunt pulsare sua omnia instrumenta, 
+<lb/>et tantus est ille cantus et clamor quod est quasi 
+<lb/>stupor unus. Deinde vox una clamat dicens: « Taceant omnes 
+<lb/>et sileant ». Sic omnes statim tacebunt.
+<lb/>5. Postea statim illi de parentela sunt parati cum equis 
+<lb/>albis et exinde vox una clamat dicens:« Talis de parentela 
+<lb/>tali, tot centenaria paret equorum domino suo ». Ibique 
+<lb/>statim aliqui sunt parati ducentes illos equos ante dominum
+<lb/>suum. Ita quod quoddam incredibile est de tot equis albis, qui 
+<lb/>illi domino exeniantur. 
+<lb/>6. Deinde sunt barones exennia portantes, ex parte aliorum 
+<lb/>baronum. Omnes etiam de monasteriis principales ad ipsum 
+<lb/>accedunt cum exenniis et suam benedictionem tenentur dare. 
+<lb/>Hoc idem nos fratres Minores facere oportet. 
+<pb n="482"/>
+<lb/>Hoc facto et ordinato, tunc aliqui ystriones ad ipsum 
+<lb/>accedunt et etiam alique ystrionatrices; ante ipsum tam dulciter 
+<lb/>cantant quod quedam iucunditas est audire. Deinde ystriones 
+<lb/>faciunt venire leones qui reverenciam faciunt Imperatori. 
+<lb/> 
+<lb/>De cifo qui per aerem vadit ad ora sedentium in convivio, 
+<lb/>qui plenus est vino. Cap. XXX.
+<lb/> 
+<lb/>1. Deinde ystriones vehi faciunt ciphos aureos per aerem, 
+<lb/>plenos bono vino, et sic ad ora omnium volencium bibere de 
+<lb/>isto vino porigunt istos ciphos. Sic hec et multa alia coram 
+<lb/>domino isto faciunt.
+<lb/>2. Dicere autem et referre magnitudinem istius domini et 
+<lb/>illa que in curia sua sunt, esset incredibile quoddam nisi ista 
+<lb/>oculis viderentur. De hoc tamen quod multas expensas facit, 
+<lb/>nemo mirari debet cum nichil aliud pro moneta expendatur 
+<lb/>in toto suo regno quam quedam carte quas pro moneta habent 
+<lb/>ibi, et infinitus thesaurus ad manus suas recurrit. 
+<lb/> 
+<lb/>De peponibus in quibus nascuntur bestiole facte 
+<lb/>ad modum unius agni. Cap. XXXI.
+<lb/> 
+<lb/>1. Aliud insuper valde mirabile dici potest, quod tamen non 
+<lb/>vidi sed audivi a personis fide dignis. Nam dicitur quod Cadelis 
+<lb/>est unum magnum regnum, in quo sunt montes qui 
+<lb/>montes Capei nominantur. Unde ut dicitur in eis nascuntur 
+<lb/>pepones valde magni, qui quando sunt maturi ipsi aperiuntur, 
+<pb n="483"/>
+<lb/>et intus invenitur una bestiola, ad modum unius agni parvi. 
+<lb/>Unde ipsi illos pepones habent et illas carniculas que sunt ibi. 
+<lb/>Et quamquam istud forte incredibile videatur, tamen ista 
+<lb/>possunt esse vera, sicut verum est quod in Ibernia sunt 
+<lb/>arbores facientes aves. 
+<lb/> 
+<lb/>De provincia Casairon <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName> que est ita habitata quod 
+<lb/>quando per portam unius civitatis exitur, porta alterius civitatis 
+<lb/>videtur Cap. XXXII.
+<lb/> 
+<lb/>1. De isto Catayo recedens et veniens versus ponentem seu 
+<lb/>occidentem, L dietis transeundo per multas civitates et terras 
+<lb/>veni versus terram Prestiçane, de quo non est centesima pars 
+<lb/>eius quod quasi pro certo dicitur de ipso. Eius civitas 
+<lb/>principalis Cosan vocatur, que tamen ipsa Vincencia melior 
+<lb/>civitas diceretur quam illa civitas Cosan, sua civitas principalis; 
+<lb/>multas alias civitates sub se habet. Sed semper pro 
+<lb/>pacto accipit in uxorem filiam <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName>. 
+<pb n="484"/>
+<lb/>Deinde ivi per multas dietas et veni ad unam provinciam 
+<lb/>que vocatur Cassan. Ista est melior secundae provincia 
+<lb/>et melius habitata quam hodie sit aliqua in mundo. Ubi 
+<lb/>autem est minus stricta, bene tamen est lata dietas et longa 
+<lb/>pluribus LX. Unde ista provincia taliter habitatur, quod quando 
+<lb/>ab una porta alicuius civitatis exitur, porte alterius civitatis 
+<lb/>videntur. In hac est maxima copia victualium et maxime castanearum. 
+<lb/>In hac contrata nascitur reubarbarum, cuius tanta 
+<lb/>copia illic habetur, quod unus asinus minori sex precio grossorum 
+<lb/>ponderaretur. Hec autem provincia est una de XII partibus 
+<lb/>imperii <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName>.
+<lb/> 
+<lb/>De provincia Tibor <persName key="Magnus Kaam" ref="https://viaf.org/50027343">magni Canis</persName>, ubi mulieres habent dentes
+<lb/>aprinos; et de honore quem filius fecit patri in morte, nam
+<lb/>earnes eius incidit et eas dat aquilis et vultoribus ad manducandum,
+<lb/>et credit eas aquilas esse angelos De qui portant
+<lb/>eum in celum. Cap. XXXIII
+<lb/> 
+<lb/>1. De hac provincia recedens, veni ad unum magnum regnum 
+<lb/>nomine Tibot, quod ipsi <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Indie</placeName> est confine. Totum hoc regnum 
+<pb n="485"/>
+<lb/>est subiectum magno Cani, et in ipso est maior copia panis et 
+<lb/>vini quam sit in aliqua parte mundi. Gentes istius contrate 
+<lb/>morantur in tenet oriis, que ex filtris sunt facta nigris. Tota sua 
+<lb/>civitas regalis et principalis est facta ex muris albis et nigris; 
+<lb/>omnesque sue vie sunt scaliate. In hac civitate non audet aliqua 
+<lb/>persona effundere sanguinem alicuius hominis vel animalis, 
+<lb/>et hoc ob reverenciam unius ydoli quod ibi colitur 
+<lb/>et adoratur. In ista civitate moratur lo Albassi, id est papa in 
+<lb/>lingua sua. Iste est capud omnium illorum ydolatrorum quibus 
+<lb/>dat et distribuit secundum morem suum omnia illa beneficia 
+<lb/>que ibi habet.
+<lb/>2. Hoc regnum hanc consuetudinem habet, nam mulieres 
+<lb/>portant plures quam centum tricas, habentes duos dentes
+<lb/>in ore, ita longos sicut habent apri.
+<lb/>3. Hec etiam alia consuetudo habetur in hac contrata, 
+<lb/>nam ponatur quod pater alicuius moriatur, et tunc ipse filius 
+<lb/>sic dicet: «Volo honorare patrem meum». Unde faciet convocari 
+<pb n="486"/>
+<lb/>omnes sacerdotes et religiosos, omnesque ystriones de contrata, 
+<lb/>vicinos similiter et parentes qui ad campaneam ipsum 
+<lb/>portant cum gaudio magno, ubi est paratus discus unus 
+<lb/>magnus super quo ipsi sacerdotes sibi capud amputabunt, 
+<lb/>quod postea filio suo sibi dabunt. Deinde eius filius cum tota 
+<lb/>sua societate cantat et pro eo multas orationes facit. Deinde 
+<lb/>sacerdotes totum eius corpus incidunt in frusta, quod cum sic fecerint, 
+<lb/>tunc sursum se reducunt cum societate pro eo orationes 
+<lb/>facientes. Post hec veniunt aquile et vultures de montibus, et 
+<lb/>sic unusquisque unum frustum accipit et portat. Deinde
+<lb/>omnes alta voce clamant dicentes: «Videamus qualis homo 
+<lb/>iste fuit, quia ipse sanctus est, nam veniunt angeli Dei et ipsum 
+<lb/>portant ad paradisum ».
+<lb/>5. Et sic isto modo faciendo filius eius multum se reputat 
+<lb/>honoratum. Cum pater eius ab angelis Dei, id est ab avibus illis, 
+<lb/>ita honorifice sit portatus, tunc statim filius eius capud 
+<lb/>accipit, quod coquid et comedit. De testa autem seu de osse capitis 
+<lb/>ipse filius sibi fieri facit unum cyphum, cum quo ipse 
+<lb/>et omnes de domo sua semper cum devotione bibunt in 
+<lb/>memoriam patris sui defuncti. Nam sic faciendo, ut dicunt, magnam 
+<lb/>reverendam exhibent patri suo. Unde multa alia inconsueta 
+<lb/>et disoluta fiunt ab istis. 
+<lb/> 
+<lb/>De nobili vita cuiusdam popularis, 
+<lb/>cui cibus in hore ponitur sicut pascitur passerinus. Cap. XXXIV.
+<lb/> 
+<lb/>1. Dum autem essem in provincia Mançi, veni iuxta pedem 
+<lb/>palacii cuiusdam hominis popularis, cuius vita habetur per hunc 
+<pb n="487"/>
+<lb/>modum. Ipse enim habet L domicellas virgines sibi continue 
+<lb/>servientes, et cum vadit ad comedendum et in mensa iam sedet, 
+<lb/>omnia fercula quinterna et quinterna sibi portantur ab 
+<lb/>ipsis cum diversis cantibus et multis generibus musicorum, et 
+<lb/>sibi cibum in os ponunt predicte virgines et ipsum pascunt, 
+<lb/>sicut esset unus passerinus. Et insuper ante eius conspectum 
+<lb/>semper cantant, donec omnia fercula sunt comesta. Deinde 
+<lb/>alia quinque fercula ab aliis portantur ei, recedentibus istis 
+<lb/>primis, cum aliis multis cantibus et diversis generibus musicorum. 
+<lb/>Et sic vitam suam isto modo ducit donec est in 
+<lb/>mundo. Hic XXX tuman tagaris risi de reditibus habet, 
+<lb/>quorum quilibet tuman decem millia facit tangar. Tangar 
+<lb/>pondus est unius asini magni.
+<lb/>2. Cortivum palacii sui per duo milliaria tenet. Palacium 
+<lb/>autem illud est factum per istum modum, nam pavimentum 
+<lb/>ipsius unum laterem habet de auro, alterum vero de 
+<lb/>argento. In curtivo istius palacii factus est unus monticulus de 
+<lb/>auro et de argento, super quo sunt facta monasteria et campanilia 
+<lb/>ut homines fieri faciunt pro delectationibus suis. Unde 
+<lb/>dicitur quod IIIIor tales homines, qualis iste est, sunt in regno 
+<lb/>ipsius Mançi. Nobilitas vero ipsius est longas habere ungues. 
+<lb/>Aliqui permittunt ungues policis tantum crescere quod cum 
+<lb/>ipsis circumdant sibi manus. Pulcritudo autem mulierum est 
+<pb n="488"/>
+<lb/>parvos habere pedes, unde hanc consuetudinem habent matres 
+<lb/>illarum mulierum, nam quando eis nascuntur alique puelle, 
+<lb/>sibi ligant pedes quos nunquam crescere dimittunt eis. 
+<lb/> 
+<lb/>De sene de monte qui tenebat in viridario siccarios, 
+<lb/>qui mortem quam aliis dabat finaliter fuit passus. Cap. XXXV.
+<lb/> 
+<lb/>1. Dum autem recederem de terris Prestiçane veniens 
+<lb/>versus ponentem, applicui ad quamdam contratam que Millistorte 
+<lb/>nominatur. Hec contrata pulcra est et multum fertilis. 
+<lb/>In hac contrata unus erat qui vocabatur senex de monte, 
+<lb/>qui inter duos montes contrate huiush fecerat murum qui 
+<lb/>circumdabat montem. Infra istum murum pulcriores erant 
+<lb/>fontes qui unquam possent reperiri. Apud istos fontes posite 
+<lb/>erant pulcriores domicellle que unquam poterant reperiri, 
+<lb/>equi pulcerimi omneque illud quod pro aliqua delectatione 
+<lb/>humano corpori poterat inveniri. Unde hunc locum 
+<lb/>vocabant paradisum.
+<lb/>2. Cum autem iuvenem valoris alicuius ipse videret, in isto 
+<lb/>suo paradiso ipsum poni faciebat. Per quosdam autem conductus 
+<lb/>vinum et lac illuc descendere faciebat. Et cum volebat facere 
+<lb/>sicare, id est assasinari, aliquem Begem vel baronem, illum qui 
+<lb/>preerat illi paradiso petere faciebat, ut aliquem inveniret
+<lb/>qui esset aptus magis delectari in isto suo paradiso. 
+<pb n="489"/>
+<lb/>3. Iste autem talis dum sic esset inventus et ibi positus 
+<lb/>esset, ei potationem unam dari faciebat qui eum statim sopiebat, 
+<lb/>et extra paradisum exportari faciebat. Qui cum excitabatur 
+<lb/>et extra paradisum se videbat, in tanta videbatur se esse 
+<lb/>agonia, quod quicquid ageret penitus nesciebat. Quare illum 
+<lb/>senem de monte rogabat instanter ut eum in illum reduceret 
+<lb/>paradisum, in quo prius erat positus. Tunc senex ille dicebat: 
+<lb/>« Tu illic ire non potes nisi talem Regem interficias vel baronem, 
+<lb/>unde sive moriaris sive non, te in paradiso ponam ». 
+<lb/>Et quia iste delectabatur mori, gratia eundi in paradiso, 
+<lb/>per eum sicari, id est assasinare, omnes quos volebat faciebat. 
+<lb/>Ideoque omnes reges timebant istum senem, sibique 
+<lb/>tributum dabant magnum. 
+<lb/>4. Cum autem Tartari quasi totum cepissent mundum, venerunt 
+<lb/>ad istum senem, cui finaliter dominium acceperunt. Quod 
+<lb/>cum ei sic fuisset acceptum, multos de istis suis sicariis 
+<lb/>emisit de paradiso, per quos sicari et interfici faciebat istorum 
+<lb/>multos Tartarorum. Hoc videntes isti Tartari, ad istam 
+<lb/>civitatem in qua iste senex erat venerunt et eam obsiderunt, 
+<lb/>et ab illa non discesserunt donec illam acceperunt, et ipsum 
+<lb/>senem finaliter habuerunt, et cum eum ceperunt vinculis eum 
+<lb/>vincxerunt et malam mortem illi substinere fecerunt. 
+<pb n="490"/>
+<lb/>De mirabilibus que faciunt fratres Minores in magna <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Tartaria</placeName>, 
+<lb/>qui demones de obsessis corporibus expellunt. Cap. XXXVI.
+<lb/> 
+<lb/>1. In hac contrata Deus omnipotens fratribus Minoribus 
+<lb/>hanc dedit gratiam magnam, nam in magna <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">Tartaria</placeName> ita pro 
+<lb/>nichilo habent expellere demones ab obsessis, sicut de domo 
+<lb/>expellerent unum canem. Unde multi homines et mulieres 
+<lb/>illic a demone sunt obsessi, quos ligatos bene per X dietas 
+<lb/>isti ad fratres nostros conducunt. Isti autem demoniaci cum 
+<lb/>adducti sunt ad fratres, ipsi ex parte et in nomine Iesu Christi 
+<lb/>precipiunt demonibus illis quod exire debeant de illis corporibus 
+<lb/>obsessorum, quam cicius ipsi possint. Tunc statim mandato 
+<lb/>facto exeunt ab illis. Deinde qui sunt a demone liberati, 
+<lb/>se statim faciunt baptizari. Tunc fratres illa sua ydola de filtro 
+<lb/>accipientes, que ipsi habent, cum cruce et aqua benedicta et 
+<lb/>illa portant ad ignem. Deinde omnes de contrata veniunt videre 
+<lb/>comburi deos suorum vicinorum. Tunc fratres ydola accipientes, 
+<lb/>illa ponunt in ignem, et tunc illa de igne exeunt. Propter 
+<lb/>quod fratres postea de aqua accipiunt benedicta quam in 
+<lb/>ignem prohiciunt, et statim demon fugit ab igne, et sic fratres 
+<pb n="491"/>
+<lb/>in ignem proiciunt, ibique comburuntur, et tunc demon 
+<lb/>clamat in aere dicens: «Vide, vide quod sum de mea habitatione 
+<lb/>repulsum ». Sic per istum modum nostri fratres Minores 
+<lb/>multos de illa contrata baptisant. 
+<lb/> 
+<lb/>De valle terribili, ubi sunt infinita corpora mortuorum, 
+<lb/>ubi est ymago terribilis quam nemo potuit unquam videre 
+<lb/>quin moriretur. Cap. XXXVII.
+<lb/> 
+<lb/>1. Aliud terribile magnum ego vidi. Nam dum irem per 
+<lb/>vallem, que posita est supraflumen deliciarum, multa corpora 
+<lb/>vidi mortua, in qua etiam audiebam diversa genera 
+<lb/>musicorum maxime autem nachara, que ibi mirabiliter pulsabantur. 
+<lb/>Unde tantus ibi erat clamor et rumor quod timor 
+<lb/>michi maximus incuciebatur.
+<lb/>2. Hec autem vallis forte longa est VII vel octo milliaribus 
+<lb/>terre, in qua si aliquis intrat nunquam de illa exit sed statim 
+<lb/>moritur sine mora. Et quamquam sic in illa moriatur, tamen 
+<lb/>volui in illam intrare, ut viderem finaliter quicquid hoc esset. 
+<lb/>Dum autem sic in illamy intrassem, ego, sicut iam dixi, tot 
+<lb/>mortua corpora vidi, quod nisi aliquis illa vidisset quasi sibi 
+<pb n="492"/>
+<lb/>incredibile videretur. In hac etiam valle ab uno latere eius in 
+<lb/>ipso saxo parietis unam faciem hominis valde terribilem
+<lb/>ego vidi, que in tantum terribilis erat quod pre nimio timore 
+<lb/>spiritum perdere veld perire me credebam. Quapropter <hi rend="italic">Verbum</hi>
+<lb/><hi rend="italic">caro factum est</hi>ore proferrebam. Ad ipsam autem faciem 
+<lb/>nunquam fui ausus totaliter appropinquare, sed ab illa 
+<lb/>VII vel VIII passibus distans ego fui.
+<lb/>3. Cum autem illicaccedere non auderem, ad aliud capud 
+<lb/>vallis ego ivi. Et tunc super unum montem arenosum ascendi, 
+<lb/>in quo circumspiciens nichil videbam preter illa nachara 
+<lb/>que pulsari mirabiliter audiebam. Cum autem in capite montis 
+<lb/>ego fui, illic aurum et argentum ego reperii in maxima quantitate, 
+<lb/>ibi quasi squame piscium congregatum, de quo posui in 
+<lb/>gremio meo. Et quia de ipso non curabam et etiam cogitans 
+<lb/>ut non essent illuxiones demonum, illud totaliter in terram 
+<lb/>proieci. Et sic dante Deo, inde illesus exivi.
+<lb/>4. Deinde omnes saraceni cum hoc sciverunt reverebantur 
+<lb/>me multum, dicentes me esse sanctum, illos autem qui mortui 
+<lb/>erant in illa valle dicebant esse homines demonis infernalis. 
+<lb/> 
+<lb/>De reverentia quam magnus Canis
+<lb/>fecit sanctissimo signo crucis. Cap. XXXVIII.
+<lb/> 
+<lb/>1. Unum referam de magno Cane quod vidi. Consuetudo 
+<lb/>est in illis partibus quod quando predictus dominus per illam 
+<lb/>contratam transit, quod homines ante hostium domorum suarum 
+<pb n="493"/>
+<lb/>ignem accendunt et aromata ponunt ac faciunt fumum, 
+<lb/>ut domino suo odorem emittant transeunti, et multi homines 
+<lb/>obviam sibi vadunt.
+<lb/>2. Dum autem semel veniret in <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName>, et de adventu suo 
+<lb/>certitudinaliter diceretur, unus noster Episcopus et aliqui nostri 
+<lb/>fratres Minores et ego ivimus sibi obviam bene per duas 
+<lb/>dietas. Et dum appropinquaremus ad eum, posuimus crucem 
+<lb/>super lignum ita quod publice videri poterat. Ego vero tenebam 
+<lb/>in manu turibulum quod mecum detuleram, et incepimus 
+<lb/>cantare alta voce dicentes: <hi rend="italic">Veni Creator Spiritus</hi> etc. 
+<lb/>Et dum sic cantaremus, audivit voces nostras, nosque vocari 
+<lb/>fecit et ad eum accedere nos iussit.
+<lb/>3. Cum superius alias dictum fuit quod nullus audet 
+<lb/>currui suo appropinquare ad iactum lapidis nisi sit vocatus, 
+<lb/>exceptis custodientibus eum, et cum ivissemus ad eum cum 
+<lb/>cruce elevata, deposuit statim gallerium suum sive capellum 
+<lb/>inextimabilis quasi valoris et fecit reverendam ipsi cruci. Statim 
+<lb/>que in turibulum quod habebam incensum reposui et Episcopus 
+<lb/>noster de manu mea accepit turibulum et eum 
+<lb/>turificavit.
+<lb/>4. Accedentes veroad ipsum dominum semper aliquid 
+<lb/>offerendum secum defferunt, observantes illam legem antiquam: 
+<lb/><hi rend="italic">Non apparebis in conspectu meo vacuus</hi>. Idcirco portavimus 
+<lb/>nobiscum aliqua poma, et ea sibi super unum incisorium 
+<lb/>obtulimus. Et ipse duo accepit de istis pomis et de uno 
+<lb/>aliquantulum comedit, et sibi inde predictus noster Episcopus 
+<pb n="494"/>
+<lb/>benedictionem suam impendit. Et hoc facto nobis iubsit ut 
+<lb/>recederemus, ne equi post ipsum venientes et multitudo in aliquo 
+<lb/>nos offenderent.
+<lb/>5. Statim vero disscesimus et divertimus, et ad aliquos 
+<lb/>barones suos, per fratres nostri Ordinis ad fidem conversos, 
+<lb/>ivimus qui in exercitu erant, et obtulimus eis de predictis
+<lb/>pomis. Qui cum maximo gaudio ipsa recipientes, ita videbantur 
+<lb/>letari ac si eis prebuisemus familiariter magnum 
+<lb/>munus.
+<lb/>6. Ego Fr. Odoricus de Foro Julii de Ordine fratrum
+<lb/>Minorum testificor et testimonium perhibeo reverendo patri
+<lb/>Fr. Guidoto, Ministro provincie S. Anthonii, cum ab eo fuerim
+<lb/>per obedientiam requisitus, quod hec omnia que superius
+<lb/>scripta sunt, aut propriis oculis ego vidi aut ab hominibus
+<lb/>fide dignis audivi. Comunis autem locutio illarum contratarum
+<lb/>illa que non vidi testatur esse vera. Multa etiam alia
+<lb/>ego dimisi que scribi non feci, cum ipsa quasi incredibilia apud
+<lb/>aliquos viderentur, nisi illa propriis oculis perspexissent.
+<lb/>7. Predicta autem ego Fr. Guilgelmus de Solagna in scriptis 
+<lb/>redegi sicut predictus Fr. Odoricus ore proprio exprimebat 
+<lb/>anno Domini MCCCXXX de mense madii, Padue in loco S. Anthonii. 
+<lb/>Nec curavi de latino difficili et ornato stilo, sed sicut 
+<lb/>ille narabat sic ego scribebam ad hoc ut omnes facilius intelligerent 
+<lb/>que scribuntur vel dicuntur.
+<lb/>8. Supradictus autem Fr. Odoricus postea ex hoc seculo 
+<lb/>transivit ad Dominum in conventu Utini anno Domini 
+<lb/>M° CCC° XXXI die XIIII ianuarii, qui postmodum multis et 
+<lb/>magnis corruscavit miraculis. 
+<pb n="495"/>
+<lb/>ille narabat sic ego scribebam ad hoc ut omnes facilius intelligerent 
+<lb/>que scribuntur vel dicuntur.
+<lb/>8. Supradictus autem Fr. Odoricus postea ex hoc seculo 
+<lb/>transivit ad Dominum in conventu Utini anno Domini 
+<lb/>M° CCC° XXXI die XIIII ianuarii, qui postmodum multis et 
+<lb/>magnis corruscavit miraculis. 
+</ab>
+</body>
+</text>
+</TEI>

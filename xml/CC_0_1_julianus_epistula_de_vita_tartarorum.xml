@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epistula de vita Tartarorum</title>
+    <author>Julianus Hungarus O.F.M.<date>fl.1237</date></author>
+   </titleStmt>
+  <publicationStmt>
+   <publisher>
+    <ref target="http://www.mlat.uzh.ch/MLS/">Corpus Corporum</ref>
+    </publisher>
+    <date when="2018-11-18">2018</date>
+    <availability>
+     <licence target="http://www.mlat.uzh.ch/MLS/">CC BY-SA 3.0</licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Drei Texte zur Geschichte der Ungarn und Mongolen: Die Missionsreisen des fr. Julianus 0. P. ins Uralgebiet (1234/5) und nach Rußland (1237) und der Bericht des Erzbischofs Peter über die Tartaren Von Heinrich Dörrie. Automatic OCR and formatting by Philipp Roelli. 
+      Nachrichten der Akademie der Wissenschaften in Göttingen, I. philologisch-historische Klasse, Jahrgang 1956 Nr. 6, VANDENHOECK et RUPRECHT
+      1956, Göttingen</title>
+     <idno type="SINICA"></idno>
+     <idno type="CCT"></idno>
+     <idno type="URI">http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Iulianus_OFM_cps12</idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Digitized and codified for the Corpus Corporum Project</p>
+   </projectDesc>
+   <editorialDecl>
+    <ab>
+     unchecked OCR
+    </ab>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="lat">Latin</language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="form">Prosa</term>
+     <term type="source"></term>
+     <term type="genre">Itinera et Relationes</term>
+     <term type="place">Tartaria</term>
+    </keywords>
+   </textClass>
+   <creation>
+    <date when-iso="1201/1300">1237</date>
+   </creation>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2018-11-09" who="0000-0003-4963-0858">P. Roelli: unchecked OCR (level 0), TEI encoding (Corpus Corporum)</change>
+   <change when="2019-12-15" who="0000-0003-4347-011X">E. Carbé: TEI encoding for ELA (level 1)</change>
+  </revisionDesc>
+ </teiHeader>
+ 
+ <text>
+  <body>
+   <div><head>Prooemium</head>
+    <p>Viro venerabili in Christo patri, Dei gratia Perusino episcopo, apostolice sedis legato frater Iulianus fratrum Ordinis Predicatorum in Ungaria servus vestre sanctitatis reverentiam tarn debitam quam devotam.</p>
+<p><pb n="166"/>Cum secundum iniunctam michi obedientiam ire deberem ad magnam <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName> cum fratribus michi adiunctis, iniunctum nobis iter arripere cupientes, cum ad ultimos fines <placeName key="Ruscia">Ruscie</placeName> devenissemus, rei didicimus veritatem, quod omnes Bascardi qui etiam Ungari pagani vocantur, et Bulgari et regna quam plurima a Tartaris penitus sunt devastata. Quid autem sint Tartari cuiusve secte sint prout melius potuimus, directe vobis tenore presentium enarrabo.</p>
+</div>
+<div><pb n="167"/><head>CAP. 1</head>
+<p> Relatum est michi a quibusdam quod Tartari f inhabitabant terram im.prius quam nunc Cumani inhabitant f et dicuntur in veritate filii Ysmahel, unde et Ysmahelite volunt nunc  Tartari vocari.  Terra autem de qua prius sunt egressi Gotta vocatur quam Rüben Gottam vocavit.</p>
+<p> Primum autem bellum Tartarorum taliter est inchoatum: Dux erat in terra Gotta Gurgutam nomine qui sororem habebat virginem parentibus <pb n="168"/> defunctis sue familie presidentem et more virili ut dicitur se gerentem.  Expugnavit quendam ducem vicinum et eundem bonis suis spoliavit. Elapsis autem quibusdam temporibus, cum ducem iterum predictum Tartarorum natio sicut consueverat expugnare niteretur, ille sibi precavens commisso bello cum puella supradicta prevaluit in pugnando et eam quam prius habuit adversariam captitavit,  conversoque in fugam suo exercitu ipsam in captivitate positam violavit et in signum maioris vindicte defloratam turpiter
+decollavit.</p>
+<p>Quo audito frater puelle memorate Gurgutam supradictus dux nuntio ad prefatum virum delegato tale fertur mandatum transmisisse: „Intellexi quod sororem meam captam et defloratam decollasti. Noveris te opus mihi contrarium exegisse. Si soror mea tibi forsitan fuit inquieta damnificans te in rebus mobilibus, poteras ad me accedere, equum de ea iudicium petiturus,  vel si volens te propriis manibus vindicare debellatam captivasti et deflo<pb n="169"/>rasti, ducere poteras in uxorem. Si autem eam occidendi propositum iui habuisti, nullatenus debueras eam deflorare.  Nunc vero in duobus damnificans et virginali pudicitie turpitudinem intulisti et capitali eam morte miserabiliter condemnasti. Propter quod in vindictam necis puelle nominate scias me tecum totis viribus congressurum." Hoc audiens dux necis perpetrator et videns se non posse resistere, fugit cum suis ad Soldanum de Hornach terra propria derelicta.</p>
+<pb n="170"/>
+<p>His itaqne gestis erat dux quidam in terra Cumanoruin nomine Euthet, cuius divitie tarn preclare predicantur quod etiam pecora in campis in aureis canalibus adaquabantur. Quem dux alius Cumanorum de flumine Buchs, nomine Gureg, expugnavit propter divitias et devicit. Qui devictus cum duobus filiis suis et quibusdam paucis qui de belli periculo evaserant, ad iam dictum Soldanum de Hornach transfugerunt. Soldanus vero memor iniurie <pb n="171"/>
+quam sibi quondam forte intulerat quia vicinus extiterat, receptum in porta iui. ipsum suspendit et populum dominio suo subiugavit. Duo vero filii Euthet fugam protinus arripuerunt, et quia refugium alias non habebant, ad prefatum Gureg qui patrem eorum et eosdem ante spoliaverat, sunt reversi. Qui ferali concitatus rabie cum equis maiorem interfecit; minor autem fugiens venit ad Gurgutam ducem Tartarorum iam ante nominatum, rogans obnixius ut de Gureg, qui patrem spoliavit et fratrem interfecit, vindictam exerceret, dicens ista duo, videlicet quod Gurgutam honor remaneret et sibi pro nece fratris et patris spolio retributio fieret et vindicta. Quod ita factum est.</p>
+<p> Ac habita victoria rogavit iterum ducem Gurgutam iuvenis prefatus, ut de Soldano de Hornach vindictam acciperet pro miserabili nece patris, dicens quod etiam populus relictus a patre qui ibi quasi captivus tenebatur esset sibi presidio sui exercitus in progressu. Ille iam de victoria duplici corde et animo debacchatus sedulo concessit quod iuvenis postulavit, et egressus contra Soldanum victoriam habuit sibi glorificam et honestam.  Igitur quasi undique victoria fretus laudabili Gurgutam supradictus dux Tartarorum cum toto impetu belli progressum fecit contra <placeName key="Persae" ref="https://www.geonames.org/130758">Persas</placeName> pro quibusdam guerris quas <pb n="172"/>primitus habebant ad invicem; ubi victoriam habuit perhonestam et
+regnum <placeName key="Persae" ref="https://www.geonames.org/130758">Persarum</placeName> sibi totaliter subiugavit.</p>
+<p> Ex his audacior effectus et fortiorem se reputans omnibus super terram, progressum cepit facere contra regna totum mundum sibi subiugare proponens.</p>
+<p>Unde ad terram Cumanorum accedens, ipsos Cumanos superavit terram sibi subiugans eorum. Inde reversi ad magnam <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName> a quibus nostri Ungari originem habuerunt, expugnaverunt eos quatuordecim annos et in quinto decimo obtinuerunt eos, sicut nobis ipsi pagani Ungari rettulerunt viva voce.</p>
+<p>Illis obtentis reversi versus occidentem spatio unius anni vel parum amplius quinque regna maxima paganorum obtinuerunt Sasciam Merowiam, regnum <pb n="173"/> expugnarunt Bulgarum, etiam sexaginta castra munitissima capiebant tarn iui. populosa, quod de uno poterant exire quinquaginta milia militum armatorum. Ceterum et Wedin et Merowiam Poydowiam Mordanorum regnum expugnabant, cuius duo principes fuerunt. Et unus princeps cum. toto populo et familia Tartarorum domino se subiecerat, alter vero munitissima loca ad tuendum se petiit cum paucis populis si valeret.</p></div>
+<div><head>CAP. 2</head>
+<p> Nunc autem cum nos in finibus <placeName key="Ruscia">Ruscie</placeName> maneremus, prope rei sensimus veritatem, quod totus exercitus Tartarorum veniens ad partes occidentis, in quatuor partes est divisus. Una pars ad fluvium Ethil in finibus <placeName key="Ruscia">Ruscie</placeName> a plaga orientali ad Sudal applicuit; altera vero pars versus meridiem iam ≤pb n="174"/>fines Risennie, quod est alius ducatus Rutenorum, quam numquam expugnabant; tertia autem pars contra fluvium Denh prope Castrum Orgenhusin qui est alius ducatus Rutenorum residebat. Hoc tamen expectantes quod sicut et ipsi Ruteni, Ungari et Bulgari qui ante eos fugerant, viva voce nobis referebant: quod terra fluviis et paludibus in proxima hieme congelatis totam
+Rusciam toti multitudini sie facile est eis depredari sicut totam terram Rutenorum.</p>
+<p> Sic tamen intelligatis hec omnia quod ille Gurgutam dux primus qui bellum inchoavit est defunetus. Nunc autem filius eius Chayn regnat pro eodem et residet in civitate magna Hornach cuius regnum obtinuit pater eius prima fronte. Residet autem tali modo:
+<pb n="175"/>
+Palatium habet tarn magnum quod mille equites intrant per unum ostium iui. et eidem inclinantes equites exeunt nichilo minus insidentes. Dux autem  prefatus paravit sibi lectum pergrandem et altum columnis aureis innixum, lectum inquam aureum et pretiosissime coopertum, in quo sedet gloriosus et glorificatus pretiosis circumdatus indumentis. Ostia autem ipsius palatii per totum aurea sunt per que equites sui transeunt incolumes et immunes. Alieni vero nuntii si equites transeunt per ostia vel pedites, si pedibus limen ostii tangunt, ibidem gladio feriuntur; sed cum summa reverentia oportet alienum quemlibet transire.</p>
+<p> In tali ergo pompa residens misit exercitus per diversas terras, videlicet ultra mare, sicut credimus, et quanta ibi fecerit, etiam vos audivistis. löAlium autem exercitum copiosum misit iuxta mare super omnes Cumanos, qui ad partes Ungarie transfugerunt. Tertius autem exercitus obsidet totam Rusciam sicut dixi.</p>
+
+<pb n="176"/></div>
+
+<div><head>CAP. 3</head>
+<p> Verum ut de bello vobis significarem, dicitur quod longius iaciunt sagittis quam eetere consueverint nationes. Et in prima congressione belli sicut dicitur non sagittant sed quasi pluere sagitte videntur; gladiis et lanceis dicuntur minus apti ad bellum. Taliter enim suum cuneum ordinant quod decem hominibus unus Tartar preest, iterum centum hominibus unus centurio.  Hoc ideo tali astutia faciunt, ne exploratores supervenientes possint aliquatenus latere inter eos, et si forte numerum eorundem diminui propter bellum, possit restitui sine mora, et populus collectus ex diversis infidelitatem aliquam facere non possit, quem ex diversis linguis et nationibus collegerunt.</p>
+<p>Omnium regnorum que obtinent, reges et duces et magnates, de quibus est spes quod aliquando possint facere resistentiam, interficiunt sine mora.</p>
+<p>Milites autem et rusticos fortes ad prelium ante se mittunt armatos ad preliandum sine sponte. Alios autem rusticos ad preliandum minus aptos relinquunt ad excolendam terram, et omnium (tarn ad prelium compulsorum quam occisorum) uxores et filias et cognatas dividunt ad singulos cultui terre <pb n="177"/> relictos cuilibet decem vel plures assignantes, et imponunt eisdem ut Tartari iui. de cetero nuncupentur.</p>
+<p>Milites vero, qui ad preliandum compelluntur, si bene pugnant et vincunt parva gratia; si vero in prelio moriuntur, — nulla cura! Si vero in prelio retrocedunt, sine mora a Tartaris occiduntur; ideoque preliantes appetunt occidi potius in prelio quam gladiis Tartarorum feriri. Pugnant ergo fortius non ut vivant in posterum, sed ut citius moriantur. Castra munita non expugnant, sed prius terram devastant et populum depredantur, et eiusdem terre populum simul congregant et compellunt ad pugnam ad expugnandum ipsum suum Castrum.  De multitudine autem ipsius exercitus vobis aliquid non scribo, nisi etiam quod omnium regnorum que obtinuit milites ad pugnam aptos ante se compellit preliari.</p></div>
+
+<div><head>CAP. 4</head>
+<p>Fertur a pluribus re certa, et dux de Sudal mandavit per me regi Ungarie viva voce, quod die noctuque consilium habent Tartari qualiter vincant <pb n="178"/> et obtineant regnum Ungarie christianum. Propositum enim habere dicuntur quod veniant et expugnent <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Romam</placeName> et ultra <placeName key="Roma" ref="https://pleiades.stoa.org/places/423025">Romam</placeName>.</p>
+<p>Unde legatos misit regi Ungarie qui venientes per terram Sudal captivati sunt a duce de Sudal, et litteras regi missas dux ille recepit ab eis; et legatos ipsos cum sociis mihi deputatis etiam vidi;  predictas litteras a duce de Sudal mihi datas ad regem Ungarie deportavi. Littere autem Scripte sunt litteris
+paganis sed lingua tartarica. Unde rex eas qui possint legere multos invenit sed intelligentes nullos invenit. Nos autem cum transiremus Cumaniam paganum quendam invenimus qui eas nobis est interpretatus. Est autem hec interpretatio: <pb n="179"/>
+„Ego, Chayn, nuntius regis celestis, cui dedit potentiam super terram iui. subicientes mihi se exaltare et deprimere adversantes, miror de te, rex Ungarie,
+quod cum miserim ad te iam tricesima vice legatos, quare ad nie nullum remittis ex eisdem;  sed nec nuntios tuos vel litteras mihi remittis. Scio quod rex dives es et potens, et multos sub te habes milites, solusque gubernas magnum regnum. Ideoque difficile sponte tua te mihi subicis; melius tamen tibi esset et salubrius, si te subiceres sponte mihi! Intellexi insuper quod Cumanos servos meos sub tua protectione detineas. Unde mando tibi quod eos de cetero apud te non teneas, et me adversarium non habeas propter ipsos! Facilius est enim eis evadere quam tibi, quia illi sine domibus cum tentoriis ambulantes possunt forsitan evadere. Tu autem in domibus habitans, habens castra et civitates, qualiter effugies manus meas?"</p>
+
+<pb n="180"/>
+</div>
+
+<div><head>CAP. 5</head>
+<p>Sed hec non pretermittam. Iterum cum ego remansi in curia Romana, precesserunt me ad magnam <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName> quatuor fratres mei, qui pertransientes per terram Sudal, in finibus regni illius occurrerunt quibusdam Ungaris paganis fugientibus a facie Tartarorum, qui libenter fidem catholicam recepissent, [et] dum versus <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName> christianam venissent. (Quod) audiens dux predictus de Sudal indignatus fratribus predictis revocatis inhibuit, ne legem Romanam predicarent Ungaris memoratis, et propter hoc expulit fratres predictos de terra sua; tamen absque molestia hi nolentes redire et viam factam facile dimittere declinaverunt ad civitatem Risennie, si viam haberent ut in magnam <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName> vel ad Morducanos vel ad ipsos Tartaros pertransirent. Duobus autem fratribus ibi relictis ex ipsis, conducti interpretibus in festo Apostolorum Petri et Pauli proximo transacto venerunt ad ducem Morducanorum alterum, qui eodem die egressus quo isti venerant, cum toto populo et familia, sicut superius diximus, Tartaris se subiecit. De cetero, quid de duobus fratribus illis factum sit, utrum mortui sint vel a duce iam dicto adn<pb n="181"/>Tartaros deducti, penitus ignoratur. Duo fratres relicti, admirantes de mora im. eorundem circa festum Michaelis proxima celebratum miserunt quendam Interpretern, de eorum vita cupientes certificari; quem etiam Morducani invadentes occiderunt. Ego autem et socii mei videntes terram a Tartaris occupatam , et regiones munitas conspicientes, at iam nullum fructum fructificandi reversi sumus ad <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName>.Et licet per multos exercitus et latrones transivimus, sancte tamen ecclesie orationibus et meritis suffragantibus, pervenimus ad fratres nostros et claustrum incolumes et immunes.</p>
+<p>Ceterum cum tale Dei flagellum adveniat et adproximet ad filios Ecclesie sponse Christi, quid super his agendum quidque faciendum sit, Vestre Sanctitatis discretio dignetur sollicite providere.</p></div>
+
+<div><head>CAP. 6</head>
+<p>Preterea ut nichil ex his maneat pretermissum paternitati vestre significo, quod cum quidam clericus Ruthenorum nobis aliqua rescriberet de historia libri Iudicum, dicebat, quod Tartari sunt Madyanite, qui cum Cethym pariter contra filios Israel pugnantes devicti sunt a Gedeone sicut in libro Iudicum continetur. Unde fugientes dicti Madyanite habitaverunt iuxta fluvium quendam nomine Tartar, unde et Tartari sunt vocati.
+
+<pb n="182"/>
+ Tantam quoque asserunt Tartari se bellatorum habere multitudinem quod in quadraginta partes dividi posset ita quod nulla potestas inveniatur super terram, que uni parti eorum valeat resistere.  Item dicitur quod habent in exercitu suo secum servos ducenta sexaginta milia qui non sunt de lege sua et centum triginta quinque milia de lege sua probatissimorum in acie. Item dicitur quod mulieres eorum sicut et ipsi bellicose sunt, et iaciunt sagittas et insident equis et iumentis sicut et viri, et animosiores sunt viris  in conflictu belli. Quia viris aliquando terga vertentibus ille nullatenus fugam arripiunt, sed omni discrimini se exponunt.</p>
+<p>Explicit epistola de vita, secta et origine Tartarorum.</p>
+</div>
+  </body>
+</text>
+</TEI>
+
+

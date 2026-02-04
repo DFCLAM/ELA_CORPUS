@@ -1,0 +1,2373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+  
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Historia Mongalorum</title>
+          <author ref="https://viaf.org/viaf/239502727/">Iohannes de Plano Carpini O.F.M.<date>1190-1252</date></author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>
+            <ref target="www.alim.unisi.it">ALIM</ref>
+          </publisher>
+          <date when="2014-03">10/09/2018</date>
+          <availability>
+            <licence target="www.alim.unisi.it">© ALIM</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title ref="https://www.worldcat.org/title/storia-dei-mongoli/oclc/1046026280" key ="print-editor">Giovanni di Pian di Carpine, Storia dei Mongoli, a cura di P. Daffinà, C. Leonardi, M.C. Lungarotti, E. Menestò e L. Petech, Spoleto, Centro italiano di studi sull'alto Medioevo, 1989, pp. 227-333.</title> 
+            <idno type="SINICA"></idno>
+            <idno type="CCT"></idno>
+            <idno type="URI">http://it.alim.unisi.it/dl/resource/208</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <editorialDecl>
+          <ab> Note di Paolo Monella: Dell’opera esistono due redazioni, una scritta in fretta subito dopo la fine del viaggio, l’altra frutto di una revisione post eventum, che, in alcune parti, consistette in una nuova stesura. Il testo edito riproduce quello della seconda redazione. Correzioni al testo: p. 244, riga 10: purificati suspectum (pro purificari?); p. 258, riga 3: videtur pro videntur, suspectum, p. 306, riga 104: Christiani] Chrisitani ed.; p. 324, riga 523: voluntatem] volontatem ed.;p. 332, righe 681-682: facerent] facerente ed.; Livello di codifica ALIM: 0. 
+            </ab>
+        </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="lat">Latin</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term type="form">Prosa</term>
+            <term type="source"></term>
+            <term type="genre">Itinera et Relationes</term>
+            <term type="place"></term>
+          </keywords>
+        </textClass>
+        <creation>
+          <date when-iso="1201/1300">1250</date>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2018-08-10" who="0000-0002-2675-9184">P. Monella: edition for ALIM</change>
+        <change when="2019-12-15" who="0000-0003-4347-011X">E. Carbé: TEI changes (level 1)</change>
+      </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div>
+		    <p><pb n="227"/>
+		    <lb/>INCIPIT HISTORIA MONGALORUM
+			    <lb/>QUOS NOS TARTAROS APPELLAMUS</p>
+        <p>
+<lb/>Prologus.
+<lb/>1. Omnibus Christi fidelibus, ad quos presens scriptum pervenerit, 
+	      <lb/>frater <persName key="Iohannes de Plano Carpini O.F.M." ref="https://viaf.org/viaf/239502727">Iohannes de Plano Carpini</persName> Ordinis fratrum Minorum,
+<lb/>sedis apostolice nuntius ad Tartaros et ad nationes alias Orientis, 
+<lb/>Dei gratiam in presenti et gloriam in futuro et de inimicis Dei et 
+<lb/>domini nostri Iesu Christi victoriam triumphalem.
+<lb/>2. Cum ex mandato sedis apostolice iremus ad Tartaros et ad 
+<lb/>nationes alias Orientis et sciremus domini pape ac venerabilium
+<lb/>cardinalium voluntatem, elegimus prius ad Tartaros proficisci. Timebamus 
+<lb/>enim ne per eos in proximo Ecclesie Dei periculum immineret. 
+<lb/>Et quamvis a Tartaris vel ab aliis nationibus timeremus 
+<lb/>occidi vel perpetuo captivari, vel fame, siti, algore, estu, contumeliis 
+<lb/>et laboribus nimiis quasi ultra vires affligi, que omnia multo
+<pb n="228"/><lb/>plus quam prius crediderimus, excepta morte vel captivitate perpetua, 
+<lb/>nobis multipliciter evenerunt, non tamen pepercimus nobis 
+<lb/>ipsis ut voluntatem Dei secundum domini pape mandatum adimplere 
+<lb/>possemus, et ut proficeremus in aliquo Christianis vel saltem,
+<lb/>scita veraciter voluntate et intentione ipsorum, possemus illam patefacere 
+<lb/>Christianis ne, forte subito irruentes, invenirent eos impreparatos, 
+<lb/>sicut peccatis hominum exigentibus alia vice contigit et 
+<lb/>facerent magnam stragem in populo christiano.
+<lb/>3. Unde quecumque pro vestra utilitate vobis scribimus ad cautelam, 
+<lb/>tanto securius credere debetis, quanto nos cuncta vel ipsi
+<lb/>vidimus oculis nostris, quia per annum et quatuor menses et 
+<lb/>amplius ambulavimus per ipsos, pariter et cum ipsis ac fuimus inter 
+<lb/>eos, vel audivimus a christianis, qui sunt inter eos captivi et, 
+<lb/>ut credimus, fide dignis. Mandatum enim a summo pontifice habebamus, 
+<lb/>ut cuncta perscrutaremur et videremus omnia diligenter.
+<lb/>Quod tam nos quam frater <persName key="Benedictus Polonus O.F.M." ref="https://viaf.org/161819465/">Benedictus Polonus</persName> eiusdem Ordinis, 
+<lb/>qui nostre tribulationis fuit socius et interpres, fecimus studiose.
+<lb/>4. Sed si aliqua scribimus propter notitiam legentium, que in 
+<lb/>vestris partibus nesciuntur, non debetis propter hoc nos appellare 
+<lb/>mendaces, quia vobis referimus illa que ipsi vidimus vel ab aliis
+<lb/>pro certo audivimus, quos esse credimus fide dignos; immo est 
+<lb/>valde crudele ut homo, propter bonum quod facit, ab aliis 
+<lb/>infametur.
+<pb n="229"/><lb/>De terra Tartarorum et situ et qualitate ipsius
+<lb/>et dispositione aeris in eadem. Cap. I.
+<lb/>1. Volentes igitur facta scribere Tartarorum, ut lectores valeant 
+<lb/>facilius invenire, hoc modo per capitula describemus. Primo quidem 
+<lb/>dicemus de terra, secundo de hominibus, tertio de ritu, quarto 
+<lb/>de moribus, quinto de ipsorum imperio, sexto de bellis, septimo 
+<lb/>de terris quas eorum dominio subiugarunt, octavo quomodo 
+<lb/>bello occurratur eisdem, ultimo de via quam fecimus et curia imperatoris 
+<lb/>et testibus qui in terra Tartarorum nos invenerunt.
+<lb/>2. De terra proposuimus hoc modo tractare: in principio quidem
+<lb/>dicemus de situ ipsius, secundo de qualitate, tertio de dispositione 
+<lb/>aeris in eadem.
+<lb/>3. Terra quidem predicta est in ea parte posita orientis, in qua 
+<lb/>oriens, sicut credimus, coniungitur aquiloni. Ab oriente autem est
+<lb/>terra posita Kytaorum et etiam Solangorum; a meridie terra Sarracenorum;
+<pb n="230"/><lb/>inter occidentem et meridiem terra est posita Huyrorum; 
+<lb/>ab occidente provincia Naimanorum; ab aquilone mari oceano 
+<lb/>circumdatur.
+<lb/>4. Hec vero in parte aliqua nimium est montuosa et in aliqua
+<lb/>est campestris, sed fere tota est admixta glarea plurimum arenosa.
+<lb/>In aliqua parte terre sunt alique modice silve, alia vero est sine lignis 
+<lb/>omnino. Cibaria autem sua decoquunt, et sedent tam imperator 
+<lb/>quam principes et alii omnes ad ignem, factum de boum stercoribus 
+<lb/>et equorum. Terra etiam predicta non est nisi in parte centesima 
+<lb/>fructuosa, nec etiam illa potest fructum portare nisi aquis fluvialibus 
+<lb/>irrigetur, sed aque ac rivi ibidem sunt pauci, flumina vero 
+<lb/>rarissima. Unde ibidem ville non sunt nec alique civitates, excepta 
+<lb/>una, que dicitur esse satis bona, que Caracoron nominatur. Nos 
+<lb/>autem non vidimus illam, sed fuimus prope ad dimidium diem
+<lb/>cum apud syram ordam essemus, que curia maior est imperatoris
+<lb/>eorum. Et licet alias infructifera sit, quamvis non multum, tamen 
+<lb/>competenter est alendis pecoribus apta.
+<lb/>5. Aer in ipsa est mirabiliter inordinatus. In media enim estate,
+<lb/>quando in aliis partibus solet calor maximus habundare, ibi
+<lb/>sunt tonitrua magna et fulgura, ex quibus homines plurimi occiduntur;
+<pb n="231"/>
+<lb/>cadunt etiam ibi eodem tempore maxime nives. Ibi etiam 
+<lb/>sunt frigidissimorum ventorum tam maxime tempestates, quod 
+<lb/>cum labore aliquando possunt homines equitare. Unde cum essemus 
+<lb/>ante ordam, sic enim stationes imperatoris apud eos et principum 
+<lb/>appellantur, iacebamus in terra pre magnitudine venti prostrati 
+<lb/>et propter pulveris multitudinem videre minime poteramus. 
+<lb/>In ea etiam in hyeme nunquam pluit, sed in estate sepe et tam 
+<lb/>modicum quod vix potest aliquando pulverem et radices graminum 
+<lb/>madidare. Grando etiam ibi sepe maxima cadit. Unde eo
+<lb/>tempore quando fuit electus et in sede regni poni debuit imperator, 
+<lb/>nobis in curia existentibus, tanta cecidit grando, quod ex subita 
+<lb/>resolutione, sicut plenius intelleximus, plus quam centum et sexaginta 
+<lb/>homines in eadem curia fuerint submersi; res etiam et habitacula 
+<lb/>plura deducta fuerunt. Ibi est etiam in estate subito magnus 
+<lb/>calor, et repente maximum frigus. In hyeme vero in aliqua parte
+<lb/>cadunt maxime nives, in aliqua autem parve.
+<lb/>6. Et ut breviter de terra ipsa concludam: magna est, sed aliter,
+<lb/>sicut vidimus oculis nostris, quia per ipsam circumeundo quinque 
+<lb/>mensibus et dimidio ambulavimus, multo vilior est quam dicere 
+<lb/>valeamus.
+<pb n="232"/>
+<lb/>De personis, de vestibus, de habitaculis, de rebus,
+<lb/>de ipsorum coniugio. Cap. II.
+<lb/>1. Dicto de terra, de hominibus dicendum est. Primo quidem 
+<lb/>formas describemus personarum, secundo de ipsorum coniugio 
+<lb/>supponemus, tertio de vestibus, quarto de habitaculis, quinto de
+<lb/>rebus eorum.
+<lb/>2. Forma personarum ab omnibus aliis hominibus est remota. 
+<lb/>Inter oculos enim et inter genas plus quam alii homines sunt lati. 
+<lb/>Gene etiam satis prominent a maxillis; nasum habent planum et 
+<lb/>modicum, oculos habent parvos et palpebras usque ad supercilia
+<lb/>elevatas. Graciles sunt generaliter in cingulo, exceptis quibusdam 
+<lb/>paucis; pene omnes mediocris sunt stature. Barba fere omnibus 
+<lb/>minime crescit: aliqui tamen in superiori labio et in barba modicos 
+<lb/>habent crines, quos minime tondent. Super verticem capitis, in
+<lb/>modum clericorum, habent coronas et ab aure una usque ad aliam
+<lb/>ad latitudinem trium digitorum generaliter omnes radunt; que rasure 
+<lb/>corone predicte iunguntur. Super frontem etiam, ad latitudinem 
+<lb/>duorum digitorum, similiter omnes radunt; illos autem capillos, 
+<lb/>qui sunt inter coronam et pretaxatam rasuram, crescere usque
+<pb n="233"/>
+<lb/>ad supercilia sinunt et, ex utraque parte frontis tondendo plus
+<lb/>quam in medio, medio crines faciunt longos; reliquos vero crines permittunt 
+<lb/>crescere ut mulieres, de quibus faciunt duas cordas et ligant 
+<lb/>unamquamque post aurem. Pedes etiam modicos habent.
+<lb/>3. Uxores vero habet unusquisque quot potest tenere: aliquis
+<lb/>centum, aliquis quinquaginta, aliquis decem, aliquis plures, aliquis 
+<lb/>pauciores. Et omnibus parentibus generaliter coniunguntur, 
+<lb/>excepta matre, filia et sorore ex eadem matre; sororibus autem ex 
+<lb/>patre tantum; et uxores etiam patris post mortem ducere possunt; 
+<lb/>uxorem etiam fratris alter frater iunior post mortem vel alius de
+<lb/>parentela iunior, ducere tenetur. Reliquas mulieres omnes sine
+<lb/>ulla differentia ducunt uxores et emunt eas valde pretiose a parentibus 
+<lb/>suis. Post mortem maritorum de facili ad coniugia secunda non 
+<lb/>migrant, nisi quis velit suam novercam ducere in uxorem.
+<lb/>4. Vestes autem, tam virorum quam mulierum, sunt uno modo
+<lb/>formate: palliis, cappis vel caputiis vel pellibus non utuntur,
+<lb/>tunicas vero portant de bucarano purpura vel baldachino in hunc 
+<lb/>modum formatas: a summo usque deorsum sunt scisse et ante pectus 
+<lb/>duplicantur, a latere vero sinistro una et in dextro tribus ligaturis 
+<lb/>nectuntur, in latere etiam sinistro usque ad bracale sunt
+<pb n="234"/>
+<lb/>scisse. Pellicia cuiuscumque sunt generis, in eumdem modum formantur: 
+<lb/>superius tamen pellicium exterius habet pilos, sed a posterioribus 
+<lb/>est apertum; habet tamen caudulam unam usque ad 
+<lb/>genua retro.
+<lb/>5. Mulieres vero que sunt maritate habent unam tunicam valde 
+<lb/>amplam et usque ad terram ante scissam. Super caput habent
+<lb/>unum quid rotundum de viminibus vel de cortice factum, quod in 
+<lb/>longum protenditur ad unam ulnam, et in summitate desinit in 
+<lb/>quadrum, et ab imo usque ad summum in amplitudine semper 
+<lb/>crescit, et in summitate habet virgulam unam longam et gracilem
+<lb/>de auro vel de argento seu de ligno, vel etiam pennam, et est assutum 
+<lb/>super unum pilleolum quod protenditur usque ad humeros. 
+<lb/>Et tam pilleolum quam instrumentum predictum est tectum 
+<lb/>de bucarano seu purpura vel baldachino, sine quo instrumento coram 
+<lb/>hominibus nunquam vadunt, et per hoc ab aliis mulieribus
+<lb/>cognoscuntur. Virgines autem et iuvenes mulieres cum magna difficultate 
+<lb/>a viris possunt discerni, quoniam per omnia vestiuntur ut 
+<lb/>viri. Pilleola habent alia quam alie nationes, quorum formam intelligibiliter 
+<lb/>describere non valemus.
+<lb/>6. Stationes habent rotundas in modum tentorii preparatas, de
+<lb/>virgis et baculis subtilibus factas. Supra vero in medio rotundam
+<lb/>habent fenestram, unde lumen ingreditur et ut possit fumus exire, 
+<lb/>quia in medio faciunt ignem semper. Parietes autem et tecta filtro 
+<lb/>sunt cooperta, hostia etiam de filtro sunt facta. Quedam stationes
+<pb n="235"/>
+<lb/>sunt magne et quedam parve, secundum dignitatem vel hominum
+<lb/>parvitatem; quedam solvuntur subito et reparantur et super summarios 
+<lb/>deferuntur; quedam dissolvi non possunt sed in curribus deferuntur. 
+<lb/>Minoribus autem in curru ad deferendum unus bos, maioribus 
+<lb/>tres vel quatuor vel etiam plures, secundum quod magna est, 
+<lb/>sufficiunt ad portandum. Quocumque vadunt sive ad bellum sive
+<lb/>alias semper illas deferunt secum.
+<lb/>7. In animalibus sunt divites valde, in camelis, bobus, ovibus, 
+<lb/>capris; de equis et iumentis tantam multitudinem habent, quantam 
+<lb/>non credimus habere alium totum mundum; porcos et bestias 
+<lb/>alias minime habent.
+<lb/>8. <persName key="Yesün Temür Khan">Imperator</persName>, duces et alii magnates in auro et argento et serico
+<lb/>et lapidibus pretiosis et gemmis multum abundant.
+<lb/>De cultu, de iis que credunt esse peccata,
+<lb/>de divinationibus et purgationibus et ritu funeris. Cap. III.
+<lb/>1. Dicto de hominibus supponendum est de ritu, de quo tractabimus
+<lb/>in hunc modum: primo dicemus de cultu, secundo de
+<pb n="236"/>
+<lb/>iis que credunt esse peccata, tertio de divinationibus et purgationibus 
+<lb/>peccatorum, quarto de ritu funeris.
+<lb/>2. Unum Deum credunt, quem credunt esse factorem omnium 
+<lb/>visibilium et invisibilium, et credunt ipsum tam bonorum, in hoc 
+<lb/>mundo, quam penarum esse datorem; non tamen orationibus vel 
+<lb/>laudibus aut ritu aliquo ipsum colunt. Nichilominus habent idola
+<lb/>quedam de filtro ad imaginem hominis facta, et illa ponunt ex 
+<lb/>utraque parte ostii stationis, et subtus illa ponunt quiddam de 
+<lb/>filtro in modum uberum factum, et illa credunt esse pecorum custodes, 
+<lb/>ac eis beneficium lactis et pullorum prestare. Alia vero faciunt 
+<lb/>de pannis sericis et illa multum honorant. Quidam ponunt
+<lb/>illa in pulchro curru tecto ante ostium stationis, et quicumque in 
+<lb/>illo curru aliquid furatur, sine ulla miseratione occiditur. Sed 
+<lb/>quando volunt illa idola facere, omnes maiores domine conveniunt, 
+<lb/>que sunt in stationibus illis, et cum reverentia faciunt illa; 
+<lb/>et cum fecerint interficiunt ovem et illam manducant, et ossa eius
+<lb/>igne comburunt. Et cum etiam puer aliquis infirmatur predicto 
+<lb/>modo faciunt idolum, et ligant super lectum ipsius. Duces, millenarii 
+<lb/>et centenarii hyrcum semper habent in medio stationis.
+<lb/>3. Predictis vero idolis offerunt primum lac omnis pecoris et 
+<lb/>iumenti. Et quando primo comedere vel bibere incipiunt, primo
+<lb/>eis offerunt de cibariis vel de potu. Et quando aliquam bestiam
+<pb n="237"/>
+<lb/>interficiunt, offerunt cor idolo, quod est in curru, in aliquo cipho, 
+<lb/>et usque mane dimittunt, et tunc auferunt de presentia eius et decoquunt 
+<lb/>et manducant. Primo etiam imperatori fecerunt idolum
+<lb/>quod ponunt in curru ante stationem honorifice, sicut vidimus ante 
+<lb/>ordam imperatoris istius, cui offerunt munera multa; equos 
+<lb/>etiam offerunt ei, quos nullus audet ascendere usque ad mortem. 
+<lb/>Alia etiam animalia eidem offerunt; que si occidunt ad manducandum, 
+<lb/>nullum os confringunt ex eis sed igni comburunt. Ei etiam
+<lb/>ad meridiem tamquam Deo inclinant, et inclinare faciunt aliquos
+<lb/>nobiles qui se reddunt eisdem.
+<lb/>4. Unde nuper contigit quod Michael, qui fuit unus de magnis 
+<lb/>ducibus <placeName key="Ruscia">Ruscie</placeName>, cum ivisset ad reddendum se Bati, fecerunt eum 
+<lb/>prius inter duos ignes transire. Post hec dixerunt ei quod ad meridiem 
+<lb/>Chingiscan inclinaret; qui respondit quod Bati et servis suis
+<lb/>inclinaret libenter sed imagini hominis mortui non inclinaret, 
+<lb/>quia non liceret hoc facere Christianis. Et cum sepe diceretur ei 
+<lb/>quod inclinaret, et nollet, mandavit ei dux predictus per filium Ierozlai 
+<lb/>quod occideretur si non inclinaret. Qui respondit quod potius 
+<lb/>vellet mori, quam facere quod non licet. Ac ipse satellitem
+<pb n="238"/>
+<lb/>unum misit, qui tam diu contra cor eum in ventre calce percussit, 
+<lb/>quousque deficeret. Tunc quidam de suis militibus qui astabat, 
+<lb/>confortavit eum dicens: «Esto constans, quia pena hec non diu tibi 
+<lb/>durabit, et statim sequetur gaudium sempiternum». Post hec fuit
+<lb/>ei caput cutello precisum. Militi vero predicto fuit caput etiam
+<lb/>cutello amputatum.
+<lb/>5. Solem insuper lunam, ignem et aquam venerantur et adorant
+<lb/>et terram, eis ciborum et potus primitias offerentes, et mane 
+<lb/>potissime antequam comedant vel etiam bibant. Et quia de cultu 
+<lb/>Dei nullam legem observant, neminem adhuc, quod intelleximus, 
+<lb/>coegerunt suam fidem vel legem negare, excepto Michaele, de 
+<lb/>quo dictum est supra. Quid ulterius faciant ignoramus; presumitur 
+<lb/>tamen a quibusdam quod si monarchiam haberent, quod Deus 
+<lb/>avertat, facerent quod omnes isti idolo inclinarent.
+<lb/>6. Accidit etiam, dum adhuc essemus in terra eorum, quod Andreas
+<lb/>dux de Chernegloue, quod est in <placeName key="Ruscia">Ruscia</placeName>, fuit apud Bati accusatus 
+<lb/>quod educeret equos Tartarorum de terra et venderet alias,
+<pb n="239"/>
+<lb/>et cum tamen non esset probatum, fuit occisus. Quod audiens iunior 
+<lb/>frater eius, venit cum uxore occisi ad ducem predictum Bati,
+<lb/>volentes supplicare ne terra tolleretur eisdem; qui dixit puero
+<lb/>quod uxorem fratris carnalis predicti duceret in uxorem, et mulieri 
+<lb/>precepit ducere illum in virum, secundum consuetudinem Tartarorum; 
+<lb/>qui respondit dicens quod prius vellet occidi quam facere 
+<lb/>contra legem. At ille nichilominus tradidit eam illi, quamvis renuerent 
+<lb/>quantum possent; et duxerunt eos ambos in lecto et posuerunt 
+<lb/>puerum super illam clamantem et plorantem et coegerunt 
+<lb/>eos commisceri, coatione non conditionali sed absoluta.
+<lb/>7. Quamvis de iusticia facienda vel peccato cavendo nullam 
+<lb/>habeant legem, nichilominus tamen habent aliquas traditiones,
+<lb/>quas dicunt esse peccata, quas confixerunt ipsi vel antecessores eorum. 
+<lb/>Unum est figere cutellum in igne, vel etiam quocumque modo 
+<lb/>tangere ignem cutello, vel cum cutello extraere de caldario carnes, 
+<lb/>iuxta ignem etiam ligna incidere cum securi: credunt enim quod sic 
+<lb/>auferri debeat caput igni. Item appodiare se ad flagellum cum
+<lb/>quo percutitur equus: ipsi enim calcaribus non utuntur; item tangere 
+<lb/>flagello sagittas; item iuvenes aves occidere vel accipere; item 
+<lb/>cum freno equum percutere; item os cum alio osse frangere; item 
+<lb/>lac, vel aliquem potum vel cibum, super terram effundere; in statione 
+<lb/>mingere: sed si voluntarie facit, occiditur; si autem aliter, oportet
+<pb n="240"/>
+<lb/>quod pecuniam multam solvat incantatori qui purificet eos, et faciat 
+<lb/>et stationem et ea que in ipsa sunt, inter duos ignes transire, 
+<lb/>sed antequam sic purificetur nullus audet intrare nec de ipsa aliquid 
+<lb/>exportare. Item si alicui morsellus imponitur et deglutire non 
+<lb/>potest, et de ore suo eicit eum, fit foramen sub statione et extrahitur 
+<lb/>per illud foramen, et sine ulla miseratione occiditur; item si
+<lb/>quis calcat limen stationis alicuius ducis, interficitur eodem modo. 
+<lb/>Et multa habent his similia, de quibus longum esset enarrare.
+<lb/>8. Sed homines occidere, aliorum terras invadere, res aliorum 
+<lb/>accipere quocumque iniusto modo, fornicari, aliis hominibus iniuriari, 
+<lb/>facere contra prohibitiones et Dei precepta, nullum peccatum 
+<lb/>est apud eos.
+<lb/>9. De vita eterna et damnatione perpetua nichil sciunt. Credunt
+<lb/>tamen quod post mortem in alio seculo vivant, greges multiplicent, 
+<lb/>comedant, bibant et alia faciant que in hoc seculo a viventibus 
+<lb/>hominibus fiunt.<lb/>
+<lb/>10. Divinationibus, auguriis, aruspiciis, veneficiis, incantationibus
+<lb/>multum intendunt, et cum a demonibus eis respondetur, 
+<lb/>credunt quod Deus ipsis loquatur; quem Deum nominant Utoga, 
+<lb/>sed Comani Kam ipsum appellant, quem mirabiliter timent et reverentur
+<pb n="241"/>
+<lb/>ac ei oblationes offerunt multas et primitias ciborum et
+<lb/>potus, et secundum responsum ipsius faciunt universa. In principio 
+<lb/>lunationis vel in plenilunio incipiunt quicquid novi agere volunt, 
+<lb/>unde illam magnum imperatorem appellant, eique genua 
+<lb/>flectunt et deprecantur. Solem etiam dicunt esse matrem lune, eo
+<lb/>quod lumen a sole recipiat. Et, ut breviter dicam, per ignem credunt 
+<lb/>omnia purificari. Unde quando nuntii veniunt ad eos vel 
+<lb/>principes, vel qualescumque persone, oportet ipsos, et munera que 
+<lb/>portant, per duos ignes transire ut purificentur, ne forte veneficia 
+<lb/>fecerint, aut venenum vel aliquid mali portaverint. Item si cadit
+<lb/>ignis de celo super pecora vel super homines, quod ibidem sepe
+<lb/>contingit, sive aliquid talium eveniat eis, per quod immundos seu 
+<lb/>infortunatos se reputent, oportet simili modo per incantatores 
+<lb/>mundari: et quasi omnem spem suam in talibus posuerunt.
+<lb/>11. Quando aliquis eorum infirmatur ad mortem, ponitur una
+<lb/>hasta, et circa illam filtrum circumvolvitur nigrum, et ex tunc nullus 
+<lb/>audet alienus terminos stationum eius intrare. Et quando incipit 
+<lb/>agonizare, quasi omnes recedunt ab eo, quoniam nullus de iis 
+<lb/>qui morti eius assistunt potest ordam alicuius ducis vel imperatoris 
+<lb/>usque ad novam lunationem intrare.
+<lb/>12. Cum autem mortuus est, si est de maioribus, sepelitur occulte
+<pb n="242"/>
+<lb/>in campo ubi placuerit eis. Sepelitur autem cum una de stationibus 
+<lb/>suis sedendo in medio eius, et ponunt mensam ante eum, 
+<lb/>et alveolum carnibus plenum et ciphum lactis iumentini. Sepelitur 
+<lb/>etiam cum eo unum iumentum cum pullo et equus cum freno et sella, 
+<lb/>et alium equum comedunt et stramine corium implent, et super
+<lb/>duo ligna vel quatuor altius ponunt, ut habeat in alio mundo stationem 
+<lb/>ubi moretur, et iumentum de quo habeat lac et possit sibi 
+<lb/>etiam equos multiplicare et equos in quibus valeat equitare. Et ossa 
+<lb/>illius equi quem comedunt pro anima eius comburunt; et sepe
+<lb/>etiam conveniunt mulieres ad comburendum ossa pro animabus
+<lb/>hominum, ut nostris vidimus oculis et ab aliis intelleximus ibidem. 
+<lb/>Vidimus etiam quod Occodaican, pater istius imperatoris, 
+<lb/>dimisit unum virgultum crescere pro anima sua. Unde precepit 
+<lb/>quod nullus incideret ibi, et quicumque incidit ibi aliquam virgam, 
+<lb/>ut ipsi vidimus, verberatur, expoliatur et male tractatur. Et
+<lb/>cum nos multum indigeremus ad equum percutiendum, non fuimus 
+<lb/>ibi ausi incidere unam virgam. Aurum et argentum sepeliunt 
+<lb/>eodem modo cum ipso; currus in quo ducitur frangitur, nec nomen
+<pb n="243"/>
+<lb/>proprium eius usque ad tertiam generationem audet aliquis 
+<lb/>nominare.
+<lb/>13. Alius est etiam modus sepeliendi quosdam maiores. Vadunt 
+<lb/>in campo occulte et ibi gramina removent cum radicibus, et 
+<lb/>faciunt foveam magnam et in latere illius fovee faciunt unam foveam 
+<lb/>sub terra, et illum servum quem habet dilectum ponunt sub
+<lb/>eo; qui iacet tam diu sub ipso quod incipit quasi agonizare;	
+<lb/>deinde extrahunt eum ut valeat respirare, et sic faciunt ter; et si 
+<lb/>evadit, est postea liber et facit quicquid placuerit ei et est magnus 
+<lb/>in statione ac inter parentes illius. Mortuum autem ponunt in fovea, 
+<lb/>que est in latere facta, cum iis que superius dicta sunt.
+<lb/>Deinde replent foveam que est ante foveam suam, et desuper gramina 
+<lb/>ponunt ut fuerant prius, ad hoc ne locus ulterius valeat inveniri. 
+<lb/>Alia etiam faciunt ut superius dictum est, sed tentorium 
+<lb/>suum exterius relinquunt in campo.
+<lb/>14. In terra eorum sunt cimiteria duo. Unum in quo sepeliuntur
+<lb/>imperatores, duces et nobiles omnes, et ubicumque moriuntur, si
+<lb/>congrue fieri potest, illuc deferuntur. Sepelitur autem cum eis aurum 
+<lb/>et argentum multum. Aliud est in quo sepulti sunt illi qui in
+<pb n="244"/>
+<lb/><placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> interfecti fuerunt; multi enim ibidem fuerunt occisi. Ad 
+<lb/>illa cimiteria nullus audet accedere preter custodes, qui ad custodiendum 
+<lb/>positi sunt ibidem. Et si aliquis accesserit, capitur, expoliatur, 
+<lb/>verberatur et valde male tractatur. Unde nos ipsi inscienter 
+<lb/>intravimus terminos cimiterii eorum qui in <placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> fuerunt occisi, 
+<lb/>et venerunt super nos, nos sagittare volentes. Sed quia eramus 
+<lb/>nuntii et nesciebamus consuetudinem terre, nos liberos dimiserunt
+<lb/>abire.
+<lb/>15. Parentes autem et omnes alios qui morantur in stationibus 
+<lb/>suis oportet purificati per ignem. Que purificatio fit hoc modo: faciunt 
+<lb/>duos ignes, et duas hastas ponunt iuxta ignes et unam cordam 
+<lb/>in summitate hastarum, et ligant super cordam illam quasdam 
+<lb/>scissuras de bucarano; sub qua corda et ligaturis inter illos
+<lb/>duos ignes transeunt homines, bestie ac stationes. Et sunt due mulieres, 
+<lb/>una hinc et alia inde, aquam proicientes et quedam carmina 
+<lb/>recitantes. Et si aliqui currus ibi franguntur, vel etiam res ibidem 
+<lb/>alique cadunt, incantatores accipiunt. Et si aliquis occiditur a
+<lb/>tonitruo, omnes illos homines qui morantur in stationibus illis
+<lb/>oportet predicto modo per ignes transire; statio, lectus, currus, filtra 
+<lb/>et vestes et quicquid talium habuit a nullo tanguntur, sed tamquam 
+<lb/>immunda ab omnibus respuuntur.
+<pb n="245"/>
+<lb/>De moribus bonis et malis, et cibis
+<lb/>et consuetudinibus eorum. Cap. IV.
+<lb/>1. Dicto de ritu, dicendum est de moribus, de quibus tractabimus
+<lb/>isto modo: primo dicemus de bonis, secundo de malis, tertio
+<lb/>de cibis, quarto de consuetudinibus.
+<lb/>2. Predicti homines, videlicet Tartari, sunt magis obedientes dominis
+<lb/>suis quam aliqui homines qui sunt in mundo, sive religiosi 
+<lb/>sive seculares, et magis reverentur eosdem, neque de facili mentiuntur 
+<lb/>eis. Verbis ad invicem raro aut nunquam contendunt, factis 
+<lb/>vero nunquam; bella, rixe, vulnera, homicidia inter eos nunquam 
+<lb/>contingunt. Predones etiam et fures rerum magnarum non 
+<lb/>inveniuntur ibidem: unde stationes et currus eorum ubi habent 
+<lb/>thesaurum suum, seris aut vectibus non firmantur. Si alique bestie 
+<lb/>perduntur, quicumque invenit eas, vel dimittit sic esse, vel
+<lb/>ducit eas ad homines illos qui positi sunt ad hoc: homines autem
+<lb/>quorum sunt bestie, apud eosdem illas requirunt, et absque ulla 
+<lb/>difficultate recipiunt eas. Unus alium satis honorat et ad invicem
+<pb n="246"/>
+<lb/>sibi satis sunt familiares; et cibaria, quamvis sint apud eos pauca, 
+<lb/>tamen satis inter se competenter communicant illa. Et etiam satis
+<lb/>sunt sufferentes: unde cum ieiunant una die vel duobus nichil comedentes 
+<lb/>omnino, de facili non videntur impatientes sed cantant, 
+<lb/>ludunt quasi comederint bene. In equitando multum sustinent frigus, 
+<lb/>etiam et calorem nimium patiuntur. Nec sunt homines delicati; 
+<lb/>invidiosi ad invicem non videntur, inter eos quasi nulla placita 
+<lb/>sunt; nullus alium spernit, sed iuvat et promovet quantum
+<lb/>congrue potest.
+<lb/>3. Mulieres eorum sunt caste, nec de impudicitia ipsarum aliquid
+<lb/>inter eos auditur; verba tamen quedam ex eis in ioco satis 
+<lb/>habent turpia et impudica. Seditiones inter eos raro vel nunquam 
+<lb/>habere videntur. Et quamvis multum inebrientur, in ebrietate tamen 
+<lb/>sua verbis vel factis nunquam contendunt.
+<lb/>4. Descriptis eorum moribus bonis, de malis est supponendum.
+<lb/>Superbissimi sunt aliis hominibus et despiciunt omnes, immo 
+<lb/>quasi pro nichilo reputant eos, sive nobiles sive ignobiles sint.
+<lb/>5. Vidimus enim in curia imperatoris nobilem virum Ierozlaum,
+<pb n="246"/>
+<lb/>sibi satis sunt familiares; et cibaria, quamvis sint apud eos pauca, 
+<lb/>tamen satis inter se competenter communicant illa. Et etiam satis
+<lb/>sunt sufferentes: unde cum ieiunant una die vel duobus nichil comedentes 
+<lb/>omnino, de facili non videntur impatientes sed cantant, 
+<lb/>ludunt quasi comederint bene. In equitando multum sustinent frigus, 
+<lb/>etiam et calorem nimium patiuntur. Nec sunt homines delicati; 
+<lb/>invidiosi ad invicem non videntur, inter eos quasi nulla placita 
+<lb/>sunt; nullus alium spernit, sed iuvat et promovet quantum
+<lb/>congrue potest.
+<lb/>3. Mulieres eorum sunt caste, nec de impudicitia ipsarum aliquid
+<lb/>inter eos auditur; verba tamen quedam ex eis in ioco satis 
+<lb/>habent turpia et impudica. Seditiones inter eos raro vel nunquam 
+<lb/>habere videntur. Et quamvis multum inebrientur, in ebrietate tamen 
+<lb/>sua verbis vel factis nunquam contendunt.
+<lb/>4. Descriptis eorum moribus bonis, de malis est supponendum.
+<lb/>Superbissimi sunt aliis hominibus et despiciunt omnes, immo 
+<lb/>quasi pro nichilo reputant eos, sive nobiles sive ignobiles sint.
+<lb/>5. Vidimus enim in curia imperatoris nobilem virum Ierozlaum,
+<pb n="247"/>
+<lb/>magnum ducem <placeName key="Ruscia">Ruscie</placeName>, filium etiam regis et regine Georgianie, 
+<lb/>et soldanos multos et magnos, ducem etiam Solangorum 
+<lb/>nullum honorem debitum recipere apud eos; sed Tartari qui erant 
+<lb/>eis assignati, quantumcumque erant viles, antecedebant eos et 
+<lb/>semper primum locum et summum tenebant; immo sepe oportebat 
+<lb/>eos post eorum posteriora sedere.
+<lb/>6. Iracundi sunt hominibus aliis multum et indignantis nature, 
+<lb/>et etiam aliis hominibus sunt mendaces, et fere nulla veritas invenitur 
+<lb/>in eis. In principio quidem sunt blandi, sed ultimo pungunt
+<lb/>ut scorpio. Subdoli sunt et fraudulenti et, si possunt, astutia circumveniunt 
+<lb/>omnes. Homines sunt immundi in sumendo cibum et 
+<lb/>potum et in aliis factis suis. Quicquid volunt facere hominibus 
+<lb/>aliis mali, miro modo occultant, ut sibi providere non possint, vel 
+<lb/>contra eorum astutias remedium invenire. Ebrietas honorabilis est
+<lb/>apud eos, et cum aliquis multum biberit, ibidem reicit, nec propter 
+<lb/>hoc dimittit quin iterum bibat. Valde sunt cupidi et avari, 
+<lb/>exactores maximi ad petendum et tenacissimi retentores et parcissimi 
+<lb/>donatores. Aliorum hominum occisio pro nichilo est apud 
+<lb/>eos. Et ut breviter dicam, omnes mali mores eorum propter prolixitatem 
+<lb/>in scripto redigi minime possunt.
+<pb n="248"/>
+<lb/>7. Cibi eorum sunt omnia que mandi possunt: comedunt 
+<lb/>enim canes, lupos, vulpes et equos, et in necessitate carnes humanas 
+<lb/>manducant. Unde quando pugnaverunt contra quamdam civitatem 
+<lb/>Kytaorum, ubi morabatur imperator ipsorum, quam obsederunt 
+<lb/>tam diu quod defecerunt ipsis Tartaris omnino expense, et
+<lb/>quia non habebant quid manducarent omnino, tunc accipiebatur 
+<lb/>de decem hominibus unus ad manducandum. Alluviones etiam 
+<lb/>que egrediuntur a iumentis cum pullis manducant. Immo vidimus etiam 
+<lb/>eos pediculos manducare. Dicebant enim: «Nunquid eos non 
+<lb/>debeo manducare, cum mei filii carnes manducent et ipsius
+<lb/>sanguinem bibant?». Vidimus etiam eos comedere mures.
+<lb/>8. Mensalibus et manutergiis non utuntur. Panem non habent 
+<lb/>nec olera nec legumina nec aliquid aliud, nisi carnes, de quibus 
+<lb/>etiam tam paucas manducant, quod alie nationes vix inde vivere 
+<lb/>possent. Cum pinguedine carnium polluunt multum manus,
+<lb/>quando vero comedunt, eas ad ocreas suas vel ad gramina vel ad 
+<lb/>aliquid talium tergunt; solent etiam honestiores habere aliquos 
+<lb/>panniculos parvos cum quibus ultimo tergunt manus quando carnes
+<pb n="249"/>
+<lb/>manducant. Unus eorum incidit et alius accipit cum puncta
+<lb/>cutelli morsellos, et unicuique prebet, quibusdam plus, quibusdam 
+<lb/>minus, secundum quod eos magis et minus cupiunt honorare. 
+<lb/>Scutellas non lavant, et si aliquando cum brodio carnium lavant, 
+<lb/>iterum brodium cum carnibus in ollam reponunt. Ollas etiam vel coclearia 
+<lb/>vel alia vasa ad hoc deputata si abluunt, simili modo lavant.
+<lb/>Apud eos magnum peccatum est si aliquid de potu vel de cibo
+<lb/>perire aliquo modo permittitur; unde ossa, nisi prius extrahatur 
+<lb/>medulla, dare canibus non permittunt. Vestes suas etiam non lavant 
+<lb/>nec lavari permittunt, et maxime ab illo tempore quando tonitrua 
+<lb/>incipiunt, usque quo desinat illud tempus. Lac iumentinum
+<lb/>bibunt in maxima quantitate; si habent, bibunt et ovinum etiam et
+<lb/>vaccinum, caprinum et etiam camelorum. Vinum, cervisiam, medonem 
+<lb/>non habent, nisi ab aliis nationibus mittatur vel donetur 
+<lb/>eisdem. In hyeme quoque, nisi divites sint, lac iumentinum non 
+<lb/>habent. Milium cum aqua decoquunt, quod tam tenue faciunt,
+<lb/>quod non comedere sed bibere possunt. Et unusquisque ex eis bibit 
+<lb/>ciphum unum vel duos in mane, et nichil plus in die manducant; 
+<lb/>in sero autem unicuique parum de carnibus datur, et brodium
+<pb n="250"/>
+<lb/>de carnibus bibunt. In estate autem, quia habent satis de 
+<lb/>lacte iumentino, carnes raro manducant, nisi forte donentur eisdem,
+<lb/>aut venatione aliquam bestiam ceperint sive avem.
+<lb/>9. Legem etiam sive consuetudinem habent occidendi virum et 
+<lb/>mulierem quos in adulterio inveniunt manifeste; similiter et virginem: 
+<lb/>si fornicata fuerit cum aliquo, virum et mulierem occidunt. Si 
+<lb/>aliquis invenitur in preda vel in furto manifeste in terra potestatis 
+<lb/>eorum, sine ulla miseratione occiditur. Item si aliquis eorum denudat 
+<lb/>consilia, maxime quando volunt ire ad bellum, centum plage 
+<lb/>ei dantur super posteriora, quanto maiores dare cum baculo magno 
+<lb/>unus rusticus potest. Item quando aliqui de minoribus offendunt 
+<lb/>in aliquo, a suis maioribus non parcitur eis, sed verberibus graviter
+<lb/>affliguntur. Inter filium concubine et uxoris nulla est differentia,
+<lb/>sed dat pater eorum unicuique quod vult; et si est de genere ducum, 
+<lb/>ita est dux filius concubine sicut est filius uxoris legitime. Et 
+<lb/>cum unus Tartarus habet multas uxores, unaqueque per se suam 
+<lb/>stationem et familiam habet, et cum una comedit et bibit et dormit 
+<lb/>una die, et altera die cum alia. Una tamen ex ipsis maior inter 
+<lb/>alias est, et frequentius cum illa quam cum aliis commoratur. Et
+<pb n="251"/>
+<lb/>cum tamen multe sint, inter se de facili nunquam contendunt.
+<lb/>10. Viri nichil operantur omnino exceptis sagittis, et etiam aliquantulum
+<lb/>de gregibus habent curam; sed venantur et se exercitant 
+<lb/>ad sagittandum. Omnes enim a parvo usque ad magnum sagittarii 
+<lb/>sunt boni; et statim pueri eorum, quando sunt duorum vel 
+<lb/>trium annorum, incipiunt equitare, equos regunt et currunt in eis, 
+<lb/>et dantur eis arcus secundum suam etatem, et instruuntur ad sagittandum: 
+<lb/>agiles enim sunt valde, necnon et audaces.
+<lb/>11. Virgines et mulieres equitant et agiliter currunt in equis,
+<lb/>ut viri. Vidimus etiam eas pharetras et arcus portare. Et tam viri 
+<lb/>quam mulieres diu in equitando possunt durare; brevissimas habent 
+<lb/>strepas, equos bene valde custodiunt, immo rerum omnium 
+<lb/>sunt maximi conservatores. Mulieres eorum omnia operantur: pellicia 
+<lb/>vestes, calceos, ocreas et omnia opera que de corio fiunt;
+<lb/>currus etiam ducunt et reparant, camelos onerant, et velocissime 
+<lb/>sunt et strenue in omnibus operibus suis; femoralibus omnes 
+<lb/>utuntur, et alique sicut viri sagittant.
+<pb n="252"/>
+<lb/>De principio <placeName key="Thartarorum Imperium" ref="https://pleiades.stoa.org/places/897854">imperii Tartarorum</placeName> et principibus eius
+<lb/>et dominio imperatoris et principum eius. Cap. V.
+<lb/>1. Dicto de consuetudinibus, de ipsorum est imperio subnectendum;
+<lb/>et primo dicemus de ipsius principio, secundo de principibus 
+<lb/>eius, tertio de dominio imperatoris et principum.
+<lb/>2. Terra quedam est in partibus orientis, de qua dictum est supra,
+<lb/>que Mongal nominatur. Hec terra quondam populos quatuor 
+<lb/>habuit: unus Yeka Mongal, id est magni Mongali, vocabatur; secundus 
+<lb/>Sumongal, id est aquatici Mongali; ipsi autem se ipsos 
+<lb/>Tartaros appellabant, a quodam fluvio qui currit per terram eorum	
+<lb/>qui Tartar nominatur; alius appellabatur Merkit; quartus Mecrit. 
+<lb/>Hi populi omnes unam formam personarum et unam linguam habebant, 
+<lb/>quamvis inter se per provincias et principes essent divisi.
+<lb/>3. In terra Yeka Mongal fuit quidam qui vocabatur <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName>. Iste
+<lb/>incepit esse robustus venator coram Domino, didicit enim homines
+<pb n="253"/>
+<lb/>furari, capere predam. Ibat autem ad alias terras, et quoscumque 
+<lb/>poterat capere et sibi associare non dimittebat. Homines autem 
+<lb/>sue gentis ad se inclinavit, qui tamquam ducem ipsum sequebantur 
+<lb/>ad omnia malefacta. Hic autem incepit pugnare cum Sumongal 
+<lb/>sive Tartaris, postquam homines aggregaverat sibi, et interfecit
+<lb/>ducem eorum, et multo bello sibi omnes Tartaros subiugavit et in 
+<lb/>suam servitutem redegit. Post hec cum omnibus istis pugnavit: 
+<lb/>cum Merkitis qui erant positi iuxta terram Tartarorum, quos etiam 
+<lb/>bello sibi subiecit; inde procedens pugnavit contra Mecritas et
+<lb/>etiam illos devicit.
+<lb/>4. Audientes Naimani quod <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName> erat taliter elevatus, indignati
+<lb/>fuerunt; ipsi enim habuerant imperatorem qui fuerat strenuus 
+<lb/>valde, cui dabant tributum omnes nationes predicte. Quo 
+<lb/>debitum universe carnis exsolvente, filii eius successerunt loco illius;
+<lb/>sed iuvenes erant et stulti, et populum nesciebant tenere, sed ab
+<lb/>invicem divisi erant et scissi; unde medio tempore <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName> predictus 
+<lb/>erat taliter exaltatus, nichilominus tamen faciebant insultum in 
+<lb/>terras superius annotatas, viros et mulieres et pueros occidebant et 
+<lb/>capiebant predam eorum.
+<pb n="254"/>
+<lb/>5. <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName> hoc audiens, omnes sibi subiectos homines congregavit.
+<lb/>Naimani etiam et <placeName key="Karakitai">Karakytai</placeName>, id est nigri Kytai, ex adverso in 
+<lb/>quamdam vallem strictam inter duos montes, per quam nos euntes 
+<lb/>ad imperatorem eorum transivimus, similiter convenerunt: et 
+<lb/>commissum est prelium, in quo Naimani et <placeName key="Karakitai">Karakytai</placeName> a Mongalis 
+<lb/>sunt devicti. Et maior pars eorum fuit occisa, et alii qui evadere
+<lb/>non potuerunt in servitutem redacti fuerunt.
+<lb/>6. In terra autem predictorum Karakytaorum, Occodaican filius 
+<lb/>Chingiscan, postquam positus fuit imperator, quamdam civitatem 
+<lb/>edificavit, quam Emil appellavit, prope quam ad meridiem
+<lb/>est quoddam desertum magnum, in quo silvestres homines pro
+<lb/>certo habitare dicuntur; qui nullo modo loquuntur, nec in cruribus 
+<lb/>habent iuncturas; et si quandoque cadunt, per se surgere sine 
+<lb/>aliorum adiutorio minime possunt; sed tantam habent discretionem, 
+<lb/>quod faciunt filtra de lana camelorum quibus vestiuntur, et
+<lb/>ponunt etiam contra ventum. Et si aliquando Tartari vadunt ad
+<pb n="255"/>
+<lb/>eos et vulnerant eos sagittis, ponunt gramina in vulnus et fortiter 
+<lb/>fugiunt ante eos.
+<lb/>7. Mongali autem, in terram eorum revertentes, se contra Kytaos
+<lb/>ad prelium preparaverunt; qui, castra moventes, terram Kytaorum 
+<lb/>intraverunt. <persName key="Yesün Temür Khan">Imperator</persName> autem Kytaorum hoc audiens venit
+<lb/>cum suo exercitu contra eos, et commissum est prelium durum, in 
+<lb/>quo prelio Mongali fuerunt devicti, et omnes nobiles Mongalorum 
+<lb/>qui erant in predicto exercitu fuerunt occisi, usque ad septem. Unde 
+<lb/>adhuc quando aliquis eos minatur dicens: «Occidemini si in illam 
+<lb/>iveritis terram, quoniam populi multitudo ibidem moratur et
+<lb/>sunt homines ad prelium apti», respondent: «Quondam etiam fuimus 
+<lb/>occisi et non remansimus nisi septem, et modo crevimus in 
+<lb/>multitudinem magnam, quare de talibus non terremur».
+<lb/>8. <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName> vero et alii qui remanserunt in terram suam fugerunt,
+<lb/>et cum aliquantulum quievisset <persName key="Cyngis-Chan" ref="https://viaf.org/100172770/">Chingis</persName> predictus, preparavit
+<lb/>se rursum ad prelium et contra terram Huyrorum processit ad bellum. 
+<lb/>Isti homines sunt christiani et de secta Nestorianorum erant, quos
+<pb n="256"/>
+<lb/>etiam bello devicit, et eorum litteram acceperunt; nam prius scripturam 
+<lb/>non habebant, nunc autem eamdem appellant litteram 
+<lb/>Mongalorum. Inde procedens contra terram Sarruyur et contra terram 
+<lb/>Karanitarum, et contra terram Voyrat, et contra terram Canana, 
+<lb/>quas terras omnes bello devicit.
+<lb/>9. Inde est in terram suam reversus. Et cum aliquantulum 
+<lb/>quievisset, convocatis omnibus hominibus suis, contra Kytaos pariter 
+<lb/>processerunt ad bellum. Et cum diu contra ipsos pugnassent,
+<lb/>magnam partem terre Kytaorum interemerunt; imperatorem autem 
+<lb/>eorum concluserunt in suam civitatem maiorem, quam tam longo 
+<lb/>tempore obsederunt quod exercitui omnino defecerunt expense; et 
+<lb/>cum non haberent omnino quid manducarent, precepit ille Chingiscan 
+<lb/>quod de decem hominibus unum darent ad manducandum.	
+<lb/>Illi autem de civitate pugnabant viriliter contra istos machinis et sagittis; 
+<lb/>et cum deficerent lapides, pro lapidibus argentum proiciebant, 
+<lb/>et maxime liquefactum: civitas enim hec multis divitiis erat
+<pb n="257"/>
+<lb/>plena. Et cum diu pugnassent, et eam bello minime vincere possent, 
+<lb/>fecerunt unam magnam viam sub terra ab exercitu usque ad
+<lb/>medium civitatis et prosilierunt in medio civitatis et pugnaverunt 
+<lb/>cum hominibus civitatis; et ilii qui erant extra, eodem modo 
+<lb/>etiam contra eos pugnabant et, concidentes portas, intraverunt 
+<lb/>civitatem et, occidentes imperatorem et homines plures, civitatem
+<lb/>possederunt, et aurum et argentum et omnes divitias eius abstulerunt; 
+<lb/>et cum predicte terre Kytaorum suos homines prefecissent, 
+<lb/>in terram propriam sunt reversi. Et tunc primo, imperatore 
+<lb/>Kytaorum devicto, factus est predictus Chingiscan imperator. 
+<lb/>Quamdam tamen partem terre Kytaorum, quia posita erat in mari, 
+<lb/>usque in hodiernum diem, nullatenus devicerunt.
+<lb/>10. Kytai autem, de quibus superius diximus, homines sunt 
+<lb/>pagani qui habent litteram specialem, et habent novum et vetus 
+<lb/>testamentum, et habent vitas patrum et eremitas et domos quasi 
+<lb/>ecclesias factas, in quibus ipsi orant temporibus suis, et dicunt se 
+<lb/>quosdam sanctos habere. Deum unum colunt, dominum Iesum
+<lb/>Christum honorant, et credunt vitam eternam; sed minime baptizantur.
+<pb n="258"/>
+<lb/>Scripturam nostram honorant et reverentur, christianos diligunt 
+<lb/>et elemosinas faciunt plures. Homines benigni et humani 
+<lb/>satis esse videtur. Barbam non habent et in dispositione faciei
+<lb/>satis concordant cum Mongalis, non tamen sunt in facie ita lati.
+<lb/>Linguam propriam habent. Meliores artifices non inveniuntur in 
+<lb/>mundo in omnibus operibus, in quibus homines solent exercitari. 
+<lb/>Terra eorum est opulenta valde in frumento, vino, auro, argento 
+<lb/>et serico, et omnibus rebus ex quibus solet sustentari humana 
+<lb/>natura.
+<lb/>11. Et cum aliquantulum quievisset, suos exercitus divisit. 
+<lb/>Unum de filiis suis Tossu nomine, quem etiam Can appellabant, 
+<lb/>id est imperatorem, misit cum exercitu contra Comanos, 
+<lb/>quos multo bello devicit. Et postquam devicerat eos, in terram
+<lb/>suam est reversus.
+<lb/>12. Alium etiam filium misit cum exercitu contra Indos; qui 
+<lb/>Minorem Indiam devicit. Hi autem nigri sunt Sarraceni, qui 
+<lb/>Ethiopes nominantur. Hic autem exercitus contra christianos, qui 
+<lb/>sunt in <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> Maiori, ad pugnam processit. Hoc autem audiens, rex
+<pb n="259"/>
+<lb/>terre illius, qui vulgo <persName key="Iohannes">Iohannes</persName> Presbyter appellatur, venit contra
+<lb/>eos exercitu congregato, et faciens imagines hominum cupreas, in 
+<lb/>sella posuit super equos, ponens ignem interius, et posuit hominem 
+<lb/>cum folle post imaginem cupream super equum; et cum 
+<lb/>multis imaginibus talibus et equis taliter preparatis venerunt contra 
+<lb/>predictos Tartaros ad pugnandum. Et cum ad locum prelii pervenissent, 
+<lb/>istos equos unum iuxta alium premiserunt; viri autem qui 
+<lb/>erant retro posuerunt, nescio quid, super ignem, qui erat in predicta 
+<lb/>imagine et cum follibus fortiter sufflaverunt. Unde factum 
+<lb/>est quod ex igne greco homines comburebantur et equi, et ex fumo 
+<lb/>aer est denigratus; et tunc super Tartaros iecerunt sagittas, ex
+<lb/>quibus multi homines vulnerati fuerunt et interfecti, et sic cum 
+<lb/>confusione eos de suis finibus eiecerunt, nec unquam audivimus 
+<lb/>quod ultra ad ipsos redierint.
+<lb/>13. Cum autem per deserta redirent, in quamdam terram venerunt
+<lb/>in qua, ut nobis ad curiam imperatoris, per clericos rutenos 
+<lb/>et alios qui diu fuerunt inter ipsos, firmiter dicebatur, 
+<lb/>quedam monstra imaginem femineam habentia repererunt. Et
+<pb n="260"/>
+<lb/>cum interrogassent ea per multos interpretes ubi essent viri illius 
+<lb/>terre, responderunt quod in illa terra quecumque femine nascebantur 
+<lb/>habebant formam humanam, masculi autem speciem habebant 
+<lb/>caninam. Et dum moram protraherent in terra predicta, canes 
+<lb/>in alia fluvii parte convenerunt in unum, et dum esset hiems 
+<lb/>asperrima, se omnes proiecerunt in aquam, et post hoc incontinenti 
+<lb/>in pulverem volvebantur, et ita pulvis admixtus aque super eos
+<lb/>congelabatur. Et dum sepe ita fecissent, glacies densa facta est super 
+<lb/>eos, et cum magno impetu cum Tartaris convenerunt ad pugnam. 
+<lb/>At illi cum sagittas iactabant super eos, ac si super lapides 
+<lb/>sagittassent, retro sagitte redibant; alia etiam arma eorum in nullo 
+<lb/>ledere poterant ipsos. Canes vero insultum facientes in eos, morsibus 
+<lb/>vulneraverunt multos et occiderunt, et ita eiecerunt eos de finibus 
+<lb/>suis. Et de hoc adhuc est proverbium inter eos: «Pater tuus, 
+<lb/>vel frater, a canibus fuit occisus». Mulieres autem eorum, quas ceperant, 
+<lb/>duxerunt in terram eorum et usque ad diem mortis earum 
+<lb/>ibidem fuerunt.
+<lb/>14. Et dum reverteretur exercitus ille, videlicet Mongalorum,
+<lb/>venit ad terram Burithabet quos bello vicerunt; qui sunt pagani; 
+<lb/>qui consuetudinem mirabilem immo potius miserabilem habent,
+<pb n="261"/>
+<lb/>quia cum alicuius pater humane nature debitum solvit, omnem 
+<lb/>congregant parentelam et comedunt eum, sicut nobis dicebatur
+<lb/>pro certo. Isti pilos in barba non habent, immo quoddam ferrum
+<lb/>in manibus portant, sicut vidimus, cum quo semper barbam depilant 
+<lb/>si forte aliquis crinis crescit in ipsa, et multum etiam sunt deformes. 
+<lb/>Inde exercitus ille in terram suam est reversus.
+<lb/>15. Chingiscan etiam eo tempore quo divisit alios exercitus,
+<lb/>ivit cum expeditione contra orientem per terram Kergis, quos
+<lb/>bello non vicit et, ut nobis dicebatur ibidem, usque ad Caspios 
+<lb/>montes pervenit. Montes autem illi in ea parte ad quam applicuerunt 
+<lb/>sunt de lapide adamantino, unde eorum sagittas et arma ferrea 
+<lb/>attraxerunt. Homines inter Caspios montes conclusi clamorem
+<lb/>exercitus, ut creditur, audientes, montem frangere inceperunt. Et
+<lb/>cum alio tempore post decem annos reverterentur, montem invenerunt 
+<lb/>confractum. Sed cum ad illos Tartari accedere attentassent, 
+<lb/>potuerunt minime, quia nubes quedam erat posita ante ipsos, 
+<lb/>ultra quam accedere non poterant ullo modo, quia visum
+<lb/>amittebant omnino statim cum perveniebant ad illam. Illi autem
+<pb n="262"/>
+<lb/>ex adverso credentes quod Tartari ad illos accedere formidarent, 
+<lb/>insultum contra eos fecerunt, sed statim, cum pervenerunt ad nubem, 
+<lb/>procedere non potuerunt, propter causam superius pretaxatam. 
+<lb/>Sed antequam pervenirent ad montes predictos, plus quam
+<lb/>per mensem per vastam solitudinem transierunt.
+<lb/>16. Inde procedentes adhuc contra orientem, plus quam per 
+<lb/>mensem per magnum desertum iverunt, et pervenerunt ad quamdam 
+<lb/>terram, ut nobis certissime dicebatur, ubi videbant vias tritas, 
+<lb/>sed nullum hominem poterant invenire; sed tantum quesiverunt
+<lb/>per terram quod invenerunt unum hominem cum sua uxore, quos
+<lb/>ante Chingiscan adduxerunt. Et cum interrogasset eos, ubi essent 
+<lb/>homines terre illius, responderunt quod in terra sub montibus habitarent. 
+<lb/>At Chingiscan predictus, retenta uxore, misit virum illum 
+<lb/>mandans hominibus illis quod venirent ad mandatum ipsius.
+<lb/>Ille autem vadens ad eos, narravit omnia que Chingiscan mandaverat 
+<lb/>eis. Qui respondentes dixerunt quod tali die venirent ad ipsum, 
+<lb/>ad faciendum mandatum ipsius. Ipsi autem medio tempore 
+<lb/>congregaverunt se per vias occultas sub terra, et venerunt contra 
+<lb/>istos ad pugnam, et irruentes subito super eos, plurimos occiderunt. 
+<lb/>At illi, Chingiscan videlicet et sui, videntes quod nichil proficerent,
+<pb n="263"/>
+<lb/>sed potius perderent homines suos, et quia etiam solis sonitum 
+<lb/>sustinere non poterant (immo eo tempore quo sol oriebatur, 
+<lb/>oportebat eos ponere unam aurem ad terram et superiorem 
+<lb/>obturare fortiter ne terribilem illum sonum audirent, nec sic tamen 
+<lb/>cavere poterant, quin propter hoc ex eis plurimi necarentur), 
+<lb/>fugerunt et terram exierunt predictam. Illos tamen homines, 
+<lb/>virum videlicet cum uxore, secum duxerunt; qui usque ad mortem 
+<lb/>in terra Tartarorum fuerunt. Interrogati vero quare habitarent sub 
+<lb/>terra, dixerunt quod uno tempore anni, cum sol oritur, tantus sonitus 
+<lb/>erat quod homines nulla ratione poterant sustinere, ut superius
+<lb/>de Tartaris dictum est. Immo etiam tunc percutiebant in organis 
+<lb/>et timpanis et in aliis instrumentis, ut illum sonitum non 
+<lb/>audirent.
+<lb/>17. Et dum Chingiscan et sui de terra illa reverterentur, defecerunt
+<lb/>eis victualia et habebant maximam famem. Et tunc recentia
+<lb/>interiora unius bestie eos contigit invenire; que accipientes, depositis 
+<lb/>tantum stercoribus, decoxerunt, et coram Chingiscan portantes, 
+<lb/>cum suis illa comedit. Et ex hoc statutum fuit a Chingiscan,
+<pb n="264"/>
+<lb/>ut nec sanguis nec interiora nec aliquid de bestia quod manducari
+<lb/>potest, exceptis stercoribus, proiciatur.
+<lb/>18. Et inde in terram propriam est reversus et ibidem leges et 
+<lb/>statuta multiplicia fecit, que Tartari inviolabiliter observant; ex 
+<lb/>quibus tantum duo dicemus. Unum est quod quicumque in superbiam 
+<lb/>erectus, propria auctoritate, sine electione principum, voluerit 
+<lb/>esse imperator, sine ulla miseratione debet occidi. Unde, ante
+<lb/>electionem istius Cuyuccan, propter hoc unus de principibus, nepos 
+<lb/>ipsius Chingiscan, fuit occisus. Volebat enim sine electione regnare. 
+<lb/>Aliud statutum est quod sibi subiugare debeant omnem terram, 
+<lb/>nec cum aliqua gente pacem habere debeant, nisi subdatur eis, 
+<lb/>quousque veniat tempus interfectionis eorum.
+<lb/>19. Quadraginta duobus quidem annis pugnaverunt; et ante 
+<lb/>decem et octo annis debent regnare; post hec, ut dicunt, ab alia 
+<lb/>natione, tamen nesciunt que sit illa, debent devinci, ut vaticinatum 
+<lb/>est eis. Et illi qui evadere poterunt, ut dicunt, debent illam legem 
+<lb/>tenere quam tenent illi, qui eos bello devincunt. Statuit etiam
+<lb/>quod per millenarios et centenarios et decanos et tenebras, id est 
+<lb/>decem milia, debeat eorum exercitus ordinari. Multa etiam alia
+<pb n="265"/>
+<lb/>statuit de quibus longum est enarrare, et nos etiam ignoramus. 
+<lb/>Post hec ab ictu tonitrui est occisus, peractis suis ordinationibus et 
+<lb/>statutis.
+<lb/>20. Hic autem habuit quatuor filios: unus vocabatur Occodai, 
+<lb/>secundus vocabatur Tossucan, alter vocabatur Chiaadai et nomen 
+<lb/>quarti ignoramus. Ab his quatuor omnes duces Mongalorum descenderunt. 
+<lb/>Primus, vicelicet Occodaican, hos filios habuit: primus
+<lb/>est Cuyuc, qui nunc est imperator, Cocten et Sirenen, et si plures
+<lb/>habuit filios ignoramus. Filii vero Tossucan: Bati, iste est ditior et 
+<lb/>potentior post imperatorem; Ordu, iste est senior omnium ducum; 
+<lb/>Siban, Bora, Berca, Tanuht; aliorum filiorum Tossucan nomina
+<pb n="266"/>
+<lb/>ignoramus. Filii Chiaadai sunt: Burin, Cadan; nomina aliorum 
+<lb/>filiorum eius ignoramus. Alterius autem filii Chingiscan, cuius
+<lb/>nomen nescimus, filiorum nomina sunt hec: unus vocatur Mengu 
+<lb/>cuius mater est Seroctan; ista domina inter omnes Tartaros, 
+<lb/>excepta matre imperatoris, magis est nominata et potentior omnibus, 
+<lb/>excepto Bati; alius vocatur Bechac; alios filios habuit plures, 
+<lb/>sed eorum nomina ignoramus.
+<lb/>21. Hec sunt nomina ducum: Ordu - iste fuit in <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName> et in 
+<lb/><placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> -, Bati, Burin, Cadan, Siban, Buyget - isti omnes fuerunt 
+<lb/>in <placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> -, Chirpodan - iste est adhuc ultra mare contra soldanum 
+<lb/>Damasci - et alios qui sunt ultra mare. Isti alii remanserunt in terra:
+<pb n="267"/>
+<lb/>Mengu, Cocten, Sirenen, Hubilai, Sirenum, Sinocur, Thuatemyr,
+<lb/>Caragai, Sibedei senex, qui dicitur inter eos miles, Bora, Berca, Moucy, 
+<lb/>Choranca, sed iste inter alios minimus est. Alii vero duces sunt plures, 
+<lb/>sed eorum nomina ignoramus.
+<lb/>22. <persName key="Yesün Temür Khan">Imperator</persName> autem Tartarorum habet mirabile dominium super 
+<lb/>omnes. Nullus audet in aliqua parte morari, nisi ubi ipse assignet. 
+<lb/>Ipse autem assignat ubi maneant duces, duces vero assignant 
+<lb/>millenariis loca, millenarii centenariis, centenarii vero decanis. Insuper 
+<lb/>quicquid precipitur eis quocumque tempore, quocumque loco, sive 
+<lb/>ad bellum, sive ad mortem, sive ad vitam, sine ulla contradictione 
+<lb/>obediunt. Etiam si petit filiam virginem vel sororem, sine contradictione 
+<lb/>dant ei. Immo singulis annis aut intermissis aliquibus 
+<lb/>annis virgines colligit ex omnibus finibus Tartarorum, et si ipse
+<pb n="268"/>
+<lb/>vult sibi aliquas retinere, retinet; alias dat suis hominibus, sicut videtur 
+<lb/>ei expedire.
+<lb/>23. Nuntios quoscumque et quotcumque et ubicumque transmittit;
+<lb/>oportet quod dent eis sine mora equos subducticios et expensas. 
+<lb/>Undecumque etiam veniunt ei tributa vel nuntii, oportet 
+<lb/>quod equi, currus et expense similiter dentur. Sed nuntii qui veniunt 
+<lb/>aliunde, in magna miseria sunt in victu pariter et vestitu,
+<lb/>quia expense eorum viles sunt et pauce; et maxime cum veniunt
+<lb/>ad principes, et ibi debent moram contrahere: tunc ita parum datur 
+<lb/>decem hominibus, quod vix inde possunt vivere duo. Nec 
+<lb/>etiam in curiis principum nec in via datur eis comedere, nisi semel 
+<lb/>in die et satis parum. Insuper si alique sibi iniurie fiunt, conqueri
+<lb/>de facili minime possunt; unde oportet eos illa patienter portare.
+<lb/>Insuper multa munera tam a principibus quam ab aliis maioribus 
+<lb/>et minoribus petuntur ab eis, et si non dantur vilipendunt eos, 
+<lb/>immo quasi pro nichilo habent ipsos; et si a magnis viris mittuntur, 
+<lb/>nolunt ab eis modicum munus habere, sed dicunt: «A magno
+<lb/>homine venitis et tam modicum datis?». Unde accipere dedignantur, 
+<lb/>et si nuntii bene volunt facere facta sua, oportet eos dare 
+<lb/>maiora. Iccirco magnam partem rerum, que nobis pro expensis a fidelibus 
+<lb/>erant donate, oportuit nos de necessitate in muneribus dare.
+<pb n="269"/>
+<lb/>24. Et hoc sciendum est, quod ita omnia sunt in manu imperatoris,
+<lb/>quod nemo audet dicere «hoc meum est vel illius», sed omnia 
+<lb/>sunt imperatoris, res scilicet homines et iumenta; et super hoc 
+<lb/>etiam nuper emanavit imperatoris statutum. Idem dominium habent 
+<lb/>duces per omnia super homines suos; divisi enim sunt homines, 
+<lb/>Tartari scilicet et alii, inter duces. Nuntiis etiam ducum, quocumque 
+<lb/>eos transmittant, homines tam imperatoris quam alii omnes, 
+<lb/>equos subducticios et expensas et qui equos custodiunt 
+<lb/>et etiam nuntiis servant, sine contradictione dare tenentur. Imperatori 
+<lb/>autem iumenta, ut habeat lac ex eis ad annum, vel ad duos
+<lb/>vel ad tres sicut placuerit ei, tam duces quam alii, pro redditu, dare 
+<lb/>tenentur; et homines ducum idem tenentur facere dominis suis; 
+<lb/>inter eos enim nullus est liber. Et ut breviter dicam, quicquid imperator 
+<lb/>et duces volunt, et quantum volunt, de rebus eorum accipiunt; 
+<lb/>de personis etiam eorum disponunt per omnia, secundum
+<lb/>beneplacitum suum.
+<lb/>25. Mortuo imperatore, ut superius dictum est, convenerunt 
+<lb/>duces et elegerunt Occodai, filium Chingiscan predicti in imperatorem. 
+<lb/>Qui habito consilio principum eius divisit exercitus. Bati,
+<pb n="270"/>
+<lb/>qui in secundo gradu attinebat eidem, misit contra terram Altisoldani 
+<lb/>et contra terram Biserminorum; hi enim Sarraceni erant, sed
+<lb/>comanicum loquebantur. Et cum intrasset terram eorum, pugnavit 
+<lb/>cum eis et bello eos sibi subiecit. Quedam autem civitas, nomine 
+<lb/>Barchin, diu restitit ei; fecerant enim foveas multas in circuitu 
+<lb/>civitatis et operuerant illas, et quando illi veniebant ad civitatem,
+<lb/>cadebant in foveas; unde non potuerunt illam civitatem habere
+<lb/>antequam predictas foveas implevissent.
+<lb/>26. Homines autem de quadam civitate, que vocatur Ianikint, 
+<lb/>hoc audientes exierunt obviam eis, sponte se in manu eorum tradentes; 
+<lb/>unde civitate eorum non fuit destructa, sed plures eorum 
+<lb/>occiderunt et alios transtulerunt. Et acceptis spoliis civitatis, ipsam
+<lb/>aliis hominibus repleverunt, et iverunt contra civitatem Ornas. Ista 
+<lb/>civitas erat nimium populosa; erant enim ibi Christiani plures, <placeName key="Gazari">Gazari</placeName> 
+<lb/>videlicet et Ruteni et Alani et alii, necnon et Sarraceni; Sarracenorum 
+<lb/>tamen erat dominium civitatis. Hec autem civitas erat divitiis 
+<lb/>multum plena; est enim posita super fluvium quemdam, qui
+<lb/>currit per Ianikint et terram Biserminorum, qui intrat mare; unde 
+<lb/>est quasi portus, et forum maximum habebant de illa civitate alii
+<pb n="271"/>
+<lb/>Sarraceni. Et cum non possent eos aliter devincere, preciderunt fluvium 
+<lb/>qui currebat per civitatem, et illam cum rebus et hominibus
+<lb/>submerserunt. Quo facto, postea intraverunt terram Turcorum, qui	
+<lb/>sunt pagani.
+<lb/>27. Quam devincentes, iverunt contra Rusciam, et fecerunt 
+<lb/>magnam stragem in terra <placeName key="Ruscia">Ruscie</placeName>, civitates et casta destruxerunt et 
+<lb/>homines occiderunt, et <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName>, que est metropolis <placeName key="Ruscia">Ruscie</placeName>, obsederunt; 
+<lb/>et cum diu obsedissent illam ceperunt et occiderunt homines 
+<lb/>civitatis. Unde quando per terram illam ibamus, inveniebamus 
+<lb/>innumerabilia capita et ossa hominum mortuorum super campum 
+<lb/>iacere. Fuerat enim civitas valde magna et nimium populosa, et 
+<lb/>nunc quasi in nichilum redacta est. Vix enim ducente domus sunt
+<lb/>ibi modo, et illi homines tenentur in maxima servitute. Inde procedentes 
+<lb/>pugnando, destruxerunt totam Rusciam.
+<lb/>28. De <placeName key="Ruscia">Ruscia</placeName> autem et de <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comania</placeName> processerunt duces predicti,
+<lb/>et pugnaverunt contra Hungaros et Polonos, ex quibus Tartari 
+<lb/>in <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName> et in <placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> plures interfecti fuerunt; et si non fugissent, 
+<lb/>et viriliter restitissent Hungari, exivissent Tartari de finibus
+<pb n="272"/>
+<lb/>suis, quia Tartari habuerunt talem timorem, quod omnes fugere 
+<lb/>attentabant. Sed Bati, evaginato gladio, in faciem restitit eis dicens: 
+<lb/>«Nolite fugere, quia si fugitis nullus evadet, et si debemus 
+<lb/>mori moriamur omnes, quia futurum est, ut Chingiscan predixit, 
+<lb/>quod interfici debeamus; et si nunc tempus est, sustineamus». 
+<lb/>Et sic animati sunt, et remanserunt et Hungariam 
+<lb/>destruxerunt.
+<lb/>29. Inde revertentes, venerunt in terram Morduanorum, qui 
+<lb/>sunt pagani, et eos bello vicerunt. Inde procedentes contra Byleros, 
+<lb/>id est Bulgariam Magnam, et ipsam destruxerunt omnino. Inde 
+<lb/>procedentes ad aquilonem adhuc contra Bascart, id est Hungariam 
+<lb/>Magnam, eos etiam devicerunt.
+<lb/>30. Inde egredientes, iverunt amplius ad aquilonem, et venerunt
+<lb/>ad Parossitas, qui habent parvos stomachos et os parvulum, 
+<lb/>ut nobis dicebatur, nec manducant, sed decoquunt carnes; quibus
+<lb/>decoctis, ponunt se super ollam et fumum recipiunt, et de hoc solo 
+<lb/>reficiuntur. Sed si aliquid manducant, hoc valde modicum est.
+<lb/>31. Inde procedentes, venerunt ad Samogedos. Hi autem homines,
+<pb n="273"/>
+<lb/>ut dicitur, tantum de venationibus vivunt; tabernacula
+<lb/>etiam et vestes habent tantummodo de pellibus bestiarum. Inde
+<lb/>ultra procedentes, venerunt ad quamdam terram super oceanum, 
+<lb/>ubi invenerunt quedam monstra, ut nobis firmiter dicebatur, que 
+<lb/>per omnia formam humanam habebant, sed pedes desinebant in 
+<lb/>pedes bovinos, et humanum caput habebant, sed faciem habebant 
+<lb/>ut canis. Duo verba loquebantur more humano et tertio latrabant 
+<lb/>ut canis, et sic, per intervalla temporum, latratum interponebant, 
+<lb/>tamen ad naturam suam redibant, et sic intelligi poterat 
+<lb/>quid dicebant. Inde redierunt in <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comaniam</placeName>, et usque nunc quidam 
+<lb/>ex eis morantur ibidem.
+<lb/>32. Chirpodan vero eodem tempore misit Occodaican cum exercitu
+<lb/>ad meridiem contra Kergis, quos in bello devicit. Hi autem 
+<lb/>homines sunt pagani, qui pilos in barba non habent; quorum consuetudo 
+<lb/>talis est: cum pater alicuius moritur, pre dolore quasi 
+<lb/>unam corrigiam, in signum lamenti, ab aure usque ad aurem de facie 
+<lb/>sua levant.
+<lb/>33. Quibus devictis, ad meridiem ivit contra Armenos. Sed cum 
+<lb/>per deserta transierunt, quedam etiam monstra, ut nobis dicebatur 
+<lb/>pro certo, effigiem humanam habentia, invenerunt, sed nonnisi
+<pb n="274"/>
+<lb/>unum brachium cum manu in medio pectoris et unum pedem habebant, 
+<lb/>et duo sagittabant cum uno arcu; et isti ita fortiter currebant, 
+<lb/>quod equi eos investigare non poterant: currebant enim saltando 
+<lb/>super illum unum pedem, et cum essent fessi taliter eundo, 
+<lb/>ibant super manum et pedem revolvendo se quasi in circulo. Istos 
+<lb/>autem homines Isidorus ciclopedes appellavit. Et cum essent sic fessi, 
+<lb/>iterum currebant secundum modum priorem. Aliquos tamen
+<lb/>occiderunt ex eis et, sicut nobis apud imperatoris curiam a rutenis 
+<lb/>clericis dicebatur, qui cum imperatore predicto morantur, 
+<lb/>venerunt plures ex eis nuntii in legatione ad curiam imperatoris 
+<lb/>superius annotati, ut pacem habere possent cum eo. Inde procedentes,
+<lb/>venerunt in Armeniam, quam bello vicerunt, et partem Georgianie, 
+<lb/>et alia pars venit ad mandatum eorum. Et quadraginta milia 
+<lb/>yperperorum singulis annis dederunt pro tributo et adhuc faciunt 
+<lb/>illud idem.
+<lb/>34. Inde procedentes ad terram soldani de Urum, qui erat satis 
+<lb/>magnus et potens, cum quo pugnaverunt et devicerunt. Et processerunt 
+<lb/>ultra, debellando et vincendo, usque ad terram soldani Damasci 
+<lb/>et nunc etiam terram illam optinent, et alias terras ultra illas 
+<lb/>proponunt impugnare; nec postea usque ad presentem diem in
+<pb n="275"/>
+<lb/>terram suam fuerunt reversi. Alius exercitus ivit contra terram calif 
+<lb/>de Baldac, quam etiam sibi subdiderunt; et quadringenta bisantia,
+<lb/>exceptis baldachinis et aliis muneribus, omni die dant pro tributo. 
+<lb/>Et omni anno pro calif, ut ad eos veniat, nuntios mittunt; qui cum 
+<lb/>tributo munera magna mittit, rogans ut eum supportent. Ipse vero 
+<lb/>imperator munera accipit, et nichilominus ut veniat mittit pro eo.
+<lb/>De bello, et ordinatione acierum,
+<lb/>et armis, et astutiis in congressione,
+<lb/>et crudelitate captivorum, et oppugnatione munitionum,
+<lb/>et perfidia eorum in iis qui se reddunt eisdem. Cap. VI.
+<lb/>1. Dicto de imperio, dicendum est hoc modo de bello: primo
+<lb/>de ordinatione acierum, secundo de armis, tertio de astutiis in congressione, 
+<lb/>quarto de crudelitate quam faciunt de captivis, quinto 
+<lb/>de oppugnatione castrorum et civitatum, sexto de perfidia quam 
+<lb/>exercent cum iis qui se reddunt eisdem.
+<lb/>2. De ordinatione acierum, hoc modo Chingiscan ordinavit, ut
+<lb/>decem hominibus preponeretur unus, et ille secundum nos appellatur
+<lb/>decanus; decem autem decanis preponeretur unus, qui centenarius
+<pb n="276"/>
+<lb/>nominatur; decem vero centenariis preponeretur unus, qui 
+<lb/>millenarius appellatur; decem millenariis preponeretur unus, et ille 
+<lb/>numerus vocatur tenebre apud eos. Cuncto vero exercitui preponuntur 
+<lb/>duo duces vel tres, ita tamen quod habeant respectum ad 
+<lb/>unum.
+<lb/>3. Cum acies sunt in bello, si de decem hominibus fugit 
+<lb/>unus vel duo vel tres etiam plures, omnes occiduntur; et si
+<lb/>omnes decem fugiunt, nisi fugiant alii centum, omnes occiduntur.	
+<lb/>Et ut breviter dicam, nisi comuniter cedant, omnes qui fugiunt occiduntur. 
+<lb/>Item si unus vel duo aut plures audacter accedunt ad 
+<lb/>pugnam et decem alii non sequuntur, occiduntur etiam; et si unus 
+<lb/>de decem vel plures capiuntur, et alii socii sui non liberant eos,
+<lb/>etiam occiduntur.
+<lb/>4. Arma autem ista ad minus omnes debent habere: duos arcus 
+<lb/>vel tres, vel unum bonum ad minus, et tres pharetras magnas plenas 
+<lb/>sagittis, et unam securim, et funes ad machinas trahendas. Divites 
+<lb/>autem habent gladios acutos in fine, ex una parte tantum 
+<lb/>incidentes, et aliquantulum curvos; et habent equum armatum,
+<lb/>crura etiam tecta, galeas et lorica. Quidam loricas et etiam cooperturam 
+<lb/>equorum habent de corio, in hunc modum formatas: habent 
+<lb/>quasdam corrigias de bove vel alio animali ad latitudinem
+<pb n="277"/>
+<lb/>unius manus, et bituminant tres vel quattuor simul, et ligant illas
+<lb/>corrigiolis sive cordulis; in corrigia superiori ponunt cordulas
+<lb/>in fine, in inferiori ponunt in medio, et sic faciunt usque 
+<lb/>ad finem. Unde quando se inclinant, inferiores corrigie superiores 
+<lb/>ascendunt, et sic duplicantur super corpus vel etiam triplicantur.
+<lb/>5. De coopertura equi faciunt quinque partes, ex una parte
+<lb/>equi unam, et ex alia parte aliam, que protenduntur a cauda
+<lb/>usque ad caput, que ligantur ad sellam, et post sellam in dorso et 
+<lb/>etiam in collo; super renes etiam aliam partem ponunt, ubi duarum 
+<lb/>partium ligature iunguntur, in qua pecia faciunt unum foramen 
+<lb/>per quod caudam exponunt; et ante pectus ponunt etiam
+<lb/>unam; que omnes protenduntur usque ad genua vel usque ad crurum 
+<lb/>coniuncturas. Et ante frontem laminam ferream ponunt, que 
+<lb/>ex utraque parte colli partibus predictis ligatur.
+<lb/>6. Lorica vero etiam quatuor habet partes: una pars protenditur 
+<lb/>a femore usque ad collum, sed est facta secundum dispositionem
+<lb/>humani corporis, quia ante pectus est stricta et a brachiis inferius,
+<lb/>in rotundum obvolvitur circa corpus; retro autem ad renes habent 
+<lb/>aliam peciam, que protenditur a collo usque ad aliam peciam que 
+<lb/>revolvitur circa corpus; super humeros autem iste due pecie, anterior 
+<lb/>videlicet et posterior, ad duas laminas ferreas, que sunt in utroque 
+<lb/>humero, fibulis conectuntur; et in utroque brachio unam habent 
+<lb/>peciam. Que ab humeris protenduntur usque ad manus, que
+<pb n="278"/>
+<lb/>etiam inferius sunt aperte; et in unoquoque crure unam peciam 
+<lb/>habent; que pecie omnes fibulis coniunguntur.
+<lb/>7. Galea autem est superius ferrea vel de chalybe, sed illud quod 
+<lb/>protegit in circuitu collum et gulam de corio est; et omnes iste pecie 
+<lb/>de corio sunt formate, secundum modum superius annotatum.
+<lb/>8. Quidam autem omnia illa, que superius diximus, habent de 
+<lb/>ferro in hunc modum formata: unam laminam tenuem ad latitudinem 
+<lb/>unius digiti faciunt et ad longitudinem palme unius, et in
+<lb/>hunc modum faciunt laminas multas; et in unaquaque lamina octo 
+<lb/>foramina parvula faciunt, et interius tres corrigias strictas et fortes 
+<lb/>ponunt; et laminas unam super aliam ponunt quasi ascendendo 
+<lb/>per gradus, et ligant laminas predictas ad corrigias tenuibus 
+<lb/>corrigiolis, quas mittunt per foramina superius annotata, et in superiori 
+<lb/>parte consuunt corrigiolam unam, ut lamine predicte bene 
+<lb/>et firmiter cohereant simul; et faciunt ex laminis quasi corrigiam 
+<lb/>unam, et postea ligant per pecias, per omnia, sicut superius 
+<lb/>dictum est; et ista faciunt tam ad equorum quam ad hominum armaturas, 
+<lb/>et faciunt ita illa lucere quod potest homo faciem suam
+<lb/>in eis videre.
+<lb/>9. Aliqui eorum lanceas habent, et in collo ferri lancee habent 
+<lb/>unum uncum, cum quo detrahunt hominem de sella si possunt. 
+<lb/>Longitudo sagittarum suarum est duorum pedum et unius palme
+<pb n="279"/>
+<lb/>et duorum digitorum. Et quia diversi sunt pedes, mensuram pedis 
+<lb/>geometrici ponimus: duo grana hordei pollicis transversio est, sexdecim 
+<lb/>pollices transversi faciunt unum geometricum pedem. Ferramenta 
+<lb/>sagittarum sunt acutissima, et ex utraque parte incidentia 
+<lb/>quasi gladius biceps, et semper portant limas iuxta pharetram ad 
+<lb/>acuendum sagittas. Ferramenta predicta caudam habent acutam
+<lb/>ad longitudinem digiti, quam imponunt in lignum.
+<lb/>10. Scutum habent de viminibus vel de virgulis factum, sed 
+<lb/>non credimus quod portant nisi ad castra et ad custodiam imperatoris 
+<lb/>et principum, sed hoc tantum de nocte. Sagittas etiam alias 
+<lb/>habent ad sagittandum aves et bestias et homines inermes, ad
+<lb/>trium digitorum latitudinem; sagittas autem alias habent diversimodas 
+<lb/>ad aves et bestias sagittandas.
+<lb/>11. Cum ad bellum procedere volunt, precursores premittunt, 
+<lb/>qui nichil secum portant preter filtra sua et equos et arma. Isti nichil 
+<lb/>rapiunt, domos non comburunt, bestias non occidunt, sed 
+<lb/>tantum homines vulnerant et mortificant et, si non possunt aliud,
+<lb/>mittunt in fugam. Multo libentius tamen occidunt quam fugant. 
+<lb/>Post istos sequitur exercitus, qui cuncta que invenit accipit; et homines 
+<lb/>etiam, si inveniri possunt, capiunt vel occidunt. Nichilominus 
+<lb/>tamen principes exercitus ex omni parte mittunt predones post
+<lb/>hoc ad inveniendum homines et iumenta, qui valde sagaces sunt
+<lb/>ad querendum.
+<pb n="280"/>
+<lb/>12. Quando autem ad flumina perveniunt, hoc modo transeunt
+<lb/>illa, etiam si sunt magna. Maiores unum rotundum et leve 
+<lb/>corium habent, in quo in summitate per circuitum crebas faciunt
+<lb/>ansas, in quibus funem imponunt et stringunt, ita quod in circuitu 
+<lb/>faciunt quemdam ventrem quem replent vestibus et aliis rebus, 
+<lb/>et fortissime ad invicem comprimunt; post hec in medio ponunt 
+<lb/>sellas et alias res duriores. Homines etiam in medio sedent, 
+<lb/>et ligant ad caudam equi navem hanc taliter preparatam. Et unum
+<lb/>hominem, qui equum regat, faciunt pariter cum equo ante natare;
+<lb/>vel habent aliquando duos remos et cum illis remigant ultra 
+<lb/>aquam, et sic transeunt flumen. Equos vero pellunt in aquam, et 
+<lb/>unus homo iuxta unum equum quem regit natat, et alii equi 
+<lb/>omnes illum sequuntur; et sic transeunt aquas et flumina magna.
+<lb/>Alii vero pauperiores unam bursam habent de corio bene consutam 
+<lb/>(unusquisque tenetur habere), in qua bursa vel in quo sacco, 
+<lb/>vestes et omnes res suas imponunt, et in summitate saccum fortissime 
+<lb/>ligant, et suspendunt ad caudam equi et transeunt, ut superius 
+<lb/>dictum est.
+<lb/>13. Sciendum est quod quando vident hostes, tunc vadunt ad
+<lb/>eos, et unusquisque iacit tres sagittas vel quatuor contra adversarios 
+<lb/>suos; et si vident quod eos superare non possunt, retro regrediuntur 
+<lb/>ad suos. Et hoc faciunt in fraudem, ut adversarii eos sequantur
+<pb n="281"/>
+<lb/>ad loca ubi insidias paraverunt. Et si eorum inimici sequuntur 
+<lb/>ipsos ad predictas insidias, circumdant eos et sic vulnerant et occidunt. 
+<lb/>Item si vident quod magnus exercitus sit contra eos, aliquando 
+<lb/>divertunt ab eo per unam dietam vel per duas, et aliam 
+<lb/>partem terre invadunt et expoliant et interficiunt homines et terram 
+<lb/>destruunt et devastant. Et si vident etiam quod hoc facere
+<lb/>non possint, cedunt retro ad decem vel ad duodecim dietas aliquando, 
+<lb/>et morantur in loco tuto, quousque adversariorum exercitus 
+<lb/>separetur, et tunc furtim veniunt et depopulant totam terram. 
+<lb/>In bellis enim astutissimi sunt, quia iam per quadraginta annos 
+<lb/>et amplius cum aliis gentibus dimicarunt.
+<lb/>14. Cum autem volunt ad pugnam accedere, omnes acies ordinant
+<lb/>sicut debent pugnare. Duces sive principes exercitus bellum 
+<lb/>non intrant, sed stant a longe contra inimicorum exercitum, et 
+<lb/>iuxta se habent pueros in equis et mulieres et equos; et faciunt aliquando 
+<lb/>imagines hominum et ponunt super equos. Hec ideo faciunt 
+<lb/>ut multitudo bellantium magna esse credatur. Contra faciem
+<lb/>inimicorum unam aciem captivorum et aliarum gentium, qui sunt 
+<lb/>inter eos, transmittunt et forsitan aliqui Tartari vadunt cum eis. 
+<lb/>Alias acies fortiorum hominum mittunt a dextris et a sinistris, ut 
+<lb/>non videantur ab adversariis suis, et sic circumdant adversarios et
+<lb/>colligunt in medium, et pugnare incipiunt ex omni parte. Et cum
+<pb n="282"/>
+<lb/>sint aliquando pauci, putantur ab adversariis, qui circumdati sunt, 
+<lb/>esse multi, et maxime cum videant illos qui sunt cum duce vel 
+<lb/>principe exercitus pueros et mulieres et equos et homines ficticios, 
+<lb/>ut dictum est supra, quos credunt esse pugnatores, et per hoc terrentur 
+<lb/>et confunduntur. Et si forte adversarii bene pugnant, faciunt 
+<lb/>eis viam ut fugiant; et statim cum fugere incipiunt et ab invicem 
+<lb/>separari, insequuntur eos, et plures tunc occidunt in fuga 
+<lb/>quam mortificare possint in bello. Sciendum est tamen quod, si 
+<lb/>aliud possunt, non libenter congrediuntur, sed homines et equos sagittis 
+<lb/>vulnerant et occidunt. Et cum iam homines et equi sunt debilitati 
+<lb/>sagittis, tunc congrediuntur cum eis.
+<lb/>15. Munitiones in hunc modum expugnant. Si est talis munitio,
+<lb/>ipsam circumdant, immo aliquando sepiunt, ut nullus possit 
+<lb/>ingredi vel exire. Et pugnant fortissime machinis et sagittis, et nec
+<lb/>die nec nocte cessant a prelio, ut illi qui sunt in munitionibus non
+<lb/>quiescant; ipsi tamen Tartari quiescunt, quia acies dividunt et una 
+<lb/>succedit alteri in pugna, ut non nimium fatigentur. Et si eam taliter 
+<lb/>habere non possunt, grecum prohiciunt ignem; immo solent 
+<lb/>aliquando accipere arvinam hominum quos occidunt, et liquefactam 
+<lb/>proiciunt super domos. Et ubicumque venit ignis super pinguedinem 
+<lb/>illam, quasi inextinguibiliter ardet. Extingui tamen potest, 
+<lb/>ut dicitur, cum vino vel cervisia superfusa. Et si super carnem 
+<lb/>ceciderit, confricatione palme manus potest extingui.
+<pb n="283"/>
+<lb/>16. Et si ita non prevalent, et civitas illa vel castrum habeat
+<lb/>flumen, obstruunt illud, vel faciunt alium alveum et submergunt
+<lb/>illam munitionem si possunt. Si autem non possunt, suffodiunt 
+<lb/>illam, et sub terra armati in ipsam ingrediuntur. Et cum iam intraverint, 
+<lb/>una pars ignem imponit ut comburatur, et alia pars cum 
+<lb/>illius munitionis hominibus pugnat. Si autem nec sic illam vincere
+<lb/>possunt, castrum vel munitionem suam faciunt contra illam, ut ab
+<lb/>inimicorum iaculis non graventur; et contra illam multo tempore 
+<lb/>iacent, nisi forte exterius adiutorium habeat exercitus qui pugnet 
+<lb/>cum eis et vi removeat ipsos. Sed cum iacent ante munitionem, 
+<lb/>blande eis loquuntur et multa eis promittunt, ad hoc ut se eorum
+<lb/>manibus tradant. Et si illi se eis reddiderint dicunt: «Exite ut secundum 
+<lb/>morem nostrum vos numeremus». Et cum illi ad eos 
+<lb/>exeunt, querunt qui sunt artifices inter eos et illos reservant; alios 
+<lb/>autem, exceptis illis quos volunt habere pro servis, cum securi occidunt. 
+<lb/>Et si aliquibus aliis parcunt, ut dictum est, nobilibus et honestis 
+<lb/>hominibus nunquam parcunt. Et si forte aliquo casu contingente 
+<lb/>reservant aliquos nobiles, nec prece nec pretio ultra de captivitate 
+<lb/>possunt exire.
+<lb/>17. In bellis autem quoscumque capiunt occidunt, nisi forte 
+<lb/>velint aliquos reservare, ut habeant eos pro servis. Occidendos autem 
+<lb/>dividunt per centenarios, ut cum bipenni interficiantur ab eis;
+<pb n="284"/>
+<lb/>ipsi vero post hec dividunt per captivos, et unicuique servo ad interficiendum 
+<lb/>dant decem aut plures aut pauciores secundum quod 
+<lb/>maioribus placet.
+<lb/>Quomodo faciunt cum hominibus pacem,
+<lb/>et de terrarum nominibus quas subiugaverunt,
+<lb/>et de terris que eis viriliter restiterunt, 
+<lb/>et de tirannide quam exercent in hominibus suis. Cap. VII.
+<lb/>1. Descripto quomodo pugnant, dicendum est de terris quas
+<lb/>eorum dominio subiugarunt, de quo isto modo scribemus: primo 
+<lb/>dicemus quomodo faciunt cum hominibus pacem, secundo de terrarum 
+<lb/>nominibus quas subdiderunt, tertio de terris que eis viriliter 
+<lb/>restiterunt, quarto de tirannide quam exercent in eos.
+<lb/>2. Sciendum est quod cum nullis hominibus faciunt pacem nisi 
+<lb/>subdantur eis, quia, ut dictum est supra, a Chingiscan habent
+<pb n="285"/>
+<lb/>mandatum et cunctas, si possunt, sibi subiciant nationes. Et hec 
+<lb/>sunt illa que petunt ab eis: ut vadant in exercitu cum eis contra 
+<lb/>omnem hominem quando placet, et ut dent decimam de omnibus,
+<lb/>tam de hominibus quam de rebus. Computant enim decem pueros 
+<lb/>et unum accipiunt, et de puellis faciunt iilud idem, quos in 
+<lb/>terram ipsorum deducunt et tenent eos pro servis; reliquos numerant 
+<lb/>et ordinant secundum morem eorum.
+<lb/>3. Sed quando plene dominium habent super eos, si aliquid
+<lb/>promiserunt eis, nichil observant, sed quascumque congrue, possunt, 
+<lb/>occasiones inveniunt contra eos. Nam cum essemus in <placeName key="Ruscia">Ruscia</placeName>, 
+<lb/>missus fuit unus sarracenus ex parte Cuyuccan, ut dicebatur, 
+<lb/>et Bati; et ille prefectus a quolibet homine qui habebat tres pueros 
+<lb/>unum accipiebat, ut postea nobis dicebatur; et quicumque viri
+<lb/>non habebant uxores, illos deducebat; et faciebat de mulieribus
+<lb/>etiam illud idem, que viros legitimos non habebant. Pauperes 
+<lb/>etiam, qui mendicando suum victum querebant, simiiiter deportabat. 
+<lb/>Reliquos autem, secundum eorum cosuetudinem, numeravit, 
+<lb/>precipiens ut unusquisque, tam parvus quam magnus, etiam infans
+<lb/>unius diei, sive pauper esset sive dives, tale tributum preberet: ut
+<lb/>scilicet daret unam peliem albi ursi et unum nigrum castorem et 
+<lb/>unum nigrum zabulum et unam nigram pellem cuiusdam animalis, 
+<lb/>quod in terra latibulum habet, cuius nomen in latinum transferre
+<pb n="286"/>
+<lb/>nescimus (Poloni autem et Ruteni illam bestiam appellant 
+<lb/>dochori), et unam nigram pellem vulpinam. Et quicumque ista non
+<lb/>dat, inter Tartaros debet duci et in eorum redigi servitutem.
+<lb/>4. Mittunt etiam pro principibus terrarum, ut ad eos veniant 
+<lb/>sine mora. Et cum venerint, ibi debitum honorem nullum recipiunt, 
+<lb/>sed habentur ut alie viles persone, et oportet ut eis munera
+<lb/>magna presentent tam ducibus quam uxoribus eorum et officialibus 
+<lb/>millenariis et centenariis; immo omnes generaliter, et ipsi 
+<lb/>etiam servi, ab eis cum magna importunitate munera petunt, et 
+<lb/>non solum ab ipsis, sed etiam a nuntiis eorum cum mittuntur ad 
+<lb/>ipsos.
+<lb/>5. Aliquibus etiam inveniunt occasiones ut eos occidant, sicut
+<lb/>de Michaele et aliis dictum est; aliquos vero, ut alliciant alios, permittunt 
+<lb/>redire; alios etiam potionibus perimunt vel veneno. Eorum 
+<lb/>enim intentio est ut ipsi soli dominentur in terra. Iccirco 
+<lb/>querunt occasiones contra nobiles ut eos occidant. Ab illis vero
+<lb/>quos redire permittunt, petunt eorum filios aut fratres, quos ulterius 
+<lb/>nunquam dimittunt, sicut actum est de filio Ierozlai et de 
+<lb/>quodam alio duce Alanorum et aliis pluribus. Et si moritur pater 
+<lb/>vel frater sine herede, filium vel fratrem nunquam dimittunt, immo
+<pb n="287"/>
+<lb/>illius principatum totaliter accipiunt sibi, sicut de quodam duce 
+<lb/>Solangorum vidimus esse factum.
+<lb/>6. Bascakos sive prefectos suos ponunt in terris illorum quos redire
+<lb/>permittunt, quibus oportet ut ad nutum tam duces quam alii 
+<lb/>debeant obedire. Et si homines alicuius civitatis vel terre non faciunt 
+<lb/>quod volunt, isti bascaki opponunt eis quod sint Tartaris infideles, 
+<lb/>et sic civitatem illam vel terram destruunt et homines qui
+<lb/>sunt in ea occidunt per manum validam Tartarorum, qui ex mandato 
+<lb/>principis illius cui obedit terra illa veniunt, eis nescientibus, 
+<lb/>et subito irruunt super eos; sicut nuper contigit, cum adhuc in terra 
+<lb/>Tartarorum essemus, de quadam civitate quam ipsimet de Rutenis 
+<lb/>in terra fecerant Comanorum. Et non solum princeps Tartarorum, 
+<lb/>qui terram usurpavit, vel prefectus ipsius, sed quicumque 
+<lb/>Tartarus nobilis per civitatem sive terram illam transit quasi 
+<lb/>dominatur eidem, et maxime qui maior est apud eos.
+<lb/>7. Insuper aurum et argentum et alia que volunt, et quando libet,
+<lb/>et quantum placet, absque ulla contradictione petunt et accipiunt. 
+<lb/>Insuper si sunt aliqua placita inter illos principes qui reddiderunt 
+<lb/>se ipsis, oportet ut ad imperatorem Tartarorum vadant ad 
+<lb/>placitandum, sicut nuper contigit de duobus filiis regis Georgianie.
+<pb n="288"/>
+<lb/>Unus enim erat legitimus et alter de adulterio natus, qui vocabatur 
+<lb/>David; legitimus autem Melic nominabatur. Filio autem
+<lb/>adultere, terre partem reliquerat pater; alius vero qui iunior erat, 
+<lb/>veniebat una cum matre ad Tartarorum imperatorem, pro eo quod 
+<lb/>David predictus ad ipsum iter arripuerat veniendi. Mater alterius 
+<lb/>scilicet Melic, regina videlicet Georgianie, per quam maritus regnum 
+<lb/>tenebat, quoniam regnum illud per feminas tenebatur, mortua 
+<lb/>fuit in via. Illi autem cum venerunt dederunt maxima munera, 
+<lb/>et maxime legitimus filius qui repetebat terram quam reliquerat 
+<lb/>pater filio suo David, cum non deberet habere quia adultere 
+<lb/>filius erat; ille vero respondebat: «Licet sim filius concubine,
+<lb/>peto tamen ut fiat michi iustitia secundum consuetudinem Tartarorum, 
+<lb/>qui nullam differentiam faciunt inter filios legitime ac ancille». 
+<lb/>Unde fuit data sententia contra filium legitimum, ut illi 
+<lb/>David, qui maior erat, subesset et terram haberet quiete ac pacifice 
+<lb/>quam dederat ei pater. Et sic donaria que dederat, et causam
+<lb/>quam contra fratrem suum David habuerat, amisit.
+<lb/>8. Ab illis etiam nationibus, que longe sunt ab eis et sunt 
+<lb/>coniuncte aliis nationibus, quas aliquo modo timent, que non sunt eis 
+<lb/>subiecte, tributum accipiunt, et quasi misericorditer agunt cum
+<pb n="289"/>
+<lb/>eis, ut non adducant exercitum super eos, vel etiam ut alii non
+<lb/>terreantur se tradere ipsis; sicut factum est de Obesis sive Georgianis, 
+<lb/>a quibus quinquaginta vel quadraginta milia yperperorum 
+<lb/>sive bisantium accipiunt pro tributo. Alias adhuc eos in pace esse 
+<lb/>permittunt; tamen, secundum quod intelleximus ab eis, rebellare 
+<lb/>proponunt.
+<lb/>9. Terrarum nomina quas vicerunt sunt hec: Kytai, Naimani,
+<lb/>Solangi, <placeName key="Karakitai">Karakytai</placeName> sive nigri Kytai, Canana, Tumat, Voyrat, Karaniti, 
+<lb/>Huyur, Sumoal, Merkiti, Mecriti, Sarihuyur, Bascart id est 
+<lb/>Magna <placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName>, Kergis, Cosmir, Sarraceni, Bisermini, Turcomani,
+<pb n="290"/>
+<lb/>Byleri id est Magna Bulgaria, Corola, Comuchi, Burithabet, Parossiti, 
+<lb/>Cassi, Alani sive Assi, Obesi sive Georgiani, Nestoriani, Armeni, 
+<lb/>Kangit, Comani, Brutachi, qui sunt Iudei, Mordui, Torci, 
+<lb/><placeName key="Gazari">Gazari</placeName>, Samogedi, Perses, Tati, <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> Minor sive <placeName key="Aethiopia" ref="https://pleiades.stoa.org/places/39274">Ethiopia</placeName>, Circassi, 
+<lb/>Ruteni, Baldac, Sarti. Alie terre sunt plures, sed earum nomina 
+<lb/>ignoramus. Vidimus etiam viros et mulieres fere de omnibus
+<lb/>terris superius nominatis.
+<lb/>10. Hec autem sunt nomina terrarum que eis viriliter restiterunt,
+<lb/>nec sunt adhuc subdite eis: <placeName key="India" ref="https://pleiades.stoa.org/places/50004">India</placeName> Magna, Mangia, quedam pars 
+<lb/>Alanorum, quedam pars Kytaorum, Saxi. Quamdam enim civitatem 
+<lb/>Saxorum predictorum, ut nobis dicebatur ibidem, obsederunt et
+<pb n="291"/>
+<lb/>debellare temptaverunt. At ipsi fecerunt machinas contra machinas 
+<lb/>eorum, et Tartarorum machinas omnes fregerunt; nec civitati 
+<lb/>appropinquare poterant ad pugnam propter machinas et balistas; 
+<lb/>tandem unam viam sub terra fecerunt, et prosilierunt in civitatem, 
+<lb/>et alii temptabant incendere civitatem, et alii pugnabant.
+<lb/>Homines autem civitatis unam partem ad extinguendum ignem
+<lb/>posuerunt, et alia pars fortiter pugnabat cum iis qui intraverant 
+<lb/>civitatem, et multos occiderunt ex eis, alios vulneraverunt, compellentes 
+<lb/>eos ad suos redire. Ac ipsi, videntes quod nichil possent eis 
+<lb/>facere et quod multi homines morerentur, recesserunt ab eis.
+<lb/>11. In terra Sarracenorum et aliorum, qui quasi sunt inter eos
+<lb/>domini, accipiunt omnes artifices meliores et in omnibus operibus 
+<lb/>suis ponunt. Alii autem artifices dant eis de opere suo tributum; 
+<lb/>segetes omnes condunt in horreis dominorum suorum, dimittunt 
+<lb/>tamen eis semina, et quantum ipsis competenter sufficit pro expensis; 
+<lb/>aliis autem unicuique unum pondus de pane satis modicum 
+<lb/>dant in die, et nichil aliud nisi ter in septimana modicum 
+<lb/>quid de carnibus eis prebent; et illis tantum hoc artificibus faciunt 
+<lb/>qui in civitatibus commorantur. Insuper quando dominis placet, 
+<lb/>cum uxoribus et filiis iuvenes omnes accipiunt, et post se cum
+<lb/>omnibus famulis suis faciunt ire, qui de cetero sunt de numero
+<lb/>Tartarorum, immo potius de numero captivorum, quia, etsi inter
+<pb n="292"/>
+<lb/>ipsos sunt numerati, non tamen habentur in reverentia sicut Tartari, 
+<lb/>sed habentur pro servis, et ad omnia pericula ut alii captivi 
+<lb/>mittuntur. Ipsi enim in bellis sunt primi, et etiam si debet palus
+<lb/>vel aqua periculosa transiri, eos oportet primo vadum templare.
+<lb/>Ipsos etiam est necesse operari omnia que sunt facienda. Ipsi etiam 
+<lb/>si in aliquo offendunt vel non obediunt ad nutum, ut asini 
+<lb/>verberantur.
+<lb/>12. Et ut breviter dicam, modicum quid manducant et modicum
+<lb/>bibunt et pessime induuntur, nisi forte aliquid possint lucrari
+<lb/>ut aurifabri et alii artifices boni. Sed aliqui tam malos dominos 
+<lb/>habent quod nichil eis dimittunt, nec habent tempus, pre multitudine 
+<lb/>operum dominorum, ut sibi aliquid operentur, nisi furentur 
+<lb/>si tempus, quando forsan debent quiescere vel dormire, et hoc si
+<lb/>uxores vel propriam stationem permittuntur habere. Alii autem
+<lb/>qui tenentur in domo pro servis, omni miseria sunt repleti. Vidimus 
+<lb/>enim eos ire in bracis pelliceis sepissime et toto corpore nudos 
+<lb/>in maximo solis ardore, et in hyeme patiuntur maximum frigus; 
+<lb/>vidimus etiam aliquos pedicas et digitos manuum de magno frigore 
+<lb/>perdidisse; audivimus etiam aliquos esse mortuos, vel etiam de
+<lb/>magno algore quasi in omnibus membris inutiles esse factos.
+<pb n="293"/>
+<lb/>Quomodo bello Tartaris occurratur, et quid attendunt,
+<lb/>et de armis et ordinatione acierum, et quomodo occurratur
+<lb/>eorum astutiis in pugna, et munitione castrorum et civitatum,
+<lb/>et quid faciendum est de captivis. Cap. VIII.
+<lb/>1. Dicto de terris que obediunt eis, supponendum est quomodo
+<lb/>bello occurratur eisdem, quod videtur nobis hoc modo dicendum: 
+<lb/>primo quidem scribendum est quid intendunt, secundo de 
+<lb/>armis et ordinatione acierum, tertio quomodo occurratur eorum 
+<lb/>astutiis in congressione, quarto de munitione castrorum et civitatum, 
+<lb/>quinto quid faciendum est de captivis.
+<lb/>2. Intentio Tartarorum est sibi subicere totum mundum si possunt,
+<lb/>et de hoc a Chingiscan habent mandatum, sicut superius 
+<lb/>dictum est. Iccirco eorum imperator sic in litteris suis scribit: «Dei 
+<lb/>fortitudo, omnium hominum imperator», et in superscriptione sigilli 
+<lb/>sui est hoc: «Deus in celo et Cuyuccan super terram, Dei fortitudo, 
+<lb/>omnium hominum imperatoris sigillum». Et ideo cum nullis 
+<lb/>hominibus faciunt pacem, ut dictum est, nisi forte se in manibus 
+<lb/>eorum tradant. Et quia, excepta christianitate, nulla est terra
+<pb n="294"/>
+<lb/>in orbe quam ipsi non teneant, iccirco ad pugnam se preparant contra
+<lb/>nos. Unde noverint universi quod, nobis existentibus in terra Tartarorum, 
+<lb/>in solemni curia, que iam ex pluribus annis indicta erat, 
+<lb/>fuimus, ubi elegerunt Cuyuc in imperatorem in presentia nostra, 
+<lb/>qui in lingua eorum dicitur Can. Qui Cuyuccan predictus erexit 
+<lb/>cum omnibus principibus vexillum contra Ecclesiam Dei et romanum 
+<lb/>Imperium, et contra omnia regna Christianorum et populos	
+<lb/>Occidentis, nisi forsan facerent ea que mandat domino pape et potentioribus 
+<lb/>ac omnibus Christianorum populis Occidentis.
+<lb/>3. Quod nulla ratione faciendum est, nobis videtur: tum propter
+<lb/>nimiam servitutem etiam intollerabilem que est hactenus inaudita, 
+<lb/>quam vidimus oculis nostris, in quam redigunt omnes gentes
+<lb/>sibi subiectas; tum propterea quia in eis nulla est fides, nec aliqua 
+<lb/>gens potest confidere in verbis eorum, quia quicquid promittunt 
+<lb/>non observant, quando vident tempora sibi favere; et subdoli 
+<lb/>sunt in omnibus factis et promissis eorum; intendunt etiam delere
+<lb/>omnes principes, omnes nobiles, omnes milites et honestos viros
+<lb/>de terra, ut superius dictum est, et hoc faciunt sub dolo et artificiose 
+<lb/>in subditos suos; tum quia indignum est ut christiani subdantur 
+<lb/>eisdem, propter abominationes eorum, et quia in nichilum 
+<lb/>redigitur cultus Dei, et anime pereunt, et corpora ultra quam
+<lb/>credi possit multimode affliguntur: in principio quidem sunt blandi,
+<pb n="295"/>
+<lb/>sed postea ut scorpio cruciant et affligunt; tum quia pauciores 
+<lb/>sunt numero, et corpore debiliores quam populi christiani.
+<lb/>4. In predicta autem curia sunt bellatores et principes exercitus 
+<lb/>assignati. De decem hominibus mittunt tres cum famulis eorum,
+<lb/>de omni terra potestatis eorum. Unus exercitus debet intrare per
+<lb/>Hungariam, secundus per <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName>, ut nobis dicebatur. Venient 
+<lb/>autem pugnaturi continue decem et octo annis: tempus est eis 
+<lb/>assignatum procedendi. In martio preterito exercitum invenimus 
+<lb/>indictum per omnes Tartaros per quos transivimus ad terram
+<lb/><placeName key="Ruscia">Ruscie</placeName>. Venient autem in tribus vel in quatuor annis usque in <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comaniam</placeName>. 
+<lb/>De <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comania</placeName> autem insultum facient in terras superius 
+<lb/>annotatas: ignoramus tamen utrum incontinenti post tertiam 
+<lb/>hyemem veniant, vel ad tempus adhuc exspectent, ut melius venire 
+<lb/>possint ex improviso.
+<lb/>5. Hec omnia firma sunt et vera, nisi Dominus aliquod impedimentum
+<lb/>pro sua gratia faciat eis, sicut fecit quando venerunt in 
+<lb/>Hungariam et <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName>. Debebant enim procedere pugnando 
+<lb/>triginta annis, sed interfectus fuit tunc imperator eorum veneno, 
+<lb/>et propter hoc quieverunt a preliis usque nunc. Sed modo,
+<lb/>quia positus est imperator de novo, iterum ad pugnam se incipiunt 
+<lb/>preparare. Sciendum quod imperator proprio ore dixit quod 
+<lb/>vellet mittere exercitum in Livoniam et Prusciam. Et quoniam
+<pb n="296"/>
+<lb/>intendit omnem terram delere vel in servitutem redigere, - que 
+<lb/>servitus est quasi intollerabilis nostre genti, ut superius dictum est -, 
+<lb/>occurrendum igitur est eis bello.
+<lb/>6. Et si una provincia non vult alteri opem ferre, terra illa de
+<lb/>lebitur contra quam pugnant, et cum illis hominibus quos capiunt 
+<lb/>pugnabunt contra aliam terram, et in acie erunt primi. Si male 
+<lb/>pugnant occidentur ab eis; si autem bene, ipsos cum promissis et 
+<lb/>adulationibus tenent, et etiam, ut ab eis non fugiant, promittunt
+<lb/>eos facere dominos magnos. Sed post hec, quando securi possunt 
+<lb/>esse de ipsis ut non recedant, faciunt eos infelicissimos servos; ac 
+<lb/>de mulieribus, quas volunt pro servitiis et concubinis tenere, faciunt 
+<lb/>illud idem. Et ita cum hominibus devicte provincie destruunt 
+<lb/>aliam terram. Nec est aliqua provincia que per se possit eis	
+<lb/>resistere, sicut nobis videtur, nisi Deus velit pugnare pro ipsis, 
+<lb/>quia de omni terra potestatis eorum, ut superius dictum est, homines 
+<lb/>congregantur ad bellum. Unde si christiani se ipsos et suam 
+<lb/>terram et christianitatem volunt servare, oportet quod in unum 
+<lb/>conveniant reges, principes et barones et terrarum rectores, et mittant 
+<lb/>de communi consilio homines contra eos ad pugnam, antequam 
+<lb/>ipsi incipiant per terram diffundi; quoniam, postquam incipiunt 
+<lb/>spergi per terram, nullus congrue auxilium alteri potest prebere, 
+<lb/>quoniam ipsi catervatim undique homines querunt ac occidunt. Et 
+<lb/>si se claudunt in castris, ponunt tria vel quatuor milia hominum
+<lb/>aut plures circa castrum vel civitatem qui obsideant eam; et ipsi 
+<lb/>nichilominus diffunduntur per terram homines occidentes.
+<lb/>7. Quicumque autem volunt pugnare cum eis, hec arma debent
+<lb/>habere: arcus bonos et fortes balistas quas multum timent
+<pb n="296"/>
+<lb/>intendit omnem terram delere vel in servitutem redigere, - que 
+<lb/>servitus est quasi intollerabilis nostre genti, ut superius dictum est -, 
+<lb/>occurrendum igitur est eis bello.
+<lb/>6. Et si una provincia non vult alteri opem ferre, terra illa de
+<lb/>lebitur contra quam pugnant, et cum illis hominibus quos capiunt 
+<lb/>pugnabunt contra aliam terram, et in acie erunt primi. Si male 
+<lb/>pugnant occidentur ab eis; si autem bene, ipsos cum promissis et 
+<lb/>adulationibus tenent, et etiam, ut ab eis non fugiant, promittunt
+<lb/>eos facere dominos magnos. Sed post hec, quando securi possunt 
+<lb/>esse de ipsis ut non recedant, faciunt eos infelicissimos servos; ac 
+<lb/>de mulieribus, quas volunt pro servitiis et concubinis tenere, faciunt 
+<lb/>illud idem. Et ita cum hominibus devicte provincie destruunt 
+<lb/>aliam terram. Nec est aliqua provincia que per se possit eis	
+<lb/>resistere, sicut nobis videtur, nisi Deus velit pugnare pro ipsis, 
+<lb/>quia de omni terra potestatis eorum, ut superius dictum est, homines 
+<lb/>congregantur ad bellum. Unde si christiani se ipsos et suam 
+<lb/>terram et christianitatem volunt servare, oportet quod in unum 
+<lb/>conveniant reges, principes et barones et terrarum rectores, et mittant 
+<lb/>de communi consilio homines contra eos ad pugnam, antequam 
+<lb/>ipsi incipiant per terram diffundi; quoniam, postquam incipiunt 
+<lb/>spergi per terram, nullus congrue auxilium alteri potest prebere, 
+<lb/>quoniam ipsi catervatim undique homines querunt ac occidunt. Et 
+<lb/>si se claudunt in castris, ponunt tria vel quatuor milia hominum
+<lb/>aut plures circa castrum vel civitatem qui obsideant eam; et ipsi 
+<lb/>nichilominus diffunduntur per terram homines occidentes.
+<lb/>7. Quicumque autem volunt pugnare cum eis, hec arma debent
+<lb/>habere: arcus bonos et fortes balistas quas multum timent
+<pb n="297"/>
+<lb/>et sagittas sufficientes et bonum dolabrum de bono ferro vel securim 
+<lb/>cum longo manubrio; ferramenta sagittarum de arcu vel de balista 
+<lb/>debent, ut Tartari, quando sunt calida temperari in aqua cum 
+<lb/>sale mixta, ut fortia sint ad penetrandum arma eorum; gladios 
+<lb/>etiam lances cum unco, qui valent ad detrahendum eos de sella,
+<lb/>quia de ipsa facillime cadunt; ac cutellos, loricas duplicatas, quia
+<lb/>illas de facili eorum sagitte non penetrant; et galeam et arma et 
+<lb/>alia ad protegendum corpus et equum ab armis et sagittis eorum. 
+<lb/>Et si aliqui non sint ita bene armati, ut diximus, debent ire post 
+<lb/>alios ut faciunt Tartari, et trahere contra eos arcubus vel balistis.
+<lb/>Nec deberent parcere pecunie quando comparant arma, ut possint
+<lb/>animas et corpora et libertatem et res alias observare.
+<lb/>8. Acies deberent ordinare ut ipsi, per millenarios ac centenarios, 
+<lb/>decanos et duces exercitus. Qui duces nequaquam prelium debent 
+<lb/>intrare, sicut non intrant duces eorum, sed debent de exercitu videre
+<lb/>et ordinare. Legem etiam ponere debent ut simul incedant ad bellum 
+<lb/>sive alias, sunt ordinati. Et quicumque reliquerit alium 
+<lb/>sive ad bellum procedentem sive pugnantem, vel quicumque fugerit, 
+<lb/>nisi communiter cedant, graviter debet puniri; quia tunc pars 
+<lb/>bellantium sequitur fugientes et sagittis eos occidunt, et pars cum
+<lb/>iis qui remanent pugnat, et sic confunduntur ac occiduntur remanentes 
+<lb/>ac fugientes. Et similiter quicumque fuerit conversus
+<pb n="298"/>
+<lb/>ad predam collectam, antequam omnino sit exercitus contrariorum 
+<lb/>devictus, maxima pena debet multari; talis enim apud Tartaros 
+<lb/>sine ulla miseratione occiditur. Locus ad prelium est eligendus,
+<lb/>si fieri potest, ut campus sit planus, et ut possint undique videre.
+<lb/>Et debent habere, si possunt, silvam magnam a tergo vel a latere, 
+<lb/>ita tamen quod non possunt intrare inter ipsos et silvam. 
+<lb/>Nec debent omnes convenire in unum, sed facere acies multas et 
+<lb/>divisas ab invicem, non tamen nimis distantes. Et contra illos qui
+<lb/>primo veniunt, debent unam aciem mittere que eis occurrat; et si
+<lb/>Tartari simulant fugam, non multum vadant post eos, nisi forte 
+<lb/>quantum possunt videre, ne forte ipsos ad paratas insidias trahant, 
+<lb/>sicut ferre solent. Et alia sit parata ad iuvandum ipsam aciem si 
+<lb/>fuerit oportunum.
+<lb/>9. Insuper habeant speculatores ex omni parte, ut videant
+<lb/>quando veniunt alie acies Tartarorum retro a dextris et a sinistris; 
+<lb/>et semper debent mittere aciem contra aciem que eis occurrat. Ipsi 
+<lb/>enim semper nituntur concludere adversarios suos in medio; unde 
+<lb/>magnam cautelam debent habere, ne hoc facere possint, quia sic
+<lb/>exercitus facillime debellatur. Acies autem debent hoc cavere, ne
+<lb/>diu currant post eos propter insidias quas solent parare; plus enim 
+<lb/>fraudulentia quam fortitudine pugnant.
+<lb/>10. Duces exercitus semper esse debent parati ad mittendum 
+<lb/>adiutorium si necessarium est, illis qui sunt in pugna; et propter
+<lb/>hoc etiam debent vitare nimium cursum post eos, ne forte fatigentur
+<pb n="299"/>
+<lb/>equi eorum; quoniam nostri multitudinem equorum non habem. 
+<lb/>Sed Tartari illum equum quem equitant uno die, illum non 
+<lb/>ascendunt in tribus vel in quatuor diebus post hoc; unde non curant 
+<lb/>si fatigentur equi, propter multitudinem equorum quam habent. 
+<lb/>Et si Tartari cedunt, non tamen nostri deberent recedere vel ab
+<lb/>invicem separari, quia simulando faciunt hoc, ut exercitus dividatur, 
+<lb/>ut post hoc libere ingrediantur et destruant omnem terram. Debent 
+<lb/>etiam cavere, ne faciant nimias expensas ut solent, ne propter 
+<lb/>penuriam redire cogantur et dent Tartaris viam ut ipsos et alios occidant 
+<lb/>et destruant totam terram, et propter eorum superfluitatem 
+<lb/>nomen Domini blasphemetur. Sed hoc debent facere diligenter 
+<lb/>ut, si contingat aliquos pugnatores redire, alii loco eorum 
+<lb/>succedant.
+<lb/>11. Duces etiam nostri debent die noctuque facere exercitum
+<lb/>custodire, ne repente et subito irruant super eos, quia Tartari, ut
+<lb/>demones, multas excogitant artes nocendi; immo tam de nocte 
+<lb/>quam de die semper debent esse parati, neque exspoliati debent iacere, 
+<lb/>nec delitiose ad mensam sedere, ut imparati non valeant inveniri, 
+<lb/>quia Tartari vigilant semper ut videant quomodo possint
+<lb/>nocere. Homines vero terre qui Tartaros expectant vel super se timent 
+<lb/>venire, occultas foveas debent habere, in quibus tam segetes 
+<lb/>quam alia reponere debent, propter duo: ut videlicet Tartari non
+<pb n="300"/>
+<lb/>possint illa habere et ut, si eis Dominus propitius fuerit, valeant 
+<lb/>ea postea invenire. Eis fugientibus de terra, debent fenum et stramina 
+<lb/>comburere vel fortiter occultare, ut equi Tartarorum minus	
+<lb/>inveniant ad comedendum.
+<lb/>12. Civitates autem et castra si volunt munire videant prius 
+<lb/>qualia sint in situ: situs enim talis debet esse castrorum, quod machinis 
+<lb/>et sagittis expugnari non possint, et aquam habeant sufficientem 
+<lb/>et ligna et, si fieri potest, quod introitus et exitus eorum
+<lb/>tolli non possit, et quod habeant homines sufficientes qui possint 
+<lb/>vicissim pugnare. Et debent vigilare diligenter ne aliqua astutia 
+<lb/>possint Tartari castrum furari. Expensas ad multos annos debent 
+<lb/>habere sufficientes; custodiant tamen diligenter expensas et illas
+<lb/>in mensura manducent, qui nesciunt quanto tempore ipsos in castris 
+<lb/>oporteat esse inclusos; quia quando ipsi incipiunt, multis annis 
+<lb/>obsident unum castrum, sicut fit hodierna die in terra Alanorum 
+<lb/>de quodam monte quem, ut credimus, iam obsederunt per 
+<lb/>duodecim annos; qui viriliter restiterunt et multos Tartaros et nobiles 
+<lb/>occiderunt.
+<lb/>13. Alia autem castra et civitates, que talem situm non habent, 
+<lb/>debent fortiter vallari foveis profundis muratis et muris bene paratis; 
+<lb/>et arcus et sagittas sufficientes et lapides ac fundas debent habere. 
+<lb/>Et debent diligenter cavere quod non permittant Tartaros 
+<lb/>ponere machinas suas, sed suis machinis debent eos repellere. Et si
+<lb/>forte aliquo ingenio vel aliqua arte Tartari erigant machinas suas
+<pb n="301"/>
+<lb/>debent eas destruere machinis suis si possint; balistis etiam et fundis 
+<lb/>et machinis debent resistere ut civitati non appropinquent.
+<lb/>Alias etiam debent esse parati, ut superius dictum est. De castris
+<lb/>etiam et civitatibus, que sunt in fluminibus posite, debent diligenter 
+<lb/>videre ne possint submergi. Sed ad hoc sciendum est quod 
+<lb/>Tartari plus diligunt quod homines se in civitatibus et castris claudant, 
+<lb/>quam quod pugnent cum eis in campo. Dicunt enim illos 
+<lb/>suos esse porcellos in ara conclusos, unde ponunt custodes, ut
+<lb/>superius dictum est.
+<lb/>14. Si autem aliqui Tartari de equis suis in bello proiciantur, 
+<lb/>statim sunt capiendi, quia cum sunt in terra, fortier sagittant et 
+<lb/>equos ac homines vulnerant et occidunt. Et si servarentur, tales 
+<lb/>possunt esse quod haberetur per eos quasi perpetuo pax, aut pecunia 
+<lb/>magna daretur pro eis, quoniam se ad invicem diligunt satis.
+<lb/>Tunc quando capiuntur, si debent servari, ne fugiant, diligens custodia 
+<lb/>est habenda. Sed quomodo Tartari cognoscantur, superius 
+<lb/>dictum est, ubi de forma eorum est expressum. Sunt et alie multe 
+<lb/>gentes cum eis, que per formam superius annotatam possunt ab
+<lb/>ipsis cognosci. Est autem hoc sciendum quod multi in exercitu
+<lb/>sunt cum eis qui, si viderent tempus et haberent fiduciam quod 
+<lb/>nostri non occiderent eos, ex omni parte exercitus, sicut ipsimet 
+<lb/>nobis dixerunt, pugnarent cum ipsis, et peiora mala facerent eis 
+<lb/>quam alii qui sunt eorum adversarii manifesti.
+<pb n="302"/>
+<lb/>15. Hec autem, que superius scripta sunt, ut illi qui viderunt
+<lb/>et audierunt, tantum diximus referendo, non ut instruamus 
+<lb/>discretos qui, per exercitium pugne, bellorum noverunt astutias; 
+<lb/>credimus enim quod nulla meliora et utiliora cogitabunt et 
+<lb/>facient illi qui ad hoc prudentes sunt et instructi; poterunt attamen,
+<lb/>per illa que superius dicta sunt, habere de eis occasionem et materiam 
+<lb/>cogitandi; scriptum est enim: «Audiens sapiens sapientior 
+<lb/>erit et intelligens gubernacula possidebit».
+<lb/>De provinciis et situ earum per quas transivimus,
+<lb/>et de curia imperatoris Tartarorum et principum eius,
+<lb/>et de testibus qui nos invenerunt ibidem. Cap. IX.
+<lb/>1. Dicto quomodo bello occuratur eisdem, ultimo dicemus de 
+<lb/>via quam fecimus, et de situ terrarum per quas transivimus, et ordinatione 
+<lb/>curie imperatoris et principum eius, et testibus qui in 
+<lb/>terra Tartarorum nos invenerunt.
+<lb/>2. Cum iam proposuissemus, ut dictum est prius alias, ad Tartaros
+<lb/>proficisci, ad regem pervenimus Boemorum. Requisito consilio 
+<lb/>eius, cum esset nobis familiaris dominus ab antiquo, que via 
+<lb/>esset nobis melior ad eundum, respondit quod esset melius, prout 
+<lb/>ei videbatur, ire per <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName> et Rusciam. Habebat enim consanguineos 
+<lb/>in <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName>, quorum adiutorio Rusciam intrare possemus; 
+<lb/>et datis litteris suis et bono conductu, iter arripuimus ut per <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName> 
+<lb/>transiremus; fecit etiam nobis expensas dari per terras et
+<pb n="303"/>
+<lb/>civitates eius, quousque ad ducem Slesie Boleslaum veniremus, nepotem 
+<lb/>ipsius, qui nobis etiam erat familiaris et notus. Ipse etiam dedit 
+<lb/>nobis litteras suas et conductum securum et expensas per villas 
+<lb/>et civitates, usquequo veniremus ad Lanciscie ducem Conradum.
+<lb/>Quo tempore, nobis gratia Dei favente, venerat ibi dominus Vasilico 
+<lb/>dux <placeName key="Ruscia">Ruscie</placeName>, a quo intelleximus de facto plenius Tartarorum. 
+<lb/>Miserat enim ibi nuntios suos, qui ad ipsum et fratrem suum Danielem 
+<lb/>redierant, portantes securitatem de transeundo ad Bati domino 
+<lb/>Danieli; qui dixit nobis quod si nos vellemus ire ad ipsos, oporteret 
+<lb/>nos habere munera magna ad dandum eis, quia illa cum importunitate 
+<lb/>maxima requirebant; et si non debantur, sicut etiam 
+<lb/>verum est, non poterat nuntius cum eis congrue facta sua facere, 
+<lb/>immo etiam quasi pro nichilo reputatur.
+<lb/>3. Nos autem nolentes quod negotium domini pape et Ecclesie
+<lb/>propter hoc impediretur, de hoc quod datum nobis fuerat causa
+<lb/>elemosine ne deficeremus ad subsidium vie nostre, emi fecimus 
+<lb/>quasdam castorum pelles et quorumdam etiam aliorum animalium. 
+<lb/>Dux Conradus et ducissa Cracovie et quidam milites et episcopus 
+<lb/>Cracovie, hoc scientes, plures etiam huiusmodi nobis pelles
+<lb/>donarunt. Dux etiam Conradus et filius eius et dux Cracovie et episcopus
+<pb n="304"/>
+<lb/>et barones Cracovie rogaverunt multum attente ducem Vasiliconem 
+<lb/>predictum, ut nos ad transeundum ad Tartaros iuvaret in 
+<lb/>quantum posset; qui respondit quod faceret hoc libenter. Unde nos 
+<lb/>secum duxit in terram suam; et cum detinuisset nos aliquot dies
+<lb/>in expensis suis, ut aliquantulum quiesceremus, et fecisset nobis
+<lb/>venire episcopos suos de nostro rogatu, legimus eis litteras domini 
+<lb/>pape, in quibus monebat eos quod deberent redire ad Ecclesie 
+<lb/>unitatem sancte matris. Nos etiam monuimus eos et etiam induximus, 
+<lb/>in quantum potuimus, tam ducem quam episcopos et alios
+<lb/>omnes qui convenerant ad illud idem. Sed quia eodem tempore
+<lb/>quo dux predictus in <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName> venit, frater eius dux Daniel iverat 
+<lb/>ad Bati et presens non erat, finaliter respondere non potuerunt, 
+<lb/>sed ad plenariam responsionem oportebat suum reditum expectare.
+<lb/>4. Post hec dux predictus usque in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> nobiscum unum 
+<lb/>servientem transmisit; nichilominus tamen ibamus semper sub periculo 
+<lb/>capitis propter Luthuanos, qui sepe insultum faciebant occulte 
+<lb/>quantum poterant super terram <placeName key="Ruscia">Ruscie</placeName>, et maxime in locis illis 
+<lb/>per que debebamus transire. Et quia maior pars hominum <placeName key="Ruscia">Ruscie</placeName> 
+<lb/>a Tartaris fuit occisa vel in captivitatem deducta, iccirco eis resistere 
+<lb/>potenter minime possent; a Rutenis tamen per servientem
+<lb/>predictum eramus securi. Unde, gratia Dei favente et ab inimicis 
+<lb/>crucis Christi nos eripiente, pervenimus in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName>, que metropolis 
+<lb/>est <placeName key="Ruscia">Ruscie</placeName>.
+<lb/>5. Et cum pervenissemus illuc, habuimus de via nostra consilium
+<lb/>cum millenario et aliis nobilibus qui erant ibidem. Qui responderunt
+<pb n="305"/>
+<lb/>nobis quod si duceremus in Tartariam equos illos quos
+<lb/>habebamus, cum nives essent magne et nescirent fodere erbam 
+<lb/>sub nive, sicut equi Tartarorum, nec inveniri posset aliquid aliud 
+<lb/>ad manducandum pro ipsis, cum Tartari nec stramina nec fenum
+<lb/>nec pabulum habeant, morerentur omnes. Unde nos, habito consilio, 
+<lb/>decrevimus cum duobus pueris qui custodirent illos dimittere 
+<lb/>ipsos ibidem. Quare oportuit nos millenario munera dare, ut 
+<lb/>ipsum haberemus propitium ad dandum nobis equos subducticios 
+<lb/>et conductum. Antequam tamen in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> veniremus, in
+<lb/>Daniloue usque ad mortem fuimus infirmati; nichilominus tamen
+<lb/>in vehiculo, in magno frigore, per nivem fecimus nos trahi, ne 
+<lb/>domini pape et christianitatis posset negotium impediri. Dispositis 
+<lb/>ergo omnibus istis negotiis in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kiovia</placeName>, secundo die post festum purificationis 
+<lb/>Domine nostre, cum equis millenarii et conductu de <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kiovia</placeName> 
+<lb/>iter arripuimus ad illas barbaras nationes.
+<lb/>6. Pervenimus ad quamdam villam, que erat immediate sub 
+<lb/>Tartaris, que Canove appellatur. Prefectus autem ville nobis dedit 
+<lb/>equos et conductum usque ad aliam villam, in qua erat quidam 
+<lb/>alanus prefectus, qui vocabatur Micheas, qui omni malitia et nequitia 
+<lb/>erat plenus. Ipse enim miserat contra nos in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> quosdam 
+<lb/>satellites suos, mendaciter qui nobis dicerent, ex parte Corenze, 
+<lb/>quod si essemus nuntii, veniremus ad ipsum. Et hoc ideo 
+<lb/>faciebat, quamvis non esset verum, ut posset a nobis munera extorquere. 
+<lb/>Cum autem perveniremus ad ipsum, reddidit se valde
+<lb/>difficilem nobis, et nisi munera promisissemus eidem, nullo modo
+<pb n="306"/>
+<lb/>conducere nos volebat. Nos autem videntes quod aliter ultra procedere 
+<lb/>non poteramus, promisimus ei aliqua donaria dare; et cum 
+<lb/>daremus ei ea que nobis videbantur, nolebat recipere, nisi plura 
+<lb/>daremus eidem. Unde oportuit nos addere secundum voluntatem
+<lb/>ipsius; et quedam nobis subdole et furtive et malitiose subtraxit.
+<lb/>7. Post hec recessimus secunda feria quinquagesime cum ipso, 
+<lb/>et duxit nos usque ad primam custodiam Tartarorum. Et cum in 
+<lb/>prima sexta feria post diem cinerum hospitaremur, dum sol accederet 
+<lb/>ad occasum, Tartari super nos armati horribiliter irruerunt, 
+<lb/>querentes quales homines essemus. Et cum respondissemus quod
+<lb/>nuntii essemus domini pape, quibusdam cibariis a nobis acceptis, 
+<lb/>continuo discesserunt.
+<lb/>8. Mane facto surgentes, cum aliquantulum processissemus, 
+<lb/>nobis maiores eorum qui erant in custodia occurrerunt, interrogantes 
+<lb/>quare veniremus ad eos quod negotium haberemus. Quibus
+<lb/>respondimus quod eramus nuntii domini pape, qui Christianorum 
+<lb/>dominus erat et pater, qui nos idcirco mittebat, tam ad regem 
+<lb/>quam ad principes et Tartaros omnes, quia placebat eidem quod 
+<lb/>Christiani omnes Tartarorum essent amici, et pacem haberent cum
+<lb/>eis; insuper quod desiderabat quod essent magni apud Deum in
+<lb/>celo. Iccirco monebat eos, tam per nos quam per litteras suas, dominus 
+<lb/>papa quod Christiani efficerentur et fidem reciperent Dei et 
+<lb/>domini nostri Iesu Christi, quia aliter salvari non possent; mandabat 
+<lb/>preterea quod mirabatur de tanta occisione hominum, et maxime 
+<lb/>Christianorum et potissime Hungarorum, Moravorum, Polonorum
+<pb n="307"/>
+<lb/>qui sunt ei subditi, que per Tartaros facta est, cum eos in nullo 
+<lb/>lesissent nec ledere attemptassent; et quia dominus Deus erat 
+<lb/>graviter offensus super hoc, monebat eos quod de cetero caverent a 
+<lb/>talibus et penitentiam agerent de commissis. Adhuc diximus
+<lb/>quod dominus papa rogabat quod rescriberent ei quid de cetero
+<lb/>facere vellent, et que sit eorum intentio, et quod de omnibus supradictis 
+<lb/>eidem per suas litteras responderent.
+<lb/>9. Auditis causis et intellectis superius annotatis, dixerunt 
+<lb/>quod super ista verba vellent consulere et subducticios equos usque 
+<lb/>ad Corenzam et ducatum prebere, et statim munera petiverunt, 
+<lb/>et quod fecimus: oportebat enim nos de necessitate facere 
+<lb/>virtutem. Datis ergo muneribus, et subducticiis equis acceptis, de 
+<lb/>quibus ipsi descenderant, cum eorum ducatu ad Corenzam arripuimus 
+<lb/>iter eundi. Ipsi tamen velociter equitantem, cum iis verbis
+<lb/>que dixeramus eisdem, ad ducem predictum unum nuntium premiserunt. 
+<lb/>Dux autem iste dominus est omnium qui sunt in custodia 
+<lb/>positi contra omnes homines occidentis, ne forte subito et improvise 
+<lb/>irruant super eos. Iste dux habet sub se, ut audivimus, sex milia 
+<lb/>hominum armatorum.
+<lb/>10. Cum autem pervenissemus ad ipsum, fecit longe a se nobis
+<lb/>ponere stationes, et misit ad nos servos suos procuratores, qui quererent 
+<lb/>a nobis cum quo eidem inclinare vellemus, hoc est dicere: 
+<lb/>«Que vultis ei munera dare?». Nos respondimus quod dominus
+<pb n="308"/>
+<lb/>papa aliqua munera non mittebat, quia non erat certus quod
+<lb/>ad eum pervenire possemus. Insuper iveramus per loca valde periculosa, 
+<lb/>propter Luthuanorum timorem, qui frequenter discurrunt 
+<lb/>per vias a <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName> usque fere ad Tartaros, per quas transitum feceramus. 
+<lb/>«Verumtamen de iis que habemus ad victum nostrum 
+<lb/>de gratia Dei et domini nostri pape, sicut poterimus, honorabimus 
+<lb/>eum». Et cum plura dedissemus eidem, non sufficerunt ei, nisi
+<lb/>per interpositas personas peteret plura, promittens quod faceret 
+<lb/>nos duci honeste, si admitteremus petitionem ipsius; quod oportebat 
+<lb/>nos facere, si volebamus vivere et mandatum domini pape 
+<lb/>congrue ducere ad effectum.
+<lb/>11. Acceptis muneribus, duxerunt nos ad ordam sive ad tentorium
+<lb/>ipsius et fuimus instructi ut inclinaremus ter cum genu sinistro 
+<lb/>ante ostium stationis, et caveremus attente ne pedem super 
+<lb/>limen ostii poneremus; quod fecimus diligenter, quia sententia 
+<lb/>mortis est super illos qui scienter limen stationis ducis alicuius conculcant. 
+<lb/>Postquam intravimus, oportuit nos, coram duce et aliis
+<lb/>maioribus omnibus qui specialiter erant ad hoc advocati, dicere 
+<lb/>flexis genibus ea que superius dixeramus. Obtulimus ei etiam litteras 
+<lb/>domini pape. Sed quia noster interpres, quem de <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kiovia</placeName> dato pretio 
+<lb/>duxeramus, non erat sufficiens ut per eum littere possent interpretari, 
+<lb/>nec ad hoc aliquis alius idoneus habebatur, iccirco non
+<pb n="309"/>
+<lb/>potuerunt interpretari. Quo facto, equi nobis dati fuerunt et tres 
+<lb/>tartari, duo qui erant decani et alius erat homo Bati, qui nos ducerent 
+<lb/>cum magna festinatione ad ducem predictum. Iste autem 
+<lb/>Bati est potentior, excepto imperatore cui obedire tenetur, pre 
+<lb/>cunctis principibus Tartarorum.
+<lb/>12. Secunda autem feria, que est post primam dominicam 
+<lb/>quadragesime, arripuimus iter ad ipsum; et equitando quantum 
+<lb/>equi poterant ire trotando, quia habebamus equos recentes fere 
+<lb/>omni die ter vel quater et equitabamus de mane usque ad noctem, 
+<lb/>immo de nocte sepissime, ante quartam feriam maioris ebdomade 
+<lb/>ad ipsum non potuimus pervenire.
+<lb/>13. Ivimus autem per totam terram Comanorum, que tota est 
+<lb/>plana, et habet quatuor flumina magna: primum Neper appellatur, 
+<lb/>iuxta quod ex parte <placeName key="Ruscia">Ruscie</placeName> ambulabat Corenza, et ex parte altera, 
+<lb/>per illa campestria, Mouci, qui maior est quam Corenza; secundum 
+<lb/><geogName key="Don">Don</geogName>, super quod ambulat quidam princeps, qui habet 
+<lb/>sororem Bati in uxorem, qui Carbon appellatur; tertium <geogName key="Volga" ref="https://pleiades.stoa.org/places/834296">Volga</geogName>, 
+<lb/>istud flumen est valde magnum, super quod vadit Bati; quartum 
+<lb/>Iaec appellatur, super quod millenarii duo, unus ex una parte fluminis 
+<lb/>et alter ex altera parte, vadunt. Omnes isti in hyeme ad mare
+<lb/>descendunt, et in estate super ripam eorumdem fluminum ascendunt 
+<lb/>ad montes. Mare autem istud est Mare Magnum, de quo 
+<lb/>exit Brachium Sancti Georgii quod <placeName key="Constantinopolis" ref="http://pleiades.stoa.org/places/520998">Constantinopolim</placeName> vadit. Super 
+<lb/>Neper autem fuimus per glaciem multis diebus. Ista flumina sunt
+<pb n="310"/>
+<lb/>magna, piscibus multum plena et maxime <geogName key="Volga" ref="https://pleiades.stoa.org/places/834296">Volga</geogName>. Que flumina intrant 
+<lb/>mare Grecie, quod dicitur Mare Magnum, super cuius maris 
+<lb/>litora satis periculose per glaciem in pluribus iocis ivimus multis 
+<lb/>diebus; congelatur enim circa litora bene ad tres leucas interius.
+<lb/>14. Sed antequam ad Bati veniremus, duo ex nostris Tartaris 
+<lb/>processerunt ad indicandum ei omnia verba que apud Corenzam dixeramus. 
+<lb/>Cum autem perveniremus ad Bati, in terre finibus Comanorum, 
+<lb/>fuimus bene positi per unam leucam longe a stationibus 
+<lb/>suis. Quando autem debebamus duci ad curiam eius, fuit nobis 
+<lb/>dictum quod debebamus inter duos ignes transire, quod nos
+<lb/>aliqua ratione facere nolebamus. Sed dixerunt nobis: «Secure ite,
+<lb/>quia pro nulla causa facimus vos inter istos duos ignes transire, nisi 
+<lb/>propter hoc quod si vos aliquod malum cogitatis domino nostro, 
+<lb/>vel si forte venenum portatis, ignis auferat omne malum». Quibus 
+<lb/>respondimus: «Propter hoc transibimus, ne de tali re nos reddamus
+<lb/>suspectos».
+<lb/>15. Et cum pervenissemus ad ordam, fuimus interrogati a procuratore
+<lb/>suo qui Eldegai vocatur, cum quo vellemus inclinare, id 
+<lb/>est que vellemus ei munera dare. Cui respondimus ut prius Corenze 
+<lb/>dixeramus, scilicet quod dominus <persName key="Papa">Papa</persName> non miserat munera, sed
+<lb/>nos de iis que habebamus, de gratia Dei et domini nostri Pape
+<lb/>pro expensis, ipsum, sicut poteramus, volebamus honorare. Datis 
+<lb/>muneribus et acceptis, interrogavit nos procurator ipsius, qui
+<pb n="311"/>
+<lb/>Eldegai appellatur, causam adventus nostri. Cui diximus easdem causas 
+<lb/>quas Corenze superius dixeramus.
+<lb/>16. Auditis causis, introduxit nos in stationem, facta prius
+<lb/>inclinatione et audita admonitione de limine, ut dictum est. Intrantes 
+<lb/>autem, flexis genibus diximus verba nostra; dictis verbis, litteras 
+<lb/>obtulimus, et rogavimus ut darentur nobis interpretes qui litteras 
+<lb/>valerent transferre; qui in die parasceve nobis dati fuerunt; et
+<lb/>diligenter transtulimus eas cum ipsis in littera rutenica, sarracenica 
+<lb/>et lingua Tartarorum. Que interpretatio fuit Bati presentata, 
+<lb/>quam legit et notavit attente. Tandem ad nostram reducti fuimus 
+<lb/>stationem, sed nulla cibaria nobis dederunt, nisi una vice aliquantulum 
+<lb/>milii in una scutella, quando venimus in prima nocte.
+<lb/>17. Iste autem Bati satis se magnifice tenet, habens ostiarios
+<lb/>et omnes officiales sicut et imperator eorum. Sedet etiam in eminentiori 
+<lb/>loco, quasi in trono, cum una de uxoribus suis; alii autem, 
+<lb/>tam fratres quam filii sui et etiam alii maiores, sedent inferius 
+<lb/>in medio super bancum; alii vero homines post eos in terra,
+<lb/>sed viri a dextris et femine a sinistris. Tentoria autem de panno lineo 
+<lb/>habet magna et satis pulchra, que regis Hungarie fuerunt. Nec 
+<lb/>aliquis extraneus ad tentorium audet accedere, preter familiam, 
+<lb/>nisi vocatus, quantumcumque sit magnus et potens, nisi forsan 
+<lb/>sciatur quod sit voluntas ipsius. Nos autem, dicta causa, sedimus
+<lb/>a sinistris, et sic faciunt omnes nuntii in eundo; sed in redeundo
+<pb n="312"/>
+<lb/>ab imperatore, ponebamur semper a dextris. In medio prope 
+<lb/>ostium stationis ponitur mensa, super quam ponitur potus in 
+<lb/>aureis et argenteis vasis. Nec unquam bibit Bati nec aliquis principes 
+<lb/>Tartarorum, maxime cum in publico sunt, nisi cantetur vel citarizetur 
+<lb/>eidem. Et cum equitat, semper portatur solinum vel tentoriolum 
+<lb/>super caput eius in hasta, et sic faciunt cuncti maiores principes 
+<lb/>Tartarorum, et etiam uxores eorum. Predictus etiam Bati hominibus 
+<lb/>suis est satis benignus, timetur tamen valde ab eis; sed crudelissimus 
+<lb/>est in pugna, sagax est multum et etiam astutissimus in 
+<lb/>bello, quia longo tempore iam pugnavit.
+<lb/>18. In die autem sabbati sancti vocati fuimus ad stationem, et 
+<lb/>exivit ad nos procurator Bati predictus dicens, ex parte eius, quod 
+<lb/>iremus ad imperatorem Cuyuc. In terram ipsorum retentis quibusdam 
+<lb/>ex nostris sub hac specie quod vellent eos remittere ad dominum 
+<lb/>papam. quibus litteras dedimus de omnibus factis, quas 
+<lb/>referrent eidem; sed cum rediissent usque ad Mouci, ibidem retenti 
+<lb/>fuerunt usque ad reditum nostrum.
+<lb/>19. Nos autem, in die Resurrectionis Domini, dicto officio et 
+<lb/>facta qualicumque comestione, cum duobus Tartaris qui nobis 
+<lb/>apud Corenzam erant assignati, recessimus cum multis lacrimis, 
+<lb/>nescientes utrum ad mortem vel ad vitam iremus. Eramus tamen 
+<lb/>ita infirmi quod poteramus vix equitare. In tota illa quadragesima 
+<lb/>fuit cibus noster milium cum aqua et sale tantum, et in aliis diebus 
+<lb/>ieiuniorum similiter, nec habebamus aliquid bibere preter nivem 
+<lb/>in caldario liquefactam.
+<pb n="313"/>
+<lb/>20. <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comania</placeName> vero habet ab aquilone, immediate post Rusciam 
+<lb/>Morduinos, Byleros, id est magnam Bulgariam, Bascartos, id est 
+<lb/>magnam Hungariam; post Bascartos, Parossitas et Samogedos; post 
+<lb/>Samogedos, illos qui dicuntur habere faciem caninam, in oceani litoribus 
+<lb/>in desertis. A meridie autem habet Alanos, Circassos, Gazaros, 
+<lb/>Greciam, <placeName key="Constantinopolis" ref="http://pleiades.stoa.org/places/520998">Constantinopolim</placeName>, et terram Hiberorum, Tatos, 
+<lb/>Brutachios qui dicuntur esse iudei, hi caput radunt, et terram 
+<lb/>Siccorum, et Georgianorum, et Armenorum, et terram Turcorum. 
+<lb/>Ab occidente habet Hungariam et Rusciam. Terra predicta maxima
+<lb/>est et longa.
+<lb/>21. Ivimus autem per eam fortissime equitando, quoniam 
+<lb/>habebamus omni die equos recentes, quinquies in die aut septies, 
+<lb/>non quando per deserta ibamus, ut superius dictum est, et tunc 
+<lb/>accipiebamus equos meliores et fortiores, qui possent continuum 
+<lb/>sustinere laborem, ab initio quadragesime usque ad octo dies
+<lb/>post Pascha. Istos autem Comanos Tartari occiderunt; quidam 
+<lb/>etiam a facie ipsorum fugerunt, et alii sunt in eorum servitutem 
+<lb/>redacti; plurimi tamen ex eis qui fugerunt, revertuntur ad ipsos.
+<lb/>22. Post hoc, terram intravimus Kangitarum, que magnam penuriam
+<lb/>in locis plurimis habet aquarum, in qua propter penuriam
+<lb/>aque homines pauci morantur. Unde homines Ierozlai ducis <placeName key="Ruscia">Ruscie</placeName>, 
+<lb/>qui in terram Tartarorum ibant ad ipsum, fuerunt propter sitim plures
+<pb n="314"/>
+<lb/>mortui in illo deserto. In qua terra et etiam in <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comania</placeName>, multa invenimus 
+<lb/>capita et ossa hominum mortuorum iacere tamquam sterquilinium 
+<lb/>super terram; per quam terram ivimus ab octo diebus
+<lb/>post Pascha usque fere ad Ascensionem Domini nostri. Isti homines 
+<lb/>erant pagani, et tam Comani quam Kangite non laborabant, sed tantum 
+<lb/>de animalibus vivebant, nec edificabant domos sed in tabernaculis 
+<lb/>habitabant. Istos etiam Tartari deleverunt et habitant in terra 
+<lb/>ipsorum, et illi qui remanserunt redacti sunt in servitutem eorum.
+<lb/>23. De terra Kangitarum intravimus terram Biserminorum. Isti 
+<lb/>homines linguam comanicam loquebantur et adhuc loquuntur, sed 
+<lb/>legem sarracenicam tenent. In hac terra invenimus urbes innumeras 
+<lb/>subversas et castra diruta et villas multas desertas. In hac terra est 
+<lb/>quidam fluvius magnus, cuius nomen ignoramus, super quem est
+<lb/>civitas quedam que vocatur Ianikint, et alia que vocatur Barchin, et alia 
+<lb/>que vocatur Ornas, et alie plures, quarum nomina ignoramus. Hec 
+<lb/>terra habebat dominum qui dicebatur Altisoldan, qui destructus 
+<lb/>est a Tartaris cum omni progenie sua, cuius nomen proprium
+<lb/>ignoramus. Terra autem habet montes maximos; a meridie autem
+<lb/>habet Hierusalem, Baldac et totam terram Sarracenorum; in finibus 
+<lb/>illis propinquis morantur duces Burin et Cadan, qui sunt fratres 
+<lb/>carnales; ab aquilone partem terre nigrorum Kytaorum et 
+<lb/>oceanum habet; in illa moratur Siban, qui est frater Bati. Per quam
+<lb/>ivimus a festo Ascensionis fere ad octo dies ante festum beati
+<lb/>Iohannis Baptiste.
+<pb n="315"/>
+<lb/>24. Deinde terram nigrorum Kytaorum fuimus ingressi, in qua 
+<lb/>tantum de novo unam civitatem edificaverunt, que Emil appellatur, 
+<lb/>ubi imperator domum edificavit, in qua vocati fuimus ad
+<lb/>bibendum. Et ille qui erat ex parte imperatoris ibidem, fecit plaudere 
+<lb/>coram nobis maiores civitatis et etiam duos filios eius.
+<lb/>25. Inde exeuntes invenimus quoddam mare, non multum magnum,
+<lb/>cuius nomen, quia non interrogavimus, ignoramus. In litore 
+<lb/>autem illius maris est quidam mons parvus in quo est quoddam
+<lb/>foramen, ut dicitur, unde in hyeme exeunt tam magne tempestates 
+<lb/>ventorum, quod homines vix et cum magno periculo possunt 
+<lb/>transire. In estate ibi semper auditur sonitus ventorum sed tenuiter 
+<lb/>de foramine exit, sicut nobis incole referebant. Per litora illius 
+<lb/>maris ivimus per plures dies. Quod mare plures insulas habet; et
+<lb/>illud dimisimus a sinistris. Terra autem hec abundat fluminibus
+<lb/>multis, non magnis tamen; in ripis fluminum ex utraque parte 
+<lb/>sunt silve, sed in latitudine parum habent. In terra illa habitat Ordu 
+<lb/>qui est senior frater Bati, immo est omnium ducum Tartarorum 
+<lb/>antiquior; et est orda sive curia patris ipsius, in qua est una de
+<lb/>uxoribus eius que ipsam regit. Consuetudo enim est apud Tartaros	
+<lb/>quod principium et maiorum curie non delentur, sed semper ordinantur 
+<lb/>alique mulieres que ipsas regant, et eis partes denariorum dantur, 
+<lb/>sicut dominus earum dare solebat.
+<lb/>26. Post hec venimus ad primam ordam imperatoris, in qua
+<pb n="316"/>
+<lb/>erat una de uxoribus suis; et quia nondum videramus imperatorem, 
+<lb/>noluerunt nos vocare nec intromittere ad ordam ipsius, sed 
+<lb/>fecerunt nobis in tentorio nostro secundum Tartaros valde bene 
+<lb/>serviri et, ut quiesceremus, nos per unam diem retinuerunt 
+<lb/>ibidem.
+<lb/>27. Inde procedentes in vigilia beati Petri, terram intravimus
+<lb/>Naimanorum, qui sunt pagani. In die autem apostolorum Petri et 
+<lb/>Pauli cecidit ibidem magna nix, et habuimus maximum frigus. 
+<lb/>Hec autem terra supra modum est montuosa et frigida et de planitie 
+<lb/>ibi modicum invenitur (et iste due nationes non laborant, 
+<lb/>sed sicut Tartari in tentoriis habitabant, quas etiam ipsi deleverunt)
+<lb/>per quam ivimus multis diebus.
+<lb/>28. Deinde terram intravimus Mongalorum, quos nos Tartaros 
+<lb/>appellamus. Per quam terram, sicut credimus, ivimus per tres septimanas 
+<lb/>fortiter equitando, et in die beate Marie Magdalene venimus 
+<lb/>ad Cuyuc, qui nunc est imperator. Per omnem istam viam
+<lb/>valde venimus festinanter, quia preceptum erat Tartaris nostris ut 
+<lb/>cito nos ducerent ad curiam solemnem, iam ex pluribus annis 
+<lb/>indictam propter electionem imperatoris, ut mature venire possemus. 
+<lb/>Iccirco surgebamus de mane et ibamus usque ad noctem sine 
+<lb/>comestione, et sepius veniebamus tam tarde quod non comedebamus 
+<lb/>in sero, sed illud quod debebamus manducare in vespere 
+<lb/>dabatur nobis in mane. Et quantumcumque poterant equi trotare 
+<lb/>ibamus: equis enim nullo modo parcebatur, quia in die sepius habebamus
+<pb n="317"/>
+<lb/>equos recentes; et illi qui lassi erant redibant, ut superius 
+<lb/>dictum est, et sic absque ulla intermissione equitabamus 
+<lb/>velociter.
+<lb/>29. Quando autem pervenimus, Cuyuc fecit nobis dari tentorium
+<lb/>et expensas, quales Tartari solent dare; nobis tamen melius 
+<lb/>quam aliis nuntiis faciebant. Ad ipsum tamen vocati non fuimus,
+<lb/>pro eo quod adhuc electus non erat, nec se de imperio intromittebat. 
+<lb/>Interpretationem tamen litterarum domini pape et verba que 
+<lb/>dixeramus a Bati predicto erant ei mandata. Et cum stetissemus 
+<lb/>per quinque vel sex dies ibidem, ad matrem suam nos transmisit, 
+<lb/>ubi curia solemnis adunabatur. Et cum pervenissemus ibidem,
+<lb/>iam extensum erat tentorium magnum, quod erat de alba purpura
+<lb/>preparatum, et nostro iudicio erat tam grande quod plus quam 
+<lb/>duo milia hominum poterant esse sub illo. Et in circuitu erat factum 
+<lb/>ligneum tabulatum, quod variis imaginibus erat depictum. 
+<lb/>In secundo vel tertio die ivimus illuc cum Tartaris, qui nobis
+<lb/>erant ad custodiam assignati, et ibi convenerunt omnes duces, et
+<lb/>unusquisque cum hominibus suis equitabat per colles et planitiem 
+<lb/>in circuitu.
+<lb/>30. In prima die omnes albis purpuris fuerunt vestiti in secunda
+<lb/>rubeis, et tunc venit Cuyuc ad tentorium illud, tertia die
+<lb/>omnes in blaveis purpuris, quarta die in optimis baldachinis. In tabulato 
+<lb/>illo iuxta tentorium erant due porte maiores, per unam solus
+<pb n="318"/>
+<lb/>imperator debebat intrare, et ad illam nulla erat custodia 
+<lb/>quamvis esset aperta, quia per illam nullus audebat ingredi vel 
+<lb/>exire; per aliam omnes qui admittebantur intrabant, et ad illam
+<lb/>erant custodes cum gladiis, arcubus et sagittis; et si aliquis appropinquabat 
+<lb/>tentorio ultra terminos qui positi erant, si capiebatur 
+<lb/>verberabatur, si fugiebat sagittabatur, tamen sine ferro erat sagitta. 
+<lb/>Equi erant longe quantum bis, ut credimus, poterat sagittare. Duces 
+<lb/>undique cum pluribus ex hominibus suis ibant armati, sed
+<lb/>nulli, nisi essent decem, usque ad equos poterant ire, immo graviter 
+<lb/>percutiebantur qui ambulare aliter attemptabant. Et multi 
+<lb/>erant qui in frenis pectoralibus, sellis et postellis, iudicio nostro, 
+<lb/>auri circa viginti marchas habebant. Et sic duces infra tentorium 
+<lb/>colloquebantur et, ut credimus, de electione tractabant. Alius
+<lb/>autem universus populus longe extra tabulatum erat predictum.
+<lb/>Et ita fere usque ad meridiem morabantur, et tunc incipiebant lac 
+<lb/>bibere iumentinum, et usque ad vesperas tantum bibebant, quod 
+<lb/>mirabile visu erat. Nos autem vocaverunt interius et dederunt 
+<lb/>nobis cervisiam, quia lac iumentinum minime habebamus; et hoc
+<lb/>fecerunt nobis pro magno honore. Sed tantum compellebant
+<lb/>nos ad bibendum, quod sustinere propter dissuetudinem nullo 
+<lb/>modo poteramus; unde ostendimus eis quod nos gravabat, et ideo 
+<lb/>nos compellere dimiserunt.
+<pb n="319"/>
+<lb/>31. Foris autem erat dux Ierozlaus de Susdal <placeName key="Ruscia">Ruscie</placeName> et duces
+<lb/>plures Kytaorum et Solangorum, duo quoque filii regis Georgianie, 
+<lb/>nuntius calif de Baldac qui erat soldanus, et plus quam decem 
+<lb/>alii soldani Sarracenorum, ut credimus et ut a procuratoribus 
+<lb/>nobis dicebatur. Erant enim ibi plus quam quatuor milia nuntiorum 
+<lb/>inter illos qui portabant tributa et illos qui munera deferebant, 
+<lb/>et soldanos et duces alios qui veniebant ad tradendum se ipsos, 
+<lb/>et illos pro quibus ipsi miserant, et illos qui erant terrarum 
+<lb/>prefecti. Hi omnes simul ponebantur extra tabulatum, et eis simul 
+<lb/>bibere prebebatur; nobis autem et duci Ierozlao semper dabant 
+<lb/>locum superiorem, quando exterius eramus cum ipsis. Putamus, 
+<lb/>si bene meminimus, quod ibi fuimus bene per quatuor
+<lb/>septimanas; et credimus quod ibi fuit electio celebrata, non tamen 
+<lb/>publicata fuit ibidem: et propter hoc maxime credebatur quod ibi 
+<lb/>semper, quando Cuyuc de tentorio exibat, cantabatur eidem et 
+<lb/>cum quibusdam virgis pulchris, que in summitate lanam habebant
+<lb/>coccineam, inclinabant ei, quod nulli alii duci fiebat, quousque exterius 
+<lb/>morabatur. Hec autem sira orda nominatur ab eis.
+<lb/>32. Inde exeuntes, equitavimus ad alium locum, omnes 
+<lb/>unanimiter, per tres aut quatuor leucas, ubi erat in quadam pulchra 
+<lb/>planitie, iuxta quemdam rivum inter montes, aliud tentorium
+<lb/>preparatum, quod apud ipsos orda aurea appellatur, ubi Cuyuc
+<lb/>debebat poni in sede in die Assumptionis Domine nostre; sed
+<pb n="320"/>
+<lb/>propter grandinem que cecidit, de qua dictum est supra, fuit 
+<lb/>dilatum. Tentorium autem illud erat positum in columnis, que 
+<lb/>aureis laminis erant tecte, et clavis aureis cum aliis lignis erant affixe 
+<lb/>et de baldachino erat tectum superius et interius parietum, sed
+<lb/>exterius alii erant panni. Ibi fuimus usque ad festum beati Bartholomei, 
+<lb/>in quo convenit maxima multitudo. Et contra meridiem 
+<lb/>versis vultibus stabant, et quidam erant qui ad iactum lapidis 
+<lb/>longe erant ab aliis, et semper procedebant longius et longius facientes 
+<lb/>orationes, flectendo genua contra meridiem. Nos autem, utrum
+<lb/>facerent incantationes vel flecterent genua deo vel alteri nescientes, 
+<lb/>genuflexones facere nolebamus. Et cum diu ita fecissent, reversi 
+<lb/>sunt ad tentorium, et posuerunt Cuyuc in sede imperiali, et flexerunt 
+<lb/>duces genua coram eo et, post hoc, universus populus, exceptis
+<lb/>nobis qui non eramus eis subiecti. Deinde bibere inceperunt et,
+<lb/>ut moris eorum est, usque ad vesperas continue potaverunt. Post 
+<lb/>hec venerunt carnes cocte in curribus sine sale, et inter quatuor 
+<lb/>vel quinque unum membrum dederunt. Interius autem dederunt 
+<lb/>carnes et brodium cum sale pro salsa, et sic cunctis diebus quando
+<lb/>convivia faciebant.
+<lb/>33 In loco illo fuimus coram imperatore vocati, et cum Cingai
+<lb/>protonotarius scripsisset nomina nostra et illorum a quibus eramus 
+<lb/>missi et ducis Solangorum et aliorum, alta voce clamavit, recitans 
+<lb/>illa coram imperatore et ducibus universis. Quo facto, flexit 
+<lb/>unusquisque nostrum genu sinistrum quater et monuerunt nos ne
+<lb/>limen inferius tangeremus. Et cum nos pro cutellis diligentissime
+<pb n="321"/>
+<lb/>quesivissent et nullatenus invenirent, intravimus ostium a parte 
+<lb/>orientali, quoniam ab occidente nullus, nisi imperator solus, audet 
+<lb/>intrare, vel etiam dux si tentorium eius est; minores autem de talibus 
+<lb/>non multum curant. Et istud fuit primum quod in presentia	
+<lb/>eius suam intravimus stationem, postquam factus fuit imperator. 
+<lb/>Ibidem etiam omnes nuntios recepit, sed tentorium suum paucissimi 
+<lb/>intraverunt.
+<lb/>34. Ibi etiam tanta donaria a nuntiis fuerunt data, in serico, in 
+<lb/>samitis, purpuris et baldachinis et cingulis sericis cum auro preparatis, 
+<lb/>pellibus nobilibus et aliis donariis, quod mirabile erat videre. 
+<lb/>Ibi etiam quoddam soliolum sive tentoriolum, quod portatur super 
+<lb/>caput imperatoris, fuit presentatum eidem, quod totum erat preparatum 
+<lb/>cum gemmis. Ibi etiam quidam prefectus unius provincie
+<lb/>duxit ei camelos multos, tectos cum baldachinis, et selle erant posite 
+<lb/>super eos cum quibusdam instrumentis, in quibus homines interius 
+<lb/>sedere valebant (et sicut credimus fuerunt quadraginta vel 
+<lb/>quinquaginta), et equos multos et mulos phaleratos sive armatos, 
+<lb/>quosdam de corio, quosdam de ferro. Et nos etiam si vellemus dare 
+<lb/>donaria fuimus requisiti, sed iam consumpseramus omnia fere,
+<lb/>quod ei dare minime habebamus. Ibidem longe a stationibus super 
+<lb/>montem erant positi plus quam quingenti currus, qui omnes auro et 
+<lb/>argento et sericis vestibus erant pleni, qui cuncti inter imperatorem 
+<lb/>et duces divisi fuerunt. Et singuili duces partes suas diviserunt inter
+<lb/>homines suos, tamen sicut placuit eis.
+<pb n="322"/>
+<lb/>35. Inde recedentes, venimus ad alium locum, ubi erat positum 
+<lb/>unum tentorium mirabile, totum de purpura ruffa, quod dederunt 
+<lb/>Kytai; ibi etiam interius introducti fuimus. Et semper quando intrabamus, 
+<lb/>dabatur nobis bibere cervisia vel vinum; prebebantur 
+<lb/>etiam nobis carnes cocte, si volebamus habere. Solariulum unum 
+<lb/>de tabulis erat alte preparatum, ubi tronus imperatoris erat positus. 
+<lb/>Tronus autem erat de ebore, mirabiliter sculptus. Ibi etiam 
+<lb/>erat aurum et lapides pretiosi, si bene meminimus, et margarite. 
+<lb/>Et per gradus ascendebatur illud quod rotundum erat parte posteriori. 
+<lb/>Banci etiam erant positi in circuitu sedis, ubi domine sedebant 
+<lb/>in scamnis a parte sinistra, a dextris autem nemo sedebat superius, 
+<lb/>sed duces sedebant in bancis inferius, in medio, et alii sedebant 
+<lb/>post eos. Et omni die veniebat multitudo maxima dominarum.
+<lb/>36. Ista tria tentoria, de quibus superius diximus, erant valde 
+<lb/>magna. Alia autem tentoria habebant sue uxores de filtro albo, 
+<lb/>que satis erant magna et pulchra. Ibidem divisi fuerunt ab invicem 
+<lb/>imperator et mater eius: et mater imperatoris ivit in unam partem 
+<lb/>et imperator in aliam, ad iudicia facienda. Capta enim erat amita 
+<lb/>imperatoris istius que veneno interfecerat patrem eius, tempore 
+<lb/>eo quo exercitus eorum in <placeName key="Hungaria" ref="https://www.geonames.org/719819">Hungaria</placeName> fuit, unde propter hoc exercitus, 
+<lb/>qui erat in predictis partibus, retrocessit; de qua cum aliis 
+<lb/>pluribus fuit factum iudicium, et fuerunt occisi.
+<pb n="323"/>
+<lb/>37. Eodem tempore mortuus fuit Ierozlaus, dux magnus in 
+<lb/>quadam parte <placeName key="Ruscia">Ruscie</placeName> que Susdal nominatur. Hic modo fuit vocatus 
+<lb/>ad matrem imperatoris, que dedit ei manducare et bibere,
+<lb/>quasi pro honore de manu ipsius; et reversus est ad hospitium, incontinenti 
+<lb/>est infirmatus, et fuit mortuus post septem dies, et totum 
+<lb/>corpus eius miro modo factum est glaucum. Quare credebatur 
+<lb/>ab omnibus quod potionatus esset ibidem, ut suam terram libere et
+<lb/>plenarie possiderent. Et ad hoc est argumentum quod incontinenti, 
+<lb/>nescientibus hominibus suis qui erant ibi, imperator misit 
+<lb/>nuntium festinanter in Rusciam ad Alexandrum filium eius ut veniret 
+<lb/>ad ipsum, quia vellet ei terram patris donare; qui ire voluit, 
+<lb/>sed remansit. Et medio tempore dabat litteras ut ipse veniret et
+<lb/>terram patris sui haberet. Credebatur tamen ab omnibus quod eum	
+<lb/>occideret si veniret, vel etiam perpetuo captivaret.
+<lb/>38. Quo mortuo, duxerunt nos Tartari nostri ad imperatorem, 
+<lb/>si bene memores fuimus de tempore; et cum audivisset imperator 
+<lb/>per Tartaros nostros quod venissemus ad eum, iussit nos redire ad 
+<lb/>matrem, pro eo quod volebat secundo die erigere vexillum contra
+<lb/>omnem terram occidentis, sicut nobis ab illis qui sciebant firmiter 
+<lb/>dicebatur, ut superius dictum est; volebat enim quod nos nesciremus. 
+<lb/>Et cum reversi fuimus, stetimus paucis diebus, et iterum fuimus 
+<lb/>reversi ad ipsum, cum quo stetimus bene per mensem, in
+<lb/>tanta fame et siti, quod vix poteramus vivere, quia expense que dabantur
+<pb n="324"/>
+<lb/>pro quatuor vix uni sufficiebant; nec invenire poteramus 
+<lb/>aliquid ad emendum, quia forum erat nimis remotum. Et nisi Dominus 
+<lb/>preparasset nobis quemdam rutenum qui vocabatur Cosmas, 
+<lb/>qui erat aurifaber imperatoris satis dilectus, qui nos in aliquo sustentavit, 
+<lb/>ut credimus, mortui fuissemus, vel nisi Dominus in
+<lb/>aliquo alio nos iuvasset.
+<lb/>39. Hic autem ostendit nobis tronum imperatoris, quod ipse 
+<lb/>fecerat, antequam poneretur in sede, et sigillum eius quod fabricaverat 
+<lb/>ipse, et etiam nobis dixit superscriptionem eiusdem sigilli, et
+<lb/>etiam alia multa secreta que nobis erant necessaria ad sciendum. Invenimus 
+<lb/>etiam in curia imperatoris predicti qui cum ducibus aliis 
+<lb/>venerant: Rutenos plures, Hungaros, et scientes latinum et gallicum, 
+<lb/>et clericos rutenos et alios qui fuerant cum eis, aliqui 
+<lb/>triginta annis, in bellis et aliis factis et sciebant omnia facta eorum,
+<lb/>quia sciebant linguam et cum eis assidue morabantur, aliqui viginti,
+<lb/>aliqui decem, aliqui plus, aliqui minus, a quibus poteramus perscrutari 
+<lb/>omnia. Et ipsi nobis voluntarie et aliquando sine interrogatione, 
+<lb/>quia sciebant nostram voluntatem, omnia referebant.
+<lb/>40. Post hec misit imperator pro nobis dici per Cingai protonotarium
+<lb/>suum, quod nostra verba et negotia scriberemus et daremus
+<pb n="325"/>
+<lb/>eidem: quod et fecimus, et scripsimus ei omnia verba que 
+<lb/>apud Bati antea dixeramus, sicut superius dictum est. Et transactis 
+<lb/>pluribus diebus, fecit nos iterum vocari, et dixit nobis per Kadac 
+<lb/>procuratorem totius imperii, coram Bala et Cingai protonotariis et
+<lb/>allis scriptoribus multis, quod omnia verba diceremus; quod fecimus 
+<lb/>voluptarie et libenter. Interpres autem noster fuit, tam ista vice 
+<lb/>quam alia, Temer miles Ierozlai, presente clerico qui erat cum 
+<lb/>eo, et etiam alio clerico qui erat cum imperatore; et interrogavit 
+<lb/>nos tunc temporis si erant apud dominum papam, qui intelligerent
+<lb/>litteram Rutenorum vei Sarracenorum aut etiam Tartarorum; cui
+<lb/>respondimus quod nec rutenam nec tartaricam nec sarracenam 
+<lb/>litteram habebamus, verumtamen Sarraceni erant in terra, sed a 
+<lb/>domino papa erant remoti. Diximus tamen quod nobis videbatur 
+<lb/>expedire quod scriberent in tartarico et nobis interpretarentur, et
+<lb/>nos scriberemus in nostra littera diligenter, et portaremus tam litteram 
+<lb/>quam interpretationem ad dominum papam. Et tunc recesserunt 
+<lb/>a nobis ad imperatorem.
+<lb/>41. In die autem beati Martini iterum fuimus vocati, et venerunt 
+<lb/>ad nos Kadac, Cingai et Bala et scriptores predicti, et nobis litteram
+<lb/>de verbo ad verbum interpretati fuerunt. Et cum scripsissemus in
+<lb/>latino, faciebant sibi per singulas orationes interpretari, volentes scire 
+<lb/>si nos in verbo aliquo erraremus. Et cum ambe littere fuerunt 
+<lb/>scripte, fecerunt nos legere semel et secundo, ne forte minus aliquod
+<pb n="326"/>
+<lb/>haberemus, et dixerunt nobis: «Videte quod omnia bene intelligatis, 
+<lb/>quia non expediret quod non intelligeretis omnia, quoniam 
+<lb/>debetis ad tam remotas provincias proficisci». Et cum respondissemus: 
+<lb/>«Intelligimus omnia bene», litteras in sarracenico rescripserunt, 
+<lb/>ut posset aliquis inveniri in partibus istis qui legeret eas si 
+<lb/>dominus papa vellet.
+<lb/>42. Mos est imperatoris Tartarorum ut nunquam extraneo nisi
+<lb/>per interpositam personam loquatur, quantumcumque sit magnus, 
+<lb/>sed audit et respondet per interpositam personam, ut dictum est. 
+<lb/>Quandocumque tamen negotium coram Kadac proponunt, vel audiunt 
+<lb/>responsionem imperatoris, illi qui sunt sub eo stant flexis
+<lb/>genibus usque ad finem verborum, quantumcumque sint magni.
+<lb/>Non potest, nec etiam est consuetudo, quod aliquis loquatur aliquid 
+<lb/>supra aliquam rem, postquam ab imperatore est diffinitum. 
+<lb/><persName key="Yesün Temür Khan">Imperator</persName> autem predictus sicut habet procuratorem et protonotarios 
+<lb/>et scriptores, sic habet omnes officiales in negotiis tam publicis
+<lb/>quam privatis, exceptis advocatis, quia sine strepitu iudiciorum, secundum 
+<lb/>arbitrium imperatoris, omnia fiunt. Alii etiam principes 
+<lb/>Tartorum de iis que ad eos pertinent faciunt illud idem.
+<lb/>43. Iste autem imperator potest esse quadraginta vel quadragintaquinque 
+<lb/>annorum aut plus, mediocris est stature, prudens est
+<lb/>valde, et astutus nimium et multum seriosus, et gravis in moribus; 
+<lb/>nec unquam videt homo eum de facili ridere vel facere aliquam
+<pb n="327"/>
+<lb/>levitatem, sicut nobis christiani dicebant qui assidue morantur 
+<lb/>cum eo. Dicebant etiam nobis christiani qui erant de familia eius 
+<lb/>quod credebant firmiter quod deberet fieri christianus, et de hoc habent 
+<lb/>signum apertum, quoniam ipse tenet clericos christianos et	
+<lb/>dat eis expensas; christianorum etiam capellam semper habet ante 
+<lb/>maius tentorium eius, et cantant publice et aperte, et pulsant 
+<lb/>ad horas secundum morem Grecorum, ut alii christiani, quantacumque 
+<lb/>sit ibi multitudo Tartarorum vel etiam hominum aliorum;
+<lb/>quod non faciunt alii duces.
+<lb/>44. Proposuit imperator mittere nobiscum nuntios suos, sicut 
+<lb/>nobis Tartari nostri dixerunt, qui nobiscum venire debebant. Volebant 
+<lb/>tamen, ut credimus, quod nos hoc peteremus ab eo, quia ad 
+<lb/>hoc unus de Tartaris nostris, qui senior erat, nos monuit ad petendum. 
+<lb/>Sed quoniam ut venirent nobis bonum non videbatur, respondimus 
+<lb/>ei quod nostrum non erat petere, sed si ipse imperator 
+<lb/>de sua voluntate mitteret eos, nos vellemus eos ducere secure, Domino 
+<lb/>adiuvante. Nobis autem, propter plures causas, ut venirent expedire 
+<lb/>non videbatur. Prima est quod timuimus ne, visis dissentionibus 
+<lb/>ac guerris que sunt inter nos, magis contra nos animarentur
+<pb n="328"/>
+<lb/>ad veniendum. Secunda causa fuit quia pavorem habebamus quod 
+<lb/>terre exploratores esse deberent. Tertia causa fuit quia verebamur ne 
+<lb/>interficerentur, quoniam gentes nostre pro magna parte arrogantes 
+<lb/>sunt et superbe: quando servientes, qui erant nobiscum, ex rogatu 
+<lb/>cardinalis qui est legatus Alemannie, in habitu tartarico ibant ad ipsum, 
+<lb/>fere a Teutonicis lapidati fuerunt in via et coacti sunt deponere 
+<lb/>habitum illum; consuetudo enim est Tartarorum nunquam facere 
+<lb/>pacem cum hominibus illis qui nuntios eorum occidunt, quin 
+<lb/>de ipsis sumant vindictam. Quarta causa est quia pavebamus quod
+<lb/>vi deberent nobis auferri, sicut de quodam principe Sarracenorum,	
+<lb/>qui adhuc est in captivitate nisi mortuus sit, aliquando factum 
+<lb/>fuit. Quinta causa est quia de adventu eorum nulla erat utilitas, 
+<lb/>cum nullum haberent mandatum aliud vel protestatem, nisi quod 
+<lb/>afferre litteras imperatoris ad dominum papam et ad alios principes 
+<lb/>quas adhuc non habebamus; et malum credebamus quod
+<lb/>inde posset contingere. Iccirco nobis non placuit quod venirent.
+<lb/>45. Tertia die post hec, scilicet in festo beati Britii, dederunt 
+<lb/>nobis licentiam et litteram imperatoris sigillo signatam, mittentes 
+<lb/>non ad matrem imperatoris, que dedit unicuique nostrum unum 
+<lb/>pelliceum vulpinum, quod habebat de foris pilos et intus erat cum	
+<lb/>sindaco subductum, et purpuram unam, de quibus Tartari nostri furati 
+<lb/>sunt unum passum de unaquaque, et de illa que dabatur servienti 
+<lb/>sunt meliorem medietatem furati. Quod nos non latuit, sed 
+<lb/>noluimus inde facere verba.
+<pb n="329"/>
+<lb/>46. Tunc arripuimus iter ad revertendum, et venimus per totam
+<lb/>hyemem, iacentes sepius in desertis in nive, nisi quando poteramus 
+<lb/>nobis cum pede facere locum ubi non erant arbores sed planus 
+<lb/>campus; et sepe inveniebamus nos totos coopertos de nive, 
+<lb/>quando ventus ipsam pellebat. Et sic venimus ad Ascensionem
+<lb/>Domini ad Bati, cui diximus quod responderet domino pape; qui
+<lb/>respondit quod nollet aliquid demandare, nisi quod scripserat imperator; 
+<lb/>dixit tamen quod diceremus domino pape et aliis maioribus 
+<lb/>omnino que scripserat imperator diligenter. Et datis nobis 
+<lb/>litteris de conductu, recessimus ab eo, et venimus usque ad Mouci
+<lb/>in sabbato infra octavam Pentecostes, ubi erant nostri socii et servientes, 
+<lb/>qui erant retenti, quos ad nos reduci fecimus.
+<lb/>47. Et inde ivimus usque ad Corenzam, qui etiam petivit iterum
+<lb/>a nobis donaria; et non dedimus, quia non habebamus. Qui 
+<lb/>dedit nobis duos Comanos, qui erant de numero Tartarorum,
+<lb/>usque ad <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> <placeName key="Ruscia">Ruscie</placeName>. Tartarus tamen noster non dimisit nos,
+<lb/>usque exiremus ultimam custodiam Tartarorum. Isti autem alii qui 
+<lb/>nobis a Corenza erant dati, in sex diebus ad ultima custodia usque 
+<lb/><placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> nos duxerunt. Venimus autem ibi quindecim diebus ante
+<pb n="330"/>
+<lb/>festum beati Iohannis Baptiste. Kiovienses autem, quando adventum 
+<lb/>nostrum perceperunt, omnes occurrerunt nobis letanter. Congratulabantur 
+<lb/>enim nobis, quasi nos a mortuis surgeremus. Sic 
+<lb/>fecerunt nobis per totam <placeName key="Polonia" ref="https://www.geonames.org/798544/">Poloniam</placeName>, Boemiam et Rusciam.
+<lb/>48. Daniel et Vasilico, frater eius, fecerunt nobis magnum festum, 
+<lb/>et tenuerunt nos contra voluntatem nostram bene octo dies. 
+<lb/>Medio tempore inter se et cum episcopis et aliis probis viris consilium 
+<lb/>habentes super iis que locuti fueramus eisdem, quando ad 
+<lb/>Tartaros procedebamus, nobis responderunt communiter dicentes 
+<lb/>quod dominum papam vellent habere in dominum specialem et in 
+<lb/>patrem, et sanctam romanam Ecclesiam in dominam et magistram, 
+<lb/>confirmantes etiam omnia que de hac materia prius per 
+<lb/>suum abbatem transmiserant. Et super hoc nobiscum ad dominum 
+<lb/>papam suas litteras et nuntios transmiserunt.
+<lb/>49. Et ne aliqua dubitatio quin fuerimus ad Tartaros apud 
+<lb/>aliquos oriatur, nomina illorum scribimus qui ibidem nos invenerunt. 
+<lb/>Rex Daniel <placeName key="Ruscia">Ruscie</placeName> cum omnibus militibus et hominibus suis, 
+<lb/>qui venerant secum, nos invenerunt, prope stationes Carbon, qui
+<pb n="331"/>
+<lb/>habet sororem Bati in uxorem; apud Corenzam invenimus Hongrot 
+<lb/>centurionem Kiovie et socios eius, qui etiam nos per quamdam 
+<lb/>partem vie duxerunt; et isti post nos venerunt usque ad Bati. 
+<lb/>Apud Bati invenimus filium ducis Ierozlai, qui habebat secum
+<lb/>militem unum de <placeName key="Ruscia">Ruscia</placeName> qui vocatur Sangor, qui fuit natione comanus 
+<lb/>sed nunc est christianus, ut alter rutenus qui apud Bati 
+<lb/>noster fuit interpres, de terra susdaliensi. Apud imperatorum Tartarorum 
+<lb/>invenimus ducem Ierozlaum qui mortuus est ibidem, et militem 
+<lb/>suum qui vocatur Temer, qui fuit interpres noster apud Cuyccari, 
+<lb/>imperatorem scilicet Tartarorum, tam in translatione litterarum 
+<lb/>imperatoris ad dominum papam, quam in verbis dicendis et 
+<lb/>respondendis. Ibi etiam erat Dubazlaus clericus ducis predicti, Iacobus, 
+<lb/>Michael et iterum Iacobus servientes ipsius. In reversione in
+<lb/>terram Biserminorum, in civitate Ianikint, invenimus Coligneum
+<lb/>qui de mandato uxoris Ierozlai et Bati ibat ad predictum Ierozlaum, 
+<lb/>et Cocceleban et omnem societatem eius. Isti omnes reversi 
+<lb/>sunt in terram susdaliensem in <placeName key="Ruscia">Ruscia</placeName>, a quibus poterit, si oportuerit, 
+<lb/>veritas inveniri. Apud Mouci invenerunt socios nostros qui remanserunt, 
+<lb/>dux Ierozlaus et societas eius, dux etiam quidam in
+<lb/><placeName key="Ruscia">Ruscia</placeName>, Santopolcus nomine, et societas eius. Et in exitu <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comanie</placeName>
+<pb n="332"/>
+<lb/>invenimus ducem Romanum qui intrabat ad Tartaros et societatem 
+<lb/>ipsius, et ducem Olaha qui exibat et societatem ipsius. Nuntius 
+<lb/>etiam ducis de Chernegloue exivit nobiscum de <placeName key="Cumanie" ref="https://pleiades.stoa.org/places/863772">Comania</placeName>, et diu
+<lb/>per Rusciam venit nobiscum; et omnes isti sunt duces ruteni.
+<lb/>50. Civitas omnis Kiovie testis est, que nobis dedit conductum 
+<lb/>et equos usque ad primam custodiam Tartarorum, et in reversione 
+<lb/>recepit nos cum conductu Tartarorum et equis eorum, qui 
+<lb/>revertebantur ad ipsos. Et omnes homines <placeName key="Ruscia">Ruscie</placeName> per quos nos 
+<lb/>transitum fecimus, qui receperunt litteras sigillatas Bati et mandatum, 
+<lb/>quod nobis equos et expensas preberent, quod si non facerent, 
+<lb/>occiderentur ab eo.
+<lb/>51. Insuper testes sunt mercatores Wratislavie, qui usque in 
+<lb/><placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> venerunt nobiscum et sciverunt quod nos manus intravimus 
+<lb/>Tartarorum; et multi alii mercatores, tam de <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName> quam
+<lb/>de Austria, qui venerunt in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kioviam</placeName> postquam ad Tartaros ieramus. 
+<lb/>Sunt et testes mercatores de Constantinopoli qui per Tartaros 
+<lb/>in Rusciam venerunt, et erant in <placeName key="Kiovia" ref="ttps://www.geonames.org/703448">Kiovia</placeName> cum de terra reversi 
+<lb/>sumus Tartarorum. Nomina autem mercatorum illorum sunt hec: 
+<lb/>Michael genuensis et Bartholomeus, Manuel veneticus, Iacobus
+<lb/>Renerius Acre, Nicholaus pisanus, isti sunt maiores; alii minores 
+<lb/>sunt: Marchus, Henricus, <persName key="Iohannes">Iohannes</persName>, Vasius, iterum Henricus Bonadies, 
+<lb/><persName key="Petrus">Petrus</persName> Paschaini. Alii plures fuerunt, sed eorum nomina 
+<lb/>nescimus.
+<lb/>52. Rogamus cunctos qui legunt predicta, ut nichil minuant
+<lb/>nec apponant, quia nos omnia que vidimus vel audivimus ab aliis, 
+<lb/>quos credebamus fide dignos, sicut Deus testis est, nichil scienter 
+<lb/>addentes, scripsimus previa veritate. Sed quia illi per quos transitum 
+<lb/>fecimus, qui sunt in <placeName key="Polonia" ref="https://www.geonames.org/798544/">Polonia</placeName>, Boemia et Teutonia et in Leodio
+<pb n="333"/>
+<lb/>et Campania, suprascriptam historiam libenter habebant, iccirco 
+<lb/>eam rescripserunt antequam esset completa et etiam plene contracta, 
+<lb/>quia neque dum tempus habueramus quietis, ut eam possemus 
+<lb/>plene complere. Ideo nemo miretur quia in ista plura sunt 
+<lb/>et melius correcta quam sint in illa, quoniam istam, postquam habuimus 
+<lb/>qualecumque otium, correximus ad plenum et perfectum,
+<lb/>sive perfectius illa que nondum erat completa.
+          <lb/>Explicit historia Mongalorum quos nos Tartaros appellamus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
