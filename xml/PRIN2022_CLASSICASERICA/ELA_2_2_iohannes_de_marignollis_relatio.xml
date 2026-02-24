@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Relatio</title>
+                    <author ref="https://viaf.org/viaf/90635332">Iohannes de Marignollis 
+                        O.F.M.<date>1290-1358</date></author>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Pacini Editore</publisher>
+                    <date when="2022-10">12/2022</date>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title ref="https://search.worldcat.org/it/title/1375645525" key ="print-editor">Relatio 
+                            (Chronicon Bohemorum. Excerpta de rebus orientalibus), a cura di I. Malfatto, trad. e comm. 
+                            a cura di P. Mocella, Ospedaletto (PI), Pacini, 2022, 60-102</title> 
+                        <idno type="SINICA"></idno>
+                        <idno type="CCT"></idno>
+                        <idno type="URI"></idno>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="lat">Latin</language>
+                </langUsage>
+                <textClass>
+                    <keywords>
+                        <term type="form">Prosa</term>
+                        <term type="source">Edizione a cura di I. Malfatto</term>
+                        <term type="genre">Itinera et Relationes</term>
+                        <term type="place">China</term>
+                    </keywords>
+                </textClass>
+                <creation>
+                    <date when-iso="1301/1400">1355-1359</date>
+                </creation>
+            </profileDesc>
+            <revisionDesc status="draft">
+                <change when="2025-09-04" who="0009-0009-0557-0428">P. Mocella: transcription of text and encoding in TEI (Level 2)</change>
+                <change when="2025-09-18" who="0000-0002-2706-6507">F. Stella: revision (in progress)</change>
+            </revisionDesc>
+        </teiHeader>
+  
+<text>
+<body>
+<ab>
+<pb n="60" type="page"/>
+<hi rend="italic">I. DE CREATIONE</hi>
+<lb/> 
+<lb/>1. Plantaverat autem Dominus paradisum voluptatis a principio, id est 
+    in parte orientali, qui locus dicitur Eden ultra 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndiam</placeName>.
+<lb/>2. Nam, ut ex visis aliqua breviter inseramus, nos frater 
+    <persName key="Iohannes de Marignollis O.F.M." 
+        ref="https://viaf.org/viaf/90635332">Iohannes de Florentia</persName>  
+     ordinis Minorum, indignus Episcopus Bisynianensis, 
+    <date when="1338">anno Domini millesimo trecentesimo tricesimo 
+        octavo</date>, a sancto <persName key="Benedictus XII" 
+            ref="http://viaf.org/viaf/36914465">papa Benedicto duodecimo</persName> cum aliis missus 
+fui cum apostolicis litteris et donis nuntius et legatus ad 
+    <persName key="Toghon Temür Khan" ref="http://viaf.org/viaf/73626500">Kaam</persName>, 
+    summum omnium Thartarorum imperatorem, qui tenet 
+quasi dominium medietatis orbis orientalis, cuius potestas et copia 
+civitatum, terrarum, linguarum, divitiarum et regiminis infinitorum 
+quodammodo populorum excedit omnem narrationem.
+    <lb/>3. Recessimus de <placeName key="Avinio" 
+        ref="https://www.geonames.org/3035681/">Avinione</placeName> 
+    <date when="1338-12">mense decembris</date>, pervenimus 
+    <placeName key="Neapolis" ref="https://www.geonames.org/3172394/">Neapolim</placeName> 
+    <date when="1339-02-10">in principio Quadragesime</date> et ibi 
+    <date when="1339-03-28">usque ad pascha, quod fuit in fine martii</date>, 
+    expectavimus navigium Ianuensium venturum cum nuntiis Thartarorum, 
+    quos misit <persName key="Toghon Temür Khan" ref="http://viaf.org/viaf/73626500">Kaam</persName> de 
+    <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName>, 
+    maxima civitate, ad <persName key="Benedictus XII" 
+        ref="http://viaf.org/viaf/36914465">papam</persName> 
+    pro mittendis legatis et ad aperiendam viam et fedus componendum cum Christianis, eo 
+quod multum honorat et diligit fidem nostram. Summi etiam 
+principes sui imperii totius plus quam triginta milia, qui vocantur 
+Alani et totum gubernant imperium orientis, sunt Christiani, re 
+vel nomine, et dicunt se sclavos pape, parati mori pro Franquis; 
+sic enim vocant nos, non a <placeName key="Francia" 
+    ref="https://www.geonames.org/3017382/">Francia</placeName> sed a <choice>
+    <sic>franquia</sic>
+    <corr>Franquia</corr>
+</choice>. Horum primus apostolus fuit frater 
+<!-- l'autore fa confusione fra Giovanni da Montecorvino e Giovanni di Pian di Carpine -->    
+    <persName key="Iohannes de Montecorvino O.F.M." 
+        ref="http://viaf.org/viaf/59876078">Iohannes dictus de Monte Corvino</persName>, 
+qui primo miles, iudex et doctor <persName key="Fridericus II" 
+    ref="http://viaf.org/viaf/46006380">Friderici Imperatoris</persName>, post triginta duos annos factus frater Minor doctissimus et scientissimus.
+4. Pervenimus autem in <placeName key="Constantinopolis" 
+    ref="http://pleiades.stoa.org/places/520998">Constantinopolim</placeName> per mare in 
+    <date when="1339-05-01">kalendis maii</date> et fuimus in 
+    <placeName key="Peyra" ref="https://www.geonames.org/750640/">Peyra</placeName> 
+    usque <date when="1339-06-24">ad festum sancti Iohannis Baptiste</date>
+non otiose, quia summam disputationem habuimus cum 
+Patriarcha Grecorum et toto concilio eorum in palatio 
+Sancte Sophie, ubi Deus fecit in nobis novum miraculum, dans nobis 
+os et sapientiam cui non potuerunt resistere, et se necessario 
+esse scismaticos confiteri conpulsi sunt, nichil in sue dampnationis 
+pallium pretendentes nisi superbiam intolerabilem presulum Romanorum.
+<pb n="62" type="page"/>
+<lb/>5. Inde navigavimus <geogName key="Mare Maurum" 
+    ref="https://www.geonames.org/630673/">mare Maurum</geogName> 
+    et in octo diebus pervenimus in <placeName key="Caffa" 
+        ref="https://pleiades.stoa.org/places/854743">Caffa</placeName>, 
+    ubi multarum sectarum sunt Christiani. Inde ad primum Thartarorum Imperatorem 
+    <persName key="Usbec Chan" ref="https://viaf.org/en/viaf/305463891">Usbec</persName> pervenimus et 
+obtulimus litteras, pannos, dextrarium, tyriacam et dona 
+    <persName key="Benedictus XII" ref="http://viaf.org/viaf/36914465">pape</persName>. 
+    Et post hiemem bene pasti, vestiti et remunerati magnifice et cum eius equis et expensis, pervenimus 
+    in <placeName key="Almaliq" ref="https://en.wikipedia.org/wiki/Almaliq,_Xinjiang">Armalec</placeName> imperii medii, 
+ubi fecimus ecclesiam, emimus aream, fecimus fontes, cantavimus 
+missas et baptizavimus plures, libere et publice predicantes, non 
+obstante quod anno precedenti solempne martyrium passi sunt 
+ibidem pro Christo episcopus et sex alii fratres Minores, miraculis 
+coruscantes, quorum nomina: frater Rychardus episcopus, 
+natione Burgundus; frater <persName key="Franciscus de Alexandria O.F.M.">Franciscus 
+    de Alexandria</persName>; frater <persName key="Paschalis de Victoria 
+        vel de Hispania O.F.M.">Paschalis</persName> Hyspanus, qui fuit propheta et 
+    vidit celum apertum, et predixit sibi et sociis suis martyrium et Thartaros de 
+    <placeName key="Saray" ref="https://it.wikipedia.org/wiki/Saraj">Saray</placeName> 
+    destruendos diluvio, <placeName key="Almaliq" 
+        ref="https://en.wikipedia.org/wiki/Almaliq,_Xinjiang">Armalec</placeName> 
+    perituram propter ipsorum martyrium, imperatorem illum 
+    tertio die occidendum post ipsorum martyrium et multa alia gloriosa; 
+    frater <persName key="Laurentius de Ancona O.F.M.">Laurentius 
+        de Ancona</persName>; frater Petrus; frater <choice>
+    <sic>yndus</sic>
+    <corr>Yndus</corr>
+</choice> interpres illorum et Gillottus mercator.
+<lb/>6. Anno tertio post nostrum recessum de curia, circa fines 
+    de <placeName key="Almaliq" ref="https://en.wikipedia.org/wiki/Almaliq,_Xinjiang">Armalec</placeName> 
+    recedentes, pervenimus ad <geogName key="Cyollos Kagan" 
+        ref="https://www.geonames.org/1529483/">Cyollos Kagan</geogName>, 
+    id est ad montes arene quos faciunt venti, ultra quos ante Thartaros 
+nullus putavit terram habitabilem, nec putabatur ultra aliquam terram 
+esse. Thartari autem voluntate Dei, mirabili industria 
+transierunt et fuerunt in campo maximo, ubi dicitur torrida 
+zona et inpertransibilis a philosophis, quam tamen Thartari 
+transierunt, et ego etiam bis; de qua in psalmis David: 
+«Posuit desertum etc.». Qua pertransita pervenimus in 
+    <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName>, 
+ubi est summa sedes imperii orientis, de cuius magnitudine incredibili 
+et populo et ordine militum sileatur. Maximus autem 
+    <persName key="Toghon Temür Khan" ref="http://viaf.org/viaf/73626500">Kaam</persName>, visis 
+    dextrariis et donis <persName key="Benedictus XII" 
+        ref="http://viaf.org/viaf/36914465">pape</persName> 
+    et litteris bullatis et regis etiam 
+    <persName key="Robertus I" ref="http://viaf.org/viaf/34501062">Roberti</persName> 
+    cum auro et nobis, gavisus est gaudio magno valde, 
+reputans bonum, ymo optimum omen, et summe nos honoravit.
+<lb/>7. Ego autem solempniter indutus, cum cruce pulcherrima, 
+    que me precedebat cum luminaribus et incenso, cantando «Credo
+    in unum Deum», intravimus coram illo 
+    <persName key="Toghon Temür Khan" 
+        ref="http://viaf.org/viaf/73626500">Kaam</persName> in glorioso palatio 
+residente; et cantu finito, largam dedi recipienti humiliter 
+benedictionem. Et sic missi fuimus ad imperialem aulam nobis 
+honorabiliter preparatam, assignatis duobus principibus qui nobis 
+in omnibus necessitatibus habundantissime ministrabant, in cibis 
+et potibus et usque ad papirum pro laternis, deputatis servitoribus 
+et ministris de curia; et sic per annos quasi quatuor 
+servierunt infinitis semper honoribus, vestes pretiosas pro nobis 
+et familiis extollendo. Et si bene omnia computarem, ultra 
+valorem expendit quatuor milium marcarum pro nobis; eramus 
+persone triginta due.
+<pb n="64" type="page"/>
+<lb/>8. Fuerunt autem disputationes facte contra Iudeos et alias 
+sectas multe et gloriose, sed et multus animarum fructus in illo 
+imperio factus est. Habent enim fratres Minores in 
+    <placeName key="Khanbaliq" ref="https://www.geonames.org/1816670/">Cambalec</placeName> 
+ecclesiam cathedralem inmediate iuxta palacium et solempnem 
+archiepiscopatum et alias ecclesias plures in civitate et campanas 
+et omnes vivunt de mensa imperatoris honorifice valde.
+9. Videns autem <persName key="Toghon Temür Khan" 
+    ref="http://viaf.org/viaf/73626500">Imperator</persName> 
+    ille quod nullo modo volui remanere, concessit quod cum suis annorum trium expensis et donis 
+redirem ad <persName key="Benedictus XII" ref="http://viaf.org/viaf/36914465">papam</persName>, 
+    et cito ego vel alius mitteretur cardinalis 
+solempnis cum plenitudine potestatis et esset episcopus, quia 
+illum gradum summe venerantur omnes orientales, sive sint 
+Christiani sive non, et esset de ordine Minorum, quia illos solos 
+cognoscunt sacerdotes et putant <persName key="Benedictus XII" 
+        ref="http://viaf.org/viaf/36914465">Papam</persName> semper talem, sicut fuit ille 
+    <persName key="Nicolaus IV" ref="http://viaf.org/viaf/3827199">Ieronimus Papa</persName> 
+    qui misit eis legatum, quem sanctum venerantur Thartari et Alani, fratrem 
+    <persName key="Iohannes de Montecorvino O.F.M." 
+        ref="http://viaf.org/viaf/59876078">Iohannem de Monte Corvino</persName> 
+ordinis Minorum, de quo supra.
+<lb/>10. Fuimus autem in <placeName key="Khanbaliq" 
+    ref="https://www.geonames.org/1816670/">Cambalec</placeName> 
+    <date from="1342" to="1346">annis quasi tribus</date>. Inde per 
+<placeName key="Manzi">Manzi</placeName> 
+    iter nostrum direximus, cum expensis imperatoris magnificis 
+et equis quasi ducentis, et vidimus gloriam mundi in tot civitatibus, 
+terris, villis et rebus, que nulla lingua posset exprimere sufficienter.
+<lb/>11. <date from="1347-12-26" to="1348-04-13">A festo autem sancti Stephani usque ad dominicam 
+Olivarum</date>, per <geogName key="Mare Yndicum" 
+    ref="https://pleiades.stoa.org/places/39352">mare Yndicum</geogName>, 
+    pervenimus ad nobilissimam civitatem 
+<placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> 
+    nomine <placeName key="Columbum" 
+        ref="https://www.geonames.org/1259091/">Columbum</placeName>, 
+    ubi nascitur piper totius orbis. 
+Nascitur autem in vitibus, que plantantur ad modum vinearum 
+omnino, et facit vitis primo racemos quasi labruscas viridis 
+coloris, post facit quasi racemos et est intus vinum rubeum, 
+quod manu mea pro salsa expressi in scutellam. Post maturantur 
+et exsiccantur in arbore et arescit pre nimio calore et siccum 
+excutitur parvo baculo, cadens super linteamina et recolligitur. 
+Ista oculis vidi et manibus contrectavi mensibus quatuordecim, nec comburitur, 
+ut mentiuntur scriptores, nec nascitur in desertis sed in 
+hortis. Nec Sarraceni sunt domini sed Christiani Sancti Thome, 
+qui habent stateram ponderis totius mundi, de qua pro meo officio 
+tamquam legatus <persName key="Benedictus XII" 
+    ref="http://viaf.org/viaf/36914465">pape</persName> 
+    habebam omni mense fanones de auro talis monete centum, in fine mille. Ibi est ecclesia Sancti 
+Georgii Latinorum ubi mansi, et picturis egregiis decoravi, et docui sacram legem.
+<lb/>12. Tandem, transiens gloriam maximi <persName key="Alexander III Magnus" 
+        ref="https://viaf.org/en/viaf/101353608">Alexandri</persName> qui erexit 
+columpnam, ego in cono mundi, contra paradisum, erexi lapidem 
+in titulum, fundens oleum desuper scilicet columpnam marmoream, 
+desuper crucem lapideam usque ad finem mundi duraturam, 
+quam presentibus quasi infinitis populis erexi, consecravi 
+et benedixi, sculptis armis pape et nostris et litteris tam 
+yndicis quam latinis, principibus illis super humeros portantibus 
+me in lectulo seu ferculo Salomonis.
+<pb n="66" type="page"/>
+<lb/>13. Inde valefaciens fratribus, post annum et quatuor menses, 
+multis patratis gloriosis operibus, perrexi ad famosissimam Reginam 
+    <placeName key="Saba" ref="https://www.geonames.org/1642673/">Saba</placeName>, 
+    a qua honorati, post fructum ibidem animarum; 
+sunt enim ibi pauci Christiani. Deinde perreximus per 
+mare ad <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllanum montem</placeName> 
+    gloriosum ex opposito paradisi. Et de <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName> 
+    usque ad paradisum, ut dicunt incole ex traditione 
+patrum, sunt miliaria ytalica quadraginta, ita quod, ut 
+dicitur, auditur sonitus aquarum fontis cadentium de paradiso.
+<lb/> 
+<lb/><hi rend="italic">II. CAPITULUM DE PARADISO</hi>
+<lb/> 
+<lb/>1. Est autem paradisus locus in terra circumvallatus 
+    mari occeano in parte orientali ultra 
+    <placeName key="India Columbina" 
+        ref="https://www.geonames.org/1267254/">Indiam Columbinam</placeName> contra 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">montem Seyllanum</placeName>, 
+    locus altissimus super omnem terram, attingens,
+    ut probat <persName key="Duns Scotus, Iohannes" 
+        ref="http://viaf.org/viaf/120697851">Iohannes Scotus</persName>, 
+    globum lunarem, ab omni altercatione remotus, locus omni suavitate ac claritate amenus, 
+in cuius medio oritur fons de terra scaturiens et irrigat pro tempore 
+paradisum et omnia ligna eius. Sunt autem ibi plantata 
+omnia ligna producentia fructus optimos mire pulcritudinis, 
+suavitatis et odoris in cibum hominis. Fons autem ille derivatur 
+de monte et cadit in lacum, qui dicitur a philosophis Enphitrites, 
+et intrat sub alia aqua spissa et post egreditur ex alia 
+parte et dividitur in quatuor flumina que transeunt per 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllanum</placeName>. 
+    Et hec nomina eorum: <geogName key="Gyon" 
+        ref="https://pleiades.stoa.org/places/727172">Gyon</geogName>, 
+    qui circuit terram <placeName key="Aethiopia" 
+        ref="https://pleiades.stoa.org/places/334481">Ethiopie</placeName>, 
+ubi sunt modo homines nigri, que dicitur terra 
+    <persName key="Iohannes presbyter">Presbiteri Iohannis</persName>, 
+    et iste putatur esse <geogName key="Nylus" 
+        ref="https://pleiades.stoa.org/places/727172">Nylus</geogName>, 
+    qui descendit in <placeName key="Aegyptus" 
+        ref="https://pleiades.stoa.org/places/766">Egyptum</placeName> per 
+interruptionem factam in loco qui dicitur 
+    <placeName key="Abascy" ref="https://en.wikipedia.org/wiki/Abyssinia">Abascy</placeName>, ubi sunt 
+Christiani sancti Mathei Apostoli, quibus soldanus est tributarius 
+propter istum fluvium, quia possunt claudere viam aque et periret 
+    <placeName key="Aegyptus" ref="https://pleiades.stoa.org/places/766">Egyptus</placeName>. 
+<lb/>2. Secundus fluvius vocatur <geogName key="Phison">Phison</geogName>, 
+    qui circuit omnem <placeName key="Evilath">terram 
+        Evilath</placeName> per <placeName key="India" 
+            ref="https://pleiades.stoa.org/places/50004">Yndiam</placeName> 
+    et descendere dicitur per <placeName key="Cathay" 
+        ref="https://en.wikipedia.org/wiki/Cathay">Cathay</placeName>, et ibi mutato nomine dicitur 
+    <geogName key="Caramora" ref="https://www.geonames.org/1807482/">Caramora</geogName>, 
+    id est nigra aqua, quia ibi nascitur bedellium et lapis onichinus, et puto quod sit maior 
+fluvius de mundo aque dulcis, quem ego transivi, et habet in ripa 
+sua civitates maximas et optimas et maxime ditissimas in auro. 
+Et in illo flumine in domibus ligneis vivunt et morantur artifices 
+optimi et maxime serici et pannorum aureorum in tanta 
+multitudine, ut vidimus oculis nostris, quod iudicio meo excedunt 
+totam <placeName key="Italia" ref="https://pleiades.stoa.org/places/1052">Ytaliam</placeName>; 
+    et habent in ripis habundantiam serici plus 
+quam totus alius mundus, et navigant cum tota domo nichil 
+mutando cum familiis suis. Hec vidi. Et tandem ultra 
+    <placeName key="Caffa" ref="https://pleiades.stoa.org/places/854743">Caffa</placeName> 
+absorbetur arenis et post erumpit et facit mare, quod dicitur 
+    <geogName key="Mare Caspium" ref="https://www.geonames.org/630671/">Bacuc</geogName> ultra 
+    <placeName key="Thana" ref="https://www.geonames.org/713066/">Thanam</placeName>. 
+    <pb n="68" type="page"/>
+<lb/>3. Tertius fluvius vocatur 
+    <geogName key="Tygris" ref="https://pleiades.stoa.org/places/912964">Tygris</geogName>. 
+    Ipse vadit contra Assyrios Et descendit prope 
+    <placeName key="Nineve" ref="https://pleiades.stoa.org/places/874621">Nyneven</placeName> 
+    maximam <hi rend="italic">itinere dierum trium,</hi> 
+ubi missus fuit Ionas ad predicandum, cuius sepulcrum ibi est. 
+Et ego fui et steti ibi quatuordecim diebus in oppidis circumstantibus 
+factis de civitate destructa. Ibi sunt optimi fructus et maxime 
+malogranata mire dulcedinis et magnitudinis, et fructus omnes 
+sicut in <placeName key="Italia" ref="https://pleiades.stoa.org/places/1052">Ytalia</placeName>. 
+    Et ibi ex opposito est civitas facta ex ruinis 
+    <placeName key="Nineve" ref="https://pleiades.stoa.org/places/874621">Nyneve</placeName>, 
+    que vocatur <placeName key="Monsol" ref="https://pleiades.stoa.org/places/874609">Monsol</placeName>. 
+    Ab isto fluvio usque ad quartum 
+est longitudo terrarum, quarum ista sunt nomina: 
+    <placeName key="Mesopotamia" ref="https://pleiades.stoa.org/places/874602">Mesopotamia</placeName>, 
+id est terra in medio aquarum; <placeName key="Assyria" 
+        ref="https://pleiades.stoa.org/places/569131178">Assyria</placeName>,
+    terra Abrahe et Iob, et est ibi <placeName key="Edessa" 
+        ref="https://pleiades.stoa.org/places/874298">civitas Abagari regis</placeName>, 
+    que fuit pulcherrima et Christiana olim, cui scripsit Christus manu sua et misit epistolam 
+suam, et nunc Sarracenorum est. Ibi fui quatuor diebus in magno timore. 
+<lb/>4. Ultimo pervenimus ad quartum fluvium nomine 
+    <geogName key="Euphrates" ref="https://pleiades.stoa.org/places/912849">Eufrates</geogName> 
+    qui dividit <placeName key="Syria" ref="https://pleiades.stoa.org/places/1306">Syriam</placeName>, 
+    <placeName key="Assyria" ref="https://pleiades.stoa.org/places/569131178">Assyriam</placeName>, 
+    <placeName key="Mesopotamia" ref="https://pleiades.stoa.org/places/874602">Mesopotamiam</placeName> a 
+    <placeName key="Terra Sancta" ref="https://en.wikipedia.org/wiki/Holy_Land">Terra sancta</placeName>. Quo transito fuimus in 
+    <placeName key="Terra Sancta" ref="https://en.wikipedia.org/wiki/Holy_Land">Terra sancta</placeName>, ubi maxime sunt civitates, maxime 
+    <placeName key="Beroia/Alep" ref="https://pleiades.stoa.org/places/658409">Alep</placeName>, 
+    ubi sunt multi Christiani induti more latino et locuntur 
+linguam quasi gallicam, scilicet quasi de 
+    <placeName key="Cyprus" ref="https://pleiades.stoa.org/places/707498">Cypro</placeName>. Inde 
+    venitur <placeName key="Damascus" ref="https://pleiades.stoa.org/places/678106">Damascum</placeName>, 
+    ad <geogName key="Mons Libanus" ref="https://pleiades.stoa.org/places/678267">montem 
+        Libani</geogName>, in <placeName key="Galilaea" 
+            ref="https://pleiades.stoa.org/places/678145">Galileam</placeName>, in 
+    <placeName key="Samaria" ref="https://pleiades.stoa.org/places/678369">Samariam</placeName>, 
+    <placeName key="Nazareth" ref="https://pleiades.stoa.org/places/678299">Nazareth</placeName>, 
+    <placeName key="Hebron" ref="https://pleiades.stoa.org/places/687915">Ebron</placeName>,
+    <placeName key="Bethlehem" ref="https://pleiades.stoa.org/places/687856">Bethlehem</placeName>
+    <placeName key="Ierusalem" ref="https://pleiades.stoa.org/places/687928">Iherusalem</placeName>, 
+    ad sepulchrum domini Ihesu Christi. 
+<lb/> 
+<lb/><hi rend="italic">III. DE ARBORIBUS PARADISI</hi>
+<lb/> 
+<lb/> [...] Comedisset [Adam] etiam de omnibus fructibus paradisi, 
+nam quod ibi sunt, ut dicit <hi rend="italic">Pantheon</hi>, patet 
+per fructus et folia que aliquando erumpunt de fluminibus illis in 
+medicinam et odoris suavitatem. Nec mirum, quia in vicinis provinciis
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> arbores 
+    quedam fructus mirabiles, sicut vidi, proferunt omni mense [...].
+<lb/>
+<lb/><hi rend="italic">IV. DE TRANSGRESSIONE PRIMORUM PARENTUM 
+INDUCTIONE SERPENTIS</hi> 
+<lb/> 
+<lb/>1. [...] Tunc Deus dedit sententiam post confessionem culpe, primo
+    contra serpentem, quod gradiatur super pectus reptando per terram, 
+    licet ego viderim in partibus illis multos et maximos euntes medio 
+    corpore erecto omnino, quasi mulieres euntes per viam, conspectu et 
+    oculis gratis, sed non continue.
+<lb/>2. [...] Fecit autem eis tunicas pelliceas. Nos communiter dicimus 
+pelliceas, melius tamen dicitur filiceas, quia de quadam materia 
+que filorum est, que nascitur inter surculos nargillorum ad modum 
+retis, sicut portavi et dimisi 
+    <placeName key="Florentia" ref="https://pleiades.stoa.org/places/413138">Florentie</placeName>. 
+<pb n="70" type="page"/>
+    <lb/>3. Et prohibuit Deus esum ligni vite. «Videte», inquit angelis, 
+    «ne sumant de ligno vite et vivant in eternum». Et statim angelus 
+cepit Adam per brachium et posuit eum ultra lacum in 
+    <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">montem Seyllanum</placeName>, 
+    ubi fui quatuor mensibus, et in casu posuit 
+Adam pedem dextrum super lapidem, qui adhuc est, et statim 
+miraculo divino forma plante pedis eius infixa est in marmore 
+et usque hodie perseverat. Et est magnitudo seu longitudo duorum 
+nostrorum palmorum et dimidii, plus scilicet quam media ulna 
+de <placeName key="Praga" ref="https://pleiades.stoa.org/places/118913">Praga</placeName>, 
+    quam non ego solus mensuravi, sed alius peregrinus saracenus <choice>
+    <sic>hyspanus</sic>
+    <corr>Hyspanus</corr>
+</choice>, quia vadunt multi ad peregrinationem Ade. 
+In alio autem monte, ad quatuor quasi parvas dietas, exposita 
+etiam per angelum fuit Eva. Et ut hystorie illarum gentium 
+narrant, nec sacre Scripture contradicunt, fuerunt ab invicem 
+separati diebus quadraginta in luctu; post quos angelus duxit 
+Evam ad Adam quodammodo desperantem et consolatus est eos. 
+<lb/> 
+    <lb/><hi rend="italic">V. DE <placeName key="Seyllanum" 
+            ref="https://www.geonames.org/1227604/">MONTE 
+        SEYLLANO</placeName> HISTORIA</hi>
+<lb/> 
+<lb/>1. Verum quia materia requirit, et credo delectabile et aliquibus 
+    proficuum, ystoriam de <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName> duximus presentibus 
+inserendam, dummodo placeat Cesaree Maiestati; si vero non
+placeat, obelus citius emendabit. Et primo videndum est quomodo 
+pervenimus ad eum et qualiter, secundo de eius conditionibus. 
+<lb/>2. Primo namque cum nos dimissi a <persName key="Toghon Temür Khan" 
+        ref="http://viaf.org/viaf/73626500">Kaam</persName> summo imperatore 
+cum donis maximis et expensis, transire per 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndiam</placeName> 
+    temptaremus, alia via per terram clausa propter guerras et nullomodo 
+pateret transitus, preceptum fuit <persName key="Toghon Temür Khan" 
+        ref="http://viaf.org/viaf/73626500">Kaam</persName>, 
+    quod veniremus per <placeName key="Manzi">Manzi</placeName>, que olim maxima 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName> 
+    vocabatur. Habet autem <placeName key="Manzi">Manzi</placeName> 
+civitates et populos sine numero, et nobis incredibilia sunt, nisi 
+vidissem copiam omnium rerum, fructuum quos nunquam gignit 
+terra latina, et civitates maximas triginta milia, exceptis villis 
+et oppidis infinitis. Et inter illas est civitas famosissima nomine 
+    <placeName key="Campsay" ref="https://www.geonames.org/1808926/">Campsay</placeName>, 
+    mirabilior, pulchrior, ditior et maior, cum maiori populo 
+et pluribus divitiis et deliciis, edificiis et maxime ydolorum templis,
+ubi sunt mille et duo milia religiosi simul habitantes, quam 
+aliqua civitas que sit in mundo, vel forte fuerit unquam. Ubi 
+scribunt scribentes esse decem milia pontium nobilium de lapide 
+cum sculpturis et ymaginibus principum armatorum. Incredibile 
+est non videnti et tamen forte non mentiuntur. 
+<lb/>3. Est etiam <placeName key="Zayton" 
+    ref="https://www.geonames.org/1797353/">Zayton</placeName>, 
+    portus maris mirabilis civitas, nobis 
+incredibilis, ubi fratres Minores habent tres ecclesias pulcherrimas, 
+optimas et ditissimas, balneum, fundacum, omnium mercatorum 
+depositorium; habent etiam campanas optimas et pulcherrimas 
+quarum duas <pb n="72" type="page"/> ego feci fieri cum magna 
+    solempnitate, quarum unam videlicet maiorem Iohanninam, aliam 
+    Antoninam decrevimus nominandas et in medio Sarracenorum sitas. 
+    <lb/>4. Recessimus autem de <placeName key="Zayton" 
+        ref="https://www.geonames.org/1797353/">Zayton</placeName> 
+    in festo sancti Stephani et in quarta feria maioris ebdomade pervenimus in 
+    <placeName key="Columbum" ref="https://www.geonames.org/1259091/">Columbum</placeName>. 
+Deinde volentes navigare <placeName key="Madras" 
+    ref="https://www.geonames.org/1264527/">ad sanctum Thomam apostolum</placeName> et 
+    inde ad <placeName key="Terra Sancta" ref="https://en.wikipedia.org/wiki/Holy_Land">Terram 
+        Sanctam</placeName> ascendentes iunkos de inferiori <placeName key="India" 
+        ref="https://pleiades.stoa.org/places/50004">Yndia</placeName> 
+    que <placeName key="Mynibar" ref="https://www.geonames.org/1264188/">Mynibar</placeName> 
+    vocatur, in vigilia sancti Georgii 
+    tot procellis ferebamur, quod sexaginta vicibus vel amplius fuimus quasi 
+demersi sub aqua usque ad profundum maris, et solo divino 
+miraculo evadentes tot mirabilia vidimus, scilicet ardere mare, 
+dracones ignivomos volantes et occidentes aliorum iunkorum 
+personas in suo transitu, nostro divina ope manente illeso, virtute 
+corporis Christi, quod portabam, et meritis Virginis gloriose et 
+sancte Clare. Et quia omnes Christianos induxeram ad lamentum 
+et penitentiam, ipsaque procella durante dedimus vela ventis, 
+nos divino regimini committentes, de solis animabus curantes. 
+<lb/>5. Divina autem clementia nos ducente, 
+    die inventionis sancte crucis invenimus nos perductos ad portum 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllani</placeName> nomine 
+    <placeName key="Pervily" ref="https://www.geonames.org/1249931/">Pervily</placeName> 
+    ex opposito paradisi, in quo dominabatur contra verum 
+regem tyrannus quidam, nomine <persName key="Coya Iaan">Coya Iaan</persName>, 
+    castratus, pessimus <choice>
+        <sic>sarracenus</sic>
+        <corr>Sarracenus</corr>
+    </choice>, qui pro magna parte occupaverat regnum propter 
+infinitos thesauros quos habebat. Qui tamen prima facie nos 
+honoravit ficte, postmodum curialiter nomine mutui accepit 
+nobis sexaginta milia marcarum in auro, in argento, serico, pannis 
+aureis, lapidibus pretiosis, perlis, camphora, musco, mirra et 
+aromatibus ex dono maximo <persName key="Toghon Temür Khan" 
+        ref="http://viaf.org/viaf/73626500">Kaam</persName> 
+    et aliorum principum et xenia missa <persName key="Benedictus XII" 
+        ref="http://viaf.org/viaf/36914465">Pape</persName>, 
+    et fuimus curialiter capti quatuor mensibus. 
+<lb/>6. In isto altissimo monte, forte post paradisum altiore qui 
+sit in terra, putant quidam esse paradisum, et male, quia nomen 
+contradicit; vocatur enim ab incolis <foreign xml:lang="transl">Zindanbaba</foreign>: 
+    <foreign xml:lang="transl">baba</foreign>, id est 
+pater, et <foreign xml:lang="transl">mama</foreign>, 
+    id est mater in omni ydiomate mundi, et 
+<foreign xml:lang="transl">zindan</foreign>, 
+idem est quod infernus; ideo <foreign xml:lang="transl">Zindanbaba</foreign> 
+    idem est quod infernus patris quia ibi, de paradiso expulsus, 
+    positus fuit pater quasi in inferno. 
+    <lb/>7. In isto etiam altissimo monte est <geogName key="Mons Adae" 
+        ref="https://www.geonames.org/1252292/">cacumen supereminens</geogName>, 
+quod raro videri potest propter nebulam. Deus autem, misertus 
+lacrimis nostris, quodam mane in aurora fecit ipsum luminosum 
+et vidimus flammam clarissimam illustrantem ipsum. In descensu 
+collis eiusdem montis est planities altissima, pulchra, in qua ista
+sunt per ordinem: primo forma pedis Ade, secundo statua 
+quedam sedens, sinistra manu super genu quiescente, dextra 
+levata, extensa contra occidentem. Item domus eius, quam fecit 
+manibus suis, quasi per modum sepulchri quadrangula oblonga, 
+hostio in medio de maximis lapidibus, marmoreis tabulis non 
+muratis sed suppositis. 
+<pb n="74" type="page"/>
+<lb/>8. Dicunt incole maxime religiosi, qui stant ad pedes montis 
+sine fide sanctissime vite, quod illuc nunquam ascendit diluvium, 
+ideo est permanens domus illa, sompniantes contra sacram 
+Scripturam et dicta sanctorum. Ipsi tamen habent pro se argumenta 
+apparentia valde, et dicunt se non descendisse de Caym 
+nec de Seth, sed de aliis filiis Ade, qui genuit filios alios et filias. 
+Quia tamen est contra sacram Scripturam, pertranseo. 
+<lb/>9. Nunquam tamen comedunt carnes, quia Adam nec alii 
+comederunt carnes usque post diluvium. Nudi vadunt a lumbis 
+et sursum, et pro certo sunt boni moris. Habent domus de foliis 
+palmarum, que cum digito frangerentur, et dispersas per silvas 
+plenas divitiis; et tamen securissime habitant a furibus, nisi 
+sint aliunde et inopes vagabundi. 
+<lb/>10. In eodem monte versus paradisum est fons maximus, 
+bene decem miliarium ytalicorum, aquis optimis perspicuus, quem 
+dicunt derivari de fonte paradisi et ibi erumpere; quod probant, 
+quia aliquando erumpunt de fundo quedam folia ignota et in 
+magna copia et lignum aloes et lapides pretiosi sicut carbunculus 
+et saphirus, et poma quedam ad sanitatem. Dicunt etiam lapillos 
+illos causatos de lacrimis Ade, quod falsum omnino videtur. De 
+multis aliis pertranseundum puto ad presens. 
+<lb/> 
+<lb/><hi rend="italic">VI. DE HORTO ADE ET FRUCTIBUS IPSIUS</hi> 
+<lb/>
+<lb/>[1.] Sunt enim in horto illo Ade de 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllano</placeName> 
+    primo muse, quas incole ficus vocant. Musa autem magis videtur planta 
+    hortensis quam arbor. Est enim grossa arbor, sicut quercus, et tante 
+    teneritudinis, quod fortis homo posset eam digito perforare, et exit de ea 
+    aqua continue. Folia istius muse sunt pulcherrima, longa et lata valde, 
+    viriditatis smaragdine, ita quod de foliis illis faciunt tobalias, 
+    in uno prandio tantum; quando etiam primo nascuntur pueri, post lotionem 
+    conditos sale et aloes et rosis, involvunt eos sine fascia in foliis istis, 
+    et in arenam ponunt; folia illas sunt longitudinis secundum magis et minus 
+    bene decem ulnarum, et similitudinem nescimus ponere nisi enule campane. 
+    Fructum producit tantum in summitate, et in uno baculo faciunt bene trecentos 
+    fructus, et prius non valent ad comedendum; post applicantur in domo et sunt 
+    optimi odoris et melioris saporis, et sunt longi ad modum longorum digitorum 
+    manus, et per se stando maturantur. Et istud vidimus oculis nostris, 
+    quod ubicumque inciditur per transversum, in utraque parte incisure videtur 
+    ymago hominis crucifixi, quasi si homo cum acu sculpsisset; et de istis 
+    foliis ficus Adam et Eva fecerunt sibi perizomata ad cooperientum turpitudinem suam.
+<pb n="76" type="page"/>
+<lb/>[2.] Sunt ibi et alie arbores multe et fructus mirabiles, quos nunquam 
+    vidimus hic, scilicet nargillus. Est autem nargillus nux yndica; arbor eius 
+    est in cortice delicatissima; folia habet pulcherrima, quasi palma, de quibus 
+    fiunt sporte sextarie, cooperiunt domos de ligno, scilicet hastas et trabes, 
+    de callo sive scortia faciunt funes, de testa cuppas et vasa. Item contra 
+    venenum fiunt de ipsis coclearea. In testa est carnositas duorum digitorum 
+    optima ad comedendum, quasi amigdala; conburitur etiam, et sic fit inde oleum 
+    optimum et zukara. Intus est liquor, ad modum lactis bullit et fit vinum optimum.
+<lb/>[3.] Est ibi alia arbor, que vocatur amburanus, optimi odoris et saporis 
+quasi ad modum persici. Est et alia arbor mirabilis nomine 
+    <foreign xml:lang="transl">ciakebariche</foreign>, ingens quasi quercus; in 
+    grosso, non in ramis, producit fructus mirabiles ad magnitudinem unius grossi 
+    agnelli, vel pueri trium annorum; cortex eius dura, ut pini apud nos; inciditur 
+    securi; habet intus carnositatem plenam omnis saporis, suavitatem quasi mellis et 
+    optimi peponis ytalici, et bene quingentas castaneas continet eiusdem saporis; 
+    quando sunt bene cocte, comestibiles. Fructus alios non recordor me vidisse, 
+    nec pira, nec poma, nec ficus, nec vites, nisi que faciunt tantum folia, non racemos. 
+    Nisi quod in ecclesia Sancti Thome Apostoli pulcherrima, ubi ipse fuit episcopus,  
+    est vinea parva, faciens parum vini, quam vidi. Dicitur autem, quando ivit, portavit 
+    secum parum vini pro missis, sicut ego feci annis quasi duobus, quo deficiente ivit 
+    ad paradisum, ministerio angelico introductus, portavit secum de uvis illis, et grana 
+    seminavit, et crevit vinea, et fecit sibi vinum, et ego vidi eam ibi. Alibi tamen 
+    sunt vites, uvas tamen non faciunt, ut probavi; similiter pepones et cucurbite; 
+    nullam herbam vel olera comestibilia vidi, nisi silvas de basilico. 
+<lb/>[4.] Ista sunt in horto Ade. Sed de qua arbore fructum comederit, ignoratur; tamen 
+    per coniecturam haberi potest quia de cedro, nam scribitur: «Ipse lignum tunc 
+    notavit dampna ligni ut solveret». Fuerunt itaque in ligno crucis palma, oliva, 
+    cipressus et cedrus, qui solus dicitur esse fructus delectabilis ad manducandum, 
+    ut tale videtur lignum crucis apud dominum nostrum 
+    <persName key="Carolus IV" ref="http://viaf.org/viaf/88599000">Carolum</persName> 
+    imperatorem in sua cruce, quamvis illi dicant de musa, que dicitur ficus, et representat 
+    ymaginem crucifixi: hec sine preiudicio et assertione. De predicto autem fructu 
+    dicit quedam glosa hebraica super illud proverbium Ezechielis: «Patres comederunt 
+    uvam acerbam et dentes filiorum obstupuerunt» [...]. Sed non consonat hec glosa 
+    nostris doctoribus, quia in cruce non fuit lignum vitis. Idem de ficu, de quo 
+    tenent filii Ade de <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName>, 
+    nec de musis propter eandem causam, non obstante quod 
+    fecerunt perizomata de foliis illis propter magnitudinem fo<pb n="78" type="page" break="no"/>liorum. 
+    De olivis nullus dicit, nec de dactilis, quamvis sint delectabiles. Fuit tamen 
+    palma in cruce, sicut bene apparet in ligno imperialium reliquiarum aperte meo iudicio. 
+    Si enim vera esset relatio Viterbiensis in <hi rend="italic">Pantheon</hi>, tunc 
+    non esset questio: dicit enim, quod quando Adam fuit infirmus, misit Seth filium suum 
+    ad paradisum, petendo oleum misericordie repromissum. Angelus custos paradisi dixit: 
+    «Nondum est tempus; tamen accipe tres istos ramos, scilicet olive, cedri et cipressi, 
+    et planta; quando facient oleum, tunc pater tuus surget sanus». Venit Seth et invenit 
+    patrem mortuum in <placeName key="Hebron" ref="https://pleiades.stoa.org/places/687915">Ebron</placeName>, 
+    et contorsit tres ramos istos, et plantavit super corpus Ade et statim facti sunt unum. 
+    Tandem arbor illa crescens transplantata fuit, primo in 
+    <geogName key="Mons Libanus" ref="https://pleiades.stoa.org/places/678267">monte Libani</geogName>, 
+    postmodum prope <placeName key="Ierusalem" 
+        ref="https://pleiades.stoa.org/places/687928">Iherusalem</placeName> 
+    et est ibi hodie monasterium Grecorum, ubi fuit incisum illud lignum, et est 
+    sub altari fossa illa, et vocatur monasterium ex eventu Nostre Crucis in hebraico, 
+    et illud lignum fuit revelatum Salomoni per reginam <placeName key="Saba" 
+        ref="https://www.geonames.org/1642673/">Saba</placeName>, quod Salomon sepeliri 
+    fecit sub profundissima turri et, facto terre motu, in nativitate Christi erupit, 
+    scisso fundamento turris, et illius virtute facta fuit probatica piscina. 
+<lb/> 
+<lb/><hi rend="italic">VII. DE AMICTU PRIMORUM PARENTUM</hi>
+<lb/> 
+<lb/>1. Fecit autem Dominus Ade et uxori eius tunicas pelliceas 
+et induit eos. Sed queritur, de quibus pellibus, vel de novo creavit 
+quod non sapit, vel animal occidit quod non placet, quia nondum 
+erant multiplicata per generationem, et duo et duo tantum in 
+principio creata fuisse creduntur; ideo videtur sine assertione 
+dicendum quod non pelliceas tunicas est legendum sed filiceas. 
+Nam inter folia nargillorum, de quibus supra dictum est, nascuntur 
+fila ad modum tele staminis quasi grossi et rari sacci, de 
+quibus etiam hodie fiunt apud illos et apud Yndos vestes pro 
+pluvia rusticorum, qui vocantur camalli, portantes scilicet onera, 
+et etiam homines et mulieres portant super scapulas in lecticis, de 
+quibus in Canticis: «Ferculum fecit sibi Salomon de lignis 
+    <placeName key="Libanus" ref="https://www.geonames.org/272103/">Libani</placeName>», id 
+est lectulum portatilem, sicut portabar ego in 
+    <placeName key="Zayton" ref="https://www.geonames.org/1797353/">Zayton</placeName> et in 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>. 
+<lb/>2. Unam talem vestem de filis illis camallorum, non camelorum, 
+    portavi ego usque <placeName key="Florentia" 
+        ref="https://pleiades.stoa.org/places/413138">Florentiam</placeName> 
+    et dimisi in sachristia Minorum, 
+similem vesti Iohannis Baptiste. Nam pili camelorum sunt 
+delicatior lana que sit in mundo post sericum. Fui enim aliquando 
+cum infinitis camelis et pullis camelorum in deserto vastissimo, 
+descendendo de <placeName key="Babylonia" 
+    ref="https://pleiades.stoa.org/places/893951">Babilonie</placeName> 
+    confusionis versus <placeName key="Aegyptus" 
+        ref="https://pleiades.stoa.org/places/766">Egiptum</placeName> 
+    per viam <placeName key="Damascus" 
+        ref="https://pleiades.stoa.org/places/678106">Damasci</placeName> 
+    cum Arabibus infinitis. Nec in <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName> sunt cameli 
+sed elephantes innumeri <pb n="80" type="page"/>qui licet 
+    sint ferocissimi, raro tamen 
+    nocent homini peregrino. Ego equitavi super unum regine 
+    <placeName key="Saba" ref="https://www.geonames.org/1642673/">Saba</placeName>, 
+qui videbatur habere usum rationis, si non esset contra fidem. 
+<lb/> 
+<lb/><hi rend="italic">VIII. DE VICTU PRIMORUM PARENTUM</hi>
+<lb/> 
+    <lb/>1. Vixerunt autem in <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName> 
+    primi parentes de fructibus 
+istis et bibebant lac animalium; non carnes ante diluvium, sicut 
+nec adhuc comedunt homines qui se dicunt filios Ade, comederunt. 
+Fuit autem positus Adam in <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">monte Seyllano</placeName> et incepit 
+ibi edificare domum, ut dictum est supra, de tabulis maximis 
+marmoreis etc. Ibi habitant homines religiosi et mundissimi, 
+ymo tante munditie quod nullus habitaret in domo ubi spuisset 
+aliquis, ymo quamvis raro spuant, tamen vadunt longe tam pro 
+sputo quam pro alia materia. Comedunt tantum semel in die, 
+nunquam bis; nullum potum preter lac et aquam bibunt, orant 
+mundissime, scribunt primo in arena digito et sic docent formare 
+litteras pueros, postmodum stilo ferreo in foliis papiri, scilicet 
+arboris cuiusdam. 
+<lb/>2. In claustro sunt due arbores dissimiles in foliis ab omni 
+alia; sunt circumdate coronis aureis et gemmis et luminaria 
+sunt ante eas, et illas colunt et adorant, ut dicunt et fingunt 
+se ex traditione Ade ritum talem suscepisse, quia ex ligno dicunt 
+Adam futuram sperasse salutem, et consonat illi versui Dauid: 
+«Dicite in gentibus, quia dominus regnabit in ligno», quamvis 
+secundum hebraicam veritatem melius dicatur «curabit a ligno». 
+Isti etiam nunquam in crastinum servant aliquid in domo sua, 
+in arena iacent, nudipedes incedunt, baculos in manu gestant; 
+tunica quasi fratrum Minorum sine capucio et mantello ad
+modum apostolorum plicato super humerum sunt contenti. Vadunt 
+omni mane processionaliter pro prandio mendicando rysum; 
+occurunt eis principes cum maxima devotione vel alii et dant 
+ad mensuram et numerum personarum. Lixum in aqua comedunt 
+cum lacte nargillorum et musis. 
+<lb/>3. Hec vidi oculis meis, et fecerunt michi festum quasi essem 
+de ordine eorum. 
+<lb/> 
+<lb/><hi rend="italic">IX. DE GENERATIONE ET MULTIPLICATIONE GENERIS HUMANI</hi>
+<lb/>
+<lb/>Opinio autem illorum est, quod Adam ibi genuit primo Caym et sororem eius 
+    anno quinto decimo; ipse enim, quamvis fuerit creatus annorum quasi triginta, 
+    expectasse tamen creditur annum pubertatis [...].
+<lb/>
+    <pb n="82" type="page"/>
+<lb/><hi rend="italic">X. DE OBLATIONIBUS ABEL ET CAYM</hi> 
+<lb/>
+<lb/>[...] Edificavit tamen [Caym] civitatem [...]. Et hec civitas fuisse putatur 
+    ubi nunc est <placeName key="Kota" 
+        ref="https://www.geonames.org/1238992/">Kota</placeName> in
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllano</placeName>, ubi fui; 
+    et ibi, multis generatis, ivit profugus versus 
+    <placeName key="Damascus" ref="https://pleiades.stoa.org/places/678106">Damascum</placeName>, 
+    ubi a septimo descendente Lamech sagitta occisus est, ibique prope 
+    <placeName key="Damascus" ref="https://pleiades.stoa.org/places/678106">Damascum</placeName> 
+    sepulchrum eius ostenditur [...].
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XI. DE GENERATIONE ET MULTIPLICATIONE BONORUM</hi>
+<lb/>
+<lb/>Seth sanctus [...]. Cui successit filius eius Enoch, qui cepit invocare 
+    nomen Domini, quia novum modum orandi Deum per orationes vocales instituit 
+    et religionem adinvenit, modum vivendi singularem quem hodie, ut dicunt, 
+    sequuntur tam Bragmani quam religiosi de 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllano</placeName>,
+    licet facti sunt ydolatre, colentes lignum de quo supra [...]. Filii autem Ade de 
+    <placeName key="Seyllanum" ref="https://www.geonames.org/1227604/">Seyllano</placeName> probant ad 
+    eos diluvium non venisse multis signis, et maxime quia in oriente sunt profugi, 
+    vagi multi, quos et ego vidi, et dicunt se filios Caym, qui exterminatas 
+    habent facies, tam horridas et horrendas quod terrent omnem hominem, 
+    nunquam ultra dies duos in loco stare valentes; feterent si plus starent, 
+    nullus potest eos sustinere, raro apparent, tamen mercatores sunt, filios 
+    et uxores † portant in asinis [...].
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XII. SECUNDA ETAS, ET INCIPIT SECUNDUS LIBER, QUI MONARCHOS NOMINATUR</hi>
+<lb/> 
+<lb/>1. Noe egresso de archa cum uxore et tribus filiis et totidem 
+    uxoribus residentibus in <geogName key="Ararat" ref="https://www.geonames.org/325164/">monte 
+    altissimo Ararat</geogName> vel 
+    <placeName key="Armenia" ref="https://pleiades.stoa.org/places/981507">Armenie</placeName>, 
+ubi adhuc arche illius vestigia esse dicuntur, etas secunda incipit [...].
+<lb/>2. Ipse, quasi quietam vitam eligere cupiens, sibi 
+    <placeName key="Cyprus" ref="https://pleiades.stoa.org/places/707498">Cethym insulam</placeName>, 
+    que nunc Cyprus dicitur, reservavit. Sem ergo primogenitus, quia rex et sacerdos, post 
+patrem obtinuit medietatem orbis, scilicet totam 
+    <placeName key="Asia" ref="https://pleiades.stoa.org/places/915832">Asiam maiorem</placeName>  
+    que est a <geogName key="Mare Album" ref="https://www.geonames.org/577742/">mari Albo</geogName> ultra 
+    <placeName key="Hungaria" ref="https://www.geonames.org/719819">Ungariam</placeName>, 
+    ubi nunc sunt Olachi, per rectam lineam totum illud imperium 
+        <persName key="Usbec Chan" ref="https://viaf.org/en/viaf/305463891">Usbec</persName>, 
+    <placeName key="Cathay" ref="https://en.wikipedia.org/wiki/Cathay">Cathay</placeName>, 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndias</placeName>, 
+    <placeName key="Aethiopia" ref="https://pleiades.stoa.org/places/334481">Ethiopiam</placeName> 
+    usque ad finem mundi [...]. Plantavit autem Noe vineam in 
+    <placeName key="Cyprus" ref="https://pleiades.stoa.org/places/707498">Cypro</placeName>, que hodie 
+    est archiepiscopi <placeName key="Nycosia" 
+        ref="https://pleiades.stoa.org/places/707558">Nycosie</placeName>, et coluit eam [...].
+<lb/>
+<pb n="84" type="page"/>    
+<lb/><hi rend="italic">XIII. DE CULTU POST DILUVIUM</hi> 
+<lb/> 
+<lb/>1. Sem studuit colere verum Deum, cuius hystoriam nunc sequamur. 
+    Hic secundo anno post diluvium genuit Arfaxat, qui eciam genuit 
+    Elam, a quo nobilis generatio Alanorum in oriente dicitur exorta. Et est 
+    hodie maior et nobilior natio mundi et homines pulchriores et fortiores; 
+quorum auxilio Thartari obtinuerunt imperium orientis et sine 
+quibus nunquam habuerunt victoriam gloriosam. Conduxit enim 
+    <persName key="Cyngis-Chan
+        " ref="http://viaf.org/viaf/100172770">Cinguis Caam</persName>, 
+    primus Thartarorum rex, de eis septuaginta duos principes, 
+quando voluit precepto Dei castigare mundum [...]. 
+<lb/>2. Arfaxat filius Sem, anno etatis trigesimo quinto, genuit Sela vel 
+    Sale, a quo <placeName key="India" 
+        ref="https://pleiades.stoa.org/places/50004">Yndia</placeName> populata est 
+et divisa in tria regna. Quorum primum vocatur 
+<placeName key="Manzi">Manzi</placeName>, maior 
+et nobilior provincia mundi, pulchrior, amenior et latior, in qua 
+est illa nobilis civitas <placeName key="Campsay" 
+    ref="https://www.geonames.org/1808926/">Campsay</placeName>, 
+    <placeName key="Zayton" ref="https://www.geonames.org/1797353/">Zayton</placeName>, 
+    <placeName key="Cynkalan" ref="https://www.geonames.org/1809858/">Cynkalan</placeName>, 
+    <placeName key="Ianu" ref="https://www.geonames.org/1787227/">Ianu</placeName> et 
+alie multe civitates <placeName key="Manzi">Manzi</placeName> 
+    olim <foreign xml:lang="transl">Cyn</foreign>, 
+    ubi usque hodie est portus et civitas nobilis que dicitur 
+    <placeName key="Cynkalan" ref="https://www.geonames.org/1809858/">Cynkalan</placeName>, 
+    id est magna <placeName key="India" 
+        ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>, 
+nam <foreign xml:lang="transl">kalan</foreign> est magnum, ad 
+    differentiam secunde <placeName key="India" 
+        ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> que 
+    dicitur <placeName key="Mynibar" ref="https://www.geonames.org/1264188/">Mynibar</placeName>, 
+    ubi est <placeName key="Cynkali" ref="https://www.geonames.org/1266385/">Cynkali</placeName>, 
+    id est parvum, parva <placeName key="India" 
+        ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>. 
+<lb/>3. Secundum <placeName key="India" 
+    ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> 
+    regnum vocatur <placeName key="Mynibar" 
+        ref="https://www.geonames.org/1264188/">Mynibar</placeName>, 
+    de quo loquitur beatus 
+    <persName key="Augustinus Hipponensis" 
+        ref="https://viaf.org/en/viaf/66806872">Augustinus</persName> 
+    de philosophis caninis, qui ideo canini dicti 
+sunt, quia naturam canum imitari docebant, ne videlicet de naturalibus 
+homo verecundari deberet; nec tamen potuerunt persuadere 
+populis quod etiam filii non verecundarentur coram patribus 
+balneari vel pudenda ostendere. Ibi est civitas 
+    <placeName key="Columbum" ref="https://www.geonames.org/1259091/">Columbi</placeName>, ubi 
+nascitur piper, de quo supra. 
+<lb/>4. Tertia provincia <placeName key="India" 
+    ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> vocatur 
+    <placeName key="Maabar" ref="https://www.geonames.org/1273819/">Maabar</placeName>, 
+    ubi est ecclesia Sancti Thome, quam manu propria edificavit, et alia 
+    quam edificavit cum operariis, quibus solvebat de lapillis marinis quos 
+vidimus et de uno ligno inciso in <geogName key="Mons Adae" 
+    ref="https://www.geonames.org/1252292/">monte Ade</geogName> in <placeName key="Seyllanum" 
+        ref="https://www.geonames.org/1227604/">Seyllano</placeName>, quod 
+fecit secari et de pulvere secature seminate sunt arbores. Fuit 
+autem lignum illud ita maximum incisum per duos sclavos suos 
+et ipsius cingulo tractum in mare, et precepit ligno dicens: «Vade, 
+expecta nos in portu civitatis <placeName key="Mirapolis" 
+    ref="https://www.geonames.org/1262327/">Mirapolis</placeName>». Quo cum pervenisset, 
+rex cum toto exercitu suo conabatur trahere in terram, nec 
+movere potuerunt homines decem milia. Tunc supervenit sanctus 
+Thomas apostolus indutus camisia, stola et mantello de pennis 
+pavonum, super asinum, sociatus duobus illis sclavis et duobus 
+magnis leonibus, sicut pingitur, et clamavit: «Nolite» inquit 
+«tangere lignum, quia meum est». «Unde» inquit rex «probas 
+tuum?». Qui solvens funiculum quo erat precinctus precepit 
+sclavis: «Ligate lignum et trahite in terram». Quo facillime in 
+terram tracto, rex convertitur et donat sibi de terra quantum 
+voluit cum asino circuire. Ecclesias edificat in civitate in die, 
+sed nocte ad tria miliaria ytalica ferebatur ubi sunt pavones 
+innumeri, unde sagitta, <pb n="86" type="page"/>quam 
+    fricciam vocant, in latere, sicut 
+misit manum in latus Christi, percussus, hora completorii, ante 
+suum oratorium iacens et sanguinem sacrum totum per latus 
+effundens, tota nocte predicans, mane reddit animam Deo. Sacerdotes 
+tunc terram illam sanguine mixtam collegerunt et secum 
+sepelierunt, de qua vidi expressum miraculum in persona mea 
+duplicatum, alibi recitandum. 
+<lb/>5. Mirum autem continue ibidem apparet, tam de apertione 
+maris quam de pavonibus, et quia quanto plus trahitur 
+terra de illa fovea una die, tantum scaturit alia, de qua bibita 
+curantur languores, tam per Christianos quam per Thartaros et 
+paganos fiunt aperta miracula. Dedit etiam rex ille stateram 
+ponderis piperis beato Thome et omnium specierum aromatum 
+in eternum, quam nullus potest eis auferre sine periculo mortis. 
+Fuimus ibi diebus quatuor. Ibi est summa perlarum piscatio [...].
+<lb/>
+<lb/><hi rend="italic">XIV. DE MONSTRIS</hi>
+<lb/>
+<lb/>6. De monstris que hystorie vel fabule fingunt vel pingunt
+et dicuntur esse in <placeName key="India" 
+    ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>, 
+    de quibus etiam beatus <persName key="Augustinus Hipponensis" 
+        ref="https://viaf.org/en/viaf/66806872">Augustinus</persName>, 
+libro <hi rend="italic">De civitate Dei</hi> decimo sexto 
+    facit memoriam, puta quod sunt 
+qui tantum in fronte unum habent oculum; quidam plantas 
+versas post crura; quibusdam utriusque sexus naturam, et dextram 
+mammam virilem, sinistram muliebrem esse fingunt; alii sine capite 
+et sine ore, in pectore tantum habere foramen; alii per 
+nares tantum alitu vivere; alii statura cubitali cum gruibus 
+dimicare; alii octavum annum non excedere, quinquies concipere 
+et parere; alii sine iunctura; alii supini iacentes planta 
+pedis umbram sibi faciendo; quidam habentes capita canina; 
+ypotamos et alia multa monstra poete finxerunt. De istis 
+omnibus sic concludit beatus <persName key="Augustinus Hipponensis" 
+    ref="https://viaf.org/en/viaf/66806872">Augustinus</persName>: aut nullomodo sunt, 
+aut si sunt et ratione utuntur vel uti possunt, ex Adam omnes 
+homines sunt, aut monstra in natura sunt tamen ex Adam, 
+sicut inter nos aliquando nata sunt pauca, in illis partibus et in 
+toto genere humano sunt multa, sicut ponit exemplum de variis 
+gibbosis, de homine habente sex digitos et de aliis multis. 
+    <lb/>7. Sicut imperator nobilissimus <persName key="Carolus IV" 
+        ref="http://viaf.org/viaf/88599000">Carolus quartus</persName> portavit de 
+    <placeName key="Tuscia" ref="https://pleiades.stoa.org/places/413122">Tuscia</placeName> 
+    puellam in facie omnino pilosam et in toto corpore maximis 
+pilis, sicut esset filia vulpis, non tamen per se est in 
+    <placeName key="Tuscia" ref="https://pleiades.stoa.org/places/413122">Tuscia</placeName>  
+talis populus, nec mater sua fuit talis, nec alii filii, sed nobis 
+similes. Sicut illud monstrum, quod vidimus etiam diebus nostris 
+in <placeName key="Tuscia" ref="https://pleiades.stoa.org/places/413122">Tuscia</placeName>, 
+    in districtu <placeName key="Florentia" 
+        ref="https://pleiades.stoa.org/places/413138">Florentie</placeName>, 
+    nasci de pulchra matre, habens 
+duo capita perfecte formata, quatuor brachia, duo pectora usque 
+ad umbilicum perfecta forma, <pb n="88" type="page"/> 
+    ibi coniungebantur et unus quasi 
+pes ex latere procedebat, et post duos tantum pedes habebant 
+et tamquam due persone baptizate fuerunt et supervixerunt 
+diebus septem. 8. Vidi etiam <placeName key="Bononia" 
+    ref="https://pleiades.stoa.org/places/393421">Bononie</placeName>, 
+    quando ibi legebam, ovem que peperit 
+simile monstrum, scilicet agnum habentem duo capita septem 
+pedes; non tamen putandum est esse aliquam speciem bestiarum, 
+sed monstra nature sunt. Sic et Deus vult in hominibus suam potentiam 
+demonstrare, ut gratias sibi agamus, quia nos non condidit sic deformes, et 
+timeamus eum.
+<lb/>9. Ego tamen omnium provinciarum Yndorum curiosissimus 
+peragrator, sicut sepe plus habui animum curiosum quam virtuosum, 
+volens omnia nosse si possem, et qui plus dedi operam, ut 
+puto, quam alius, qui legatur vel sciatur, ad investigandum mirabilia 
+mundi, et transivi per principaliores mundi provincias, 
+maxime ubi totius orbis mercatores conveniunt, scilicet in insula 
+dicta <placeName key="Ormes" ref="https://www.geonames.org/131231/">Ormes</placeName>, 
+    nunquam potui investigare pro vero tales gentes 
+esse in mundo, ymo ipsi a me petebant utrum essent. Nec est 
+aliqua natio talis, nisi ut dixi monstrum, nec illi qui finguntur 
+uno pede sibi umbram facere sunt natio una, sed quia omnes 
+Yndi communiter nudi vadunt, portant in arundine parvum 
+papilionem semper in manu, quem vocant <foreign 
+    xml:lang="transl">cyatyr</foreign>, sicut ego 
+    habeo <placeName key="Florentia" 
+        ref="https://pleiades.stoa.org/places/413138">Florentie</placeName>, 
+    et extendunt contra solem et pluviam quando 
+volunt; istud poete finxerunt pedem. 
+<lb/> 
+<lb/><hi rend="italic">XV. INCIDENS DE QUODAM YNDO BAPTIZATO</hi>
+<lb/> 
+    <lb/>1. Cum etiam essem in <placeName key="Columbum" 
+        ref="https://www.geonames.org/1259091/">Columbo</placeName> 
+    cum principibus illis Christianis, 
+qui <foreign xml:lang="tranls">Modilial</foreign> vocantur, 
+    domini piperis, ante ecclesiam 
+quodam mane venit homo nudus a lumbis supra, venerande stature, 
+alba barba, solo pallio coopertus cordula nodosa ad modum 
+stole dyaconi, et toto corpore in arena prostratus adoravit, capud 
+ter ad solum percutiens; tandem surgens cepit pedes meos nudos 
+osculari desiderans, prohibitus autem surrexit. Postmodum residens 
+in arena, per interpretem filium, qui captus aliquando a 
+piratis venditus fuit cuidam Ianuensi mercatori et baptizatus, et 
+casu tunc erat nobiscum, et patrem ex circumstantiis recognovit, 
+dixit nobis totam vitam suam. Nunquam carnes comederat, 
+nunquam potum biberat inebriantem, nunquam nisi unam cognoverat 
+causa prolis procreande, quatuor mensibus in anno 
+purissime ieiunabat, granum rysii parum in aqua bullitum et 
+fructus et herbas de sero manducabat, in oratione pernoctabat, 
+et antequam intraret oratorium suum, corpus totum aqua lavabat 
+et induebat mundissimam lineam vestem ad hoc solummodo 
+preparatam; tunc intrabat et colebat dyabolum in ydolo suo 
+purissima devotione. Et erat sacerdos totius insule sue que 
+sita est in ultimis finibus Yndorum. 
+<pb n="90" type="page"/>
+<lb/>2. Deus videns eius puritatem illuminavit eum primo per 
+sapientiam, tandem demon coactus per os ydoli dixit sibi: «Non 
+es in via salutis, ideo precipit tibi Deus ut vadas in 
+    <placeName key="Columbum" ref="https://www.geonames.org/1259091/">Columbum</placeName> 
+itinere per mare annorum duorum: ibi invenies nunctium Dei 
+qui docebit te viam salutis». «Ideo», inquit, «veni ad pedes tuos
+paratus in omnibus obedire, et quod plus est, in sompnis vidi 
+faciem tuam sicut modo agnosco». Tunc cum lacrimis facta oratione, 
+confortantes eum dedimus sibi filium suum baptizatum 
+interpretem et doctorem. Tunc post tres menses instructum 
+baptizavimus Michaelem vocantes et, percepta benedictione, remisimus 
+ipsum promittentem quod fidem quam didicerat aliis predicaret. 
+<lb/>3. Hec hystoria utilis est ad ostendendum, sicut dicit beatus 
+    Petrus de Cornelio centurione, «quod non est personarum exceptio 
+    apud Deum», sed quicumque legem scriptam in corde a Deo servat, 
+    quia signatum est «super nos lumen vultus tui Domine», acceptus 
+est illi et docet eum viam salutis. 
+<lb/>4. Utrum autem iste, quia per duos annos navigans per 
+mare et per Yndorum insulas olim ignotas, aliquid vidisset de 
+monstris istis vel saltim audisset, inquisivimus; qui omnino 
+nichil scivit. Nec etiam apud reginam <placeName key="Saba" 
+    ref="https://www.geonames.org/1642673/">Saba</placeName>, ubi tamen oritur 
+sol modo opposito nobis, et in meridie transit umbra viri ad 
+dextrum, sicut hic ad sinistrum, et occultatur ibi polus articus 
+nobis gradibus sex et antarticus totidem elevatur, sicut dominus 
+    <persName key="Lemon de Ianua" ref="https://viaf.org/en/viaf/19725439">Lemon de Ianua</persName>, 
+    nobilis astrologus, nobis ostendit, et multa in astris mira. 
+<lb/>5. Sunt tamen bene quidam gygantes, quorum unum vidi, 
+cui non potui cum capite attingere ultra cingulum, turpissime 
+figure et fetide valde. Sunt homines silvestres in silvis, cum 
+filiis et uxoribus, nudi et pilosi habitantes; inter homines non 
+apparent et raro potui videre aliquem, quia abscondunt se in 
+silvis quando sentiunt homines transeuntes. Faciunt multa 
+opera, seminant et colligunt blada et multa alia, et quando 
+mercatores ad eos vadunt, ut vidi, illi exponunt venalia in medio 
+vie et fugiunt et stant absconsi; tunc ementes vadunt et ponunt 
+pretium et etiam longe recedunt, et illi veniunt et vadunt totiens 
+quod ille accipit pretium, et mercator accipit res relictas. 
+<lb/>6. Sunt etiam monstruosi serpentes et fere, sicut habet in 
+clausura sua Pragensi dominus imperator <persName key="Carolus IV" 
+        ref="http://viaf.org/viaf/88599000">Carolus</persName>. Sunt etiam 
+animalia quedam quasi ad figuram hominis, maxime apud reginam 
+    <placeName key="Saba" ref="https://www.geonames.org/1642673/">Saba</placeName> 
+    et in claustro de <placeName key="Campsay" 
+        ref="https://www.geonames.org/1808926/">Campsay</placeName>, in illo famosissimo 
+monasterio, ubi sunt tot monstruosa animalia, que credunt esse animas 
+defunctorum. Sed ex certa scientia didici esse animalia 
+irrationabilia, nisi quod dyabolus utitur eis, sicut olim lingua 
+serpentis, demerentibus illis infidelibus 
+    <pb n="92" type="page"/>propter incredulitatem 
+eorum, alias vita illorum in religiosis moribus et orationibus 
+contenta et ieiuniis, si essent in vera fide, excederet omnem observantiam 
+et continentiam nostram. Veniunt enim illa animalia 
+ordinate ad comedendum dato signo; verumtamen nunquam 
+venerunt cruce presente, post venerunt cruce recedente. 
+Ideo concludo quod ista monstra homines non sunt, licet videantur 
+habere aliquos actus, sed sunt sicut symee quas, si nunquam 
+vidissemus, putaremus homines esse, nisi tantum illa monstra, 
+ut dixi, que nata sunt preter consuetudinem de Adam. 
+<lb/>7. Nec putandum est, ut dicit beatus 
+    <persName key="Augustinus Hipponensis" 
+        ref="https://viaf.org/en/viaf/66806872">Augustinus</persName>, antipedes 
+esse quasi homines plantas contra nos tenentes, quod nullomodo 
+putandum est, quia terra firmata est super aquas, et ut experientia 
+certa didicimus, dividendo occeanum in modum crucis, due 
+quadre sunt navigabiles et due alie nullomodo. Noluit enim Deus 
+quod homo posset circuire per mare totum mundum. Ermofroditam 
+vidimus, non tamen generantem sicut est, neque etiam 
+mulus generat etc. 
+<lb/> 
+<lb/><hi rend="italic">XVI. DE MULTIPLICATIONE GENERIS HUMANI ET 
+DIVISIONE TERRARUM ET TURRI BABEL</hi>
+<lb/>
+<lb/>[1.] [...] Ideo, multiplicato in tantum humano genere, versus 
+    orientem iuvenum electa societas proficisci ceperunt. Veneruntque ad 
+    <geogName key="Campum Sennaarr" ref="https://en.wikipedia.org/wiki/Shinar">campum Sennarr</geogName> 
+    in <placeName key="Asia" ref="https://pleiades.stoa.org/places/915832">Asia maiori</placeName>, 
+    iuxta fluvium maximum nomine <geogName key="Euphrates" 
+        ref="https://pleiades.stoa.org/places/912849">Eufrates</geogName>, in quandam vastam 
+    planitiem magnitudinis quodammodo infinite ubi, ut oculis nostris vidimus, 
+    est omnium fructuum, maxime dactilorum, habundantia. Ibi olivarum et 
+    vinearum copia, ibi omnium terre nascentium et hortensium, peponum 
+    et melonum et cucumerorum copia, ibi sedem suam posuerunt, nullas leges, 
+    nulla legittima connubia observabant, sed sola libidine ferebantur [...].
+<lb/>[2.] Est autem bitumen, quasi pix nigerrima, mixta oleo fluens, sed quando 
+    muratur cum lateribus constringitur et desiccatur tanta coagulatione, ut vix 
+    arte dissolvi possit, sicut ego, qui supra turrim illam fui, palpavi et vidi, 
+    et de illo bitumine desiccato tuli mecum. Nam homines patrie continue destruunt 
+    turrim illam, propter lateres colligendos. Fuit ergo fundata civitas permaxima, 
+    ita quod in omni quadro habuit, ut dicunt, octo miliaria ytalica, sicut bene 
+    apparet. In capite unius muri iuxta flumen, quasi pro arce, posuerunt turrim 
+    istam, et sicut ascendebant, implebant terra; ita quod et intus solida, 
+    rotunda et circularis, et facit mane oriente sole in illa planitie longissimam 
+    umbram.
+<lb/>
+<pb n="94" type="page"/>
+<lb/>
+<lb/><hi rend="italic">XVII. DE DIVISIONE LINGUARUM</hi>
+<lb/>
+<lb/>[...] Iudei tamen, Thartari et Sarraceni iudicant nos pessimos ydolatras, et 
+    non solum gentiles, sed etiam Christiani quidam. Nam licet illi Christiani 
+    venerentur picturas, abhominantur tamen larvas horrendas et facies sculpturarum, 
+    sicut sunt in multis ecclesiis. Patet in sepulchro 
+    <persName key="Adalbertus Pragensis" ref="http://viaf.org/viaf/262489815">sancti Adalberti</persName> in
+    <placeName key="Praga" ref="https://pleiades.stoa.org/places/118913">Praga</placeName>.
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XVIII. DE UXORE NYNI</hi>
+<lb/>
+<lb/>Uxor Nyni Semiramis, gloria feminarum, occisum audiens virum, filio 
+    suo impuberi timens dare imperium, abscondit eum secretissime nutriendum. 
+    Et ipsa invenit sibi vestes thartarico modo formatas, ante pectus replicatas, 
+    ne mamille apparerent, longas manicas, ne mulieris manus viderentur, longas 
+    vestes ad cooperiendum pedes, bracas quando equum ascendebat, et precepit 
+    nomine filii, quod omnes tali veste uterentur, et finxit se filium Nyni 
+    et capud cooperuit et statim precepit parari arma et aggressa est 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndiam</placeName> 
+    et vicit eam et, non contenta elaborato imperio a marito, 
+    <placeName key="Babylon" ref="https://pleiades.stoa.org/places/893951">Babilonem</placeName> 
+    cinxit muro. Nunquam satiata humana occisione, nec concubitu viri, filiam 
+    quendam occulte dicitur genuisse in 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndia</placeName>, 
+    quam adultam fecit reginam optime insule mundi 
+    <placeName key="Saba" ref="https://www.geonames.org/1642673/">Saba</placeName> 
+    nomine, in qua semper mulieres ibidem communiter regnum super homines habuerunt, 
+    et vidi depictas hystorias in palatio eius, in throno scilicet sedentes 
+    mulieres, viros flexis genibus eas adorantes; nam sicut vidi ibidem oculis, 
+    mulieres in curribus sedent, in cathedris, mariti ducunt boves, vel 
+    elephantes [...].
+<lb/>    
+<lb/><hi rend="italic">XIX. TERTIA ETAS. DE NATIVITATE ABRAHE</hi>
+<lb/>
+<lb/>[...] Cui Abrahe tres angeli apparuerunt, quorum duo subverterunt, 
+    ipso vidente, Sodomam et Gomorram et tres alias civitates, igne et sulphure 
+    misso de celo, ubi nunc est <geogName key="Mare Mortuum" 
+        ref="https://pleiades.stoa.org/places/697709">mare Mortuum</geogName>, quod
+    potest videri de dormitorio Minorum de <geogName key="Mons Syon" 
+        ref="https://www.geonames.org/8354430/">monte Syon</geogName> [...].
+<lb/>
+<pb n="96" type="page"/>
+<lb/><hi rend="italic">XX. DE REGNO ARGIVORUM</hi>
+<lb/> 
+<lb/>[...] Utrum autem noviter conversis 
+vel convertendis, si nollent se ad hanc legem obligare sponte, 
+sed tantum ad illud apostoli, «unusquisque prout destinavit in 
+corde suo non ex tristitia neque ex necessitate, ylarem enim datorem 
+diligit Deus», dum autem per alium modum providetur 
+ecclesie et ministris eius posset lex talis imponi, quod non 
+fecerant apostoli, nec patres sequentes longo tempore. Maxime 
+cum multi Thartari et alie nationes, ut experti sumus in civitate 
+que dicitur <placeName key="Kamul" 
+    ref="https://www.geonames.org/1529484/">Kamul</placeName>, 
+    ubi primo conversi nolebant baptizari, donec 
+iuravimus nichil temporale post baptismum extorquere ab eis, 
+ymo de nostro indigentibus providere, quod et fecimus; sic 
+multitudo civitatis utriusque sexus baptismum libentissime receperunt.
+Dubium est tamen, salvo meliori Ecclesie iudicio, non cogerem eos. 
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XXI. INCIPIT PROLOGUS SEU PREFATIO 
+    <persName key="Iohannes de Marignollis O.F.M." 
+        ref="https://viaf.org/viaf/90635332">FRATRIS 
+        IOHANNIS DE FLORENTIA</persName> EPISCOPI BYSYNIANENSIS</hi>
+<lb/> 
+<lb/>2. [...] Accipe ergo, clementissime imperator et Cesar semper auguste, 
+manipulum virorum illustrium, quem de silva tante densitatis 
+excerpere valui, manu quodammodo tremulenta, ut sit gloria 
+capiti tuo et torques collo tuo. Nec a misterio vacare videtur quod ille, 
+qui flores heliseos ad litteram circa fontes et flumina paradisi et omnium 
+mundi principalium soliorum tam fidelium quam Thartarorum, et omnium mundi 
+principum contemplatus est paradisos, tandem ad paradisum paradisorum 
+terrestrium enatavi, ubi finis sit operum ineptorum et rudium mei imbecillis 
+ingenii, ut reliquam memoriam, que sit ad gloriam Dei et ad laudem tue altissime 
+maiestatis.
+<lb/>
+<lb/>[...]
+<lb/> 
+<lb/><hi rend="italic">XXII. DE SAMUELE ETC.</hi>
+<lb/> 
+<lb/>1. [...] Ibi dicitur [<hi rend="italic">In libro Iosue</hi>] 
+    quod cultris lapideis facta est a Iosue 
+circumcisio. Prudentiores tamen Iudeorum, cum quibus de ista 
+materia contuli, qui sunt amici mei, sicut Iudeus Christiano 
+potest esse amicus, dixerunt michi asserendo, quod nunquam 
+de communi lege potuit fieri, nisi cum acutissimo rasorio et de 
+ferro vel de alio <pb n="98" type="page"/>nobiliori 
+    metallo sicut est es vel aurum, et concordant 
+cum dicto <persName key="Aristoteles" 
+    ref="http://viaf.org/viaf/7524651">Aristotelis</persName> 
+    in libro <hi rend="italic">Probleumatum</hi>, qui expresse 
+probat, quod incisiones facte cum ere vel aureo cultello citius 
+sanantur, quam ille que fiunt cum ferreo instrumento. Et ita 
+utuntur medici de <placeName key="Cathay" 
+    ref="https://en.wikipedia.org/wiki/Cathay">Cathay</placeName>, ut ego vidi. 
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XXIII. DE YOYADA PONTIFICE</hi>
+<lb/> 
+<lb/>1. Quo tempore Deus misertus populo suo, fecit apparere 
+Heliam qui, ubi fuerit conservatus a Deo, nescitur. Si verum 
+est quod fingunt Hebrei, quod iste idem fuerit Finees, filius Eleazari, 
+ut recitat <persName key="Hieronymus Stridonius" 
+    ref="https://viaf.org/en/viaf/95147024">Ieronimus</persName> 
+    super primum <hi rend="italic">Paralipominon</hi>, vigesimo primo 
+    capitulo, dicunt tamen Hebrei et Sabei, id est homines de 
+    <placeName key="Saba" ref="https://www.geonames.org/1642673/">regno 
+regine Saba</placeName>, quod manserat in altissimo monte illius terre, 
+qui <geogName key="Mons Gybeit" 
+    ref="https://www.geonames.org/1627837/">mons Gybeit</geogName> 
+    dicitur, quod sonat mons beatus, in quo monte 
+orabant Magi, sicut dicunt, in nativitate Christi nocte quando 
+viderunt stellam, et est inaccessibilis quodammodo. Nam a medio 
+monte et supra aer dicitur ita subtilis et purus, quod nisi cum 
+spongia plena aqua super os vix aliquis ascendere possit 
+vel pauci. Helias tamen, ut dicunt, ibi mansit voluntate Dei absconsus 
+usque ad tempora illa. Dicunt etiam illi de <placeName key="Saba" 
+    ref="https://www.geonames.org/1642673/">Saba</placeName> quod 
+ibi nunc etiam aliquando apparet; et est ibi fons unde dicunt 
+eum bibisse in pede montis. Et ego bibi de fonte illo, non tamen 
+potui ascendere montem illum beatum, gravatus infirmitate 
+propter fortissimum venenum, quod biberam in <placeName key="Columbum" 
+    ref="https://www.geonames.org/1259091/">Columbo</placeName>, michi 
+propinatum ab hiis qui volebant rapere que habebam, quamvis 
+proicerem frustratim spolia, carnes omnium intestinorum cum 
+infinito sanguine, et passus fuerim tertie speciei incurabilem 
+dissenteriam mensibus quasi undecim, de qua forte nullus dicitur 
+alius evasisse. Deus tamen misertus est mei, ut referrem que 
+videram, et auxilio cuiusdam medice illius regine evasi, que 
+cum sucis herbarum tantum et abstinentia me curavit. 
+<lb/>2. Reginam etiam illam frequenter vidi et solempniter benedixi 
+et super eius elefantem equitavi et in eius convivio glorioso 
+fui. Et ipsa me in conspectu totius civitatis, in solio residentem 
+honoravit donis magnificis: nam cingulum aureum, sicut ipsa
+donabat principibus institutis, michi donavit; quem latrones 
+michi acceperunt in <placeName key="Seyllanum" 
+    ref="https://www.geonames.org/1227604/">Seyllano</placeName>. 
+    Donavit etiam michi vestes, 
+pecias integras, preciosas, subtiles, centum quinquaginta, de quibus 
+novem recepi pro domino <persName key="Benedictus XII" 
+    ref="http://viaf.org/viaf/36914465">Papa</persName>, 
+    quinque pro me, sociis principalibus 
+dedi tres pro quolibet, minoribus duas et omnes alias 
+in eius conspectu, distribui inmediate 
+astantibus <pb n="90" type="page"/>servitoribus 
+eius, ne essem avarus; quod fuit summe commendatum et magnificum 
+reportatum. Hoc incidens non displiceat [...].
+<lb/> 
+<lb/>[...]
+<lb/> 
+<lb/><hi rend="italic">XXIV. INCIPIT HYSTORIA NOVI TESTAMENTI, DE SACERDOTIO 
+SPIRITUALI ET PRIMO PONTIFICE CHRISTIANORUM IHESU CHRISTO</hi>
+<lb/> 
+<lb/>1. [...] Omnes enim philosophi et astrologi Babilonii et Egyptii 
+et Caldei pronunctiarunt, in coniunctione Mercurii et Saturni, 
+puellam nascituram virginem, filium absque viri coitu parituram, 
+in terra <placeName key="Israel" 
+    ref="https://www.geonames.org/294640/">Israel</placeName>, 
+    cuius ymago in templo de <placeName key="Campsay" 
+        ref="https://www.geonames.org/1808926/">Campsay</placeName> solempnissime 
+custoditur, et prima luna mensis primi, scilicet februarii, 
+qui primus est apud Cathayos, festum istud cum candelis per 
+totam noctem solempnissime celebratur anni novi [...]. 
+<lb/> 
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XXV. DE BAPTISMO CHRISTI</hi> 
+<lb/>
+<lb/>Postquam autem Iohannes baptizabat et Ihesus esset incipiens 
+    annorum triginta, in <geogName key="Iordanes" 
+        ref="https://pleiades.stoa.org/places/687932">Iordane</geogName> 
+    voluit baptizari, et ascendit in 
+    montem illum altissimum, et intravit speluncam, in qua fui, 
+    et ieiunavit quadraginta diebus et noctibus [...]. Cenam illam gloriosam 
+    in <geogName key="Mons Syon" ref="https://www.geonames.org/8354430/">monte 
+        Syon</geogName>, ubi nunc est locus Minorum, fecit, lavit pedes, sacramentum 
+    corporis et sanguinis ibidem celebravit [...].
+<lb/>
+<lb/>[...]
+<lb/>
+<lb/><hi rend="italic">XXVI. DE MISSIONE SPIRITUS SANCTI</hi>
+<lb/>
+<lb/>[1.] [...] Post illam missam nulla alia celebrata est, nisi 
+    post Penthecostes, ut habetur in quodam libro qui nondum pervenit 
+    ad Latinos, quo utuntur Orientales, et vocant ipsum 
+    <hi rend="italic">Lucaray</hi>, quasi alia vel secunda pars libri Luce, 
+    id est <hi rend="italic">Actus Apostolorum</hi>, in quo scribitur sic: 
+    quod feria quarta post Penthecostes plurimis baptizatis, suadente virgine 
+    gloriosa, congregatis apostolis, suadebat quod missam sicut filius 
+    mandaverat, celebraret [...].
+<pb n="92" type="page"/>
+<lb/>[2.] Utrum autem in azimo vel fermentato questio est, que modo dimittatur. 
+    Dicitur tamen a patriarcha sancti Thome, ut habetur in eorum traditionibus 
+    satis apparenter et pulchre, quod Christus in cena confecit in azimo [...].
+<lb/>
+<lb/><hi rend="italic">XXVII. DE APOSTOLIS ALIIS</hi>
+<lb/>
+    <lb/>[...] Thomas de <placeName key="Ierusalem" 
+        ref="https://pleiades.stoa.org/places/687928">Iherusalem</placeName> 
+    de Iuda Parthos, Medos et Yndos convertit, in 
+    <placeName key="Mirapolis" 
+        ref="https://www.geonames.org/1262327/">Mirapoli</placeName> 
+    <placeName key="India" ref="https://pleiades.stoa.org/places/50004">Yndie</placeName> 
+    superioris occiditur. Ibi adhuc sanguis eius cernitur [...].
+</ab>
+    
+</body>
+    
+</text>
+        
+</TEI>
