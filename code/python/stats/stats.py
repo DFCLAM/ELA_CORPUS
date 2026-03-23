@@ -1,4 +1,4 @@
-import argparse
+import argparse, re
 from pathlib import Path
 from xml.etree import ElementTree
 from saxonche import PySaxonProcessor
@@ -32,7 +32,9 @@ for dir in file_list_generator:
         if file.suffix == '.xml': # TODO implement a configurable file filter instead
             document = processor.parse_xml(xml_file_name = str(file))
             text = executable.transform_to_string(xdm_node = document)
-            tokens = text.strip().split()
+            # with Path(str(file) + ".txt").open('w') as fpo:
+            #     fpo.write(text)
+            tokens = re.split(r'\W+', text)
             words = len(tokens)
             characters_without_spaces = 0
             for token in tokens:
